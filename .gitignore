@@ -1,3 +1,4 @@
 # Don't tracked log files
 server.log
 server.log*
+*.log
