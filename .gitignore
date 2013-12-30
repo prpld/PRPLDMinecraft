@@ -2,3 +2,6 @@
 server.log
 server.log*
 *.log
+/downloads
+/plugins/*.log*
+
