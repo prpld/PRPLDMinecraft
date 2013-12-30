@@ -1,3 +1,5 @@
-#List of operators. The players listed below have the necessary persmissions to create elements within Minecraft.
 bravenewworld78
 sigurre
+prpld02
+roboashy
+killerbean0
