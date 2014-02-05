@@ -24,40 +24,28 @@
 users:
   ConspiracyWizard:
     permissions:
-      permissions.example: true
     groups:
     - admin
   sigurre:
     groups:
-    - default
+    - admin
     permissions:
-      permissions.build=true: true
-      permissions.build: true
   bravenewworld78:
     groups:
-    - default
+    - admin
     permissions:
-      permissions.build=true: true
-      permissions.build: true
   killerbean0:
     groups:
-    - default
+    - admin
     permissions:
-      permissions.build: true
   roboashy:
     groups:
-    - default
+    - admin
     permissions:
-      permissions.build: true
-  prpld02:
-    groups:
-    - default
-    permissions:
-      permissions.build: true
 groups:
   default:
     permissions:
-      permissions.build: false
+      permissions.build: true
   admin:
     permissions:
       permissions.*: true
