@@ -38,21 +38,17 @@ users:
     groups:
     - admin
     permissions:
-  roboashy:
-    groups:
-    - admin
-    permissions:
 groups:
   default:
     permissions:
       permissions.build: true
-	  essentials.afk: true
-	  essentials.compass: true
-	  essentials.depth: true
-	  essentials.getpos: true
-	  essentials.help.*: true
-	  essentials.helpop: true
-	  essentials.list: true
+      essentials.afk: true
+      essentials.compass: true
+      essentials.depth: true
+      essentials.getpos: true
+      essentials.help.*: true
+      essentials.helpop: true
+      essentials.list: true
   admin:
     permissions:
       permissions.*: true
