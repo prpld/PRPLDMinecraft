@@ -21,51 +21,36 @@
 # groups. Like user permissions, groups may override the permissions of their
 # parent group(s). Unlike users, groups do NOT automatically inherit from
 # default. World permissions may be assigned to groups with a 'worlds:' entry.
+#
+# The cannot-build message is configurable. If it is left blank, no message
+# will be displayed to the player if PermissionsBukkit prevents them from
+# building, digging, or interacting with a block. Use '&' characters to
+# signify color codes.
+
 users:
-  ConspiracyWizard:
-    permissions:
-    groups:
-    - admin
-  sigurre:
-    groups:
-    - admin
-    permissions:
-  bravenewworld78:
-    groups:
-    - admin
-    permissions:
-  killerbean0:
-    groups:
-    - admin
-    permissions:
-  roboashy:
-    groups:
-    - admin
-    permissions:
+    ConspiracyWizard:
+        permissions:
+            permissions.example: true
+        groups:
+        - admin
 groups:
-  default:
-    permissions:
-      permissions.build: true
-	  essentials.afk: true
-	  essentials.compass: true
-	  essentials.depth: true
-	  essentials.getpos: true
-	  essentials.help.*: true
-	  essentials.helpop: true
-	  essentials.list: true
-  admin:
-    permissions:
-      permissions.*: true
-    inheritance:
-    - user
-  user:
-    permissions:
-      permissions.build: true
-    worlds:
-      creative:
-        coolplugin.item: true
-    inheritance:
-    - default
+    default:
+        permissions:
+            permissions.build: false
+    admin:
+        permissions:
+            permissions.*: true
+        inheritance:
+        - user
+    user:
+        permissions:
+            permissions.build: true
+        worlds:
+            creative:
+                coolplugin.item: true
+        inheritance:
+        - default
 messages:
-  build: '&cYou do not have permission to build here.'
+    build: '&cYou do not have permission to build here.'
+
 debug: false

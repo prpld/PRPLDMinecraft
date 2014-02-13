@@ -12088,3 +12088,898 @@ java.lang.NullPointerException
 2014-02-09 15:21:37 [INFO] Unknown command. Type "help" for help.[m
 2014-02-09 15:21:45 [INFO] [0;35;1m[Server[0;35;1m] server is shutting down![m
 2014-02-09 15:21:55 [INFO] [0;35;1m[Server[0;35;1m] Time to wrap up![m
+2014-02-10 20:03:30 [INFO] Starting minecraft server version 1.6.4
+2014-02-10 20:03:30 [INFO] Loading properties
+2014-02-10 20:03:30 [INFO] Default game type: SURVIVAL
+2014-02-10 20:03:30 [INFO] Generating keypair
+2014-02-10 20:03:31 [INFO] Starting Minecraft server on *:25565
+2014-02-10 20:03:32 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-02-10 20:03:32 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-02-10 20:03:32 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2014-02-10 20:03:32 [INFO] [Essentials] Loading Essentials v2.12.1
+2014-02-10 20:03:32 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v2.0
+2014-02-10 20:03:32 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.1
+2014-02-10 20:03:32 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.1
+2014-02-10 20:03:32 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-02-10 20:03:32 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-02-10 20:03:32 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-02-10 20:03:32 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-02-10 20:03:32 [INFO] Preparing level "world"
+2014-02-10 20:03:32 [INFO] Preparing start region for level 0 (Seed: -3459743345182500462)
+2014-02-10 20:03:33 [INFO] Preparing spawn area: 69%
+2014-02-10 20:03:33 [INFO] Preparing start region for level 1 (Seed: -3459743345182500462)
+2014-02-10 20:03:34 [INFO] Preparing start region for level 2 (Seed: -3459743345182500462)
+2014-02-10 20:03:34 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-02-10 20:03:34 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-02-10 20:03:34 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2014-02-10 20:03:34 [INFO] GriefPrevention: Grief Prevention enabled.
+2014-02-10 20:03:34 [INFO] GriefPrevention: 0 total claims loaded.
+2014-02-10 20:03:34 [INFO] GriefPrevention: 0 players have staked claims.
+2014-02-10 20:03:35 [INFO] [Essentials] Enabling Essentials v2.12.1
+2014-02-10 20:03:35 [INFO] Bukkit version format changed. Version not checked.
+2014-02-10 20:03:35 [INFO] git-Bukkit-1.6.4-R1.0 (MC: 1.6.4)
+2014-02-10 20:03:35 [INFO] 1.6.4-R1.0
+2014-02-10 20:03:36 [INFO] Essentials: Using config file enhanced permissions.
+2014-02-10 20:03:36 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-02-10 20:03:36 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v2.0
+2014-02-10 20:03:36 [SEVERE] [PermissionsBukkit] Failed to load configuration
+org.bukkit.configuration.InvalidConfigurationException: while scanning for the next token
+found character 	'\t' that cannot start any token
+ in "<string>", line 49, column 1:
+    	  essentials.afk: true
+    ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55)
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:138)
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:105)
+	at com.platymuus.bukkit.permissions.PermissionsPlugin.reloadConfig(PermissionsPlugin.java:78)
+	at com.platymuus.bukkit.permissions.PermissionsPlugin.onEnable(PermissionsPlugin.java:39)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.loadPlugin(CraftServer.java:284)
+	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.enablePlugins(CraftServer.java:266)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.l(MinecraftServer.java:315)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.f(MinecraftServer.java:292)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.a(MinecraftServer.java:252)
+	at net.minecraft.server.v1_6_R3.DedicatedServer.init(DedicatedServer.java:152)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:393)
+	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+Caused by: while scanning for the next token
+found character 	'\t' that cannot start any token
+ in "<string>", line 49, column 1:
+    	  essentials.afk: true
+    ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:358)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:179)
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:563)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:146)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:123)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:106)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:121)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:480)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:399)
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:53)
+	... 15 more
+2014-02-10 20:03:36 [INFO] [PermissionsBukkit] Enabled successfully
+2014-02-10 20:03:36 [INFO] Essentials: Using PermissionsBukkit based permissions.
+2014-02-10 20:03:36 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.1
+2014-02-10 20:03:36 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.1
+2014-02-10 20:03:36 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-02-10 20:03:36 [INFO] Done (4.351s)! For help, type "help" or "?"
+2014-02-10 20:04:12 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: UnknownHostException
+2014-02-10 20:04:12 [WARNING] Could not get latest artifact information: UnknownHostException
+2014-02-10 20:04:17 [INFO] [Metrics] mcstats.org
+2014-02-10 20:07:07 [INFO] Starting minecraft server version 1.6.4
+2014-02-10 20:07:07 [INFO] Loading properties
+2014-02-10 20:07:07 [INFO] Default game type: SURVIVAL
+2014-02-10 20:07:07 [INFO] Generating keypair
+2014-02-10 20:07:07 [INFO] Starting Minecraft server on *:25565
+2014-02-10 20:07:07 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-02-10 20:07:08 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-02-10 20:07:08 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2014-02-10 20:07:08 [INFO] [Essentials] Loading Essentials v2.12.1
+2014-02-10 20:07:08 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v2.0
+2014-02-10 20:07:08 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.1
+2014-02-10 20:07:08 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.1
+2014-02-10 20:07:08 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-02-10 20:07:08 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-02-10 20:07:08 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-02-10 20:07:08 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-02-10 20:07:08 [INFO] Preparing level "world"
+2014-02-10 20:07:08 [INFO] Preparing start region for level 0 (Seed: -3459743345182500462)
+2014-02-10 20:07:09 [INFO] Preparing spawn area: 73%
+2014-02-10 20:07:09 [INFO] Preparing start region for level 1 (Seed: -3459743345182500462)
+2014-02-10 20:07:10 [INFO] Preparing start region for level 2 (Seed: -3459743345182500462)
+2014-02-10 20:07:10 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-02-10 20:07:10 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-02-10 20:07:10 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2014-02-10 20:07:10 [INFO] GriefPrevention: Grief Prevention enabled.
+2014-02-10 20:07:10 [INFO] GriefPrevention: 0 total claims loaded.
+2014-02-10 20:07:10 [INFO] GriefPrevention: 0 players have staked claims.
+2014-02-10 20:07:11 [INFO] [Essentials] Enabling Essentials v2.12.1
+2014-02-10 20:07:11 [INFO] Bukkit version format changed. Version not checked.
+2014-02-10 20:07:11 [INFO] git-Bukkit-1.6.4-R1.0 (MC: 1.6.4)
+2014-02-10 20:07:11 [INFO] 1.6.4-R1.0
+2014-02-10 20:07:12 [INFO] Essentials: Using config file enhanced permissions.
+2014-02-10 20:07:12 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-02-10 20:07:12 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v2.0
+2014-02-10 20:07:12 [SEVERE] [PermissionsBukkit] Failed to load configuration
+org.bukkit.configuration.InvalidConfigurationException: while scanning for the next token
+found character 	'\t' that cannot start any token
+ in "<string>", line 49, column 1:
+    	  essentials.afk: true
+    ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55)
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:138)
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:105)
+	at com.platymuus.bukkit.permissions.PermissionsPlugin.reloadConfig(PermissionsPlugin.java:78)
+	at com.platymuus.bukkit.permissions.PermissionsPlugin.onEnable(PermissionsPlugin.java:39)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.loadPlugin(CraftServer.java:284)
+	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.enablePlugins(CraftServer.java:266)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.l(MinecraftServer.java:315)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.f(MinecraftServer.java:292)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.a(MinecraftServer.java:252)
+	at net.minecraft.server.v1_6_R3.DedicatedServer.init(DedicatedServer.java:152)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:393)
+	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+Caused by: while scanning for the next token
+found character 	'\t' that cannot start any token
+ in "<string>", line 49, column 1:
+    	  essentials.afk: true
+    ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:358)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:179)
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:563)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:146)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:123)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:106)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:121)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:480)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:399)
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:53)
+	... 15 more
+2014-02-10 20:07:12 [INFO] [PermissionsBukkit] Enabled successfully
+2014-02-10 20:07:12 [INFO] Essentials: Using PermissionsBukkit based permissions.
+2014-02-10 20:07:12 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.1
+2014-02-10 20:07:12 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.1
+2014-02-10 20:07:12 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-02-10 20:07:12 [INFO] Done (4.465s)! For help, type "help" or "?"
+2014-02-10 20:07:47 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: UnknownHostException
+2014-02-10 20:07:47 [WARNING] Could not get latest artifact information: UnknownHostException
+2014-02-10 20:07:52 [INFO] [Metrics] mcstats.org
+2014-02-10 20:17:53 [INFO] [Metrics] mcstats.org
+2014-02-10 20:27:53 [INFO] [Metrics] mcstats.org
+2014-02-10 20:37:53 [INFO] [Metrics] mcstats.org
+2014-02-10 20:47:53 [INFO] [Metrics] mcstats.org
+2014-02-10 20:57:52 [INFO] [Metrics] mcstats.org
+2014-02-10 21:07:52 [INFO] [Metrics] mcstats.org
+2014-02-10 21:17:52 [INFO] [Metrics] mcstats.org
+2014-02-10 21:27:52 [INFO] [Metrics] mcstats.org
+2014-02-10 21:37:52 [INFO] [Metrics] mcstats.org
+2014-02-10 21:47:52 [INFO] [Metrics] mcstats.org
+2014-02-10 21:57:52 [INFO] [Metrics] mcstats.org
+2014-02-10 22:07:52 [INFO] [Metrics] mcstats.org
+2014-02-10 22:17:52 [INFO] [Metrics] mcstats.org
+2014-02-10 22:27:52 [INFO] [Metrics] mcstats.org
+2014-02-10 22:37:52 [INFO] [Metrics] mcstats.org
+2014-02-10 22:47:52 [INFO] [Metrics] mcstats.org
+2014-02-10 22:57:52 [INFO] [Metrics] mcstats.org
+2014-02-10 23:07:52 [INFO] [Metrics] mcstats.org
+2014-02-10 23:17:52 [INFO] [Metrics] mcstats.org
+2014-02-10 23:27:52 [INFO] [Metrics] mcstats.org
+2014-02-10 23:37:52 [INFO] [Metrics] mcstats.org
+2014-02-10 23:47:52 [INFO] [Metrics] mcstats.org
+2014-02-10 23:57:52 [INFO] [Metrics] mcstats.org
+2014-02-11 00:07:52 [INFO] [Metrics] mcstats.org
+2014-02-11 00:17:52 [INFO] [Metrics] mcstats.org
+2014-02-11 00:27:52 [INFO] [Metrics] mcstats.org
+2014-02-11 00:37:52 [INFO] [Metrics] mcstats.org
+2014-02-11 00:47:52 [INFO] [Metrics] mcstats.org
+2014-02-11 00:57:52 [INFO] [Metrics] mcstats.org
+2014-02-11 01:07:52 [INFO] [Metrics] mcstats.org
+2014-02-11 01:17:52 [INFO] [Metrics] mcstats.org
+2014-02-11 01:27:52 [INFO] [Metrics] mcstats.org
+2014-02-11 01:37:52 [INFO] [Metrics] mcstats.org
+2014-02-11 01:47:52 [INFO] [Metrics] mcstats.org
+2014-02-11 01:57:52 [INFO] [Metrics] mcstats.org
+2014-02-11 02:07:52 [INFO] [Metrics] mcstats.org
+2014-02-11 02:17:52 [INFO] [Metrics] mcstats.org
+2014-02-11 02:27:52 [INFO] [Metrics] mcstats.org
+2014-02-11 02:37:52 [INFO] [Metrics] mcstats.org
+2014-02-11 02:47:52 [INFO] [Metrics] mcstats.org
+2014-02-11 02:57:52 [INFO] [Metrics] mcstats.org
+2014-02-11 03:07:52 [INFO] [Metrics] mcstats.org
+2014-02-11 03:17:52 [INFO] [Metrics] mcstats.org
+2014-02-11 03:27:52 [INFO] [Metrics] mcstats.org
+2014-02-11 03:37:52 [INFO] [Metrics] mcstats.org
+2014-02-11 03:47:52 [INFO] [Metrics] mcstats.org
+2014-02-11 03:57:52 [INFO] [Metrics] mcstats.org
+2014-02-11 04:07:52 [INFO] [Metrics] mcstats.org
+2014-02-11 04:17:52 [INFO] [Metrics] mcstats.org
+2014-02-11 04:27:52 [INFO] [Metrics] mcstats.org
+2014-02-11 04:37:52 [INFO] [Metrics] mcstats.org
+2014-02-11 04:47:52 [INFO] [Metrics] mcstats.org
+2014-02-11 04:57:52 [INFO] [Metrics] mcstats.org
+2014-02-11 05:07:52 [INFO] [Metrics] mcstats.org
+2014-02-11 05:17:52 [INFO] [Metrics] mcstats.org
+2014-02-11 05:27:52 [INFO] [Metrics] mcstats.org
+2014-02-11 05:37:52 [INFO] [Metrics] mcstats.org
+2014-02-11 05:47:52 [INFO] [Metrics] mcstats.org
+2014-02-11 05:57:52 [INFO] [Metrics] mcstats.org
+2014-02-11 06:07:52 [INFO] [Metrics] mcstats.org
+2014-02-11 06:17:52 [INFO] [Metrics] mcstats.org
+2014-02-11 06:27:52 [INFO] [Metrics] mcstats.org
+2014-02-11 06:37:52 [INFO] [Metrics] mcstats.org
+2014-02-11 06:47:52 [INFO] [Metrics] mcstats.org
+2014-02-11 06:57:52 [INFO] [Metrics] mcstats.org
+2014-02-11 07:07:52 [INFO] [Metrics] mcstats.org
+2014-02-11 07:17:52 [INFO] [Metrics] mcstats.org
+2014-02-11 07:27:52 [INFO] [Metrics] mcstats.org
+2014-02-11 07:37:52 [INFO] [Metrics] mcstats.org
+2014-02-11 07:47:52 [INFO] [Metrics] mcstats.org
+2014-02-11 07:57:52 [INFO] [Metrics] mcstats.org
+2014-02-11 08:07:52 [INFO] [Metrics] mcstats.org
+2014-02-11 08:17:52 [INFO] [Metrics] mcstats.org
+2014-02-11 08:27:52 [INFO] [Metrics] mcstats.org
+2014-02-11 08:37:52 [INFO] [Metrics] mcstats.org
+2014-02-11 08:47:52 [INFO] [Metrics] mcstats.org
+2014-02-11 08:57:52 [INFO] [Metrics] mcstats.org
+2014-02-11 09:07:52 [INFO] [Metrics] mcstats.org
+2014-02-11 09:17:52 [INFO] [Metrics] mcstats.org
+2014-02-11 09:27:52 [INFO] [Metrics] mcstats.org
+2014-02-11 09:37:52 [INFO] [Metrics] mcstats.org
+2014-02-11 09:47:52 [INFO] [Metrics] mcstats.org
+2014-02-11 09:57:52 [INFO] [Metrics] mcstats.org
+2014-02-11 10:07:52 [INFO] [Metrics] mcstats.org
+2014-02-11 10:17:52 [INFO] [Metrics] mcstats.org
+2014-02-11 10:27:52 [INFO] [Metrics] mcstats.org
+2014-02-11 10:37:52 [INFO] [Metrics] mcstats.org
+2014-02-11 10:47:14 [INFO] Sigurre[/192.168.1.4:60825] logged in with entity id 657 at ([world] 536.5989957522854, 14.778821350867172, 333.5000496730676)
+2014-02-11 10:47:28 [INFO] Sigurre issued server command: /time set 0
+2014-02-11 10:47:39 [INFO] Sigurre issued server command: /spawn
+2014-02-11 10:47:52 [INFO] [Metrics] mcstats.org
+2014-02-11 10:48:03 [INFO] [WorldEdit] Using inbuilt NmsBlock for this version.
+2014-02-11 10:48:22 [INFO] Sigurre issued server command: /help
+2014-02-11 10:48:29 [INFO] Sigurre issued server command: /permissionsbukkit
+2014-02-11 10:48:35 [INFO] Sigurre issued server command: /permissionsbukkit
+2014-02-11 10:48:37 [INFO] Sigurre issued server command: /help
+2014-02-11 10:48:45 [INFO] Sigurre issued server command: /help permissionsbukkit
+2014-02-11 10:48:49 [INFO] Sigurre issued server command: /permissions
+2014-02-11 10:48:58 [INFO] Sigurre issued server command: /permissions group
+2014-02-11 10:49:06 [INFO] Sigurre lost connection: disconnect.quitting
+2014-02-11 10:49:06 [INFO] Connection reset
+2014-02-11 10:49:06 [INFO] §eSigurre left the game.
+2014-02-11 10:57:53 [INFO] [Metrics] mcstats.org
+2014-02-11 11:07:53 [INFO] [Metrics] mcstats.org
+2014-02-11 11:17:52 [INFO] [Metrics] mcstats.org
+2014-02-11 11:27:52 [INFO] [Metrics] mcstats.org
+2014-02-11 11:37:52 [INFO] [Metrics] mcstats.org
+2014-02-11 11:47:52 [INFO] [Metrics] mcstats.org
+2014-02-11 11:57:52 [INFO] [Metrics] mcstats.org
+2014-02-11 12:07:52 [INFO] [Metrics] mcstats.org
+2014-02-11 12:17:52 [INFO] [Metrics] mcstats.org
+2014-02-11 12:27:52 [INFO] [Metrics] mcstats.org
+2014-02-11 12:37:53 [INFO] [Metrics] mcstats.org
+2014-02-11 12:47:53 [INFO] [Metrics] mcstats.org
+2014-02-11 12:57:52 [INFO] [Metrics] mcstats.org
+2014-02-11 13:07:52 [INFO] [Metrics] mcstats.org
+2014-02-11 13:17:53 [INFO] [Metrics] mcstats.org
+2014-02-11 13:21:55 [INFO] Disconnecting roboashy [/192.168.1.8:49158]: You are not white-listed on this server!
+2014-02-11 13:25:38 [INFO] PRPLD01 [/192.168.1.8:49203] lost connection
+2014-02-11 13:26:09 [INFO] Disconnecting PRPLD01 [/192.168.1.8:49223]: You are not white-listed on this server!
+2014-02-11 13:26:52 [INFO] Sigurre[/192.168.1.4:60831] logged in with entity id 2938 at ([world] -55.86586424243035, 81.0, 229.68447538794172)
+2014-02-11 13:27:08 [INFO] Sigurre issued server command: /whitelist PRPLD001
+2014-02-11 13:27:21 [INFO] Sigurre issued server command: /whitelist add PRPLD001
+2014-02-11 13:27:21 [INFO] Sigurre: Added PRPLD001 to white-list[m
+2014-02-11 13:27:26 [INFO] Disconnecting PRPLD01 [/192.168.1.8:49225]: You are not white-listed on this server!
+2014-02-11 13:27:46 [INFO] Disconnecting PRPLD01 [/192.168.1.8:49236]: You are not white-listed on this server!
+2014-02-11 13:27:53 [INFO] [Metrics] mcstats.org
+2014-02-11 13:28:00 [INFO] Sigurre issued server command: /whitelist add PRPLD01
+2014-02-11 13:28:01 [INFO] Sigurre: Added PRPLD01 to white-list[m
+2014-02-11 13:28:04 [INFO] PRPLD01[/192.168.1.8:49238] logged in with entity id 3605 at ([world] -18.5, 74.0, 218.5)
+2014-02-11 13:28:04 [INFO] Creating empty config: /home/vzuniga/CraftBukkit/plugins/Essentials/userdata/prpld01.yml
+2014-02-11 13:29:00 [INFO] PRPLD01 issued server command: /essentials
+2014-02-11 13:29:01 [INFO] §cPRPLD01 §4was denied access to command.
+2014-02-11 13:29:05 [INFO] PRPLD01 issued server command: /help essentials
+2014-02-11 13:29:05 [INFO] §cPRPLD01 §4was denied access to command.
+2014-02-11 13:29:09 [INFO] PRPLD01 issued server command: /afk
+2014-02-11 13:29:09 [INFO] §cPRPLD01 §4was denied access to command.
+2014-02-11 13:29:13 [INFO] PRPLD01 issued server command: /help
+2014-02-11 13:29:13 [INFO] §cPRPLD01 §4was denied access to command.
+2014-02-11 13:29:23 [INFO] Sigurre issued server command: /permissions
+2014-02-11 13:29:31 [INFO] Sigurre issued server command: /permissions group
+2014-02-11 13:29:38 [INFO] Sigurre issued server command: /permissions group list
+2014-02-11 13:29:38 [SEVERE] null
+org.bukkit.command.CommandException: Unhandled exception executing command 'permissions' in plugin PermissionsBukkit v2.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:192)
+	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.dispatchCommand(CraftServer.java:528)
+	at net.minecraft.server.v1_6_R3.PlayerConnection.handleCommand(PlayerConnection.java:968)
+	at net.minecraft.server.v1_6_R3.PlayerConnection.chat(PlayerConnection.java:886)
+	at net.minecraft.server.v1_6_R3.PlayerConnection.a(PlayerConnection.java:837)
+	at net.minecraft.server.v1_6_R3.Packet3Chat.handle(SourceFile:49)
+	at net.minecraft.server.v1_6_R3.NetworkManager.b(NetworkManager.java:296)
+	at net.minecraft.server.v1_6_R3.PlayerConnection.e(PlayerConnection.java:116)
+	at net.minecraft.server.v1_6_R3.ServerConnection.b(SourceFile:37)
+	at net.minecraft.server.v1_6_R3.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.t(MinecraftServer.java:592)
+	at net.minecraft.server.v1_6_R3.DedicatedServer.t(DedicatedServer.java:227)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.s(MinecraftServer.java:488)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:421)
+	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+Caused by: java.lang.NullPointerException
+	at com.platymuus.bukkit.permissions.PermissionsCommand.groupCommand(PermissionsCommand.java:189)
+	at com.platymuus.bukkit.permissions.PermissionsCommand.onCommand(PermissionsCommand.java:168)
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+	... 15 more
+2014-02-11 13:29:42 [INFO] Sigurre issued server command: /permissions group list
+2014-02-11 13:29:42 [SEVERE] null
+org.bukkit.command.CommandException: Unhandled exception executing command 'permissions' in plugin PermissionsBukkit v2.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:192)
+	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.dispatchCommand(CraftServer.java:528)
+	at net.minecraft.server.v1_6_R3.PlayerConnection.handleCommand(PlayerConnection.java:968)
+	at net.minecraft.server.v1_6_R3.PlayerConnection.chat(PlayerConnection.java:886)
+	at net.minecraft.server.v1_6_R3.PlayerConnection.a(PlayerConnection.java:837)
+	at net.minecraft.server.v1_6_R3.Packet3Chat.handle(SourceFile:49)
+	at net.minecraft.server.v1_6_R3.NetworkManager.b(NetworkManager.java:296)
+	at net.minecraft.server.v1_6_R3.PlayerConnection.e(PlayerConnection.java:116)
+	at net.minecraft.server.v1_6_R3.ServerConnection.b(SourceFile:37)
+	at net.minecraft.server.v1_6_R3.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.t(MinecraftServer.java:592)
+	at net.minecraft.server.v1_6_R3.DedicatedServer.t(DedicatedServer.java:227)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.s(MinecraftServer.java:488)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:421)
+	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+Caused by: java.lang.NullPointerException
+	at com.platymuus.bukkit.permissions.PermissionsCommand.groupCommand(PermissionsCommand.java:189)
+	at com.platymuus.bukkit.permissions.PermissionsCommand.onCommand(PermissionsCommand.java:168)
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+	... 15 more
+2014-02-11 13:29:55 [INFO] Sigurre issued server command: /permissions group players default
+2014-02-11 13:29:58 [INFO] Sigurre lost connection: disconnect.quitting
+2014-02-11 13:29:58 [INFO] Connection reset
+2014-02-11 13:29:59 [INFO] §eSigurre left the game.
+2014-02-11 13:30:04 [INFO] Sigurre[/192.168.1.4:60833] logged in with entity id 5519 at ([world] -55.86586424243035, 81.0, 229.68447538794172)
+2014-02-11 13:30:11 [INFO] Sigurre issued server command: /permissions
+2014-02-11 13:36:12 [INFO] Sigurre issued server command: /permissions group default
+2014-02-11 13:36:20 [INFO] Sigurre issued server command: /gamemode 1
+2014-02-11 13:36:31 [INFO] Sigurre issued server command: /permissions group
+2014-02-11 13:36:41 [INFO] Sigurre issued server command: /permissions group players default
+2014-02-11 13:36:47 [INFO] Sigurre issued server command: /permissions group list
+2014-02-11 13:36:47 [SEVERE] null
+org.bukkit.command.CommandException: Unhandled exception executing command 'permissions' in plugin PermissionsBukkit v2.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:192)
+	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.dispatchCommand(CraftServer.java:528)
+	at net.minecraft.server.v1_6_R3.PlayerConnection.handleCommand(PlayerConnection.java:968)
+	at net.minecraft.server.v1_6_R3.PlayerConnection.chat(PlayerConnection.java:886)
+	at net.minecraft.server.v1_6_R3.PlayerConnection.a(PlayerConnection.java:837)
+	at net.minecraft.server.v1_6_R3.Packet3Chat.handle(SourceFile:49)
+	at net.minecraft.server.v1_6_R3.NetworkManager.b(NetworkManager.java:296)
+	at net.minecraft.server.v1_6_R3.PlayerConnection.e(PlayerConnection.java:116)
+	at net.minecraft.server.v1_6_R3.ServerConnection.b(SourceFile:37)
+	at net.minecraft.server.v1_6_R3.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.t(MinecraftServer.java:592)
+	at net.minecraft.server.v1_6_R3.DedicatedServer.t(DedicatedServer.java:227)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.s(MinecraftServer.java:488)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:421)
+	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+Caused by: java.lang.NullPointerException
+	at com.platymuus.bukkit.permissions.PermissionsCommand.groupCommand(PermissionsCommand.java:189)
+	at com.platymuus.bukkit.permissions.PermissionsCommand.onCommand(PermissionsCommand.java:168)
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+	... 15 more
+2014-02-11 13:36:50 [INFO] Sigurre issued server command: /permissions group list
+2014-02-11 13:36:50 [SEVERE] null
+org.bukkit.command.CommandException: Unhandled exception executing command 'permissions' in plugin PermissionsBukkit v2.0
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:46)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:192)
+	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.dispatchCommand(CraftServer.java:528)
+	at net.minecraft.server.v1_6_R3.PlayerConnection.handleCommand(PlayerConnection.java:968)
+	at net.minecraft.server.v1_6_R3.PlayerConnection.chat(PlayerConnection.java:886)
+	at net.minecraft.server.v1_6_R3.PlayerConnection.a(PlayerConnection.java:837)
+	at net.minecraft.server.v1_6_R3.Packet3Chat.handle(SourceFile:49)
+	at net.minecraft.server.v1_6_R3.NetworkManager.b(NetworkManager.java:296)
+	at net.minecraft.server.v1_6_R3.PlayerConnection.e(PlayerConnection.java:116)
+	at net.minecraft.server.v1_6_R3.ServerConnection.b(SourceFile:37)
+	at net.minecraft.server.v1_6_R3.DedicatedServerConnection.b(SourceFile:30)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.t(MinecraftServer.java:592)
+	at net.minecraft.server.v1_6_R3.DedicatedServer.t(DedicatedServer.java:227)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.s(MinecraftServer.java:488)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:421)
+	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+Caused by: java.lang.NullPointerException
+	at com.platymuus.bukkit.permissions.PermissionsCommand.groupCommand(PermissionsCommand.java:189)
+	at com.platymuus.bukkit.permissions.PermissionsCommand.onCommand(PermissionsCommand.java:168)
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44)
+	... 15 more
+2014-02-11 13:37:04 [INFO] Sigurre lost connection: disconnect.quitting
+2014-02-11 13:37:04 [INFO] Connection reset
+2014-02-11 13:37:04 [INFO] §eSigurre left the game.
+2014-02-11 13:37:10 [INFO] Connection reset
+2014-02-11 13:37:10 [INFO] PRPLD01 lost connection: disconnect.quitting
+2014-02-11 13:37:10 [INFO] §ePRPLD01 left the game.
+2014-02-11 13:37:53 [INFO] [Metrics] mcstats.org
+2014-02-11 13:47:52 [INFO] [Metrics] mcstats.org
+2014-02-11 13:57:52 [INFO] [Metrics] mcstats.org
+2014-02-11 14:07:52 [INFO] [Metrics] mcstats.org
+2014-02-11 14:17:52 [INFO] [Metrics] mcstats.org
+2014-02-11 14:27:52 [INFO] [Metrics] mcstats.org
+2014-02-11 14:37:52 [INFO] [Metrics] mcstats.org
+2014-02-11 14:47:52 [INFO] [Metrics] mcstats.org
+2014-02-11 14:57:52 [INFO] [Metrics] mcstats.org
+2014-02-11 15:07:52 [INFO] [Metrics] mcstats.org
+2014-02-11 15:17:52 [INFO] [Metrics] mcstats.org
+2014-02-11 15:27:52 [INFO] [Metrics] mcstats.org
+2014-02-11 15:37:52 [INFO] [Metrics] mcstats.org
+2014-02-11 15:47:52 [INFO] [Metrics] mcstats.org
+2014-02-11 15:57:52 [INFO] [Metrics] mcstats.org
+2014-02-11 16:07:52 [INFO] [Metrics] mcstats.org
+2014-02-11 16:17:52 [INFO] [Metrics] mcstats.org
+2014-02-11 16:27:52 [INFO] [Metrics] mcstats.org
+2014-02-11 16:37:52 [INFO] [Metrics] mcstats.org
+2014-02-11 16:47:52 [INFO] [Metrics] mcstats.org
+2014-02-11 16:57:52 [INFO] [Metrics] mcstats.org
+2014-02-11 17:07:52 [INFO] [Metrics] mcstats.org
+2014-02-11 17:17:52 [INFO] [Metrics] mcstats.org
+2014-02-11 17:27:52 [INFO] [Metrics] mcstats.org
+2014-02-11 17:37:52 [INFO] [Metrics] mcstats.org
+2014-02-11 17:47:52 [INFO] [Metrics] mcstats.org
+2014-02-11 17:57:52 [INFO] [Metrics] mcstats.org
+2014-02-11 18:07:52 [INFO] [Metrics] mcstats.org
+2014-02-11 18:17:52 [INFO] [Metrics] mcstats.org
+2014-02-11 18:27:52 [INFO] [Metrics] mcstats.org
+2014-02-11 18:37:52 [INFO] [Metrics] mcstats.org
+2014-02-11 18:47:52 [INFO] [Metrics] mcstats.org
+2014-02-11 18:57:52 [INFO] [Metrics] mcstats.org
+2014-02-11 19:07:52 [INFO] [Metrics] mcstats.org
+2014-02-11 19:17:52 [INFO] [Metrics] mcstats.org
+2014-02-11 19:27:52 [INFO] [Metrics] mcstats.org
+2014-02-11 19:37:52 [INFO] [Metrics] mcstats.org
+2014-02-11 19:47:52 [INFO] [Metrics] mcstats.org
+2014-02-11 19:57:52 [INFO] [Metrics] mcstats.org
+2014-02-11 20:07:52 [INFO] [Metrics] mcstats.org
+2014-02-11 20:17:52 [INFO] [Metrics] mcstats.org
+2014-02-11 20:27:52 [INFO] [Metrics] mcstats.org
+2014-02-11 20:37:52 [INFO] [Metrics] mcstats.org
+2014-02-11 20:47:52 [INFO] [Metrics] mcstats.org
+2014-02-11 20:57:52 [INFO] [Metrics] mcstats.org
+2014-02-11 21:07:52 [INFO] [Metrics] mcstats.org
+2014-02-11 21:17:52 [INFO] [Metrics] mcstats.org
+2014-02-11 21:27:52 [INFO] [Metrics] mcstats.org
+2014-02-11 21:37:52 [INFO] [Metrics] mcstats.org
+2014-02-11 21:47:52 [INFO] [Metrics] mcstats.org
+2014-02-11 21:57:52 [INFO] [Metrics] mcstats.org
+2014-02-11 22:07:52 [INFO] [Metrics] mcstats.org
+2014-02-11 22:17:52 [INFO] [Metrics] mcstats.org
+2014-02-11 22:27:52 [INFO] [Metrics] mcstats.org
+2014-02-11 22:37:52 [INFO] [Metrics] mcstats.org
+2014-02-11 22:47:52 [INFO] [Metrics] mcstats.org
+2014-02-11 22:57:52 [INFO] [Metrics] mcstats.org
+2014-02-11 23:07:52 [INFO] [Metrics] mcstats.org
+2014-02-11 23:17:52 [INFO] [Metrics] mcstats.org
+2014-02-11 23:27:52 [INFO] [Metrics] mcstats.org
+2014-02-11 23:37:52 [INFO] [Metrics] mcstats.org
+2014-02-11 23:47:52 [INFO] [Metrics] mcstats.org
+2014-02-11 23:57:52 [INFO] [Metrics] mcstats.org
+2014-02-12 00:07:52 [INFO] [Metrics] mcstats.org
+2014-02-12 00:17:52 [INFO] [Metrics] mcstats.org
+2014-02-12 00:27:52 [INFO] [Metrics] mcstats.org
+2014-02-12 00:37:52 [INFO] [Metrics] mcstats.org
+2014-02-12 00:47:52 [INFO] [Metrics] mcstats.org
+2014-02-12 00:57:52 [INFO] [Metrics] mcstats.org
+2014-02-12 01:07:52 [INFO] [Metrics] mcstats.org
+2014-02-12 01:17:52 [INFO] [Metrics] mcstats.org
+2014-02-12 01:27:52 [INFO] [Metrics] mcstats.org
+2014-02-12 01:37:52 [INFO] [Metrics] mcstats.org
+2014-02-12 01:47:52 [INFO] [Metrics] mcstats.org
+2014-02-12 01:57:52 [INFO] [Metrics] mcstats.org
+2014-02-12 02:07:52 [INFO] [Metrics] mcstats.org
+2014-02-12 02:17:52 [INFO] [Metrics] mcstats.org
+2014-02-12 02:27:52 [INFO] [Metrics] mcstats.org
+2014-02-12 02:37:52 [INFO] [Metrics] mcstats.org
+2014-02-12 02:47:52 [INFO] [Metrics] mcstats.org
+2014-02-12 02:57:52 [INFO] [Metrics] mcstats.org
+2014-02-12 03:07:52 [INFO] [Metrics] mcstats.org
+2014-02-12 03:17:52 [INFO] [Metrics] mcstats.org
+2014-02-12 03:27:52 [INFO] [Metrics] mcstats.org
+2014-02-12 03:37:52 [INFO] [Metrics] mcstats.org
+2014-02-12 03:47:52 [INFO] [Metrics] mcstats.org
+2014-02-12 03:57:52 [INFO] [Metrics] mcstats.org
+2014-02-12 04:07:52 [INFO] [Metrics] mcstats.org
+2014-02-12 04:17:52 [INFO] [Metrics] mcstats.org
+2014-02-12 04:27:52 [INFO] [Metrics] mcstats.org
+2014-02-12 04:37:52 [INFO] [Metrics] mcstats.org
+2014-02-12 04:47:52 [INFO] [Metrics] mcstats.org
+2014-02-12 04:57:52 [INFO] [Metrics] mcstats.org
+2014-02-12 05:07:52 [INFO] [Metrics] mcstats.org
+2014-02-12 05:17:52 [INFO] [Metrics] mcstats.org
+2014-02-12 05:27:52 [INFO] [Metrics] mcstats.org
+2014-02-12 05:37:52 [INFO] [Metrics] mcstats.org
+2014-02-12 05:47:52 [INFO] [Metrics] mcstats.org
+2014-02-12 05:57:52 [INFO] [Metrics] mcstats.org
+2014-02-12 06:07:52 [INFO] [Metrics] mcstats.org
+2014-02-12 06:17:52 [INFO] [Metrics] mcstats.org
+2014-02-12 06:27:52 [INFO] [Metrics] mcstats.org
+2014-02-12 06:37:52 [INFO] [Metrics] mcstats.org
+2014-02-12 06:47:52 [INFO] [Metrics] mcstats.org
+2014-02-12 06:57:52 [INFO] [Metrics] mcstats.org
+2014-02-12 07:07:52 [INFO] [Metrics] mcstats.org
+2014-02-12 07:17:52 [INFO] [Metrics] mcstats.org
+2014-02-12 07:27:52 [INFO] [Metrics] mcstats.org
+2014-02-12 07:37:52 [INFO] [Metrics] mcstats.org
+2014-02-12 07:47:52 [INFO] [Metrics] mcstats.org
+2014-02-12 07:57:52 [INFO] [Metrics] mcstats.org
+2014-02-12 08:07:52 [INFO] [Metrics] mcstats.org
+2014-02-12 08:17:52 [INFO] [Metrics] mcstats.org
+2014-02-12 08:27:52 [INFO] [Metrics] mcstats.org
+2014-02-12 08:37:52 [INFO] [Metrics] mcstats.org
+2014-02-12 08:47:52 [INFO] [Metrics] mcstats.org
+2014-02-12 08:57:52 [INFO] [Metrics] mcstats.org
+2014-02-12 09:07:52 [INFO] [Metrics] mcstats.org
+2014-02-12 09:17:52 [INFO] [Metrics] mcstats.org
+2014-02-12 09:27:52 [INFO] [Metrics] mcstats.org
+2014-02-12 09:37:52 [INFO] [Metrics] mcstats.org
+2014-02-12 09:47:52 [INFO] [Metrics] mcstats.org
+2014-02-12 09:57:52 [INFO] [Metrics] mcstats.org
+2014-02-12 10:07:52 [INFO] [Metrics] mcstats.org
+2014-02-12 10:17:52 [INFO] [Metrics] mcstats.org
+2014-02-12 10:27:52 [INFO] [Metrics] mcstats.org
+2014-02-12 10:37:52 [INFO] [Metrics] mcstats.org
+2014-02-12 10:47:52 [INFO] [Metrics] mcstats.org
+2014-02-12 10:57:52 [INFO] [Metrics] mcstats.org
+2014-02-12 11:07:52 [INFO] [Metrics] mcstats.org
+2014-02-12 11:17:52 [INFO] [Metrics] mcstats.org
+2014-02-12 11:27:52 [INFO] [Metrics] mcstats.org
+2014-02-12 11:37:52 [INFO] [Metrics] mcstats.org
+2014-02-12 11:47:52 [INFO] [Metrics] mcstats.org
+2014-02-12 11:57:52 [INFO] [Metrics] mcstats.org
+2014-02-12 12:07:52 [INFO] [Metrics] mcstats.org
+2014-02-12 12:17:52 [INFO] [Metrics] mcstats.org
+2014-02-12 12:27:52 [INFO] [Metrics] mcstats.org
+2014-02-12 12:37:52 [INFO] [Metrics] mcstats.org
+2014-02-12 12:47:52 [INFO] [Metrics] mcstats.org
+2014-02-12 12:57:52 [INFO] [Metrics] mcstats.org
+2014-02-12 13:07:52 [INFO] [Metrics] mcstats.org
+2014-02-12 13:17:52 [INFO] [Metrics] mcstats.org
+2014-02-12 13:27:52 [INFO] [Metrics] mcstats.org
+2014-02-12 13:37:52 [INFO] [Metrics] mcstats.org
+2014-02-12 13:47:52 [INFO] [Metrics] mcstats.org
+2014-02-12 13:57:52 [INFO] [Metrics] mcstats.org
+2014-02-12 14:07:52 [INFO] [Metrics] mcstats.org
+2014-02-12 14:17:52 [INFO] [Metrics] mcstats.org
+2014-02-12 14:27:52 [INFO] [Metrics] mcstats.org
+2014-02-12 14:37:52 [INFO] [Metrics] mcstats.org
+2014-02-12 14:47:52 [INFO] [Metrics] mcstats.org
+2014-02-12 14:57:52 [INFO] [Metrics] mcstats.org
+2014-02-12 15:07:52 [INFO] [Metrics] mcstats.org
+2014-02-12 15:17:52 [INFO] [Metrics] mcstats.org
+2014-02-12 15:27:52 [INFO] [Metrics] mcstats.org
+2014-02-12 15:37:52 [INFO] [Metrics] mcstats.org
+2014-02-12 15:47:52 [INFO] [Metrics] mcstats.org
+2014-02-12 15:57:52 [INFO] [Metrics] mcstats.org
+2014-02-12 16:07:52 [INFO] [Metrics] mcstats.org
+2014-02-12 16:17:52 [INFO] [Metrics] mcstats.org
+2014-02-12 16:27:52 [INFO] [Metrics] mcstats.org
+2014-02-12 16:37:52 [INFO] [Metrics] mcstats.org
+2014-02-12 16:47:52 [INFO] [Metrics] mcstats.org
+2014-02-12 16:57:52 [INFO] [Metrics] mcstats.org
+2014-02-12 16:58:09 [INFO] Stopping server
+2014-02-12 17:09:03 [INFO] Starting minecraft server version 1.6.4
+2014-02-12 17:09:03 [INFO] Loading properties
+2014-02-12 17:09:03 [INFO] Default game type: SURVIVAL
+2014-02-12 17:09:03 [INFO] Generating keypair
+2014-02-12 17:09:04 [INFO] Starting Minecraft server on *:25565
+2014-02-12 17:09:04 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-02-12 17:09:04 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-02-12 17:09:04 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2014-02-12 17:09:04 [INFO] [Essentials] Loading Essentials v2.12.1
+2014-02-12 17:09:04 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v2.0
+2014-02-12 17:09:04 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.1
+2014-02-12 17:09:04 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.1
+2014-02-12 17:09:04 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-02-12 17:09:04 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-02-12 17:09:04 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-02-12 17:09:04 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-02-12 17:09:04 [INFO] Preparing level "world"
+2014-02-12 17:09:04 [INFO] Preparing start region for level 0 (Seed: -3459743345182500462)
+2014-02-12 17:09:05 [INFO] Preparing spawn area: 75%
+2014-02-12 17:09:06 [INFO] Preparing start region for level 1 (Seed: -3459743345182500462)
+2014-02-12 17:09:06 [INFO] Preparing start region for level 2 (Seed: -3459743345182500462)
+2014-02-12 17:09:07 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-02-12 17:09:07 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-02-12 17:09:07 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2014-02-12 17:09:07 [INFO] GriefPrevention: Grief Prevention enabled.
+2014-02-12 17:09:07 [INFO] GriefPrevention: 0 total claims loaded.
+2014-02-12 17:09:07 [INFO] GriefPrevention: 0 players have staked claims.
+2014-02-12 17:09:08 [INFO] [Essentials] Enabling Essentials v2.12.1
+2014-02-12 17:09:08 [INFO] Bukkit version format changed. Version not checked.
+2014-02-12 17:09:08 [INFO] git-Bukkit-1.6.4-R1.0 (MC: 1.6.4)
+2014-02-12 17:09:08 [INFO] 1.6.4-R1.0
+2014-02-12 17:09:08 [INFO] Essentials: Using config file enhanced permissions.
+2014-02-12 17:09:08 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-02-12 17:09:08 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v2.0
+2014-02-12 17:09:08 [SEVERE] [PermissionsBukkit] Failed to load configuration
+org.bukkit.configuration.InvalidConfigurationException: while scanning for the next token
+found character 	'\t' that cannot start any token
+ in "<string>", line 49, column 1:
+    	  essentials.afk: true
+    ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55)
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:138)
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:105)
+	at com.platymuus.bukkit.permissions.PermissionsPlugin.reloadConfig(PermissionsPlugin.java:78)
+	at com.platymuus.bukkit.permissions.PermissionsPlugin.onEnable(PermissionsPlugin.java:39)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.loadPlugin(CraftServer.java:284)
+	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.enablePlugins(CraftServer.java:266)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.l(MinecraftServer.java:315)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.f(MinecraftServer.java:292)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.a(MinecraftServer.java:252)
+	at net.minecraft.server.v1_6_R3.DedicatedServer.init(DedicatedServer.java:152)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:393)
+	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+Caused by: while scanning for the next token
+found character 	'\t' that cannot start any token
+ in "<string>", line 49, column 1:
+    	  essentials.afk: true
+    ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:358)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:179)
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:563)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:146)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:123)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:106)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:121)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:480)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:399)
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:53)
+	... 15 more
+2014-02-12 17:09:09 [INFO] [PermissionsBukkit] Enabled successfully
+2014-02-12 17:09:09 [INFO] Essentials: Using PermissionsBukkit based permissions.
+2014-02-12 17:09:09 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.1
+2014-02-12 17:09:09 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.1
+2014-02-12 17:09:09 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-02-12 17:09:09 [INFO] Done (4.443s)! For help, type "help" or "?"
+2014-02-12 17:09:44 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: UnknownHostException
+2014-02-12 17:09:44 [WARNING] Could not get latest artifact information: UnknownHostException
+2014-02-12 17:09:49 [INFO] [Metrics] mcstats.org
+2014-02-12 17:19:49 [INFO] [Metrics] mcstats.org
+2014-02-12 17:29:49 [INFO] [Metrics] mcstats.org
+2014-02-12 17:39:49 [INFO] [Metrics] mcstats.org
+2014-02-12 17:49:49 [INFO] [Metrics] mcstats.org
+2014-02-12 17:56:29 [INFO] Starting minecraft server version 1.6.4
+2014-02-12 17:56:29 [INFO] Loading properties
+2014-02-12 17:56:29 [INFO] Default game type: SURVIVAL
+2014-02-12 17:56:29 [INFO] Generating keypair
+2014-02-12 17:56:29 [INFO] Starting Minecraft server on *:25565
+2014-02-12 17:56:30 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-02-12 17:56:30 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-02-12 17:56:30 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2014-02-12 17:56:30 [INFO] [Essentials] Loading Essentials v2.12.1
+2014-02-12 17:56:30 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v2.0
+2014-02-12 17:56:30 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.1
+2014-02-12 17:56:30 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.1
+2014-02-12 17:56:30 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-02-12 17:56:30 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-02-12 17:56:30 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-02-12 17:56:30 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-02-12 17:56:30 [INFO] Preparing level "world"
+2014-02-12 17:56:30 [INFO] Preparing start region for level 0 (Seed: -3459743345182500462)
+2014-02-12 17:56:31 [INFO] Preparing spawn area: 76%
+2014-02-12 17:56:31 [INFO] Preparing start region for level 1 (Seed: -3459743345182500462)
+2014-02-12 17:56:32 [INFO] Preparing start region for level 2 (Seed: -3459743345182500462)
+2014-02-12 17:56:32 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-02-12 17:56:32 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-02-12 17:56:32 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2014-02-12 17:56:32 [INFO] GriefPrevention: Grief Prevention enabled.
+2014-02-12 17:56:33 [INFO] GriefPrevention: 0 total claims loaded.
+2014-02-12 17:56:33 [INFO] GriefPrevention: 0 players have staked claims.
+2014-02-12 17:56:33 [INFO] [Essentials] Enabling Essentials v2.12.1
+2014-02-12 17:56:33 [INFO] Bukkit version format changed. Version not checked.
+2014-02-12 17:56:33 [INFO] git-Bukkit-1.6.4-R1.0 (MC: 1.6.4)
+2014-02-12 17:56:33 [INFO] 1.6.4-R1.0
+2014-02-12 17:56:34 [INFO] Essentials: Using config file enhanced permissions.
+2014-02-12 17:56:34 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-02-12 17:56:34 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v2.0
+2014-02-12 17:56:34 [SEVERE] [PermissionsBukkit] Failed to load configuration
+org.bukkit.configuration.InvalidConfigurationException: while scanning for the next token
+found character 	'\t' that cannot start any token
+ in "<string>", line 49, column 1:
+    	  essentials.afk: true
+    ^
+
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:55)
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:138)
+	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:105)
+	at com.platymuus.bukkit.permissions.PermissionsPlugin.reloadConfig(PermissionsPlugin.java:78)
+	at com.platymuus.bukkit.permissions.PermissionsPlugin.onEnable(PermissionsPlugin.java:39)
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:217)
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:457)
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:381)
+	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.loadPlugin(CraftServer.java:284)
+	at org.bukkit.craftbukkit.v1_6_R3.CraftServer.enablePlugins(CraftServer.java:266)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.l(MinecraftServer.java:315)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.f(MinecraftServer.java:292)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.a(MinecraftServer.java:252)
+	at net.minecraft.server.v1_6_R3.DedicatedServer.init(DedicatedServer.java:152)
+	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:393)
+	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+Caused by: while scanning for the next token
+found character 	'\t' that cannot start any token
+ in "<string>", line 49, column 1:
+    	  essentials.afk: true
+    ^
+
+	at org.yaml.snakeyaml.scanner.ScannerImpl.fetchMoreTokens(ScannerImpl.java:358)
+	at org.yaml.snakeyaml.scanner.ScannerImpl.checkToken(ScannerImpl.java:179)
+	at org.yaml.snakeyaml.parser.ParserImpl$ParseBlockMappingKey.produce(ParserImpl.java:563)
+	at org.yaml.snakeyaml.parser.ParserImpl.peekEvent(ParserImpl.java:161)
+	at org.yaml.snakeyaml.parser.ParserImpl.checkEvent(ParserImpl.java:146)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:230)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeMappingNode(Composer.java:237)
+	at org.yaml.snakeyaml.composer.Composer.composeNode(Composer.java:160)
+	at org.yaml.snakeyaml.composer.Composer.composeDocument(Composer.java:123)
+	at org.yaml.snakeyaml.composer.Composer.getSingleNode(Composer.java:106)
+	at org.yaml.snakeyaml.constructor.BaseConstructor.getSingleData(BaseConstructor.java:121)
+	at org.yaml.snakeyaml.Yaml.loadFromReader(Yaml.java:480)
+	at org.yaml.snakeyaml.Yaml.load(Yaml.java:399)
+	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:53)
+	... 15 more
+2014-02-12 17:56:34 [INFO] [PermissionsBukkit] Enabled successfully
+2014-02-12 17:56:34 [INFO] Essentials: Using PermissionsBukkit based permissions.
+2014-02-12 17:56:34 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.1
+2014-02-12 17:56:34 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.1
+2014-02-12 17:56:34 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-02-12 17:56:34 [INFO] Done (4.419s)! For help, type "help" or "?"
+2014-02-12 17:57:10 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: UnknownHostException
+2014-02-12 17:57:10 [WARNING] Could not get latest artifact information: UnknownHostException
+2014-02-12 17:57:15 [INFO] [Metrics] mcstats.org
+2014-02-12 17:59:28 [INFO] Starting minecraft server version 1.6.4
+2014-02-12 17:59:28 [INFO] Loading properties
+2014-02-12 17:59:28 [INFO] Default game type: SURVIVAL
+2014-02-12 17:59:28 [INFO] Generating keypair
+2014-02-12 17:59:28 [INFO] Starting Minecraft server on *:25565
+2014-02-12 17:59:28 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-02-12 17:59:29 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-02-12 17:59:29 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2014-02-12 17:59:29 [INFO] [Essentials] Loading Essentials v2.12.1
+2014-02-12 17:59:29 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v2.0
+2014-02-12 17:59:29 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.1
+2014-02-12 17:59:29 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.1
+2014-02-12 17:59:29 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-02-12 17:59:29 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-02-12 17:59:29 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-02-12 17:59:29 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-02-12 17:59:29 [INFO] Preparing level "world"
+2014-02-12 17:59:29 [INFO] Preparing start region for level 0 (Seed: -3459743345182500462)
+2014-02-12 17:59:30 [INFO] Preparing spawn area: 71%
+2014-02-12 17:59:30 [INFO] Preparing start region for level 1 (Seed: -3459743345182500462)
+2014-02-12 17:59:31 [INFO] Preparing start region for level 2 (Seed: -3459743345182500462)
+2014-02-12 17:59:31 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-02-12 17:59:31 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-02-12 17:59:31 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2014-02-12 17:59:31 [INFO] GriefPrevention: Grief Prevention enabled.
+2014-02-12 17:59:31 [INFO] GriefPrevention: 0 total claims loaded.
+2014-02-12 17:59:31 [INFO] GriefPrevention: 0 players have staked claims.
+2014-02-12 17:59:32 [INFO] [Essentials] Enabling Essentials v2.12.1
+2014-02-12 17:59:32 [INFO] Bukkit version format changed. Version not checked.
+2014-02-12 17:59:32 [INFO] git-Bukkit-1.6.4-R1.0 (MC: 1.6.4)
+2014-02-12 17:59:32 [INFO] 1.6.4-R1.0
+2014-02-12 17:59:33 [INFO] Essentials: Using config file enhanced permissions.
+2014-02-12 17:59:33 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-02-12 17:59:33 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v2.0
+2014-02-12 17:59:33 [INFO] [PermissionsBukkit] Enabled successfully
+2014-02-12 17:59:33 [INFO] Essentials: Using PermissionsBukkit based permissions.
+2014-02-12 17:59:33 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.1
+2014-02-12 17:59:33 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.1
+2014-02-12 17:59:33 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-02-12 17:59:33 [INFO] Done (4.416s)! For help, type "help" or "?"
+2014-02-12 18:00:08 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: UnknownHostException
+2014-02-12 18:00:08 [WARNING] Could not get latest artifact information: UnknownHostException
+2014-02-12 18:00:13 [INFO] [Metrics] mcstats.org
+2014-02-12 18:06:31 [INFO] CONSOLE: Stopping the server..[m
+2014-02-12 18:06:31 [INFO] Stopping server
+2014-02-12 18:06:31 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.12.1
+2014-02-12 18:06:31 [INFO] [EssentialsChat] Disabling EssentialsChat v2.12.1
+2014-02-12 18:06:31 [INFO] [PermissionsBukkit] Disabling PermissionsBukkit v2.0
+2014-02-12 18:06:31 [INFO] [Essentials] Disabling Essentials v2.12.1
+2014-02-12 18:06:31 [INFO] Essentials: Using config file enhanced permissions.
+2014-02-12 18:06:31 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-02-12 18:06:31 [INFO] [GriefPrevention] Disabling GriefPrevention v7.7
+2014-02-12 18:06:31 [INFO] GriefPrevention: GriefPrevention disabled.
+2014-02-12 18:06:31 [INFO] [WorldEdit] Disabling WorldEdit v5.5.8
+2014-02-12 18:06:31 [INFO] Saving players
+2014-02-12 18:06:31 [WARNING] DSCT: Socket closed
+2014-02-12 18:06:31 [INFO] Saving worlds
+2014-02-12 18:06:31 [INFO] Closing listening thread
+2014-02-12 18:06:31 [INFO] Saving chunks for level 'world'/Overworld
+2014-02-12 18:06:31 [INFO] Saving chunks for level 'world_nether'/Nether
+2014-02-12 18:06:31 [INFO] Saving chunks for level 'world_the_end'/The End
+2014-02-12 18:06:35 [INFO] Starting minecraft server version 1.6.4
+2014-02-12 18:06:35 [INFO] Loading properties
+2014-02-12 18:06:35 [INFO] Default game type: SURVIVAL
+2014-02-12 18:06:35 [INFO] Generating keypair
+2014-02-12 18:06:35 [INFO] Starting Minecraft server on *:25565
+2014-02-12 18:06:35 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-02-12 18:06:36 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-02-12 18:06:36 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2014-02-12 18:06:36 [INFO] [Essentials] Loading Essentials v2.12.1
+2014-02-12 18:06:36 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v2.0
+2014-02-12 18:06:36 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.1
+2014-02-12 18:06:36 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.1
+2014-02-12 18:06:36 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-02-12 18:06:36 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-02-12 18:06:36 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-02-12 18:06:36 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-02-12 18:06:36 [INFO] Preparing level "world"
+2014-02-12 18:06:36 [INFO] Preparing start region for level 0 (Seed: -3459743345182500462)
+2014-02-12 18:06:37 [INFO] Preparing spawn area: 70%
+2014-02-12 18:06:37 [INFO] Preparing start region for level 1 (Seed: -3459743345182500462)
+2014-02-12 18:06:38 [INFO] Preparing start region for level 2 (Seed: -3459743345182500462)
+2014-02-12 18:06:38 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-02-12 18:06:38 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-02-12 18:06:38 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2014-02-12 18:06:38 [INFO] GriefPrevention: Grief Prevention enabled.
+2014-02-12 18:06:38 [INFO] GriefPrevention: 0 total claims loaded.
+2014-02-12 18:06:38 [INFO] GriefPrevention: 0 players have staked claims.
+2014-02-12 18:06:39 [INFO] [Essentials] Enabling Essentials v2.12.1
+2014-02-12 18:06:39 [INFO] Bukkit version format changed. Version not checked.
+2014-02-12 18:06:39 [INFO] git-Bukkit-1.6.4-R1.0 (MC: 1.6.4)
+2014-02-12 18:06:39 [INFO] 1.6.4-R1.0
+2014-02-12 18:06:40 [INFO] Essentials: Using config file enhanced permissions.
+2014-02-12 18:06:40 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-02-12 18:06:40 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v2.0
+2014-02-12 18:06:40 [INFO] [PermissionsBukkit] Enabled successfully
+2014-02-12 18:06:40 [INFO] Essentials: Using PermissionsBukkit based permissions.
+2014-02-12 18:06:40 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.1
+2014-02-12 18:06:40 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.1
+2014-02-12 18:06:40 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-02-12 18:06:40 [INFO] Done (4.403s)! For help, type "help" or "?"
+2014-02-12 18:07:16 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: UnknownHostException
+2014-02-12 18:07:16 [WARNING] Could not get latest artifact information: UnknownHostException
+2014-02-12 18:07:21 [INFO] [Metrics] mcstats.org
