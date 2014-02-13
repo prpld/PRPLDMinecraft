@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 timestamps:
   login: 1387407244695
   logout: 1387412645459
@@ -18,3 +19,25 @@ lastlocation:
   yaw: 29.981445
   pitch: 40.68835
 afk: false
+=======
+timestamps:
+  login: 1387407244695
+  logout: 1387412645459
+  lastteleport: 1387407367133
+ipAddress: 192.168.1.16
+logoutlocation:
+  world: world
+  x: -39.97175505770779
+  y: 79.0
+  z: 222.30296371603396
+  yaw: 72.83154
+  pitch: 40.900585
+lastlocation:
+  world: world
+  x: -44.612329932510306
+  y: 119.77165797733555
+  z: 223.89284063985025
+  yaw: 29.981445
+  pitch: 40.68835
+afk: false
+>>>>>>> f9c78ff255b2971d370bb7f1d522b44616bf9d7f

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 timestamps:
   login: 1387406700894
   logout: 1387412595459
@@ -9,3 +10,16 @@ logoutlocation:
   z: 202.62305860369878
   yaw: 178.3789
   pitch: 10.731136
+=======
+timestamps:
+  login: 1387406700894
+  logout: 1387412595459
+ipAddress: 192.168.1.11
+logoutlocation:
+  world: world
+  x: -60.25538523041121
+  y: 70.0
+  z: 202.62305860369878
+  yaw: 178.3789
+  pitch: 10.731136
+>>>>>>> f9c78ff255b2971d370bb7f1d522b44616bf9d7f

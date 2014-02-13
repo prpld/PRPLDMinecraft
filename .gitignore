@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Don't tracked log files
 server.log
 server.log*
@@ -5,3 +6,12 @@ server.log*
 /downloads
 /plugins/*.log*
 
+=======
+# Don't tracked log files
+server.log
+server.log*
+*.log
+/downloads
+/plugins/*.log*
+
+>>>>>>> f9c78ff255b2971d370bb7f1d522b44616bf9d7f
