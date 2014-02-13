@@ -3,10 +3,6 @@ GriefPrevention:
     world: -1
     world_nether: -1
     world_the_end: -1
-<<<<<<< HEAD
-=======
-    Creative: -1
->>>>>>> f9c78ff255b2971d370bb7f1d522b44616bf9d7f
   Claims:
     Expiration:
       ChestClaimDays: 7

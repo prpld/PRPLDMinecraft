@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 spawns: 
   prpld02: 
     world: world
@@ -7,13 +6,3 @@ spawns:
     z: 271.34362976037266
     yaw: 162.6278
     pitch: 82.35004
-=======
-spawns: 
-  prpld02: 
-    world: world
-    x: -10.494519722246975
-    y: 66.0
-    z: 271.34362976037266
-    yaw: 162.6278
-    pitch: 82.35004
->>>>>>> f9c78ff255b2971d370bb7f1d522b44616bf9d7f
