@@ -24,35 +24,21 @@
 users:
   ConspiracyWizard:
     permissions:
+      permissions.example: true
     groups:
     - admin
   sigurre:
     groups:
     - admin
-    permissions:
-  bravenewworld78:
-    groups:
-    - admin
-    permissions:
-  killerbean0:
-    groups:
-    - admin
-    permissions:
-  roboashy:
-    groups:
-    - admin
-    permissions:
 groups:
   default:
     permissions:
       permissions.build: true
-	  essentials.afk: true
-	  essentials.compass: true
-	  essentials.depth: true
-	  essentials.getpos: true
-	  essentials.help.*: true
-	  essentials.helpop: true
-	  essentials.list: true
+      build: true
+      help: true
+      essentials.help: true
+      essentials.spawn: true
+      essentials.tp: true
   admin:
     permissions:
       permissions.*: true

@@ -3,7 +3,6 @@ GriefPrevention:
     world: -1
     world_nether: -1
     world_the_end: -1
-    Creative: -1
   Claims:
     Expiration:
       ChestClaimDays: 7
