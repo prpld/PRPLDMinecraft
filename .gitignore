@@ -1,10 +1,10 @@
-<<<<<<< HEAD
 =======
 # Don't tracked log files
 server.log
 server.log*
 *.log
+*.dat
+/world/players/*.dat
 /downloads
 /plugins/*.log*
-<<<<<<< HEAD
 =======
