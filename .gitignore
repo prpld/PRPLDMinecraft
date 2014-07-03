@@ -4,7 +4,6 @@ server.log
 server.log*
 *.log
 *.dat
-/world/players/*.dat
 /downloads
 /plugins/*.log*
 =======
