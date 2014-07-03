@@ -30,6 +30,12 @@ users:
   sigurre:
     groups:
     - admin
+  BraveNewWorld78:
+    groups:
+    - admin
+  killerbean0:
+    groups:
+    - admin
 groups:
   default:
     permissions:
