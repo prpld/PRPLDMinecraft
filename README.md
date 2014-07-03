@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-=======
-PRPLDMinecraft
+PRPLD Minecraft
 ==============
 PRPLD Minecraft is a tailored version for the Poudre River Public Library District.
 
