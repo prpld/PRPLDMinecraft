@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 timestamps:
   login: 1403383654143
   logout: 1403383761977
@@ -21,24 +20,3 @@ logoutlocation:
 afk: false
 ban:
   timeout: 0
-=======
-timestamps:
-  login: 1383755968677
-  logout: 1383756004437
-ipAddress: 192.168.1.221
-lastlocation:
-  world: world
-  x: 229.4576887114566
-  y: 69.0
-  z: 263.2441381193462
-  yaw: -156.60005
-  pitch: 33.14995
-logoutlocation:
-  world: world
-  x: -47.299146276973985
-  y: 82.0
-  z: 235.87481127650673
-  yaw: -18.000467
-  pitch: 35.69999
-afk: false
->>>>>>> 290eeb3490a75b945e1eadc3fa05bc93d4191052
