@@ -1,5 +1,5 @@
 =======
-# Don't tracked log files
+# Don't track the following folder (s) and  file (s)
 server.log
 server.log*
 *.log
