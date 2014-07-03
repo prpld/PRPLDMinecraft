@@ -1,6 +1,23 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
 # Don't tracked log files
 server.log
 server.log*
 *.log
 /downloads
 /plugins/*.log*
+
+=======
+>>>>>>> 290eeb3490a75b945e1eadc3fa05bc93d4191052
+# Don't tracked log files
+server.log
+server.log*
+*.log
+/downloads
+/plugins/*.log*
+<<<<<<< HEAD
+=======
+
+>>>>>>> f9c78ff255b2971d370bb7f1d522b44616bf9d7f
+>>>>>>> 290eeb3490a75b945e1eadc3fa05bc93d4191052
