@@ -39443,3 +39443,1238 @@ Caused by: java.lang.ClassCastException: net.minecraft.server.v1_6_R3.NBTTagStri
 	at net.minecraft.server.v1_6_R3.Entity.f(Entity.java:1152)
 	... 12 more
 2014-08-28 19:27:44 [SEVERE] This crash report has been saved to: /home/vzuniga/CraftBukkit/./crash-reports/crash-2014-08-28_19.27.44-server.txt
+2014-08-28 20:26:19 [INFO] Starting minecraft server version 1.6.4
+2014-08-28 20:26:19 [INFO] Loading properties
+2014-08-28 20:26:19 [INFO] Default game type: SURVIVAL
+2014-08-28 20:26:19 [INFO] Generating keypair
+2014-08-28 20:26:20 [INFO] Starting Minecraft server on *:25565
+2014-08-28 20:26:20 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-08-28 20:26:20 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+2014-08-28 20:26:20 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-08-28 20:26:20 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2014-08-28 20:26:20 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+2014-08-28 20:26:20 [INFO] [Essentials] Loading Essentials v2.12.1
+2014-08-28 20:26:20 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v2.0
+2014-08-28 20:26:20 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.1
+2014-08-28 20:26:20 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.1
+2014-08-28 20:26:20 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-08-28 20:26:20 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-08-28 20:26:20 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-08-28 20:26:20 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-08-28 20:26:21 [INFO] Preparing level "LibraryHub"
+2014-08-28 20:26:21 [INFO] Preparing start region for level 0 (Seed: 3893759982153487564)
+2014-08-28 20:26:22 [INFO] Preparing spawn area: 95%
+2014-08-28 20:26:22 [INFO] Preparing start region for level 1 (Seed: 3893759982153487564)
+2014-08-28 20:26:22 [INFO] Preparing start region for level 2 (Seed: 3893759982153487564)
+2014-08-28 20:26:22 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+2014-08-28 20:26:23 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-08-28 20:26:23 [INFO] [AllPay] - Version 10.0 - hooked into Essentials Economy for Multiverse-Core v2.4-b527
+2014-08-28 20:26:23 [INFO] [Multiverse-Core] Loading World & Settings - 'LibraryHub' - Env: NORMAL - Type: FLAT & seed: 3893759982153487564
+2014-08-28 20:26:23 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-08-28 20:26:23 [WARNING] [Multiverse-Core] Original Location: X: 1,231 Y: 4 Z: 1,107 P: 0 Y: 0 
+2014-08-28 20:26:23 [INFO] [Multiverse-Core] New Spawn for 'LibraryHub' is Located at: LibraryHub:0.00,24.00,0.00:0.00:0.00
+2014-08-28 20:26:39 [INFO] [Multiverse-Core] Loading World & Settings - 'LibraryHub_nether' - Env: NETHER - Type: FLAT & seed: 3893759982153487564
+2014-08-28 20:26:39 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-08-28 20:26:39 [WARNING] [Multiverse-Core] Original Location: X: 1,231 Y: 4 Z: 1,107 P: 0 Y: 0 
+2014-08-28 20:26:39 [INFO] [Multiverse-Core] New Spawn for 'LibraryHub_nether' is Located at: LibraryHub_nether:0.00,68.00,0.00:0.00:0.00
+2014-08-28 20:26:46 [INFO] [Multiverse-Core] Loading World & Settings - 'LibraryHub_the_end' - Env: THE_END - Type: FLAT & seed: 3893759982153487564
+2014-08-28 20:26:46 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-08-28 20:26:46 [WARNING] [Multiverse-Core] Original Location: X: 1,231 Y: 4 Z: 1,107 P: 0 Y: 0 
+2014-08-28 20:26:46 [INFO] [Multiverse-Core] New Spawn for 'LibraryHub_the_end' is Located at: LibraryHub_the_end:0.00,57.00,0.00:0.00:0.00
+2014-08-28 20:26:48 [INFO] [Multiverse-Core] Loading World & Settings - 'LibraryHub' - Env: NORMAL - Type: FLAT & seed: 3893759982153487564
+2014-08-28 20:26:48 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-08-28 20:26:48 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 24 Z: 0 P: 0 Y: 0 
+2014-08-28 20:26:48 [INFO] [Multiverse-Core] New Spawn for 'LibraryHub' is Located at: LibraryHub:-0.50,24.00,-2.50:0.00:0.00
+2014-08-28 20:26:50 [INFO] [Multiverse-Core] Loading World & Settings - 'LibraryHub_nether' - Env: NETHER - Type: FLAT & seed: 3893759982153487564
+2014-08-28 20:26:50 [INFO] [Multiverse-Core] Loading World & Settings - 'LibraryHub_the_end' - Env: THE_END - Type: FLAT & seed: 3893759982153487564
+2014-08-28 20:26:50 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-08-28 20:26:50 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-08-28 20:26:50 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-08-28 20:26:50 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2014-08-28 20:26:50 [INFO] GriefPrevention: Grief Prevention enabled.
+2014-08-28 20:26:50 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "world".  Please update your config.yml.
+2014-08-28 20:26:50 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "world_nether".  Please update your config.yml.
+2014-08-28 20:26:50 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "world_the_end".  Please update your config.yml.
+2014-08-28 20:26:50 [INFO] GriefPrevention: Warning: PvP Configuration: There's no world named "world".  Please update your config.yml.
+2014-08-28 20:26:50 [INFO] GriefPrevention: Warning: PvP Configuration: There's no world named "world_nether".  Please update your config.yml.
+2014-08-28 20:26:50 [INFO] GriefPrevention: Warning: PvP Configuration: There's no world named "world_the_end".  Please update your config.yml.
+2014-08-28 20:26:50 [INFO] GriefPrevention: 0 total claims loaded.
+2014-08-28 20:26:50 [INFO] GriefPrevention: 0 players have staked claims.
+2014-08-28 20:26:51 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+2014-08-28 20:26:51 [INFO] [MultiVerse-NetherPortals] - Version 2.4-b530 Enabled - By Rigby and fernferret
+2014-08-28 20:26:51 [SEVERE] [MultiVerse-NetherPortals]  Could not load config.yml
+2014-08-28 20:26:51 [INFO] [Essentials] Enabling Essentials v2.12.1
+2014-08-28 20:26:51 [INFO] Bukkit version format changed. Version not checked.
+2014-08-28 20:26:51 [INFO] git-Bukkit-1.6.4-R1.0 (MC: 1.6.4)
+2014-08-28 20:26:51 [INFO] 1.6.4-R1.0
+2014-08-28 20:26:52 [INFO] Essentials: Using config file enhanced permissions.
+2014-08-28 20:26:52 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-08-28 20:26:52 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v2.0
+2014-08-28 20:26:52 [INFO] [PermissionsBukkit] Enabled successfully
+2014-08-28 20:26:52 [INFO] Essentials: Using PermissionsBukkit based permissions.
+2014-08-28 20:26:52 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.1
+2014-08-28 20:26:52 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.1
+2014-08-28 20:26:52 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-08-28 20:26:52 [INFO] Done (31.741s)! For help, type "help" or "?"
+2014-08-28 20:27:00 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: UnknownHostException
+2014-08-28 20:27:00 [WARNING] Could not get latest artifact information: UnknownHostException
+2014-08-28 20:27:32 [INFO] [Metrics] mcstats.org
+2014-08-28 20:32:28 [INFO] Starting minecraft server version 1.6.4
+2014-08-28 20:32:28 [INFO] Loading properties
+2014-08-28 20:32:28 [INFO] Default game type: SURVIVAL
+2014-08-28 20:32:28 [INFO] Generating keypair
+2014-08-28 20:32:29 [INFO] Starting Minecraft server on *:25565
+2014-08-28 20:32:30 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-08-28 20:32:31 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+2014-08-28 20:32:31 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-08-28 20:32:31 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2014-08-28 20:32:31 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+2014-08-28 20:32:31 [INFO] [Essentials] Loading Essentials v2.12.1
+2014-08-28 20:32:31 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v2.0
+2014-08-28 20:32:31 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.1
+2014-08-28 20:32:31 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.1
+2014-08-28 20:32:31 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-08-28 20:32:31 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-08-28 20:32:31 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-08-28 20:32:31 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-08-28 20:32:31 [INFO] Preparing level "LibraryHub"
+2014-08-28 20:32:31 [INFO] Preparing start region for level 0 (Seed: 3893759982153487564)
+2014-08-28 20:32:32 [INFO] Preparing spawn area: 59%
+2014-08-28 20:32:32 [INFO] Preparing start region for level 1 (Seed: 3893759982153487564)
+2014-08-28 20:32:33 [INFO] Preparing start region for level 2 (Seed: 3893759982153487564)
+2014-08-28 20:32:34 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+2014-08-28 20:32:34 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-08-28 20:32:34 [INFO] [AllPay] - Version 10.0 - hooked into Essentials Economy for Multiverse-Core v2.4-b527
+2014-08-28 20:32:34 [INFO] [Multiverse-Core] Loading World & Settings - 'LibraryHub' - Env: NORMAL - Type: FLAT & seed: 3893759982153487564
+2014-08-28 20:32:40 [INFO] [Multiverse-Core] Loading World & Settings - 'LibraryHub_nether' - Env: NETHER - Type: FLAT & seed: 3893759982153487564
+2014-08-28 20:32:40 [INFO] [Multiverse-Core] Loading World & Settings - 'LibraryHub_the_end' - Env: THE_END - Type: FLAT & seed: 3893759982153487564
+2014-08-28 20:32:41 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-08-28 20:32:41 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-08-28 20:32:41 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-08-28 20:32:41 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2014-08-28 20:32:41 [INFO] GriefPrevention: Grief Prevention enabled.
+2014-08-28 20:32:41 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "world".  Please update your config.yml.
+2014-08-28 20:32:41 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "world_nether".  Please update your config.yml.
+2014-08-28 20:32:41 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "world_the_end".  Please update your config.yml.
+2014-08-28 20:32:41 [INFO] GriefPrevention: Warning: PvP Configuration: There's no world named "world".  Please update your config.yml.
+2014-08-28 20:32:41 [INFO] GriefPrevention: Warning: PvP Configuration: There's no world named "world_nether".  Please update your config.yml.
+2014-08-28 20:32:41 [INFO] GriefPrevention: Warning: PvP Configuration: There's no world named "world_the_end".  Please update your config.yml.
+2014-08-28 20:32:41 [INFO] GriefPrevention: 0 total claims loaded.
+2014-08-28 20:32:41 [INFO] GriefPrevention: 0 players have staked claims.
+2014-08-28 20:32:43 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+2014-08-28 20:32:43 [INFO] [MultiVerse-NetherPortals] - Version 2.4-b530 Enabled - By Rigby and fernferret
+2014-08-28 20:32:43 [INFO] [Essentials] Enabling Essentials v2.12.1
+2014-08-28 20:32:43 [INFO] Bukkit version format changed. Version not checked.
+2014-08-28 20:32:43 [INFO] git-Bukkit-1.6.4-R1.0 (MC: 1.6.4)
+2014-08-28 20:32:43 [INFO] 1.6.4-R1.0
+2014-08-28 20:32:44 [INFO] Essentials: Using config file enhanced permissions.
+2014-08-28 20:32:44 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-08-28 20:32:44 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v2.0
+2014-08-28 20:32:44 [INFO] [PermissionsBukkit] Enabled successfully
+2014-08-28 20:32:44 [INFO] Essentials: Using PermissionsBukkit based permissions.
+2014-08-28 20:32:44 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.1
+2014-08-28 20:32:44 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.1
+2014-08-28 20:32:44 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-08-28 20:32:44 [INFO] Done (13.241s)! For help, type "help" or "?"
+2014-08-28 20:32:44 [INFO] /192.168.1.3:55040 lost connection
+2014-08-28 20:32:44 [INFO] /192.168.1.3:55041 lost connection
+2014-08-28 20:32:49 [INFO] Unknown command. Type "help" for help.[m
+                                                                                                                                                                                                                                                  2014-08-28 20:43:49 [INFO] Starting minecraft server version 1.6.4
+2014-08-28 20:43:49 [INFO] Loading properties
+2014-08-28 20:43:49 [INFO] Default game type: SURVIVAL
+2014-08-28 20:43:49 [INFO] Generating keypair
+2014-08-28 20:43:50 [INFO] Starting Minecraft server on *:25565
+2014-08-28 20:43:51 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-08-28 20:43:51 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+2014-08-28 20:43:51 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-08-28 20:43:51 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2014-08-28 20:43:51 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+2014-08-28 20:43:51 [INFO] [Essentials] Loading Essentials v2.12.1
+2014-08-28 20:43:51 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v2.0
+2014-08-28 20:43:51 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.1
+2014-08-28 20:43:51 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.1
+2014-08-28 20:43:52 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-08-28 20:43:52 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-08-28 20:43:52 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-08-28 20:43:52 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-08-28 20:43:52 [INFO] Preparing level "LibraryHub"
+2014-08-28 20:43:52 [SEVERE] java.io.EOFException
+2014-08-28 20:43:52 [SEVERE] 	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:224)
+2014-08-28 20:43:52 [SEVERE] 	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:214)
+2014-08-28 20:43:52 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:153)
+2014-08-28 20:43:52 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:75)
+2014-08-28 20:43:52 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:85)
+2014-08-28 20:43:52 [SEVERE] 	at net.minecraft.server.v1_6_R3.NBTCompressedStreamTools.a(SourceFile:9)
+2014-08-28 20:43:52 [SEVERE] 	at net.minecraft.server.v1_6_R3.WorldLoader.c(SourceFile:57)
+2014-08-28 20:43:52 [SEVERE] 	at net.minecraft.server.v1_6_R3.WorldLoaderServer.isConvertable(SourceFile:100)
+2014-08-28 20:43:52 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.a(MinecraftServer.java:138)
+2014-08-28 20:43:52 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.a(MinecraftServer.java:150)
+2014-08-28 20:43:52 [SEVERE] 	at net.minecraft.server.v1_6_R3.DedicatedServer.init(DedicatedServer.java:152)
+2014-08-28 20:43:52 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:393)
+2014-08-28 20:43:52 [SEVERE] 	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+2014-08-28 20:43:52 [SEVERE] java.io.EOFException
+2014-08-28 20:43:52 [SEVERE] 	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:224)
+2014-08-28 20:43:52 [SEVERE] 	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:214)
+2014-08-28 20:43:52 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:153)
+2014-08-28 20:43:52 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:75)
+2014-08-28 20:43:52 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:85)
+2014-08-28 20:43:52 [SEVERE] 	at net.minecraft.server.v1_6_R3.NBTCompressedStreamTools.a(SourceFile:9)
+2014-08-28 20:43:52 [SEVERE] 	at net.minecraft.server.v1_6_R3.WorldNBTStorage.getWorldData(WorldNBTStorage.java:89)
+2014-08-28 20:43:52 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.a(MinecraftServer.java:155)
+2014-08-28 20:43:52 [SEVERE] 	at net.minecraft.server.v1_6_R3.DedicatedServer.init(DedicatedServer.java:152)
+2014-08-28 20:43:52 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:393)
+2014-08-28 20:43:52 [SEVERE] 	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+2014-08-28 20:43:52 [SEVERE] java.io.EOFException
+2014-08-28 20:43:52 [SEVERE] 	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:224)
+2014-08-28 20:43:52 [SEVERE] 	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:214)
+2014-08-28 20:43:52 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:153)
+2014-08-28 20:43:52 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:75)
+2014-08-28 20:43:52 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:85)
+2014-08-28 20:43:52 [SEVERE] 	at net.minecraft.server.v1_6_R3.NBTCompressedStreamTools.a(SourceFile:9)
+2014-08-28 20:43:52 [SEVERE] 	at net.minecraft.server.v1_6_R3.WorldNBTStorage.getWorldData(WorldNBTStorage.java:89)
+2014-08-28 20:43:52 [SEVERE] 	at net.minecraft.server.v1_6_R3.World.<init>(World.java:125)
+2014-08-28 20:43:52 [SEVERE] 	at net.minecraft.server.v1_6_R3.WorldServer.<init>(WorldServer.java:46)
+2014-08-28 20:43:52 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.a(MinecraftServer.java:192)
+2014-08-28 20:43:52 [SEVERE] 	at net.minecraft.server.v1_6_R3.DedicatedServer.init(DedicatedServer.java:152)
+2014-08-28 20:43:52 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:393)
+2014-08-28 20:43:52 [SEVERE] 	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+2014-08-28 20:43:52 [INFO] Preparing start region for level 0 (Seed: 3893759982153487564)
+2014-08-28 20:43:53 [INFO] Preparing spawn area: 58%
+2014-08-28 20:43:53 [INFO] Preparing start region for level 1 (Seed: 3893759982153487564)
+2014-08-28 20:43:54 [INFO] Preparing start region for level 2 (Seed: 3893759982153487564)
+2014-08-28 20:43:55 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+2014-08-28 20:43:55 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-08-28 20:43:55 [INFO] [AllPay] - Version 10.0 - hooked into Essentials Economy for Multiverse-Core v2.4-b527
+2014-08-28 20:43:55 [INFO] [Multiverse-Core] Loading World & Settings - 'LibraryHub' - Env: NORMAL - Type: FLAT & seed: 3893759982153487564
+2014-08-28 20:44:01 [INFO] [Multiverse-Core] Loading World & Settings - 'LibraryHub_nether' - Env: NETHER - Type: FLAT & seed: 3893759982153487564
+2014-08-28 20:44:01 [INFO] [Multiverse-Core] Loading World & Settings - 'LibraryHub_the_end' - Env: THE_END - Type: FLAT & seed: 3893759982153487564
+2014-08-28 20:44:02 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-08-28 20:44:02 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-08-28 20:44:02 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-08-28 20:44:02 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2014-08-28 20:44:02 [INFO] GriefPrevention: Grief Prevention enabled.
+2014-08-28 20:44:02 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "world".  Please update your config.yml.
+2014-08-28 20:44:02 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "world_nether".  Please update your config.yml.
+2014-08-28 20:44:02 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "world_the_end".  Please update your config.yml.
+2014-08-28 20:44:02 [INFO] GriefPrevention: Warning: PvP Configuration: There's no world named "world".  Please update your config.yml.
+2014-08-28 20:44:02 [INFO] GriefPrevention: Warning: PvP Configuration: There's no world named "world_nether".  Please update your config.yml.
+2014-08-28 20:44:02 [INFO] GriefPrevention: Warning: PvP Configuration: There's no world named "world_the_end".  Please update your config.yml.
+2014-08-28 20:44:03 [INFO] GriefPrevention: 0 total claims loaded.
+2014-08-28 20:44:03 [INFO] GriefPrevention: 0 players have staked claims.
+2014-08-28 20:44:04 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+2014-08-28 20:44:04 [INFO] [MultiVerse-NetherPortals] - Version 2.4-b530 Enabled - By Rigby and fernferret
+2014-08-28 20:44:04 [INFO] [Essentials] Enabling Essentials v2.12.1
+2014-08-28 20:44:04 [INFO] Bukkit version format changed. Version not checked.
+2014-08-28 20:44:04 [INFO] git-Bukkit-1.6.4-R1.0 (MC: 1.6.4)
+2014-08-28 20:44:04 [INFO] 1.6.4-R1.0
+2014-08-28 20:44:05 [INFO] Essentials: Using config file enhanced permissions.
+2014-08-28 20:44:05 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-08-28 20:44:05 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v2.0
+2014-08-28 20:44:05 [INFO] [PermissionsBukkit] Enabled successfully
+2014-08-28 20:44:05 [INFO] Essentials: Using PermissionsBukkit based permissions.
+2014-08-28 20:44:05 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.1
+2014-08-28 20:44:05 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.1
+2014-08-28 20:44:05 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-08-28 20:44:05 [INFO] Done (13.392s)! For help, type "help" or "?"
+2014-08-28 20:44:30 [INFO] BraveNewWorld78[/192.168.1.3:55051] logged in with entity id 43 at ([LibraryHub] 1218.699999988079, 24.0, 1099.2377642889433)
+2014-08-28 20:44:31 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: UnknownHostException
+2014-08-28 20:44:31 [WARNING] Could not get latest artifact information: UnknownHostException
+2014-08-28 20:44:45 [INFO] [Metrics] mcstats.org
+2014-08-28 20:45:43 [INFO] [WorldEdit] Using inbuilt NmsBlock for this version.
+2014-08-28 20:46:33 [INFO] BraveNewWorld78 issued server command: /time set 0
+2014-08-28 20:46:33 [INFO] ?cBraveNewWorld78 ?4was denied access to command.
+2014-08-28 20:53:41 [INFO] BraveNewWorld78 was slain by Zombie
+2014-08-28 20:54:45 [INFO] [Metrics] mcstats.org
+2014-08-28 20:55:54 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-08-28 20:59:59 [INFO] Starting minecraft server version 1.6.4
+2014-08-28 20:59:59 [INFO] Loading properties
+2014-08-28 20:59:59 [INFO] Default game type: SURVIVAL
+2014-08-28 20:59:59 [INFO] Generating keypair
+2014-08-28 21:00:00 [INFO] Starting Minecraft server on *:25565
+2014-08-28 21:00:01 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-08-28 21:00:01 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+2014-08-28 21:00:01 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-08-28 21:00:01 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2014-08-28 21:00:01 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+2014-08-28 21:00:01 [INFO] [Essentials] Loading Essentials v2.12.1
+2014-08-28 21:00:01 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v2.0
+2014-08-28 21:00:01 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.1
+2014-08-28 21:00:01 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.1
+2014-08-28 21:00:02 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-08-28 21:00:02 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-08-28 21:00:02 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-08-28 21:00:02 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-08-28 21:00:02 [INFO] Preparing level "LibraryHub"
+2014-08-28 21:00:02 [INFO] Preparing start region for level 0 (Seed: 3893759982153487564)
+2014-08-28 21:00:03 [INFO] Preparing spawn area: 68%
+2014-08-28 21:00:03 [INFO] Preparing start region for level 1 (Seed: 3893759982153487564)
+2014-08-28 21:00:04 [INFO] Preparing start region for level 2 (Seed: 3893759982153487564)
+2014-08-28 21:00:05 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+2014-08-28 21:00:05 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-08-28 21:00:05 [INFO] [AllPay] - Version 10.0 - hooked into Essentials Economy for Multiverse-Core v2.4-b527
+2014-08-28 21:00:05 [INFO] [Multiverse-Core] Loading World & Settings - 'LibraryHub' - Env: NORMAL - Type: FLAT & seed: 3893759982153487564
+2014-08-28 21:00:05 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-08-28 21:00:05 [WARNING] [Multiverse-Core] Original Location: X: -1 Y: 24 Z: -3 P: 0 Y: 0 
+2014-08-28 21:00:05 [INFO] [Multiverse-Core] New Spawn for 'LibraryHub' is Located at: LibraryHub:-3.50,24.00,-5.50:0.00:0.00
+2014-08-28 21:00:05 [INFO] [Multiverse-Core] Loading World & Settings - 'LibraryHub_nether' - Env: NETHER - Type: FLAT & seed: 3893759982153487564
+2014-08-28 21:00:05 [INFO] [Multiverse-Core] Loading World & Settings - 'LibraryHub_the_end' - Env: THE_END - Type: FLAT & seed: 3893759982153487564
+2014-08-28 21:00:05 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-08-28 21:00:05 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-08-28 21:00:05 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-08-28 21:00:05 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2014-08-28 21:00:05 [INFO] GriefPrevention: Grief Prevention enabled.
+2014-08-28 21:00:06 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "world".  Please update your config.yml.
+2014-08-28 21:00:06 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "world_nether".  Please update your config.yml.
+2014-08-28 21:00:06 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "world_the_end".  Please update your config.yml.
+2014-08-28 21:00:06 [INFO] GriefPrevention: Warning: PvP Configuration: There's no world named "world".  Please update your config.yml.
+2014-08-28 21:00:06 [INFO] GriefPrevention: Warning: PvP Configuration: There's no world named "world_nether".  Please update your config.yml.
+2014-08-28 21:00:06 [INFO] GriefPrevention: Warning: PvP Configuration: There's no world named "world_the_end".  Please update your config.yml.
+2014-08-28 21:00:06 [INFO] GriefPrevention: 0 total claims loaded.
+2014-08-28 21:00:06 [INFO] GriefPrevention: 0 players have staked claims.
+2014-08-28 21:00:07 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+2014-08-28 21:00:07 [INFO] [MultiVerse-NetherPortals] - Version 2.4-b530 Enabled - By Rigby and fernferret
+2014-08-28 21:00:07 [INFO] [Essentials] Enabling Essentials v2.12.1
+2014-08-28 21:00:07 [INFO] Bukkit version format changed. Version not checked.
+2014-08-28 21:00:07 [INFO] git-Bukkit-1.6.4-R1.0 (MC: 1.6.4)
+2014-08-28 21:00:07 [INFO] 1.6.4-R1.0
+2014-08-28 21:00:08 [INFO] Essentials: Using config file enhanced permissions.
+2014-08-28 21:00:08 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-08-28 21:00:08 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v2.0
+2014-08-28 21:00:08 [INFO] [PermissionsBukkit] Enabled successfully
+2014-08-28 21:00:08 [INFO] Essentials: Using PermissionsBukkit based permissions.
+2014-08-28 21:00:08 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.1
+2014-08-28 21:00:08 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.1
+2014-08-28 21:00:08 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-08-28 21:00:08 [INFO] Done (6.409s)! For help, type "help" or "?"
+2014-08-28 21:00:41 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: UnknownHostException
+2014-08-28 21:00:41 [WARNING] Could not get latest artifact information: UnknownHostException
+2014-08-28 21:00:48 [INFO] [Metrics] mcstats.org
+2014-08-28 21:01:57 [INFO] BraveNewWorld78[/192.168.1.3:55063] logged in with entity id 27 at ([LibraryHub] 1207.699999988079, 24.0, 1136.699999988079)
+2014-08-28 21:07:45 [INFO] BraveNewWorld78 issued server command: /time set 0
+2014-08-28 21:07:45 [INFO] ?cBraveNewWorld78 ?4was denied access to command.
+2014-08-28 21:10:49 [INFO] [Metrics] mcstats.org
+2014-08-28 21:11:48 [INFO] BraveNewWorld78 issued server command: /time set 0
+2014-08-28 21:11:48 [INFO] ?cBraveNewWorld78 ?4was denied access to command.
+2014-08-28 21:25:55 [INFO] Starting minecraft server version 1.6.4
+2014-08-28 21:25:55 [INFO] Loading properties
+2014-08-28 21:25:55 [INFO] Default game type: SURVIVAL
+2014-08-28 21:25:55 [INFO] Generating keypair
+2014-08-28 21:25:56 [INFO] Starting Minecraft server on *:25565
+2014-08-28 21:25:56 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-08-28 21:25:57 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+2014-08-28 21:25:57 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-08-28 21:25:57 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2014-08-28 21:25:57 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+2014-08-28 21:25:57 [INFO] [Essentials] Loading Essentials v2.12.1
+2014-08-28 21:25:57 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v2.0
+2014-08-28 21:25:57 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.1
+2014-08-28 21:25:57 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.1
+2014-08-28 21:25:57 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-08-28 21:25:57 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-08-28 21:25:57 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-08-28 21:25:57 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-08-28 21:25:57 [INFO] Preparing level "LibraryHub"
+2014-08-28 21:25:58 [INFO] Preparing start region for level 0 (Seed: 3893759982153487564)
+2014-08-28 21:25:59 [INFO] Preparing spawn area: 61%
+2014-08-28 21:25:59 [INFO] Preparing start region for level 1 (Seed: 3893759982153487564)
+2014-08-28 21:26:00 [INFO] Preparing start region for level 2 (Seed: 3893759982153487564)
+2014-08-28 21:26:00 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+2014-08-28 21:26:00 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-08-28 21:26:01 [INFO] [AllPay] - Version 10.0 - hooked into Essentials Economy for Multiverse-Core v2.4-b527
+2014-08-28 21:26:01 [INFO] [Multiverse-Core] Loading World & Settings - 'LibraryHub' - Env: NORMAL - Type: FLAT & seed: 3893759982153487564
+2014-08-28 21:26:01 [INFO] [Multiverse-Core] Loading World & Settings - 'LibraryHub_nether' - Env: NETHER - Type: FLAT & seed: 3893759982153487564
+2014-08-28 21:26:01 [INFO] [Multiverse-Core] Loading World & Settings - 'LibraryHub_the_end' - Env: THE_END - Type: FLAT & seed: 3893759982153487564
+2014-08-28 21:26:01 [INFO] [Multiverse-Core] 3 - World(s) loaded.
+2014-08-28 21:26:01 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-08-28 21:26:01 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-08-28 21:26:01 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2014-08-28 21:26:01 [INFO] GriefPrevention: Grief Prevention enabled.
+2014-08-28 21:26:01 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "world".  Please update your config.yml.
+2014-08-28 21:26:01 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "world_nether".  Please update your config.yml.
+2014-08-28 21:26:01 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "world_the_end".  Please update your config.yml.
+2014-08-28 21:26:01 [INFO] GriefPrevention: Warning: PvP Configuration: There's no world named "world".  Please update your config.yml.
+2014-08-28 21:26:01 [INFO] GriefPrevention: Warning: PvP Configuration: There's no world named "world_nether".  Please update your config.yml.
+2014-08-28 21:26:01 [INFO] GriefPrevention: Warning: PvP Configuration: There's no world named "world_the_end".  Please update your config.yml.
+2014-08-28 21:26:01 [INFO] GriefPrevention: 0 total claims loaded.
+2014-08-28 21:26:01 [INFO] GriefPrevention: 0 players have staked claims.
+2014-08-28 21:26:02 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+2014-08-28 21:26:02 [INFO] [MultiVerse-NetherPortals] - Version 2.4-b530 Enabled - By Rigby and fernferret
+2014-08-28 21:26:02 [INFO] [Essentials] Enabling Essentials v2.12.1
+2014-08-28 21:26:03 [INFO] Bukkit version format changed. Version not checked.
+2014-08-28 21:26:03 [INFO] git-Bukkit-1.6.4-R1.0 (MC: 1.6.4)
+2014-08-28 21:26:03 [INFO] 1.6.4-R1.0
+2014-08-28 21:26:03 [INFO] Essentials: Using config file enhanced permissions.
+2014-08-28 21:26:03 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-08-28 21:26:03 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v2.0
+2014-08-28 21:26:04 [INFO] [PermissionsBukkit] Enabled successfully
+2014-08-28 21:26:04 [INFO] Essentials: Using PermissionsBukkit based permissions.
+2014-08-28 21:26:04 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.1
+2014-08-28 21:26:04 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.1
+2014-08-28 21:26:04 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-08-28 21:26:04 [INFO] Done (6.329s)! For help, type "help" or "?"
+2014-08-28 21:26:37 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: UnknownHostException
+2014-08-28 21:26:37 [WARNING] Could not get latest artifact information: UnknownHostException
+2014-08-28 21:26:44 [INFO] [Metrics] mcstats.org
+2014-08-28 21:29:41 [INFO] BraveNewWorld78[/192.168.1.3:55075] logged in with entity id 41 at ([LibraryHub] -3.5, 24.0, -5.5)
+2014-08-28 21:30:03 [INFO] BraveNewWorld78 issued server command: /time set 1
+2014-08-28 21:30:18 [INFO] BraveNewWorld78 issued server command: /time set day
+2014-08-28 21:31:56 [INFO] Read timed out
+2014-08-28 21:31:56 [INFO] BraveNewWorld78 lost connection: disconnect.endOfStream
+2014-08-28 21:31:56 [INFO] ?eBraveNewWorld78 left the game.
+2014-08-28 21:36:44 [INFO] [Metrics] mcstats.org
+2014-08-28 21:46:44 [INFO] [Metrics] mcstats.org
+2014-08-28 21:56:44 [INFO] [Metrics] mcstats.org
+2014-08-28 22:06:44 [INFO] [Metrics] mcstats.org
+2014-08-28 22:16:44 [INFO] [Metrics] mcstats.org
+2014-08-28 22:26:44 [INFO] [Metrics] mcstats.org
+2014-08-28 22:36:44 [INFO] [Metrics] mcstats.org
+2014-08-28 22:46:44 [INFO] [Metrics] mcstats.org
+2014-08-28 22:56:44 [INFO] [Metrics] mcstats.org
+2014-08-28 23:06:44 [INFO] [Metrics] mcstats.org
+2014-08-28 23:16:44 [INFO] [Metrics] mcstats.org
+2014-08-28 23:26:44 [INFO] [Metrics] mcstats.org
+2014-08-28 23:36:44 [INFO] [Metrics] mcstats.org
+2014-08-28 23:46:44 [INFO] [Metrics] mcstats.org
+2014-08-28 23:56:44 [INFO] [Metrics] mcstats.org
+2014-08-29 00:06:44 [INFO] [Metrics] mcstats.org
+2014-08-29 00:16:44 [INFO] [Metrics] mcstats.org
+2014-08-29 00:26:44 [INFO] [Metrics] mcstats.org
+2014-08-29 00:36:44 [INFO] [Metrics] mcstats.org
+2014-08-29 00:46:44 [INFO] [Metrics] mcstats.org
+2014-08-29 00:56:44 [INFO] [Metrics] mcstats.org
+2014-08-29 01:06:44 [INFO] [Metrics] mcstats.org
+2014-08-29 01:16:44 [INFO] [Metrics] mcstats.org
+2014-08-29 01:26:44 [INFO] [Metrics] mcstats.org
+2014-08-29 01:36:44 [INFO] [Metrics] mcstats.org
+2014-08-29 01:46:44 [INFO] [Metrics] mcstats.org
+2014-08-29 01:56:44 [INFO] [Metrics] mcstats.org
+2014-08-29 02:06:44 [INFO] [Metrics] mcstats.org
+2014-08-29 02:16:44 [INFO] [Metrics] mcstats.org
+2014-08-29 02:26:44 [INFO] [Metrics] mcstats.org
+2014-08-29 02:36:44 [INFO] [Metrics] mcstats.org
+2014-08-29 02:46:44 [INFO] [Metrics] mcstats.org
+2014-08-29 02:56:44 [INFO] [Metrics] mcstats.org
+2014-08-29 03:06:44 [INFO] [Metrics] mcstats.org
+2014-08-29 03:16:44 [INFO] [Metrics] mcstats.org
+2014-08-29 03:26:44 [INFO] [Metrics] mcstats.org
+2014-08-29 03:36:44 [INFO] [Metrics] mcstats.org
+2014-08-29 03:46:44 [INFO] [Metrics] mcstats.org
+2014-08-29 03:56:44 [INFO] [Metrics] mcstats.org
+2014-08-29 04:06:44 [INFO] [Metrics] mcstats.org
+2014-08-29 04:16:44 [INFO] [Metrics] mcstats.org
+2014-08-29 04:26:44 [INFO] [Metrics] mcstats.org
+2014-08-29 04:36:44 [INFO] [Metrics] mcstats.org
+2014-08-29 04:46:44 [INFO] [Metrics] mcstats.org
+2014-08-29 04:56:44 [INFO] [Metrics] mcstats.org
+2014-08-29 05:06:44 [INFO] [Metrics] mcstats.org
+2014-08-29 05:16:44 [INFO] [Metrics] mcstats.org
+2014-08-29 05:26:44 [INFO] [Metrics] mcstats.org
+2014-08-29 05:36:44 [INFO] [Metrics] mcstats.org
+2014-08-29 05:46:44 [INFO] [Metrics] mcstats.org
+2014-08-29 05:56:44 [INFO] [Metrics] mcstats.org
+2014-08-29 06:06:44 [INFO] [Metrics] mcstats.org
+2014-08-29 06:16:44 [INFO] [Metrics] mcstats.org
+2014-08-29 06:26:44 [INFO] [Metrics] mcstats.org
+2014-08-29 06:36:44 [INFO] [Metrics] mcstats.org
+2014-08-29 06:46:44 [INFO] [Metrics] mcstats.org
+2014-08-29 06:56:44 [INFO] [Metrics] mcstats.org
+2014-08-29 07:06:44 [INFO] [Metrics] mcstats.org
+2014-08-29 07:16:44 [INFO] [Metrics] mcstats.org
+2014-08-29 07:26:44 [INFO] [Metrics] mcstats.org
+2014-08-29 07:36:44 [INFO] [Metrics] mcstats.org
+2014-08-29 07:46:44 [INFO] [Metrics] mcstats.org
+2014-08-29 07:56:44 [INFO] [Metrics] mcstats.org
+2014-08-29 08:06:44 [INFO] [Metrics] mcstats.org
+2014-08-29 08:16:44 [INFO] [Metrics] mcstats.org
+2014-08-29 08:26:44 [INFO] [Metrics] mcstats.org
+2014-08-29 08:36:44 [INFO] [Metrics] mcstats.org
+2014-08-29 08:46:44 [INFO] [Metrics] mcstats.org
+2014-08-29 08:56:44 [INFO] [Metrics] mcstats.org
+2014-08-29 09:06:44 [INFO] [Metrics] mcstats.org
+2014-08-29 09:16:44 [INFO] [Metrics] mcstats.org
+2014-08-29 09:26:44 [INFO] [Metrics] mcstats.org
+2014-08-29 09:36:44 [INFO] [Metrics] mcstats.org
+2014-08-29 09:46:44 [INFO] [Metrics] mcstats.org
+2014-08-29 09:56:44 [INFO] [Metrics] mcstats.org
+2014-08-29 10:06:44 [INFO] [Metrics] mcstats.org
+2014-08-29 10:16:44 [INFO] [Metrics] mcstats.org
+2014-08-29 10:26:44 [INFO] [Metrics] mcstats.org
+2014-08-29 10:36:44 [INFO] [Metrics] mcstats.org
+2014-08-29 10:46:44 [INFO] [Metrics] mcstats.org
+2014-08-29 10:56:44 [INFO] [Metrics] mcstats.org
+2014-08-29 11:06:44 [INFO] [Metrics] mcstats.org
+2014-08-29 11:16:44 [INFO] [Metrics] mcstats.org
+2014-08-29 11:26:44 [INFO] [Metrics] mcstats.org
+2014-08-29 11:36:44 [INFO] [Metrics] mcstats.org
+2014-08-29 11:46:44 [INFO] [Metrics] mcstats.org
+2014-08-29 11:56:44 [INFO] [Metrics] mcstats.org
+2014-08-29 12:06:44 [INFO] [Metrics] mcstats.org
+2014-08-29 12:16:44 [INFO] [Metrics] mcstats.org
+2014-08-29 12:26:44 [INFO] [Metrics] mcstats.org
+2014-08-29 12:36:44 [INFO] [Metrics] mcstats.org
+2014-08-29 12:46:44 [INFO] [Metrics] mcstats.org
+2014-08-29 12:56:44 [INFO] [Metrics] mcstats.org
+2014-08-29 13:06:44 [INFO] [Metrics] mcstats.org
+2014-08-29 13:16:44 [INFO] [Metrics] mcstats.org
+2014-08-29 13:26:44 [INFO] [Metrics] mcstats.org
+2014-08-29 13:36:44 [INFO] [Metrics] mcstats.org
+2014-08-29 13:46:44 [INFO] [Metrics] mcstats.org
+2014-08-29 13:56:44 [INFO] [Metrics] mcstats.org
+2014-08-29 14:06:44 [INFO] [Metrics] mcstats.org
+2014-08-29 14:16:44 [INFO] [Metrics] mcstats.org
+2014-08-29 14:26:44 [INFO] [Metrics] mcstats.org
+2014-08-29 14:36:44 [INFO] [Metrics] mcstats.org
+2014-08-29 14:46:44 [INFO] [Metrics] mcstats.org
+2014-08-29 14:56:44 [INFO] [Metrics] mcstats.org
+2014-08-29 15:06:44 [INFO] [Metrics] mcstats.org
+2014-08-29 15:16:44 [INFO] [Metrics] mcstats.org
+2014-08-29 15:26:44 [INFO] [Metrics] mcstats.org
+2014-08-29 15:36:44 [INFO] [Metrics] mcstats.org
+2014-08-29 15:46:44 [INFO] [Metrics] mcstats.org
+2014-08-29 15:56:44 [INFO] [Metrics] mcstats.org
+2014-08-29 16:06:44 [INFO] [Metrics] mcstats.org
+2014-08-29 16:16:44 [INFO] [Metrics] mcstats.org
+2014-08-29 16:26:44 [INFO] [Metrics] mcstats.org
+2014-08-29 16:36:44 [INFO] [Metrics] mcstats.org
+2014-08-29 16:46:44 [INFO] [Metrics] mcstats.org
+2014-08-29 16:56:44 [INFO] [Metrics] mcstats.org
+2014-08-29 17:06:44 [INFO] [Metrics] mcstats.org
+2014-08-29 17:16:44 [INFO] [Metrics] mcstats.org
+2014-08-29 17:26:44 [INFO] [Metrics] mcstats.org
+2014-08-29 17:36:44 [INFO] [Metrics] mcstats.org
+2014-08-29 17:46:44 [INFO] [Metrics] mcstats.org
+2014-08-29 17:56:44 [INFO] [Metrics] mcstats.org
+2014-08-29 18:06:44 [INFO] [Metrics] mcstats.org
+2014-08-29 18:16:44 [INFO] [Metrics] mcstats.org
+2014-08-29 18:26:44 [INFO] [Metrics] mcstats.org
+2014-08-29 18:36:44 [INFO] [Metrics] mcstats.org
+2014-08-29 18:46:44 [INFO] [Metrics] mcstats.org
+2014-08-29 18:56:44 [INFO] [Metrics] mcstats.org
+2014-08-29 19:06:44 [INFO] [Metrics] mcstats.org
+2014-08-29 19:16:44 [INFO] [Metrics] mcstats.org
+2014-08-29 19:26:44 [INFO] [Metrics] mcstats.org
+2014-08-29 19:36:44 [INFO] [Metrics] mcstats.org
+2014-08-29 19:46:44 [INFO] [Metrics] mcstats.org
+2014-08-29 19:56:44 [INFO] [Metrics] mcstats.org
+2014-08-29 20:06:44 [INFO] [Metrics] mcstats.org
+2014-08-29 20:16:44 [INFO] [Metrics] mcstats.org
+2014-08-29 20:26:44 [INFO] [Metrics] mcstats.org
+2014-08-29 20:36:44 [INFO] [Metrics] mcstats.org
+2014-08-29 20:46:44 [INFO] [Metrics] mcstats.org
+2014-08-29 20:56:44 [INFO] [Metrics] mcstats.org
+2014-08-29 21:06:44 [INFO] [Metrics] mcstats.org
+2014-08-29 21:16:44 [INFO] [Metrics] mcstats.org
+2014-08-29 21:26:44 [INFO] [Metrics] mcstats.org
+2014-08-29 21:36:44 [INFO] [Metrics] mcstats.org
+2014-08-29 21:46:44 [INFO] [Metrics] mcstats.org
+2014-08-29 21:56:44 [INFO] [Metrics] mcstats.org
+2014-08-29 22:06:44 [INFO] [Metrics] mcstats.org
+2014-08-29 22:16:44 [INFO] [Metrics] mcstats.org
+2014-08-29 22:26:44 [INFO] [Metrics] mcstats.org
+2014-08-29 22:36:44 [INFO] [Metrics] mcstats.org
+2014-08-29 22:46:44 [INFO] [Metrics] mcstats.org
+2014-08-29 22:56:44 [INFO] [Metrics] mcstats.org
+2014-08-29 23:06:44 [INFO] [Metrics] mcstats.org
+2014-08-29 23:16:44 [INFO] [Metrics] mcstats.org
+2014-08-29 23:26:44 [INFO] [Metrics] mcstats.org
+2014-08-29 23:36:44 [INFO] [Metrics] mcstats.org
+2014-08-29 23:46:44 [INFO] [Metrics] mcstats.org
+2014-08-29 23:56:44 [INFO] [Metrics] mcstats.org
+2014-08-30 00:06:44 [INFO] [Metrics] mcstats.org
+2014-08-30 00:16:44 [INFO] [Metrics] mcstats.org
+2014-08-30 00:26:44 [INFO] [Metrics] mcstats.org
+2014-08-30 00:36:44 [INFO] [Metrics] mcstats.org
+2014-08-30 00:46:44 [INFO] [Metrics] mcstats.org
+2014-08-30 00:56:44 [INFO] [Metrics] mcstats.org
+2014-08-30 01:06:44 [INFO] [Metrics] mcstats.org
+2014-08-30 01:16:44 [INFO] [Metrics] mcstats.org
+2014-08-30 01:26:44 [INFO] [Metrics] mcstats.org
+2014-08-30 01:36:44 [INFO] [Metrics] mcstats.org
+2014-08-30 01:46:44 [INFO] [Metrics] mcstats.org
+2014-08-30 01:56:44 [INFO] [Metrics] mcstats.org
+2014-08-30 02:06:44 [INFO] [Metrics] mcstats.org
+2014-08-30 02:16:44 [INFO] [Metrics] mcstats.org
+2014-08-30 02:26:44 [INFO] [Metrics] mcstats.org
+2014-08-30 02:36:44 [INFO] [Metrics] mcstats.org
+2014-08-30 02:46:44 [INFO] [Metrics] mcstats.org
+2014-08-30 02:56:44 [INFO] [Metrics] mcstats.org
+2014-08-30 03:06:44 [INFO] [Metrics] mcstats.org
+2014-08-30 03:16:44 [INFO] [Metrics] mcstats.org
+2014-08-30 03:26:44 [INFO] [Metrics] mcstats.org
+2014-08-30 03:36:44 [INFO] [Metrics] mcstats.org
+2014-08-30 03:46:44 [INFO] [Metrics] mcstats.org
+2014-08-30 03:56:44 [INFO] [Metrics] mcstats.org
+2014-08-30 04:06:44 [INFO] [Metrics] mcstats.org
+2014-08-30 04:16:44 [INFO] [Metrics] mcstats.org
+2014-08-30 04:26:44 [INFO] [Metrics] mcstats.org
+2014-08-30 04:36:44 [INFO] [Metrics] mcstats.org
+2014-08-30 04:46:44 [INFO] [Metrics] mcstats.org
+2014-08-30 04:56:44 [INFO] [Metrics] mcstats.org
+2014-08-30 05:06:44 [INFO] [Metrics] mcstats.org
+2014-08-30 05:16:44 [INFO] [Metrics] mcstats.org
+2014-08-30 05:26:44 [INFO] [Metrics] mcstats.org
+2014-08-30 05:36:44 [INFO] [Metrics] mcstats.org
+2014-08-30 05:46:44 [INFO] [Metrics] mcstats.org
+2014-08-30 05:56:44 [INFO] [Metrics] mcstats.org
+2014-08-30 06:06:44 [INFO] [Metrics] mcstats.org
+2014-08-30 06:16:44 [INFO] [Metrics] mcstats.org
+2014-08-30 06:26:44 [INFO] [Metrics] mcstats.org
+2014-08-30 06:36:44 [INFO] [Metrics] mcstats.org
+2014-08-30 06:46:44 [INFO] [Metrics] mcstats.org
+2014-08-30 06:56:44 [INFO] [Metrics] mcstats.org
+2014-08-30 07:06:44 [INFO] [Metrics] mcstats.org
+2014-08-30 07:16:44 [INFO] [Metrics] mcstats.org
+2014-08-30 07:26:44 [INFO] [Metrics] mcstats.org
+2014-08-30 07:36:44 [INFO] [Metrics] mcstats.org
+2014-08-30 07:46:44 [INFO] [Metrics] mcstats.org
+2014-08-30 07:56:44 [INFO] [Metrics] mcstats.org
+2014-08-30 08:06:44 [INFO] [Metrics] mcstats.org
+2014-08-30 08:16:44 [INFO] [Metrics] mcstats.org
+2014-08-30 08:26:44 [INFO] [Metrics] mcstats.org
+2014-08-30 08:36:44 [INFO] [Metrics] mcstats.org
+2014-08-30 08:46:44 [INFO] [Metrics] mcstats.org
+2014-08-30 08:56:44 [INFO] [Metrics] mcstats.org
+2014-08-30 09:06:44 [INFO] [Metrics] mcstats.org
+2014-08-30 09:16:44 [INFO] [Metrics] mcstats.org
+2014-08-30 09:26:44 [INFO] [Metrics] mcstats.org
+2014-08-30 09:36:44 [INFO] [Metrics] mcstats.org
+2014-08-30 09:46:44 [INFO] [Metrics] mcstats.org
+2014-08-30 09:56:44 [INFO] [Metrics] mcstats.org
+2014-08-30 10:06:44 [INFO] [Metrics] mcstats.org
+2014-08-30 10:16:44 [INFO] [Metrics] mcstats.org
+2014-08-30 10:26:44 [INFO] [Metrics] mcstats.org
+2014-08-30 10:36:44 [INFO] [Metrics] mcstats.org
+2014-08-30 10:46:44 [INFO] [Metrics] mcstats.org
+2014-08-30 10:56:44 [INFO] [Metrics] mcstats.org
+2014-08-30 11:06:44 [INFO] [Metrics] mcstats.org
+2014-08-30 11:16:44 [INFO] [Metrics] mcstats.org
+2014-08-30 11:26:44 [INFO] [Metrics] mcstats.org
+2014-08-30 11:36:44 [INFO] [Metrics] mcstats.org
+2014-08-30 11:46:44 [INFO] [Metrics] mcstats.org
+2014-08-30 11:56:44 [INFO] [Metrics] mcstats.org
+2014-08-30 12:06:44 [INFO] [Metrics] mcstats.org
+2014-08-30 12:16:44 [INFO] [Metrics] mcstats.org
+2014-08-30 12:26:44 [INFO] [Metrics] mcstats.org
+2014-08-30 12:36:44 [INFO] [Metrics] mcstats.org
+2014-08-30 12:46:44 [INFO] [Metrics] mcstats.org
+2014-08-30 12:56:44 [INFO] [Metrics] mcstats.org
+2014-08-30 13:06:44 [INFO] [Metrics] mcstats.org
+2014-08-30 13:16:44 [INFO] [Metrics] mcstats.org
+2014-08-30 13:26:44 [INFO] [Metrics] mcstats.org
+2014-08-30 13:36:44 [INFO] [Metrics] mcstats.org
+2014-08-30 13:46:44 [INFO] [Metrics] mcstats.org
+2014-08-30 13:56:44 [INFO] [Metrics] mcstats.org
+2014-08-30 14:06:44 [INFO] [Metrics] mcstats.org
+2014-08-30 14:16:44 [INFO] [Metrics] mcstats.org
+2014-08-30 14:26:44 [INFO] [Metrics] mcstats.org
+2014-08-30 14:36:44 [INFO] [Metrics] mcstats.org
+2014-08-30 14:46:44 [INFO] [Metrics] mcstats.org
+2014-08-30 14:56:44 [INFO] [Metrics] mcstats.org
+2014-08-30 15:06:44 [INFO] [Metrics] mcstats.org
+2014-08-30 15:16:44 [INFO] [Metrics] mcstats.org
+2014-08-30 15:26:44 [INFO] [Metrics] mcstats.org
+2014-08-30 15:36:44 [INFO] [Metrics] mcstats.org
+2014-08-30 15:46:44 [INFO] [Metrics] mcstats.org
+2014-08-30 15:56:44 [INFO] [Metrics] mcstats.org
+2014-08-30 16:06:44 [INFO] [Metrics] mcstats.org
+2014-08-30 16:16:44 [INFO] [Metrics] mcstats.org
+2014-08-30 16:26:44 [INFO] [Metrics] mcstats.org
+2014-08-30 16:36:44 [INFO] [Metrics] mcstats.org
+2014-08-30 16:46:44 [INFO] [Metrics] mcstats.org
+2014-08-30 16:56:44 [INFO] [Metrics] mcstats.org
+2014-08-30 17:06:44 [INFO] [Metrics] mcstats.org
+2014-08-30 17:16:44 [INFO] [Metrics] mcstats.org
+2014-08-30 17:26:44 [INFO] [Metrics] mcstats.org
+2014-08-30 17:36:44 [INFO] [Metrics] mcstats.org
+2014-08-30 17:46:44 [INFO] [Metrics] mcstats.org
+2014-08-30 17:56:44 [INFO] [Metrics] mcstats.org
+2014-08-30 18:06:44 [INFO] [Metrics] mcstats.org
+2014-08-30 18:16:44 [INFO] [Metrics] mcstats.org
+2014-08-30 18:26:44 [INFO] [Metrics] mcstats.org
+2014-08-30 18:36:44 [INFO] [Metrics] mcstats.org
+2014-08-30 18:46:44 [INFO] [Metrics] mcstats.org
+2014-08-30 18:56:44 [INFO] [Metrics] mcstats.org
+2014-08-30 19:06:44 [INFO] [Metrics] mcstats.org
+2014-08-30 19:16:44 [INFO] [Metrics] mcstats.org
+2014-08-30 19:26:44 [INFO] [Metrics] mcstats.org
+2014-08-30 19:36:44 [INFO] [Metrics] mcstats.org
+2014-08-30 19:46:44 [INFO] [Metrics] mcstats.org
+2014-08-30 19:56:44 [INFO] [Metrics] mcstats.org
+2014-08-30 20:06:44 [INFO] [Metrics] mcstats.org
+2014-08-30 20:16:44 [INFO] [Metrics] mcstats.org
+2014-08-30 20:26:44 [INFO] [Metrics] mcstats.org
+2014-08-30 20:36:44 [INFO] [Metrics] mcstats.org
+2014-08-30 20:46:44 [INFO] [Metrics] mcstats.org
+2014-08-30 20:56:44 [INFO] [Metrics] mcstats.org
+2014-08-30 21:06:44 [INFO] [Metrics] mcstats.org
+2014-08-30 21:16:44 [INFO] [Metrics] mcstats.org
+2014-08-30 21:26:44 [INFO] [Metrics] mcstats.org
+2014-08-30 21:36:44 [INFO] [Metrics] mcstats.org
+2014-08-30 21:46:44 [INFO] [Metrics] mcstats.org
+2014-08-30 21:56:44 [INFO] [Metrics] mcstats.org
+2014-08-30 22:06:44 [INFO] [Metrics] mcstats.org
+2014-08-30 22:16:44 [INFO] [Metrics] mcstats.org
+2014-08-30 22:26:44 [INFO] [Metrics] mcstats.org
+2014-08-30 22:36:44 [INFO] [Metrics] mcstats.org
+2014-08-30 22:46:44 [INFO] [Metrics] mcstats.org
+2014-08-30 22:56:44 [INFO] [Metrics] mcstats.org
+2014-08-30 23:06:44 [INFO] [Metrics] mcstats.org
+2014-08-30 23:16:44 [INFO] [Metrics] mcstats.org
+2014-08-30 23:26:44 [INFO] [Metrics] mcstats.org
+2014-08-30 23:36:44 [INFO] [Metrics] mcstats.org
+2014-08-30 23:46:44 [INFO] [Metrics] mcstats.org
+2014-08-30 23:56:44 [INFO] [Metrics] mcstats.org
+2014-08-31 00:06:44 [INFO] [Metrics] mcstats.org
+2014-08-31 00:16:44 [INFO] [Metrics] mcstats.org
+2014-08-31 00:26:44 [INFO] [Metrics] mcstats.org
+2014-08-31 00:36:44 [INFO] [Metrics] mcstats.org
+2014-08-31 00:46:44 [INFO] [Metrics] mcstats.org
+2014-08-31 00:56:44 [INFO] [Metrics] mcstats.org
+2014-08-31 01:06:44 [INFO] [Metrics] mcstats.org
+2014-08-31 01:16:44 [INFO] [Metrics] mcstats.org
+2014-08-31 01:26:44 [INFO] [Metrics] mcstats.org
+2014-08-31 01:36:44 [INFO] [Metrics] mcstats.org
+2014-08-31 01:46:44 [INFO] [Metrics] mcstats.org
+2014-08-31 01:56:44 [INFO] [Metrics] mcstats.org
+2014-08-31 02:06:44 [INFO] [Metrics] mcstats.org
+2014-08-31 02:16:44 [INFO] [Metrics] mcstats.org
+2014-08-31 02:26:44 [INFO] [Metrics] mcstats.org
+2014-08-31 02:36:44 [INFO] [Metrics] mcstats.org
+2014-08-31 02:46:44 [INFO] [Metrics] mcstats.org
+2014-08-31 02:56:44 [INFO] [Metrics] mcstats.org
+2014-08-31 03:06:44 [INFO] [Metrics] mcstats.org
+2014-08-31 03:16:44 [INFO] [Metrics] mcstats.org
+2014-08-31 03:26:44 [INFO] [Metrics] mcstats.org
+2014-08-31 03:36:44 [INFO] [Metrics] mcstats.org
+2014-08-31 03:46:44 [INFO] [Metrics] mcstats.org
+2014-08-31 03:56:44 [INFO] [Metrics] mcstats.org
+2014-08-31 04:06:44 [INFO] [Metrics] mcstats.org
+2014-08-31 04:16:44 [INFO] [Metrics] mcstats.org
+2014-08-31 04:26:44 [INFO] [Metrics] mcstats.org
+2014-08-31 04:36:44 [INFO] [Metrics] mcstats.org
+2014-08-31 04:46:44 [INFO] [Metrics] mcstats.org
+2014-08-31 04:56:44 [INFO] [Metrics] mcstats.org
+2014-08-31 05:06:44 [INFO] [Metrics] mcstats.org
+2014-08-31 05:16:44 [INFO] [Metrics] mcstats.org
+2014-08-31 05:26:44 [INFO] [Metrics] mcstats.org
+2014-08-31 05:36:44 [INFO] [Metrics] mcstats.org
+2014-08-31 05:46:44 [INFO] [Metrics] mcstats.org
+2014-08-31 05:56:44 [INFO] [Metrics] mcstats.org
+2014-08-31 06:06:44 [INFO] [Metrics] mcstats.org
+2014-08-31 06:16:44 [INFO] [Metrics] mcstats.org
+2014-08-31 06:26:44 [INFO] [Metrics] mcstats.org
+2014-08-31 06:36:44 [INFO] [Metrics] mcstats.org
+2014-08-31 06:46:44 [INFO] [Metrics] mcstats.org
+2014-08-31 06:56:44 [INFO] [Metrics] mcstats.org
+2014-08-31 07:06:44 [INFO] [Metrics] mcstats.org
+2014-08-31 07:16:44 [INFO] [Metrics] mcstats.org
+2014-08-31 07:26:44 [INFO] [Metrics] mcstats.org
+2014-08-31 07:36:44 [INFO] [Metrics] mcstats.org
+2014-08-31 07:46:44 [INFO] [Metrics] mcstats.org
+2014-08-31 07:56:44 [INFO] [Metrics] mcstats.org
+2014-08-31 08:06:44 [INFO] [Metrics] mcstats.org
+2014-08-31 08:16:44 [INFO] [Metrics] mcstats.org
+2014-08-31 08:26:44 [INFO] [Metrics] mcstats.org
+2014-08-31 08:36:44 [INFO] [Metrics] mcstats.org
+2014-08-31 08:46:44 [INFO] [Metrics] mcstats.org
+2014-08-31 08:56:44 [INFO] [Metrics] mcstats.org
+2014-08-31 09:06:44 [INFO] [Metrics] mcstats.org
+2014-08-31 09:16:44 [INFO] [Metrics] mcstats.org
+2014-08-31 09:26:44 [INFO] [Metrics] mcstats.org
+2014-09-04 19:44:32 [INFO] Read timed out
+2014-09-04 19:44:02 [INFO] Sigurre[/192.168.1.12:49503] logged in with entity id 4469 at ([LibraryHub] 1264.0611019913547, 24.0, 1136.3653481415522)
+2014-09-04 19:36:44 [INFO] [Metrics] mcstats.org
+2014-09-04 19:26:44 [INFO] [Metrics] mcstats.org
+2014-09-04 19:16:44 [INFO] [Metrics] mcstats.org
+2014-09-04 19:06:44 [INFO] [Metrics] mcstats.org
+2014-09-04 18:56:44 [INFO] [Metrics] mcstats.org
+2014-09-04 18:46:44 [INFO] [Metrics] mcstats.org
+2014-09-04 18:36:44 [INFO] [Metrics] mcstats.org
+2014-09-04 18:26:44 [INFO] [Metrics] mcstats.org
+2014-09-04 18:16:44 [INFO] [Metrics] mcstats.org
+2014-09-04 18:06:44 [INFO] [Metrics] mcstats.org
+2014-09-04 17:56:44 [INFO] [Metrics] mcstats.org
+2014-09-04 17:46:44 [INFO] [Metrics] mcstats.org
+2014-09-04 17:36:44 [INFO] [Metrics] mcstats.org
+2014-09-04 17:26:44 [INFO] [Metrics] mcstats.org
+2014-09-04 17:16:44 [INFO] [Metrics] mcstats.org
+2014-09-04 17:06:44 [INFO] [Metrics] mcstats.org
+2014-09-04 16:56:44 [INFO] [Metrics] mcstats.org
+2014-09-04 16:46:44 [INFO] [Metrics] mcstats.org
+2014-09-04 16:36:44 [INFO] [Metrics] mcstats.org
+2014-09-04 16:26:44 [INFO] [Metrics] mcstats.org
+2014-09-04 16:16:44 [INFO] [Metrics] mcstats.org
+2014-09-04 16:06:44 [INFO] [Metrics] mcstats.org
+2014-09-04 15:56:44 [INFO] [Metrics] mcstats.org
+2014-09-04 15:46:44 [INFO] [Metrics] mcstats.org
+2014-09-04 15:36:44 [INFO] [Metrics] mcstats.org
+2014-09-04 15:26:44 [INFO] [Metrics] mcstats.org
+2014-09-04 15:16:44 [INFO] [Metrics] mcstats.org
+2014-09-04 15:06:44 [INFO] [Metrics] mcstats.org
+2014-09-04 14:56:44 [INFO] [Metrics] mcstats.org
+2014-09-04 14:46:44 [INFO] [Metrics] mcstats.org
+2014-09-04 14:36:44 [INFO] [Metrics] mcstats.org
+2014-09-04 14:26:44 [INFO] [Metrics] mcstats.org
+2014-09-04 14:16:44 [INFO] [Metrics] mcstats.org
+2014-09-04 14:06:44 [INFO] [Metrics] mcstats.org
+2014-09-04 13:56:44 [INFO] [Metrics] mcstats.org
+2014-09-04 13:46:44 [INFO] [Metrics] mcstats.org
+2014-09-04 13:36:44 [INFO] [Metrics] mcstats.org
+2014-09-04 13:26:44 [INFO] [Metrics] mcstats.org
+2014-09-04 13:16:44 [INFO] [Metrics] mcstats.org
+2014-09-04 13:06:44 [INFO] [Metrics] mcstats.org
+2014-09-04 12:56:44 [INFO] [Metrics] mcstats.org
+2014-09-04 12:46:44 [INFO] [Metrics] mcstats.org
+2014-09-04 12:36:44 [INFO] [Metrics] mcstats.org
+2014-09-04 12:26:44 [INFO] [Metrics] mcstats.org
+2014-09-04 12:16:44 [INFO] [Metrics] mcstats.org
+2014-09-04 12:06:44 [INFO] [Metrics] mcstats.org
+2014-09-04 11:56:44 [INFO] [Metrics] mcstats.org
+2014-09-04 11:46:44 [INFO] [Metrics] mcstats.org
+2014-09-04 11:36:44 [INFO] [Metrics] mcstats.org
+2014-09-04 11:26:44 [INFO] [Metrics] mcstats.org
+2014-09-04 11:16:44 [INFO] [Metrics] mcstats.org
+2014-09-04 11:06:44 [INFO] [Metrics] mcstats.org
+2014-09-04 10:56:44 [INFO] [Metrics] mcstats.org
+2014-09-04 10:46:44 [INFO] [Metrics] mcstats.org
+2014-09-04 10:36:44 [INFO] [Metrics] mcstats.org
+2014-09-04 10:26:44 [INFO] [Metrics] mcstats.org
+2014-09-04 10:16:44 [INFO] [Metrics] mcstats.org
+2014-09-04 10:06:44 [INFO] [Metrics] mcstats.org
+2014-09-04 09:56:44 [INFO] [Metrics] mcstats.org
+2014-09-04 09:46:44 [INFO] [Metrics] mcstats.org
+2014-09-04 09:36:44 [INFO] [Metrics] mcstats.org
+2014-09-04 09:26:44 [INFO] [Metrics] mcstats.org
+2014-09-04 09:16:44 [INFO] [Metrics] mcstats.org
+2014-09-04 09:06:44 [INFO] [Metrics] mcstats.org
+2014-09-04 08:56:44 [INFO] [Metrics] mcstats.org
+2014-09-04 08:46:44 [INFO] [Metrics] mcstats.org
+2014-09-04 08:36:44 [INFO] [Metrics] mcstats.org
+2014-09-04 08:26:44 [INFO] [Metrics] mcstats.org
+2014-09-04 08:16:44 [INFO] [Metrics] mcstats.org
+2014-09-04 08:06:44 [INFO] [Metrics] mcstats.org
+2014-09-04 07:56:44 [INFO] [Metrics] mcstats.org
+2014-09-04 07:46:44 [INFO] [Metrics] mcstats.org
+2014-09-04 07:36:44 [INFO] [Metrics] mcstats.org
+2014-09-04 07:26:44 [INFO] [Metrics] mcstats.org
+2014-09-04 07:16:44 [INFO] [Metrics] mcstats.org
+2014-09-04 07:06:44 [INFO] [Metrics] mcstats.org
+2014-09-04 06:56:44 [INFO] [Metrics] mcstats.org
+2014-09-04 06:46:44 [INFO] [Metrics] mcstats.org
+2014-09-04 06:36:44 [INFO] [Metrics] mcstats.org
+2014-09-04 06:26:44 [INFO] [Metrics] mcstats.org
+2014-09-04 06:16:44 [INFO] [Metrics] mcstats.org
+2014-09-04 06:06:44 [INFO] [Metrics] mcstats.org
+2014-09-04 05:56:44 [INFO] [Metrics] mcstats.org
+2014-09-04 05:46:44 [INFO] [Metrics] mcstats.org
+2014-09-04 05:36:44 [INFO] [Metrics] mcstats.org
+2014-09-04 05:26:44 [INFO] [Metrics] mcstats.org
+2014-09-04 05:16:44 [INFO] [Metrics] mcstats.org
+2014-09-04 05:06:44 [INFO] [Metrics] mcstats.org
+2014-09-04 04:56:44 [INFO] [Metrics] mcstats.org
+2014-09-04 04:46:44 [INFO] [Metrics] mcstats.org
+2014-09-04 04:36:44 [INFO] [Metrics] mcstats.org
+2014-09-04 04:26:44 [INFO] [Metrics] mcstats.org
+2014-09-04 04:16:44 [INFO] [Metrics] mcstats.org
+2014-09-04 04:06:44 [INFO] [Metrics] mcstats.org
+2014-09-04 03:56:44 [INFO] [Metrics] mcstats.org
+2014-09-04 03:46:44 [INFO] [Metrics] mcstats.org
+2014-09-04 03:36:44 [INFO] [Metrics] mcstats.org
+2014-09-04 03:26:44 [INFO] [Metrics] mcstats.org
+2014-09-04 03:16:44 [INFO] [Metrics] mcstats.org
+2014-09-04 03:06:44 [INFO] [Metrics] mcstats.org
+2014-09-04 02:56:44 [INFO] [Metrics] mcstats.org
+2014-09-04 02:46:44 [INFO] [Metrics] mcstats.org
+2014-09-04 02:36:44 [INFO] [Metrics] mcstats.org
+2014-09-04 02:26:44 [INFO] [Metrics] mcstats.org
+2014-09-04 02:16:44 [INFO] [Metrics] mcstats.org
+2014-09-04 02:06:44 [INFO] [Metrics] mcstats.org
+2014-09-04 01:56:44 [INFO] [Metrics] mcstats.org
+2014-09-04 01:46:44 [INFO] [Metrics] mcstats.org
+2014-09-04 01:36:44 [INFO] [Metrics] mcstats.org
+2014-09-04 01:26:44 [INFO] [Metrics] mcstats.org
+2014-09-04 01:16:44 [INFO] [Metrics] mcstats.org
+2014-09-04 01:06:44 [INFO] [Metrics] mcstats.org
+2014-09-04 00:56:44 [INFO] [Metrics] mcstats.org
+2014-09-04 00:46:44 [INFO] [Metrics] mcstats.org
+2014-09-04 00:36:44 [INFO] [Metrics] mcstats.org
+2014-09-04 00:26:44 [INFO] [Metrics] mcstats.org
+2014-09-04 00:16:44 [INFO] [Metrics] mcstats.org
+2014-09-04 00:06:44 [INFO] [Metrics] mcstats.org
+2014-09-03 23:56:44 [INFO] [Metrics] mcstats.org
+2014-09-03 23:46:44 [INFO] [Metrics] mcstats.org
+2014-09-03 23:36:44 [INFO] [Metrics] mcstats.org
+2014-09-03 23:26:44 [INFO] [Metrics] mcstats.org
+2014-09-03 23:16:44 [INFO] [Metrics] mcstats.org
+2014-09-03 23:06:44 [INFO] [Metrics] mcstats.org
+2014-09-03 22:56:44 [INFO] [Metrics] mcstats.org
+2014-09-03 22:46:44 [INFO] [Metrics] mcstats.org
+2014-09-03 22:36:44 [INFO] [Metrics] mcstats.org
+2014-09-03 22:26:44 [INFO] [Metrics] mcstats.org
+2014-09-03 22:16:44 [INFO] [Metrics] mcstats.org
+2014-09-03 22:06:44 [INFO] [Metrics] mcstats.org
+2014-09-03 21:56:44 [INFO] [Metrics] mcstats.org
+2014-09-03 21:46:44 [INFO] [Metrics] mcstats.org
+2014-09-03 21:36:44 [INFO] [Metrics] mcstats.org
+2014-09-03 21:26:44 [INFO] [Metrics] mcstats.org
+2014-09-03 21:16:44 [INFO] [Metrics] mcstats.org
+2014-09-03 21:06:44 [INFO] [Metrics] mcstats.org
+2014-09-03 20:56:44 [INFO] [Metrics] mcstats.org
+2014-09-03 20:46:44 [INFO] [Metrics] mcstats.org
+2014-09-03 20:36:44 [INFO] [Metrics] mcstats.org
+2014-09-03 20:26:44 [INFO] [Metrics] mcstats.org
+2014-09-03 20:16:44 [INFO] [Metrics] mcstats.org
+2014-09-03 20:06:44 [INFO] [Metrics] mcstats.org
+2014-09-03 19:56:44 [INFO] [Metrics] mcstats.org
+2014-09-03 19:46:44 [INFO] [Metrics] mcstats.org
+2014-09-03 19:36:44 [INFO] [Metrics] mcstats.org
+2014-09-03 19:26:44 [INFO] [Metrics] mcstats.org
+2014-09-03 19:16:44 [INFO] [Metrics] mcstats.org
+2014-09-03 19:06:44 [INFO] [Metrics] mcstats.org
+2014-09-03 18:56:44 [INFO] [Metrics] mcstats.org
+2014-09-03 18:46:44 [INFO] [Metrics] mcstats.org
+2014-09-03 18:36:44 [INFO] [Metrics] mcstats.org
+2014-09-03 18:26:44 [INFO] [Metrics] mcstats.org
+2014-09-03 18:16:44 [INFO] [Metrics] mcstats.org
+2014-09-03 18:06:44 [INFO] [Metrics] mcstats.org
+2014-09-03 17:56:44 [INFO] [Metrics] mcstats.org
+2014-09-03 17:46:44 [INFO] [Metrics] mcstats.org
+2014-09-03 17:36:44 [INFO] [Metrics] mcstats.org
+2014-09-03 17:26:44 [INFO] [Metrics] mcstats.org
+2014-09-03 17:16:44 [INFO] [Metrics] mcstats.org
+2014-09-03 17:06:44 [INFO] [Metrics] mcstats.org
+2014-09-03 16:56:44 [INFO] [Metrics] mcstats.org
+2014-09-03 16:46:44 [INFO] [Metrics] mcstats.org
+2014-09-03 16:36:44 [INFO] [Metrics] mcstats.org
+2014-09-03 16:26:44 [INFO] [Metrics] mcstats.org
+2014-09-03 16:16:44 [INFO] [Metrics] mcstats.org
+2014-09-03 16:06:44 [INFO] [Metrics] mcstats.org
+2014-09-03 15:56:44 [INFO] [Metrics] mcstats.org
+2014-09-03 15:46:44 [INFO] [Metrics] mcstats.org
+2014-09-03 15:36:44 [INFO] [Metrics] mcstats.org
+2014-09-03 15:26:44 [INFO] [Metrics] mcstats.org
+2014-09-03 15:16:44 [INFO] [Metrics] mcstats.org
+2014-09-03 15:06:44 [INFO] [Metrics] mcstats.org
+2014-09-03 14:56:44 [INFO] [Metrics] mcstats.org
+2014-09-03 14:46:44 [INFO] [Metrics] mcstats.org
+2014-09-03 14:36:44 [INFO] [Metrics] mcstats.org
+2014-09-03 14:26:44 [INFO] [Metrics] mcstats.org
+2014-09-03 14:16:44 [INFO] [Metrics] mcstats.org
+2014-09-03 14:06:44 [INFO] [Metrics] mcstats.org
+2014-09-03 13:56:44 [INFO] [Metrics] mcstats.org
+2014-09-03 13:46:44 [INFO] [Metrics] mcstats.org
+2014-09-03 13:36:44 [INFO] [Metrics] mcstats.org
+2014-09-03 13:26:44 [INFO] [Metrics] mcstats.org
+2014-09-03 13:16:44 [INFO] [Metrics] mcstats.org
+2014-09-03 13:06:44 [INFO] [Metrics] mcstats.org
+2014-09-03 12:56:44 [INFO] [Metrics] mcstats.org
+2014-09-03 12:46:44 [INFO] [Metrics] mcstats.org
+2014-09-03 12:36:44 [INFO] [Metrics] mcstats.org
+2014-09-03 12:26:44 [INFO] [Metrics] mcstats.org
+2014-09-03 12:16:44 [INFO] [Metrics] mcstats.org
+2014-09-03 12:06:44 [INFO] [Metrics] mcstats.org
+2014-09-03 11:56:44 [INFO] [Metrics] mcstats.org
+2014-09-03 11:46:44 [INFO] [Metrics] mcstats.org
+2014-09-03 11:36:44 [INFO] [Metrics] mcstats.org
+2014-09-03 11:26:44 [INFO] [Metrics] mcstats.org
+2014-09-03 11:16:44 [INFO] [Metrics] mcstats.org
+2014-09-03 11:06:44 [INFO] [Metrics] mcstats.org
+2014-09-03 10:56:44 [INFO] [Metrics] mcstats.org
+2014-09-03 10:46:44 [INFO] [Metrics] mcstats.org
+2014-09-03 10:36:44 [INFO] [Metrics] mcstats.org
+2014-09-03 10:26:44 [INFO] [Metrics] mcstats.org
+2014-09-03 10:16:44 [INFO] [Metrics] mcstats.org
+2014-09-03 10:06:44 [INFO] [Metrics] mcstats.org
+2014-09-03 09:56:44 [INFO] [Metrics] mcstats.org
+2014-09-03 09:46:44 [INFO] [Metrics] mcstats.org
+2014-09-03 09:36:44 [INFO] [Metrics] mcstats.org
+2014-09-03 09:26:44 [INFO] [Metrics] mcstats.org
+2014-09-03 09:16:44 [INFO] [Metrics] mcstats.org
+2014-09-03 09:06:44 [INFO] [Metrics] mcstats.org
+2014-09-03 08:56:44 [INFO] [Metrics] mcstats.org
+2014-09-03 08:46:44 [INFO] [Metrics] mcstats.org
+2014-09-03 08:36:44 [INFO] [Metrics] mcstats.org
+2014-09-03 08:26:44 [INFO] [Metrics] mcstats.org
+2014-09-03 08:16:44 [INFO] [Metrics] mcstats.org
+2014-09-03 08:06:44 [INFO] [Metrics] mcstats.org
+2014-09-03 07:56:44 [INFO] [Metrics] mcstats.org
+2014-09-03 07:46:44 [INFO] [Metrics] mcstats.org
+2014-09-03 07:36:44 [INFO] [Metrics] mcstats.org
+2014-09-03 07:26:44 [INFO] [Metrics] mcstats.org
+2014-09-03 07:16:44 [INFO] [Metrics] mcstats.org
+2014-09-03 07:06:44 [INFO] [Metrics] mcstats.org
+2014-09-03 06:56:44 [INFO] [Metrics] mcstats.org
+2014-09-03 06:46:44 [INFO] [Metrics] mcstats.org
+2014-09-03 06:36:44 [INFO] [Metrics] mcstats.org
+2014-09-03 06:26:44 [INFO] [Metrics] mcstats.org
+2014-09-03 06:16:44 [INFO] [Metrics] mcstats.org
+2014-09-03 06:06:44 [INFO] [Metrics] mcstats.org
+2014-09-03 05:56:44 [INFO] [Metrics] mcstats.org
+2014-09-03 05:46:44 [INFO] [Metrics] mcstats.org
+2014-09-03 05:36:44 [INFO] [Metrics] mcstats.org
+2014-09-03 05:26:44 [INFO] [Metrics] mcstats.org
+2014-09-03 05:16:44 [INFO] [Metrics] mcstats.org
+2014-09-03 05:06:44 [INFO] [Metrics] mcstats.org
+2014-09-03 04:56:44 [INFO] [Metrics] mcstats.org
+2014-09-03 04:46:44 [INFO] [Metrics] mcstats.org
+2014-09-03 04:36:44 [INFO] [Metrics] mcstats.org
+2014-09-03 04:26:44 [INFO] [Metrics] mcstats.org
+2014-09-03 04:16:44 [INFO] [Metrics] mcstats.org
+2014-09-03 04:06:44 [INFO] [Metrics] mcstats.org
+2014-09-03 03:56:44 [INFO] [Metrics] mcstats.org
+2014-09-03 03:46:44 [INFO] [Metrics] mcstats.org
+2014-09-03 03:36:44 [INFO] [Metrics] mcstats.org
+2014-09-03 03:26:44 [INFO] [Metrics] mcstats.org
+2014-09-03 03:16:44 [INFO] [Metrics] mcstats.org
+2014-09-03 03:06:44 [INFO] [Metrics] mcstats.org
+2014-09-03 02:56:44 [INFO] [Metrics] mcstats.org
+2014-09-03 02:46:44 [INFO] [Metrics] mcstats.org
+2014-09-03 02:36:44 [INFO] [Metrics] mcstats.org
+2014-09-03 02:26:44 [INFO] [Metrics] mcstats.org
+2014-09-03 02:16:44 [INFO] [Metrics] mcstats.org
+2014-09-03 02:06:44 [INFO] [Metrics] mcstats.org
+2014-09-03 01:56:44 [INFO] [Metrics] mcstats.org
+2014-09-03 01:46:44 [INFO] [Metrics] mcstats.org
+2014-09-03 01:36:44 [INFO] [Metrics] mcstats.org
+2014-09-03 01:26:44 [INFO] [Metrics] mcstats.org
+2014-09-03 01:16:44 [INFO] [Metrics] mcstats.org
+2014-09-03 01:06:44 [INFO] [Metrics] mcstats.org
+2014-09-03 00:56:44 [INFO] [Metrics] mcstats.org
+2014-09-03 00:46:44 [INFO] [Metrics] mcstats.org
+2014-09-03 00:36:44 [INFO] [Metrics] mcstats.org
+2014-09-03 00:26:44 [INFO] [Metrics] mcstats.org
+2014-09-03 00:16:44 [INFO] [Metrics] mcstats.org
+2014-09-03 00:06:44 [INFO] [Metrics] mcstats.org
+2014-09-02 23:56:44 [INFO] [Metrics] mcstats.org
+2014-09-02 23:46:44 [INFO] [Metrics] mcstats.org
+2014-09-02 23:36:44 [INFO] [Metrics] mcstats.org
+2014-09-02 23:26:44 [INFO] [Metrics] mcstats.org
+2014-09-02 23:16:44 [INFO] [Metrics] mcstats.org
+2014-09-02 23:06:44 [INFO] [Metrics] mcstats.org
+2014-09-02 22:56:44 [INFO] [Metrics] mcstats.org
+2014-09-02 22:46:44 [INFO] [Metrics] mcstats.org
+2014-09-02 22:36:44 [INFO] [Metrics] mcstats.org
+2014-09-02 22:26:44 [INFO] [Metrics] mcstats.org
+2014-09-02 22:16:44 [INFO] [Metrics] mcstats.org
+2014-09-02 22:06:44 [INFO] [Metrics] mcstats.org
+2014-09-02 21:56:44 [INFO] [Metrics] mcstats.org
+2014-09-02 21:46:44 [INFO] [Metrics] mcstats.org
+2014-09-02 21:36:44 [INFO] [Metrics] mcstats.org
+2014-09-02 21:26:44 [INFO] [Metrics] mcstats.org
+2014-09-02 21:16:44 [INFO] [Metrics] mcstats.org
+2014-09-02 21:06:44 [INFO] [Metrics] mcstats.org
+2014-09-02 20:56:44 [INFO] [Metrics] mcstats.org
+2014-09-02 20:46:44 [INFO] [Metrics] mcstats.org
+2014-09-02 20:36:44 [INFO] [Metrics] mcstats.org
+2014-09-02 20:26:44 [INFO] [Metrics] mcstats.org
+2014-09-02 20:16:44 [INFO] [Metrics] mcstats.org
+2014-09-02 20:06:44 [INFO] [Metrics] mcstats.org
+2014-09-02 19:56:44 [INFO] [Metrics] mcstats.org
+2014-09-02 19:46:44 [INFO] [Metrics] mcstats.org
+2014-09-02 19:36:44 [INFO] [Metrics] mcstats.org
+2014-09-02 19:26:44 [INFO] [Metrics] mcstats.org
+2014-09-02 19:16:44 [INFO] [Metrics] mcstats.org
+2014-09-02 19:06:44 [INFO] [Metrics] mcstats.org
+2014-09-02 18:56:44 [INFO] [Metrics] mcstats.org
+2014-09-02 18:46:44 [INFO] [Metrics] mcstats.org
+2014-09-02 18:36:44 [INFO] [Metrics] mcstats.org
+2014-09-02 18:26:44 [INFO] [Metrics] mcstats.org
+2014-09-02 18:16:44 [INFO] [Metrics] mcstats.org
+2014-09-02 18:06:44 [INFO] [Metrics] mcstats.org
+2014-09-02 17:56:44 [INFO] [Metrics] mcstats.org
+2014-09-02 17:46:44 [INFO] [Metrics] mcstats.org
+2014-09-02 17:36:44 [INFO] [Metrics] mcstats.org
+2014-09-02 17:26:44 [INFO] [Metrics] mcstats.org
+2014-09-02 17:16:44 [INFO] [Metrics] mcstats.org
+2014-09-02 17:06:44 [INFO] [Metrics] mcstats.org
+2014-09-02 16:56:44 [INFO] [Metrics] mcstats.org
+2014-09-02 16:46:44 [INFO] [Metrics] mcstats.org
+2014-09-02 16:36:44 [INFO] [Metrics] mcstats.org
+2014-09-02 16:26:44 [INFO] [Metrics] mcstats.org
+2014-09-02 16:16:44 [INFO] [Metrics] mcstats.org
+2014-09-02 16:06:44 [INFO] [Metrics] mcstats.org
+2014-09-02 15:56:44 [INFO] [Metrics] mcstats.org
+2014-09-02 15:46:44 [INFO] [Metrics] mcstats.org
+2014-09-02 15:36:44 [INFO] [Metrics] mcstats.org
+2014-09-02 15:26:44 [INFO] [Metrics] mcstats.org
+2014-09-02 15:16:44 [INFO] [Metrics] mcstats.org
+2014-09-02 15:06:44 [INFO] [Metrics] mcstats.org
+2014-09-02 14:56:44 [INFO] [Metrics] mcstats.org
+2014-09-02 14:46:44 [INFO] [Metrics] mcstats.org
+2014-09-02 14:36:44 [INFO] [Metrics] mcstats.org
+2014-09-02 14:26:44 [INFO] [Metrics] mcstats.org
+2014-09-02 14:16:44 [INFO] [Metrics] mcstats.org
+2014-09-02 14:06:44 [INFO] [Metrics] mcstats.org
+2014-09-02 13:56:44 [INFO] [Metrics] mcstats.org
+2014-09-02 13:46:44 [INFO] [Metrics] mcstats.org
+2014-09-02 13:36:44 [INFO] [Metrics] mcstats.org
+2014-09-02 13:26:44 [INFO] [Metrics] mcstats.org
+2014-09-02 13:16:44 [INFO] [Metrics] mcstats.org
+2014-09-02 13:06:44 [INFO] [Metrics] mcstats.org
+2014-09-02 12:56:44 [INFO] [Metrics] mcstats.org
+2014-09-02 12:46:44 [INFO] [Metrics] mcstats.org
+2014-09-02 12:36:44 [INFO] [Metrics] mcstats.org
+2014-09-02 12:26:44 [INFO] [Metrics] mcstats.org
+2014-09-02 12:16:44 [INFO] [Metrics] mcstats.org
+2014-09-02 12:06:44 [INFO] [Metrics] mcstats.org
+2014-09-02 11:56:44 [INFO] [Metrics] mcstats.org
+2014-09-02 11:46:44 [INFO] [Metrics] mcstats.org
+2014-09-02 11:36:44 [INFO] [Metrics] mcstats.org
+2014-09-02 11:26:44 [INFO] [Metrics] mcstats.org
+2014-09-02 11:16:44 [INFO] [Metrics] mcstats.org
+2014-09-02 11:06:44 [INFO] [Metrics] mcstats.org
+2014-09-02 10:56:44 [INFO] [Metrics] mcstats.org
+2014-09-02 10:46:44 [INFO] [Metrics] mcstats.org
+2014-09-02 10:36:44 [INFO] [Metrics] mcstats.org
+2014-09-02 10:26:44 [INFO] [Metrics] mcstats.org
+2014-09-02 10:16:44 [INFO] [Metrics] mcstats.org
+2014-09-02 10:06:44 [INFO] [Metrics] mcstats.org
+2014-09-02 09:56:44 [INFO] [Metrics] mcstats.org
+2014-09-02 09:46:44 [INFO] [Metrics] mcstats.org
+2014-09-02 09:36:44 [INFO] [Metrics] mcstats.org
+2014-09-02 09:26:44 [INFO] [Metrics] mcstats.org
+2014-09-02 09:16:44 [INFO] [Metrics] mcstats.org
+2014-09-02 09:06:44 [INFO] [Metrics] mcstats.org
+2014-09-02 08:56:44 [INFO] [Metrics] mcstats.org
+2014-09-02 08:46:44 [INFO] [Metrics] mcstats.org
+2014-09-02 08:36:44 [INFO] [Metrics] mcstats.org
+2014-09-02 08:26:44 [INFO] [Metrics] mcstats.org
+2014-09-02 08:16:44 [INFO] [Metrics] mcstats.org
+2014-09-02 08:06:44 [INFO] [Metrics] mcstats.org
+2014-09-02 07:56:44 [INFO] [Metrics] mcstats.org
+2014-09-02 07:46:44 [INFO] [Metrics] mcstats.org
+2014-09-02 07:36:44 [INFO] [Metrics] mcstats.org
+2014-09-02 07:26:44 [INFO] [Metrics] mcstats.org
+2014-09-02 07:16:44 [INFO] [Metrics] mcstats.org
+2014-09-02 07:06:44 [INFO] [Metrics] mcstats.org
+2014-09-02 06:56:44 [INFO] [Metrics] mcstats.org
+2014-09-02 06:46:44 [INFO] [Metrics] mcstats.org
+2014-09-02 06:36:44 [INFO] [Metrics] mcstats.org
+2014-09-02 06:26:44 [INFO] [Metrics] mcstats.org
+2014-09-02 06:16:44 [INFO] [Metrics] mcstats.org
+2014-09-02 06:06:44 [INFO] [Metrics] mcstats.org
+2014-09-02 05:56:44 [INFO] [Metrics] mcstats.org
+2014-09-02 05:46:44 [INFO] [Metrics] mcstats.org
+2014-09-02 05:36:44 [INFO] [Metrics] mcstats.org
+2014-09-02 05:26:44 [INFO] [Metrics] mcstats.org
+2014-09-02 05:16:44 [INFO] [Metrics] mcstats.org
+2014-09-02 05:06:44 [INFO] [Metrics] mcstats.org
+2014-09-02 04:56:44 [INFO] [Metrics] mcstats.org
+2014-09-02 04:46:44 [INFO] [Metrics] mcstats.org
+2014-09-02 04:36:44 [INFO] [Metrics] mcstats.org
+2014-09-02 04:26:44 [INFO] [Metrics] mcstats.org
+2014-09-02 04:16:44 [INFO] [Metrics] mcstats.org
+2014-09-02 04:06:44 [INFO] [Metrics] mcstats.org
+2014-09-02 03:56:44 [INFO] [Metrics] mcstats.org
+2014-09-02 02:26:44 [INFO] [Metrics] mcstats.org
+2014-09-02 02:36:44 [INFO] [Metrics] mcstats.org
+2014-09-02 02:46:44 [INFO] [Metrics] mcstats.org
+2014-09-02 02:56:44 [INFO] [Metrics] mcstats.org
+2014-09-02 02:06:44 [INFO] [Metrics] mcstats.org
+2014-09-02 03:06:44 [INFO] [Metrics] mcstats.org
+2014-09-02 03:16:44 [INFO] [Metrics] mcstats.org
+2014-09-02 03:26:44 [INFO] [Metrics] mcstats.org
+2014-09-02 03:36:44 [INFO] [Metrics] mcstats.org
+2014-09-02 01:56:44 [INFO] [Metrics] mcstats.org
+2014-09-02 01:46:44 [INFO] [Metrics] mcstats.org
+2014-09-02 03:46:44 [INFO] [Metrics] mcstats.org
+2014-09-02 01:36:44 [INFO] [Metrics] mcstats.org
+2014-09-02 02:16:44 [INFO] [Metrics] mcstats.org
+2014-09-02 01:26:44 [INFO] [Metrics] mcstats.org
+2014-09-02 01:16:44 [INFO] [Metrics] mcstats.org
+2014-09-02 01:06:44 [INFO] [Metrics] mcstats.org
+2014-09-02 00:56:44 [INFO] [Metrics] mcstats.org
+2014-09-02 00:46:44 [INFO] [Metrics] mcstats.org
+2014-09-02 00:36:44 [INFO] [Metrics] mcstats.org
+2014-09-02 00:26:44 [INFO] [Metrics] mcstats.org
+2014-09-02 00:16:44 [INFO] [Metrics] mcstats.org
+2014-09-02 00:06:44 [INFO] [Metrics] mcstats.org
+2014-09-01 23:56:44 [INFO] [Metrics] mcstats.org
+2014-09-01 23:46:44 [INFO] [Metrics] mcstats.org
+2014-09-01 23:36:44 [INFO] [Metrics] mcstats.org
+2014-09-01 23:26:44 [INFO] [Metrics] mcstats.org
+2014-09-01 23:16:44 [INFO] [Metrics] mcstats.org
+2014-09-01 23:06:44 [INFO] [Metrics] mcstats.org
+2014-09-01 22:56:44 [INFO] [Metrics] mcstats.org
+2014-09-01 22:46:44 [INFO] [Metrics] mcstats.org
+2014-09-01 22:36:44 [INFO] [Metrics] mcstats.org
+2014-09-01 22:26:44 [INFO] [Metrics] mcstats.org
+2014-09-01 22:16:44 [INFO] [Metrics] mcstats.org
+2014-09-01 22:06:44 [INFO] [Metrics] mcstats.org
+2014-09-01 21:56:44 [INFO] [Metrics] mcstats.org
+2014-09-01 21:46:44 [INFO] [Metrics] mcstats.org
+2014-09-01 21:36:44 [INFO] [Metrics] mcstats.org
+2014-09-01 21:26:44 [INFO] [Metrics] mcstats.org
+2014-09-01 21:16:44 [INFO] [Metrics] mcstats.org
+2014-09-01 21:06:44 [INFO] [Metrics] mcstats.org
+2014-09-01 20:56:44 [INFO] [Metrics] mcstats.org
+2014-09-01 20:46:44 [INFO] [Metrics] mcstats.org
+2014-09-01 20:36:44 [INFO] [Metrics] mcstats.org
+2014-09-01 20:26:44 [INFO] [Metrics] mcstats.org
+2014-09-01 20:16:44 [INFO] [Metrics] mcstats.org
+2014-09-01 20:06:44 [INFO] [Metrics] mcstats.org
+2014-09-01 19:56:44 [INFO] [Metrics] mcstats.org
+2014-09-01 19:46:44 [INFO] [Metrics] mcstats.org
+2014-09-01 19:36:44 [INFO] [Metrics] mcstats.org
+2014-09-01 19:26:44 [INFO] [Metrics] mcstats.org
+2014-09-01 19:16:44 [INFO] [Metrics] mcstats.org
+2014-09-01 19:06:44 [INFO] [Metrics] mcstats.org
+2014-09-01 18:56:44 [INFO] [Metrics] mcstats.org
+2014-09-01 18:46:44 [INFO] [Metrics] mcstats.org
+2014-09-01 18:36:44 [INFO] [Metrics] mcstats.org
+2014-09-01 18:26:44 [INFO] [Metrics] mcstats.org
+2014-09-01 18:16:44 [INFO] [Metrics] mcstats.org
+2014-09-01 18:06:44 [INFO] [Metrics] mcstats.org
+2014-09-01 17:56:44 [INFO] [Metrics] mcstats.org
+2014-09-01 17:46:44 [INFO] [Metrics] mcstats.org
+2014-09-01 17:36:44 [INFO] [Metrics] mcstats.org
+2014-09-01 17:26:44 [INFO] [Metrics] mcstats.org
+2014-09-01 17:16:44 [INFO] [Metrics] mcstats.org
+2014-09-01 17:06:44 [INFO] [Metrics] mcstats.org
+2014-09-01 16:56:44 [INFO] [Metrics] mcstats.org
+2014-09-01 16:46:44 [INFO] [Metrics] mcstats.org
+2014-09-01 16:36:44 [INFO] [Metrics] mcstats.org
+2014-09-01 16:26:44 [INFO] [Metrics] mcstats.org
+2014-09-01 16:16:44 [INFO] [Metrics] mcstats.org
+2014-09-01 16:06:44 [INFO] [Metrics] mcstats.org
+2014-09-01 15:56:44 [INFO] [Metrics] mcstats.org
+2014-09-01 15:46:44 [INFO] [Metrics] mcstats.org
+2014-09-01 15:36:44 [INFO] [Metrics] mcstats.org
+2014-09-01 15:26:44 [INFO] [Metrics] mcstats.org
+2014-09-01 15:16:44 [INFO] [Metrics] mcstats.org
+2014-09-01 15:06:44 [INFO] [Metrics] mcstats.org
+2014-09-01 14:56:44 [INFO] [Metrics] mcstats.org
+2014-09-01 14:46:44 [INFO] [Metrics] mcstats.org
+2014-09-01 14:36:44 [INFO] [Metrics] mcstats.org
+2014-09-01 14:26:44 [INFO] [Metrics] mcstats.org
+2014-09-01 14:16:44 [INFO] [Metrics] mcstats.org
+2014-09-01 14:06:44 [INFO] [Metrics] mcstats.org
+2014-09-01 13:56:44 [INFO] [Metrics] mcstats.org
+2014-09-01 13:46:44 [INFO] [Metrics] mcstats.org
+2014-09-01 13:36:44 [INFO] [Metrics] mcstats.org
+2014-09-01 13:26:44 [INFO] [Metrics] mcstats.org
+2014-09-01 13:16:44 [INFO] [Metrics] mcstats.org
+2014-09-01 13:06:44 [INFO] [Metrics] mcstats.org
+2014-09-01 12:56:44 [INFO] [Metrics] mcstats.org
+2014-09-01 12:46:44 [INFO] [Metrics] mcstats.org
+2014-09-01 12:36:44 [INFO] [Metrics] mcstats.org
+2014-09-01 12:26:44 [INFO] [Metrics] mcstats.org
+2014-09-01 12:16:44 [INFO] [Metrics] mcstats.org
+2014-09-01 12:06:44 [INFO] [Metrics] mcstats.org
+2014-09-01 11:56:44 [INFO] [Metrics] mcstats.org
+2014-09-01 11:46:44 [INFO] [Metrics] mcstats.org
+2014-09-01 11:36:44 [INFO] [Metrics] mcstats.org
+2014-09-01 11:26:44 [INFO] [Metrics] mcstats.org
+2014-09-01 11:16:44 [INFO] [Metrics] mcstats.org
+2014-09-01 11:06:44 [INFO] [Metrics] mcstats.org
+2014-09-01 10:56:44 [INFO] [Metrics] mcstats.org
+2014-09-01 10:46:44 [INFO] [Metrics] mcstats.org
+2014-09-01 10:36:44 [INFO] [Metrics] mcstats.org
+2014-09-01 10:26:44 [INFO] [Metrics] mcstats.org
+2014-09-01 10:16:44 [INFO] [Metrics] mcstats.org
+2014-09-01 10:06:44 [INFO] [Metrics] mcstats.org
+2014-09-01 09:56:44 [INFO] [Metrics] mcstats.org
+2014-09-01 09:46:44 [INFO] [Metrics] mcstats.org
+2014-09-01 09:36:44 [INFO] [Metrics] mcstats.org
+2014-09-01 09:26:44 [INFO] [Metrics] mcstats.org
+2014-09-01 09:16:44 [INFO] [Metrics] mcstats.org
