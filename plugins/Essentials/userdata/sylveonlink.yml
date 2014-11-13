@@ -1,0 +1,27 @@
+timestamps:
+  login: 1412457620190
+  logout: 1412459879372
+  lastteleport: 1412459736284
+ipAddress: 192.168.1.27
+lastlocation:
+  world: world
+  x: 28.22163288080739
+  y: 103.8655521152965
+  z: 392.90843768567737
+  yaw: 110.39617
+  pitch: 74.25002
+logoutlocation:
+  world: world
+  x: -46.21263824978977
+  y: 87.62805207827078
+  z: 231.2666751176569
+  yaw: -132.15393
+  pitch: -17.249872
+afk: false
+powertools:
+  '391':
+  - lightning
+  '323':
+  - lightning
+  '280':
+  - kittycannon

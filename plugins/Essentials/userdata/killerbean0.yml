@@ -1,20 +1,27 @@
 timestamps:
-  login: 1392502632043
-  logout: 1392505105003
-  lastteleport: 1392503830547
-ipAddress: 192.168.1.215
+  login: 1415915033139
+  logout: 1415915176659
+  lastteleport: 1415906459392
+ipAddress: 192.168.1.68
 logoutlocation:
-  world: world
-  x: -16.0
-  y: 44.0
-  z: 410.0
-  yaw: -24.963778
-  pitch: 73.4716
-lastlocation:
-  world: world
-  x: -173.5
+  world: Library_Hub
+  x: -88.22755385689368
   y: 63.0
-  z: 136.5
-  yaw: -64.182144
-  pitch: -11.984726
+  z: 293.13291565719555
+  yaw: 170.2561
+  pitch: 2.7683227
+lastlocation:
+  world: Library_Hub
+  x: 68.32973122982607
+  y: 80.56556894223115
+  z: -287.49508547999034
+  yaw: -37.95411
+  pitch: 32.99998
 afk: false
+nickname: TheLibrarian
+powertools:
+  '351':
+  - lightning
+  '349':
+  - kittycannon
+powertoolsenabled: true
