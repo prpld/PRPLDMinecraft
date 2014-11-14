@@ -39,6 +39,8 @@ groups:
       essentials.help: true
       essentials.spawn: true
       essentials.tp: true
+      permissions.back: true
+      essentials.back: true
   admin:
     permissions:
       permissions.*: true
