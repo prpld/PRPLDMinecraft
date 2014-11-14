@@ -30758,3 +30758,7 @@ net.minecraft.server.v1_6_R3.ExceptionWorldConflict: Failed to check session loc
 2014-11-13 17:54:02 [INFO] [Metrics] mcstats.org
 2014-11-13 18:02:25 [INFO] BraveNewWorld78 issued server command: /listbans
 2014-11-13 18:04:02 [INFO] [Metrics] mcstats.org
+2014-11-13 18:13:55 [INFO] BraveNewWorld78 lost connection: disconnect.quitting
+2014-11-13 18:13:55 [INFO] Connection reset
+2014-11-13 18:13:55 [INFO] ?eBraveNewWorld78 left the game.
+2014-11-13 18:14:02 [INFO] [Metrics] mcstats.org
