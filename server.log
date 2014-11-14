@@ -30754,3 +30754,6 @@ net.minecraft.server.v1_6_R3.ExceptionWorldConflict: Failed to check session loc
 2014-11-13 17:29:19 [INFO] BraveNewWorld78 issued server command: /coneofcolf
 2014-11-13 17:29:25 [INFO] BraveNewWorld78 issued server command: /coneofcold
 2014-11-13 17:34:02 [INFO] [Metrics] mcstats.org
+2014-11-13 17:44:02 [INFO] [Metrics] mcstats.org
+2014-11-13 17:54:02 [INFO] [Metrics] mcstats.org
+2014-11-13 18:02:25 [INFO] BraveNewWorld78 issued server command: /listbans
