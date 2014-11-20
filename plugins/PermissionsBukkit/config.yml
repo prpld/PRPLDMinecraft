@@ -30,12 +30,6 @@ users:
   sigurre:
     groups:
     - admin
-  BraveNewWorld78:
-    groups:
-    - admin
-  killerbean0:
-    groups:
-    - admin
 groups:
   default:
     permissions:
@@ -45,6 +39,8 @@ groups:
       essentials.help: true
       essentials.spawn: true
       essentials.tp: true
+      permissions.back: true
+      essentials.back: true
   admin:
     permissions:
       permissions.*: true

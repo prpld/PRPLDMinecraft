@@ -1,0 +1,106 @@
+worlds:
+  LibraryHub:
+    seed: 3893759982153487564
+    environment: NORMAL
+    type: FLAT
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: -3.5
+      y: 24.0
+      z: -5.5
+      pitch: 0.0
+      yaw: 0.0
+      world: LibraryHub
+    autoload: true
+    bedrespawn: true
+  LibraryHub_nether:
+    seed: 3893759982153487564
+    environment: NETHER
+    type: FLAT
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 8.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 0.0
+      y: 68.0
+      z: 0.0
+      pitch: 0.0
+      yaw: 0.0
+      world: LibraryHub_nether
+    autoload: true
+    bedrespawn: true
+  LibraryHub_the_end:
+    seed: 3893759982153487564
+    environment: THE_END
+    type: FLAT
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 0.0
+      y: 57.0
+      z: 0.0
+      pitch: 0.0
+      yaw: 0.0
+      world: LibraryHub_the_end
+    autoload: true
+    bedrespawn: true

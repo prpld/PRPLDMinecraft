@@ -12,10 +12,11 @@ GriefPrevention:
         SurvivalWorlds: false
         CreativeWorlds: true
     Worlds:
-    - world
-    - world_nether
-    - world_the_end
-    CreativeRulesWorlds: []
+    - Library_Hub
+    CreativeRulesWorlds:
+    - Library_1st_2nd
+    - Library_1st_2nd_nether
+    - Library_1st_2nd_the_end
     PreventTheft: true
     ProtectCreatures: true
     PreventButtonsSwitches: true
@@ -50,9 +51,7 @@ GriefPrevention:
     DeathMessageCooldownSeconds: 60
   PvP:
     Worlds:
-    - world
-    - world_nether
-    - world_the_end
+    - Library_Hub
     ProtectFreshSpawns: true
     PunishLogout: true
     CombatTimeoutSeconds: 15
