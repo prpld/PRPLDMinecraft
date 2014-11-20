@@ -1,20 +1,20 @@
 timestamps:
-  login: 1412457940245
-  logout: 1412459841872
-  lastteleport: 1412459339514
-ipAddress: 192.168.1.236
+  login: 1416085718275
+  logout: 1416092921710
+  lastteleport: 1416092785911
+ipAddress: 192.168.1.22
 logoutlocation:
   world: world
-  x: -8.371982277452004
-  y: 68.0
-  z: 155.66876057332877
-  yaw: -40.053436
-  pitch: 16.649998
+  x: 9.5
+  y: 71.0
+  z: 254.5
+  yaw: -112.60806
+  pitch: 35.399982
 lastlocation:
-  world: world
-  x: -13.703422293561077
-  y: 58.0
-  z: -93.17473740395825
-  yaw: 133.50275
-  pitch: 20.249954
+  world: world_the_end
+  x: 88.5
+  y: 49.0
+  z: -2.5
+  yaw: 276.4475
+  pitch: 4.199939
 nickname: SpongeBob

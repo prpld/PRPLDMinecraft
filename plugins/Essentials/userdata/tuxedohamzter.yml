@@ -1,20 +1,29 @@
 timestamps:
-  login: 1412457612830
-  lastteleport: 1412459755437
-  logout: 1412459774372
-ipAddress: 192.168.1.3
+  login: 1416085327639
+  lastteleport: 1416092541321
+  logout: 1416092762201
+ipAddress: 192.168.1.6
 lastlocation:
   world: world
-  x: 2.900284659579763
-  y: 256.0
-  z: -92.01172987457173
-  yaw: 51.302258
-  pitch: 5.399996
+  x: 5.802661997056793
+  y: 53.0
+  z: -250.41093285185895
+  yaw: 96.19506
+  pitch: 27.450079
 logoutlocation:
-  world: world
-  x: -54.62004229711296
-  y: 107.89162076171935
-  z: 236.938176578327
-  yaw: -117.75391
-  pitch: 57.900127
+  world: world_the_end
+  x: 101.43922162093712
+  y: 56.73935697417651
+  z: 4.488669896063733
+  yaw: -98.69965
+  pitch: 57.749985
 afk: false
+nickname: PumpKing
+homes:
+  home:
+    world: world_nether
+    x: 49.30000001192092
+    y: 30.0
+    z: 72.30000001192093
+    yaw: -89.553314
+    pitch: 6.449918
