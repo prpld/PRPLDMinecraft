@@ -37140,3 +37140,2240 @@ Caused by: java.util.zip.ZipException: invalid distance too far back
 2014-11-20 13:21:05 [INFO] [Metrics] mcstats.org
 2014-11-20 13:31:05 [INFO] [Metrics] mcstats.org
 2014-11-20 13:41:05 [INFO] [Metrics] mcstats.org
+2014-11-26 12:28:52 [INFO] Starting minecraft server version 1.6.4
+2014-11-26 12:28:52 [INFO] Loading properties
+2014-11-26 12:28:52 [INFO] Default game type: SURVIVAL
+2014-11-26 12:28:52 [INFO] Generating keypair
+2014-11-26 12:28:52 [INFO] Starting Minecraft server on *:25565
+2014-11-26 12:28:53 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-11-26 12:28:53 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-11-26 12:28:53 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2014-11-26 12:28:53 [INFO] [Essentials] Loading Essentials v2.12.1
+2014-11-26 12:28:53 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v2.0
+2014-11-26 12:28:53 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.1
+2014-11-26 12:28:53 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.1
+2014-11-26 12:28:53 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-11-26 12:28:53 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-11-26 12:28:53 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-11-26 12:28:53 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-11-26 12:28:53 [INFO] Preparing level "Library_Hub"
+2014-11-26 12:28:53 [INFO] Preparing start region for level 0 (Seed: 563634050155382046)
+2014-11-26 12:28:54 [INFO] Preparing spawn area: 91%
+2014-11-26 12:28:54 [INFO] Preparing start region for level 1 (Seed: 563634050155382046)
+2014-11-26 12:28:55 [INFO] Preparing start region for level 2 (Seed: 563634050155382046)
+2014-11-26 12:28:55 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-11-26 12:28:55 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-11-26 12:28:55 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2014-11-26 12:28:55 [INFO] GriefPrevention: Grief Prevention enabled.
+2014-11-26 12:28:55 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd".  Please update your config.yml.
+2014-11-26 12:28:55 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd_nether".  Please update your config.yml.
+2014-11-26 12:28:55 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd_the_end".  Please update your config.yml.
+2014-11-26 12:28:55 [INFO] GriefPrevention: 0 total claims loaded.
+2014-11-26 12:28:55 [INFO] GriefPrevention: 0 players have staked claims.
+2014-11-26 12:28:56 [INFO] [Essentials] Enabling Essentials v2.12.1
+2014-11-26 12:28:56 [INFO] Bukkit version format changed. Version not checked.
+2014-11-26 12:28:56 [INFO] git-Bukkit-1.6.4-R1.0 (MC: 1.6.4)
+2014-11-26 12:28:56 [INFO] 1.6.4-R1.0
+2014-11-26 12:28:57 [INFO] Essentials: Using config file enhanced permissions.
+2014-11-26 12:28:57 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-11-26 12:28:57 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v2.0
+2014-11-26 12:28:57 [INFO] [PermissionsBukkit] Enabled successfully
+2014-11-26 12:28:57 [INFO] Essentials: Using PermissionsBukkit based permissions.
+2014-11-26 12:28:57 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.1
+2014-11-26 12:28:57 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.1
+2014-11-26 12:28:57 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-11-26 12:28:57 [INFO] Done (4.132s)! For help, type "help" or "?"
+2014-11-26 12:28:57 [INFO] /192.168.1.193:50255 lost connection
+2014-11-26 12:29:00 [INFO] /192.168.1.7:53231 lost connection
+2014-11-26 12:29:16 [INFO] BraveNewWorld78[/192.168.1.7:53234] logged in with entity id 301 at ([Library_Hub] -88.31274863569, 97.0, 300.44387828976704)
+2014-11-26 12:29:33 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: UnknownHostException
+2014-11-26 12:29:33 [WARNING] Could not get latest artifact information: UnknownHostException
+2014-11-26 12:29:37 [INFO] [Metrics] mcstats.org
+2014-11-26 12:31:33 [INFO] Lachman22[/192.168.1.19:49399] logged in with entity id 5009 at ([Library_Hub] -87.5, 68.0, 277.5)
+2014-11-26 12:31:33 [INFO] Creating empty config: /home/vzuniga/CraftBukkit/plugins/Essentials/userdata/lachman22.yml
+2014-11-26 12:32:14 [INFO] [WorldEdit] Using inbuilt NmsBlock for this version.
+2014-11-26 12:32:53 [INFO] Connection reset
+2014-11-26 12:32:53 [INFO] /192.168.1.18:49191 lost connection
+2014-11-26 12:33:02 [INFO] trainfrog[/192.168.1.18:49197] logged in with entity id 7392 at ([Library_Hub] -80.5, 97.0, 302.5)
+2014-11-26 12:33:12 [INFO] trainfrog issued server command: /gamemode 1
+2014-11-26 12:33:22 [INFO] trainfrog issued server command: /me is a monkey
+2014-11-26 12:33:28 [INFO] [m<Lachman22[m> what[m
+2014-11-26 12:33:31 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:31 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:31 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:32 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:32 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:32 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:32 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:32 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:33 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:33 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:34 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:34 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:34 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:34 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:34 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:35 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:35 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:35 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:35 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:35 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:36 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:36 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:36 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:36 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:36 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:37 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:37 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:37 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:37 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:37 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:42 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:42 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:42 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:42 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:42 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:43 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:43 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:43 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:43 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:43 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:44 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:44 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:44 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:44 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:44 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:44 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:45 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:45 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:45 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:45 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:45 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:49 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:49 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:50 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:50 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:50 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:50 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:51 [INFO] BraveNewWorld78 went up in flames
+2014-11-26 12:33:56 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:58 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:33:59 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:00 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:02 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:02 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:05 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:06 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:06 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:09 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:09 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:09 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:10 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:10 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:10 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:11 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:11 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:11 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:11 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:11 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:11 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:12 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:12 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:12 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:12 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:12 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:13 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:13 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:13 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:13 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:14 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:14 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:14 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:14 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:14 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:14 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:15 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:15 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:15 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:15 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:16 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:16 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:16 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:16 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:16 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:17 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:17 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:17 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:17 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:18 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:18 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:27 [INFO] trainfrog issued server command: /me care works!
+2014-11-26 12:34:31 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:45 [INFO] trainfrog issued server command: /tp lach
+2014-11-26 12:34:47 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:47 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:47 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:48 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:48 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:48 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:48 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:48 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:52 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:34:52 [INFO] Lachman22 went up in flames
+2014-11-26 12:35:29 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:35:30 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:35:31 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:35:31 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:35:32 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:35:32 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:35:32 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:35:32 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:35:32 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:35:35 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:35:35 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:35:35 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:35:35 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:35:35 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:35:59 [INFO] trainfrog issued server command: /lightning tool
+2014-11-26 12:36:04 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:04 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:04 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:04 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:04 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:05 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:05 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:05 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:05 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:05 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:06 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:06 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:06 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:06 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:06 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:06 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:07 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:07 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:08 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:08 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:08 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:08 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:08 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:09 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:11 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:13 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:15 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:16 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:17 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:18 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:18 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:19 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:19 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:19 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:22 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:22 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:22 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:22 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:23 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:23 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:44 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:45 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:45 [INFO] Killerbean0[/192.168.1.90:49283] logged in with entity id 11396 at ([Library_Hub] -88.22755385689368, 63.0, 293.13291565719555)
+2014-11-26 12:36:52 [INFO] Killerbean0 issued server command: /j
+2014-11-26 12:36:53 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:54 [INFO] Lachman22 went up in flames
+2014-11-26 12:36:54 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:54 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:55 [INFO] Killerbean0 issued server command: /j
+2014-11-26 12:36:57 [INFO] Killerbean0 issued server command: /j
+2014-11-26 12:36:57 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:59 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:59 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:59 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:59 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:36:59 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:00 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:00 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:00 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:00 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:00 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:01 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:01 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:02 [INFO] Killerbean0 issued server command: /deop traifnrog
+2014-11-26 12:37:02 [INFO] Killerbean0: De-opped traifnrog[m
+2014-11-26 12:37:07 [INFO] Killerbean0 issued server command: /deop trainfrog
+2014-11-26 12:37:07 [INFO] Killerbean0: De-opped trainfrog[m
+2014-11-26 12:37:09 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:09 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:10 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:10 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:10 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:10 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:10 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:10 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:10 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:10 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:14 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:14 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:15 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:15 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:15 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:15 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:15 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:15 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:15 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:15 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:15 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:16 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:16 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:16 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:16 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:16 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:17 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:17 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:17 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:17 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:17 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:17 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:17 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:17 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:17 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:17 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:17 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:17 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:17 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:17 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:17 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:17 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:18 [INFO] Killerbean0 issued server command: /toggledownfall
+2014-11-26 12:37:18 [INFO] Killerbean0: Toggling downfall on for world 'Library_Hub'[m
+2014-11-26 12:37:20 [INFO] Killerbean0 issued server command: /toggledownfall
+2014-11-26 12:37:20 [INFO] Killerbean0: Toggling downfall off for world 'Library_Hub'[m
+2014-11-26 12:37:29 [INFO] Killerbean0 issued server command: /time set 0
+2014-11-26 12:37:30 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:30 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:30 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:31 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:31 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:31 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:31 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:31 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:32 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:32 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:32 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:32 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:33 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:33 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:33 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:37:33 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:37:37 [INFO] Killerbean0 issued server command: /op Lachman22
+2014-11-26 12:37:37 [INFO] Killerbean0: Opped Lachman22[m
+2014-11-26 12:37:45 [INFO] Lachman22 issued server command: /gamemode 1
+2014-11-26 12:39:25 [INFO] Killerbean0 issued server command: /heal traifnrog
+2014-11-26 12:39:28 [INFO] Killerbean0 issued server command: /heal train
+2014-11-26 12:39:38 [INFO] Killerbean0 issued server command: /killall
+2014-11-26 12:39:38 [INFO] [Metrics] mcstats.org
+2014-11-26 12:44:37 [INFO] kelpfishthekid[/192.168.1.195:49319] logged in with entity id 21396 at ([Library_Hub] -112.88699363976126, 95.2616259765385, 236.95585431952313)
+2014-11-26 12:45:35 [INFO] Killerbean0 issued server command: /gamemode 0 train
+2014-11-26 12:45:39 [INFO] Killerbean0 issued server command: /hat
+2014-11-26 12:45:46 [INFO] trainfrog issued server command: /me care works!
+2014-11-26 12:45:46 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:45:59 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:45:59 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:45:59 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:45:59 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:46:00 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:46:00 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:46:00 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:46:00 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:46:00 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:46:00 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:46:01 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:46:01 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:46:14 [INFO] kelpfishthekid issued server command: /lighting tool
+2014-11-26 12:47:22 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:47:22 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:47:22 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:47:22 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:47:22 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:47:22 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:47:22 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:47:22 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:47:23 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:47:23 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:47:23 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:47:23 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:47:23 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:47:23 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:47:23 [INFO] Killerbean0 issued server command: /killall
+2014-11-26 12:47:23 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:47:23 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:47:23 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:47:23 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:47:24 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:47:24 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:47:30 [INFO] Killerbean0 issued server command: /difficulty peaceful
+2014-11-26 12:47:30 [INFO] Killerbean0: Set difficulty to PEACEFUL[m
+2014-11-26 12:48:13 [INFO] Killerbean0 issued server command: /op kelpfishthekid
+2014-11-26 12:48:13 [INFO] Killerbean0: Opped kelpfishthekid[m
+2014-11-26 12:48:37 [INFO] Killerbean0 issued server command: /time set 0
+2014-11-26 12:49:00 [INFO] Killerbean0 issued server command: /heal train
+2014-11-26 12:49:38 [INFO] [Metrics] mcstats.org
+2014-11-26 12:49:52 [INFO] [m<[0;31;22m~MelonLord[m> hi[m
+2014-11-26 12:49:53 [INFO] [m<[0;31;22m~MelonLord[m> hi[m
+2014-11-26 12:49:53 [INFO] [m<~obama[m> let me out[m
+2014-11-26 12:49:53 [INFO] [m<[0;31;22m~MelonLord[m> hi[m
+2014-11-26 12:49:54 [INFO] [m<[0;31;22m~MelonLord[m> hi[m
+2014-11-26 12:49:55 [INFO] [m<[0;31;22m~MelonLord[m> hi[m
+2014-11-26 12:49:55 [INFO] [m<[0;31;22m~MelonLord[m> hi[m
+2014-11-26 12:49:56 [INFO] [m<[0;31;22m~MelonLord[m> hi[m
+2014-11-26 12:50:00 [INFO] GriefPrevention: Muted spam from trainfrog: let me out
+2014-11-26 12:50:01 [INFO] GriefPrevention: Muted spam from trainfrog: let me out
+2014-11-26 12:50:02 [INFO] GriefPrevention: Muted spam from trainfrog: let me out
+2014-11-26 12:50:02 [INFO] GriefPrevention: Warned trainfrog about spam penalties.
+2014-11-26 12:50:02 [INFO] GriefPrevention: Muted spam from trainfrog: let me out
+2014-11-26 12:50:03 [INFO] GriefPrevention: Muted spam from trainfrog: let me outt
+2014-11-26 12:50:04 [INFO] GriefPrevention: Muted spam from trainfrog: let me outt
+2014-11-26 12:50:04 [INFO] GriefPrevention: Muted spam from trainfrog: let me outt
+2014-11-26 12:50:05 [INFO] GriefPrevention: Muted spam from trainfrog: let me outt
+2014-11-26 12:50:06 [INFO] GriefPrevention: Banning trainfrog for spam.
+2014-11-26 12:50:06 [INFO] ?etrainfrog left the game.
+2014-11-26 12:50:10 [INFO] Disconnecting trainfrog [/192.168.1.18:49203]: ?4Banned:
+?rThe Ban Hammer has spoken!
+2014-11-26 12:51:14 [INFO] Connection reset
+2014-11-26 12:51:14 [INFO] kelpfishthekid lost connection: disconnect.genericReason
+2014-11-26 12:51:14 [INFO] ?ekelpfishthekid left the game.
+2014-11-26 12:51:22 [INFO] Disconnecting trainfrog [/192.168.1.18:49213]: ?4Banned:
+?rThe Ban Hammer has spoken!
+2014-11-26 12:51:27 [INFO] kelpfishthekid[/192.168.1.195:49321] logged in with entity id 139306 at ([Library_Hub] -86.68448328583864, 97.0, 303.19737318253203)
+2014-11-26 12:51:42 [INFO] Killerbean0 issued server command: /unban trainfrog
+2014-11-26 12:51:42 [INFO] ?6Player?c ?4~MelonLord?r ?6unbanned?c trainfrog.
+2014-11-26 12:51:46 [INFO] trainfrog[/192.168.1.18:49216] logged in with entity id 148375 at ([Library_Hub] -117.27991645720776, 63.0, 300.5516658801864)
+2014-11-26 12:51:52 [INFO] Killerbean0 lost connection: disconnect.quitting
+2014-11-26 12:51:52 [INFO] Connection reset
+2014-11-26 12:51:52 [INFO] ?eKillerbean0 left the game.
+2014-11-26 12:51:54 [INFO] Connection reset
+2014-11-26 12:51:54 [INFO] trainfrog lost connection: disconnect.quitting
+2014-11-26 12:51:54 [INFO] ?etrainfrog left the game.
+2014-11-26 12:51:56 [INFO] Connection reset
+2014-11-26 12:51:56 [INFO] Lachman22 lost connection: disconnect.quitting
+2014-11-26 12:51:56 [INFO] ?eLachman22 left the game.
+2014-11-26 12:51:57 [INFO] Connection reset
+2014-11-26 12:51:57 [INFO] kelpfishthekid lost connection: disconnect.quitting
+2014-11-26 12:51:57 [INFO] ?ekelpfishthekid left the game.
+2014-11-26 12:53:44 [INFO] Starting minecraft server version 1.6.4
+2014-11-26 12:53:44 [INFO] Loading properties
+2014-11-26 12:53:44 [INFO] Default game type: SURVIVAL
+2014-11-26 12:53:44 [INFO] Generating keypair
+2014-11-26 12:53:44 [INFO] Starting Minecraft server on *:25565
+2014-11-26 12:53:45 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-11-26 12:53:46 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-11-26 12:53:46 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2014-11-26 12:53:46 [INFO] [Essentials] Loading Essentials v2.12.1
+2014-11-26 12:53:46 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v2.0
+2014-11-26 12:53:46 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.1
+2014-11-26 12:53:46 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.1
+2014-11-26 12:53:46 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-11-26 12:53:46 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-11-26 12:53:46 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-11-26 12:53:46 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-11-26 12:53:46 [INFO] Preparing level "Library_Hub"
+2014-11-26 12:53:46 [INFO] Preparing start region for level 0 (Seed: 563634050155382046)
+2014-11-26 12:53:47 [INFO] Preparing spawn area: 50%
+2014-11-26 12:53:48 [INFO] Preparing start region for level 1 (Seed: 563634050155382046)
+2014-11-26 12:53:48 [INFO] Preparing start region for level 2 (Seed: 563634050155382046)
+2014-11-26 12:53:49 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-11-26 12:53:49 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-11-26 12:53:49 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2014-11-26 12:53:49 [INFO] GriefPrevention: Grief Prevention enabled.
+2014-11-26 12:53:49 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd".  Please update your config.yml.
+2014-11-26 12:53:49 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd_nether".  Please update your config.yml.
+2014-11-26 12:53:49 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd_the_end".  Please update your config.yml.
+2014-11-26 12:53:49 [INFO] GriefPrevention: 0 total claims loaded.
+2014-11-26 12:53:49 [INFO] GriefPrevention: 0 players have staked claims.
+2014-11-26 12:53:50 [INFO] [Essentials] Enabling Essentials v2.12.1
+2014-11-26 12:53:50 [INFO] Bukkit version format changed. Version not checked.
+2014-11-26 12:53:50 [INFO] git-Bukkit-1.6.4-R1.0 (MC: 1.6.4)
+2014-11-26 12:53:50 [INFO] 1.6.4-R1.0
+2014-11-26 12:53:51 [INFO] Essentials: Using config file enhanced permissions.
+2014-11-26 12:53:51 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-11-26 12:53:51 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v2.0
+2014-11-26 12:53:51 [INFO] [PermissionsBukkit] Enabled successfully
+2014-11-26 12:53:51 [INFO] Essentials: Using PermissionsBukkit based permissions.
+2014-11-26 12:53:51 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.1
+2014-11-26 12:53:51 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.1
+2014-11-26 12:53:51 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-11-26 12:53:51 [INFO] Done (5.268s)! For help, type "help" or "?"
+2014-11-26 12:53:52 [INFO] Connection reset
+2014-11-26 12:53:52 [INFO] /192.168.1.18:49265 lost connection
+2014-11-26 12:54:25 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: UnknownHostException
+2014-11-26 12:54:25 [WARNING] Could not get latest artifact information: UnknownHostException
+2014-11-26 12:54:31 [INFO] [Metrics] mcstats.org
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        2014-11-26 12:56:29 [INFO] Starting minecraft server version 1.6.4
+2014-11-26 12:56:29 [INFO] Loading properties
+2014-11-26 12:56:29 [INFO] Default game type: SURVIVAL
+2014-11-26 12:56:29 [INFO] Generating keypair
+2014-11-26 12:56:29 [INFO] Starting Minecraft server on *:25565
+2014-11-26 12:56:30 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-11-26 12:56:31 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-11-26 12:56:31 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2014-11-26 12:56:31 [INFO] [Essentials] Loading Essentials v2.12.1
+2014-11-26 12:56:31 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v2.0
+2014-11-26 12:56:31 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.1
+2014-11-26 12:56:31 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.1
+2014-11-26 12:56:31 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-11-26 12:56:31 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-11-26 12:56:31 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-11-26 12:56:31 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-11-26 12:56:31 [INFO] Preparing level "Library_Aztlan"
+2014-11-26 12:56:31 [INFO] Preparing start region for level 0 (Seed: 8163330286958787011)
+2014-11-26 12:56:32 [INFO] Preparing spawn area: 39%
+2014-11-26 12:56:33 [INFO] Preparing start region for level 1 (Seed: 8163330286958787011)
+2014-11-26 12:56:34 [INFO] Preparing start region for level 2 (Seed: 8163330286958787011)
+2014-11-26 12:56:34 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-11-26 12:56:34 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-11-26 12:56:35 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2014-11-26 12:56:35 [INFO] GriefPrevention: Grief Prevention enabled.
+2014-11-26 12:56:35 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_Hub".  Please update your config.yml.
+2014-11-26 12:56:35 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd".  Please update your config.yml.
+2014-11-26 12:56:35 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd_nether".  Please update your config.yml.
+2014-11-26 12:56:35 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd_the_end".  Please update your config.yml.
+2014-11-26 12:56:35 [INFO] GriefPrevention: Warning: PvP Configuration: There's no world named "Library_Hub".  Please update your config.yml.
+2014-11-26 12:56:35 [INFO] GriefPrevention: 0 total claims loaded.
+2014-11-26 12:56:35 [INFO] GriefPrevention: 0 players have staked claims.
+2014-11-26 12:56:36 [INFO] [Essentials] Enabling Essentials v2.12.1
+2014-11-26 12:56:36 [INFO] Bukkit version format changed. Version not checked.
+2014-11-26 12:56:36 [INFO] git-Bukkit-1.6.4-R1.0 (MC: 1.6.4)
+2014-11-26 12:56:36 [INFO] 1.6.4-R1.0
+2014-11-26 12:56:37 [INFO] Essentials: Using config file enhanced permissions.
+2014-11-26 12:56:37 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-11-26 12:56:37 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v2.0
+2014-11-26 12:56:37 [INFO] [PermissionsBukkit] Enabled successfully
+2014-11-26 12:56:37 [INFO] Essentials: Using PermissionsBukkit based permissions.
+2014-11-26 12:56:37 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.1
+2014-11-26 12:56:37 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.1
+2014-11-26 12:56:37 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-11-26 12:56:37 [INFO] Done (5.974s)! For help, type "help" or "?"
+2014-11-26 12:56:37 [INFO] /192.168.1.18:49270 lost connection
+2014-11-26 12:56:41 [INFO] BraveNewWorld78[/192.168.1.7:53264] logged in with entity id 78 at ([Library_Aztlan] -626.7950852240482, 13.0, 590.9011342190861)
+2014-11-26 12:56:48 [INFO] BraveNewWorld78 lost connection: disconnect.quitting
+2014-11-26 12:56:48 [INFO] Connection reset
+2014-11-26 12:56:48 [INFO] ?eBraveNewWorld78 left the game.
+2014-11-26 12:57:11 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: UnknownHostException
+2014-11-26 12:57:11 [WARNING] Could not get latest artifact information: UnknownHostException
+2014-11-26 12:57:17 [INFO] [Metrics] mcstats.org
+2014-11-26 12:57:19 [INFO] trainfrog[/192.168.1.18:49273] logged in with entity id 519 at ([Library_Aztlan] -599.5, 4.0, 619.5)
+2014-11-26 12:57:21 [INFO] Lachman22[/192.168.1.19:49407] logged in with entity id 607 at ([Library_Aztlan] -602.5, 4.0, 607.5)
+2014-11-26 12:57:21 [INFO] Killerbean0[/192.168.1.90:49287] logged in with entity id 612 at ([Library_Aztlan] -32.54045384390237, 4.0, 452.23291447405717)
+2014-11-26 12:57:22 [INFO] /192.168.1.195:49347 lost connection
+2014-11-26 12:57:22 [INFO] [WorldEdit] Using inbuilt NmsBlock for this version.
+2014-11-26 12:57:22 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:57:22 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:57:23 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:57:23 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:57:25 [INFO] kelpfishthekid[/192.168.1.195:49348] logged in with entity id 1232 at ([Library_Aztlan] -604.5, 4.0, 587.5)
+2014-11-26 12:57:30 [INFO] Killerbean0 issued server command: /time set 0
+2014-11-26 12:57:33 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:57:33 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:57:33 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:57:33 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:57:33 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:57:33 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:57:34 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:57:34 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:57:34 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:57:34 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:57:35 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:57:35 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:57:35 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:57:35 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:57:36 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:57:36 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:57:36 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:57:36 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:57:37 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:57:37 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:57:37 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:57:37 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:57:37 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:57:37 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:57:38 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 12:57:38 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:57:38 [INFO] Killerbean0 issued server command: /difficulty peaceful
+2014-11-26 12:57:38 [INFO] Killerbean0: Set difficulty to PEACEFUL[m
+2014-11-26 12:57:46 [INFO] kelpfishthekid issued server command: /
+2014-11-26 12:57:46 [INFO] [m<~obama[m> iublkbiegkjls[m
+2014-11-26 12:57:47 [INFO] Lachman22 issued server command: /gamemode 1
+2014-11-26 12:57:55 [INFO] Killerbean0 issued server command: /op trainfrog
+2014-11-26 12:57:55 [INFO] Killerbean0: Opped trainfrog[m
+2014-11-26 12:57:55 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:58:02 [INFO] trainfrog issued server command: /gamemode 1
+2014-11-26 12:58:05 [INFO] kelpfishthekid issued server command: /creative
+2014-11-26 12:58:07 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 12:58:12 [INFO] kelpfishthekid issued server command: /lighting tool
+2014-11-26 12:58:18 [INFO] kelpfishthekid issued server command: /tools
+2014-11-26 12:58:19 [INFO] Lachman22 issued server command: /tp Killerbean0
+2014-11-26 12:58:30 [INFO] Killerbean0 issued server command: //pos2
+2014-11-26 12:58:32 [INFO] Killerbean0 issued server command: /set 0
+2014-11-26 12:58:36 [INFO] Killerbean0 issued server command: //set 0
+2014-11-26 12:58:39 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-11-26 12:59:02 [INFO] Killerbean0 issued server command: /j
+2014-11-26 12:59:10 [INFO] Killerbean0 issued server command: //set 2
+2014-11-26 12:59:32 [INFO] kelpfishthekid issued server command: /mode 1
+2014-11-26 12:59:35 [INFO] kelpfishthekid issued server command: /help
+2014-11-26 12:59:54 [INFO] Lachman22 issued server command: /tp trainfrog
+2014-11-26 12:59:55 [INFO] Killerbean0 issued server command: //hsphere glass 20
+2014-11-26 13:00:02 [INFO] Lachman22 issued server command: /tp Killerbean0
+2014-11-26 13:00:31 [INFO] Killerbean0 issued server command: //sphere 0 20
+2014-11-26 13:00:33 [INFO] trainfrog issued server command: /tp lach
+2014-11-26 13:00:36 [INFO] kelpfishthekid issued server command: /set mode 1
+2014-11-26 13:00:39 [INFO] Killerbean0 issued server command: //undo
+2014-11-26 13:00:55 [INFO] Killerbean0 issued server command: //redo
+2014-11-26 13:01:00 [INFO] Killerbean0 issued server command: //undo
+2014-11-26 13:02:03 [INFO] kelpfishthekid issued server command: /survival
+2014-11-26 13:02:15 [INFO] kelpfishthekid issued server command: /creative
+2014-11-26 13:04:23 [INFO] kelpfishthekid issued server command: /teleport killerbean0
+2014-11-26 13:05:22 [INFO] kelpfishthekid issued server command: /give kelpfishthekid lightning
+2014-11-26 13:05:39 [INFO] kelpfishthekid issued server command: /give kelpfishthekid 10
+2014-11-26 13:05:50 [INFO] kelpfishthekid issued server command: /give kelpfishthekid 11
+2014-11-26 13:06:03 [INFO] kelpfishthekid issued server command: /give kelpfishthekid fireworks
+2014-11-26 13:06:16 [INFO] kelpfishthekid issued server command: /give kelpfishthekid lightning tool
+2014-11-26 13:07:18 [INFO] [Metrics] mcstats.org
+2014-11-26 13:08:30 [INFO] kelpfishthekid issued server command: /
+2014-11-26 13:08:43 [INFO] Killerbean0 issued server command: /difficulty easy
+2014-11-26 13:08:43 [INFO] Killerbean0: Set difficulty to EASY[m
+2014-11-26 13:08:56 [INFO] Killerbean0 issued server command: /time set 0
+2014-11-26 13:09:58 [INFO] Killerbean0 issued server command: /tp kill kid
+2014-11-26 13:10:31 [INFO] GriefPrevention: [Sign Placement] <Lachman22> ;Stables;;; @ Library_Aztlan(10,6,261)
+2014-11-26 13:10:47 [INFO] Killerbean0 issued server command: /gamemode 0
+2014-11-26 13:10:56 [INFO] trainfrog issued server command: /tphere kelp
+2014-11-26 13:11:03 [INFO] Killerbean0 issued server command: /gamemode 1
+2014-11-26 13:12:20 [INFO] Killerbean0 issued server command: /difficulty peaceful
+2014-11-26 13:12:20 [INFO] Killerbean0: Set difficulty to PEACEFUL[m
+2014-11-26 13:12:58 [INFO] Killerbean0 issued server command: //set 2
+2014-11-26 13:13:26 [INFO] Killerbean0 issued server command: /gm 0
+2014-11-26 13:13:50 [INFO] Killerbean0 issued server command: /gm 1
+2014-11-26 13:14:08 [INFO] Killerbean0 issued server command: /gm 0
+2014-11-26 13:14:18 [INFO] Killerbean0 issued server command: /gm 1
+2014-11-26 13:15:28 [INFO] Killerbean0 issued server command: /time set night
+2014-11-26 13:15:36 [INFO] Killerbean0 issued server command: /time set day
+2014-11-26 13:17:18 [INFO] [Metrics] mcstats.org
+2014-11-26 13:18:06 [INFO] Killerbean0 issued server command: /difficulty easy
+2014-11-26 13:18:06 [INFO] Killerbean0: Set difficulty to EASY[m
+2014-11-26 13:18:14 [INFO] Killerbean0 issued server command: /gamemode 0
+2014-11-26 13:18:27 [INFO] Killerbean0 issued server command: /more
+2014-11-26 13:19:06 [INFO] Killerbean0 issued server command: /gamemode 1
+2014-11-26 13:19:18 [INFO] Killerbean0 issued server command: /gm 0
+2014-11-26 13:19:23 [INFO] Killerbean0 issued server command: /spawnmob ghast
+2014-11-26 13:19:28 [INFO] GriefPrevention: [Sign Placement] <Lachman22> ;Colt Pasture;;; @ Library_Aztlan(31,5,263)
+2014-11-26 13:20:32 [INFO] Killerbean0 issued server command: /gamemode 1
+2014-11-26 13:20:58 [INFO] Killerbean0 issued server command: /more
+2014-11-26 13:21:18 [INFO] Killerbean0 issued server command: /time set night
+2014-11-26 13:21:39 [INFO] Killerbean0 issued server command: /time set 0
+2014-11-26 13:21:50 [INFO] Killerbean0 issued server command: //hsphere obsidian 10
+2014-11-26 13:22:01 [INFO] Killerbean0 issued server command: /killall
+2014-11-26 13:22:17 [INFO] Killerbean0 issued server command: /gamemode 0
+2014-11-26 13:22:24 [INFO] Killerbean0 issued server command: /spawnmob zombie 5
+2014-11-26 13:22:46 [INFO] Killerbean0 issued server command: /spawnmob skeleton 2
+2014-11-26 13:23:10 [INFO] Killerbean0 issued server command: /spawnmob witch
+2014-11-26 13:23:46 [INFO] Killerbean0 issued server command: /spawnmob blaze
+2014-11-26 13:24:01 [INFO] Killerbean0 issued server command: /spawnmob giant
+2014-11-26 13:24:09 [INFO] Killerbean0 issued server command: /gm 0
+2014-11-26 13:24:14 [INFO] Killerbean0 issued server command: /gm 1
+2014-11-26 13:24:21 [INFO] Killerbean0 issued server command: /spawnmob giant
+2014-11-26 13:24:34 [INFO] Lachman22 issued server command: /spawnmob giant
+2014-11-26 13:24:43 [INFO] kelpfishthekid issued server command: /spawnn mob giant
+2014-11-26 13:24:44 [INFO] Killerbean0 issued server command: /spawnmob horse
+2014-11-26 13:24:48 [INFO] Killerbean0 issued server command: /spawnmob
+2014-11-26 13:25:13 [INFO] kelpfishthekid issued server command: /spawnmob enderdraon
+2014-11-26 13:25:15 [INFO] Killerbean0 issued server command: /spawnmob horse:2
+2014-11-26 13:25:21 [INFO] Killerbean0 issued server command: /spawnmob horse:10
+2014-11-26 13:25:22 [INFO] kelpfishthekid issued server command: /spawnmob giant
+2014-11-26 13:26:17 [INFO] Killerbean0 issued server command: /spawnmob skeleton 2
+2014-11-26 13:26:28 [INFO] trainfrog issued server command: /kill
+2014-11-26 13:26:33 [INFO] trainfrog issued server command: /kill all
+2014-11-26 13:26:43 [INFO] trainfrog issued server command: /killall
+2014-11-26 13:26:57 [INFO] Killerbean0 issued server command: //hcyl 98,98:2 5 100
+2014-11-26 13:27:19 [INFO] [Metrics] mcstats.org
+2014-11-26 13:27:20 [INFO] Killerbean0 issued server command: //undo
+2014-11-26 13:27:34 [INFO] Killerbean0 issued server command: //hcyl 98,98:2 5 256
+2014-11-26 13:27:45 [INFO] Killerbean0 issued server command: /j
+2014-11-26 13:27:54 [INFO] Lachman22 issued server command: //hcyl
+2014-11-26 13:28:46 [INFO] Killerbean0 issued server command: //hcyl 42 6 10
+2014-11-26 13:28:48 [INFO] Lachman22 issued server command: //hcyl 42 6 10
+2014-11-26 13:29:02 [INFO] Killerbean0 issued server command: /nuke
+2014-11-26 13:29:11 [INFO] Lachman22 issued server command: /hcyl 2 3 100
+2014-11-26 13:29:19 [INFO] Lachman22 issued server command: //undo
+2014-11-26 13:29:22 [INFO] Lachman22 issued server command: //redo
+2014-11-26 13:29:38 [INFO] Lachman22 issued server command: /undo
+2014-11-26 13:29:50 [INFO] trainfrog issued server command: /tphere kill
+2014-11-26 13:31:16 [INFO] trainfrog issued server command: /tphere lach
+2014-11-26 13:31:22 [INFO] Lachman22 issued server command: /tpa train
+2014-11-26 13:31:27 [INFO] Killerbean0 issued server command: /broadcast PREPARE FOR A LAND CLEAR
+2014-11-26 13:31:33 [INFO] trainfrog issued server command: /tpaccept
+2014-11-26 13:31:38 [INFO] Lachman22 issued server command: /tp train
+2014-11-26 13:31:45 [INFO] Killerbean0 issued server command: /broadcast ALL STRUCTURES WILL BE CLEARED
+2014-11-26 13:31:45 [INFO] Lachman22 issued server command: /tp here train
+2014-11-26 13:31:53 [INFO] Lachman22 issued server command: /tphere trainfrog
+2014-11-26 13:32:25 [INFO] Killerbean0 issued server command: //cyl 0 100 100
+2014-11-26 13:32:42 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-11-26 13:32:52 [INFO] Killerbean0 issued server command: /difficulty peaceful
+2014-11-26 13:32:52 [INFO] Killerbean0: Set difficulty to PEACEFUL[m
+2014-11-26 13:32:55 [INFO] Killerbean0 issued server command: /time set 0
+2014-11-26 13:33:53 [INFO] Killerbean0 issued server command: //set 1
+2014-11-26 13:33:55 [INFO] Lachman22 issued server command: //set
+2014-11-26 13:33:59 [INFO] Killerbean0 issued server command: //undo
+2014-11-26 13:33:59 [INFO] Lachman22 issued server command: //set 1
+2014-11-26 13:34:17 [INFO] Killerbean0 issued server command: //set 1
+2014-11-26 13:34:23 [INFO] Lachman22 issued server command: /set 1
+2014-11-26 13:34:27 [INFO] Lachman22 issued server command: //set 1
+2014-11-26 13:34:30 [INFO] Lachman22 issued server command: /undo
+2014-11-26 13:34:51 [INFO] Lachman22 issued server command: //delete
+2014-11-26 13:34:55 [INFO] Lachman22 issued server command: //delete
+2014-11-26 13:35:55 [INFO] Lachman22 issued server command: //set obsidian
+2014-11-26 13:35:55 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-11-26 13:36:28 [INFO] Killerbean0 issued server command: /kill train
+2014-11-26 13:36:28 [INFO] trainfrog hit the ground too hard
+2014-11-26 13:36:35 [INFO] Killerbean0 issued server command: /kill kid
+2014-11-26 13:36:35 [INFO] kelpfishthekid was slain by Zombie
+2014-11-26 13:36:44 [INFO] Killerbean0 issued server command: /smite kid
+2014-11-26 13:36:46 [INFO] Lachman22 issued server command: //set obsidian
+2014-11-26 13:36:51 [INFO] trainfrog issued server command: /smite kill
+2014-11-26 13:36:53 [INFO] Killerbean0 issued server command: /powertool lightning
+2014-11-26 13:36:54 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:36:55 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:36:55 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:36:55 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:36:55 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:36:55 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:36:56 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:36:56 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:36:56 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:36:56 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:36:56 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:36:57 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:36:59 [INFO] trainfrog issued server command: /kill kill
+2014-11-26 13:36:59 [INFO] Killerbean0 was shot by Skeleton
+2014-11-26 13:37:10 [INFO] kelpfishthekid issued server command: /spawnblock giant
+2014-11-26 13:37:11 [INFO] trainfrog issued server command: /kill kill
+2014-11-26 13:37:18 [INFO] Lachman22 issued server command: //set obsidian
+2014-11-26 13:37:26 [INFO] Killerbean0 issued server command: /deop trainfrog
+2014-11-26 13:37:26 [INFO] Killerbean0: De-opped trainfrog[m
+2014-11-26 13:37:33 [INFO] [Metrics] mcstats.org
+2014-11-26 13:37:33 [INFO] kelpfishthekid issued server command: /spawnmob giant
+2014-11-26 13:37:35 [INFO] Killerbean0 issued server command: /tp kill lach
+2014-11-26 13:37:38 [INFO] kelpfishthekid issued server command: /spawnmob giant
+2014-11-26 13:37:39 [INFO] kelpfishthekid issued server command: /spawnmob giant
+2014-11-26 13:37:41 [INFO] kelpfishthekid issued server command: /spawnmob giant
+2014-11-26 13:37:45 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:37:51 [INFO] Killerbean0 issued server command: /weather storm
+2014-11-26 13:37:52 [INFO] Lachman22 issued server command: //set obsidian
+2014-11-26 13:37:59 [INFO] kelpfishthekid issued server command: /teleport killerean0
+2014-11-26 13:38:05 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:05 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:05 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:06 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:06 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:06 [INFO] Lachman22 issued server command: //undo
+2014-11-26 13:38:06 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:07 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:07 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:07 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:07 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:08 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:08 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:08 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:08 [INFO] Lachman22 issued server command: //undo
+2014-11-26 13:38:10 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:10 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:10 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:10 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:10 [INFO] Lachman22 issued server command: //undo
+2014-11-26 13:38:11 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:11 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:11 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:12 [INFO] Lachman22 issued server command: //undo
+2014-11-26 13:38:12 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:12 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:13 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:13 [INFO] kelpfishthekid issued server command: /teleport killerbean0
+2014-11-26 13:38:14 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:15 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:16 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:16 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:17 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:17 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:17 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:17 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:18 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:18 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:18 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:18 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:20 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:20 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:20 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:20 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:20 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:21 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:21 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:21 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:21 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:22 [INFO] Lachman22 issued server command: /weather clear
+2014-11-26 13:38:22 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:22 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:22 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:22 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:23 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:23 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:23 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:23 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:24 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:24 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:24 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:27 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:28 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:28 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:29 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:29 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:30 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:30 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:30 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:30 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:30 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:31 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:31 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:31 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:31 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:31 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:32 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:32 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:32 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:32 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:33 [INFO] kelpfishthekid issued server command: /lightning tool
+2014-11-26 13:38:41 [INFO] kelpfishthekid issued server command: /
+2014-11-26 13:38:43 [INFO] Killerbean0 issued server command: /weather
+2014-11-26 13:38:48 [INFO] Killerbean0 issued server command: /weather storm
+2014-11-26 13:38:53 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:54 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:54 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:54 [INFO] trainfrog lost connection: disconnect.quitting
+2014-11-26 13:38:54 [INFO] Connection reset
+2014-11-26 13:38:54 [INFO] ?etrainfrog left the game.
+2014-11-26 13:38:56 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:57 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:57 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:57 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:58 [INFO] [PT] Killerbean0 issued server command: /lightning
+2014-11-26 13:38:59 [INFO] Killerbean0 lost connection: disconnect.quitting
+2014-11-26 13:38:59 [INFO] Connection reset
+2014-11-26 13:38:59 [INFO] ?eKillerbean0 left the game.
+2014-11-26 13:39:01 [INFO] Lachman22 lost connection: disconnect.quitting
+2014-11-26 13:39:01 [INFO] Connection reset
+2014-11-26 13:39:01 [INFO] ?eLachman22 left the game.
+2014-11-26 13:39:13 [INFO] Connection reset
+2014-11-26 13:39:13 [INFO] kelpfishthekid lost connection: disconnect.quitting
+2014-11-26 13:39:13 [INFO] ?ekelpfishthekid left the game.
+2014-11-26 13:39:18 [INFO] /192.168.1.18:49278 lost connection
+2014-11-26 13:40:57 [INFO] kelpfishthekid[/192.168.1.195:49383] logged in with entity id 906025 at ([Library_Aztlan] 2.7364949062915356, 4.0, 231.08444979248128)
+2014-11-26 13:41:09 [INFO] kelpfishthekid issued server command: /teleport killerbean0
+2014-11-26 13:41:13 [INFO] Starting minecraft server version 1.6.4
+2014-11-26 13:41:13 [INFO] Loading properties
+2014-11-26 13:41:13 [INFO] Default game type: SURVIVAL
+2014-11-26 13:41:13 [INFO] Generating keypair
+2014-11-26 13:41:13 [INFO] Starting Minecraft server on *:25565
+2014-11-26 13:41:14 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-11-26 13:41:14 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-11-26 13:41:14 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2014-11-26 13:41:14 [INFO] [Essentials] Loading Essentials v2.12.1
+2014-11-26 13:41:14 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v2.0
+2014-11-26 13:41:14 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.1
+2014-11-26 13:41:14 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.1
+2014-11-26 13:41:14 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-11-26 13:41:14 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-11-26 13:41:14 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-11-26 13:41:14 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-11-26 13:41:14 [INFO] Preparing level "Library_Hub"
+2014-11-26 13:41:14 [SEVERE] java.io.EOFException
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:224)
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:214)
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:153)
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:75)
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:85)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.NBTCompressedStreamTools.a(SourceFile:9)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.WorldLoader.c(SourceFile:57)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.WorldLoaderServer.isConvertable(SourceFile:100)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.a(MinecraftServer.java:138)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.a(MinecraftServer.java:150)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.DedicatedServer.init(DedicatedServer.java:152)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:393)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+2014-11-26 13:41:14 [SEVERE] java.io.EOFException
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:224)
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:214)
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:153)
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:75)
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:85)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.NBTCompressedStreamTools.a(SourceFile:9)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.WorldNBTStorage.getWorldData(WorldNBTStorage.java:89)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.a(MinecraftServer.java:155)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.DedicatedServer.init(DedicatedServer.java:152)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:393)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+2014-11-26 13:41:14 [SEVERE] java.io.EOFException
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:224)
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:214)
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:153)
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:75)
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:85)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.NBTCompressedStreamTools.a(SourceFile:9)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.WorldNBTStorage.getWorldData(WorldNBTStorage.java:89)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.World.<init>(World.java:125)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.WorldServer.<init>(WorldServer.java:46)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.a(MinecraftServer.java:192)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.DedicatedServer.init(DedicatedServer.java:152)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:393)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+2014-11-26 13:41:14 [SEVERE] java.io.EOFException
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:224)
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:214)
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:153)
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:75)
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:85)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.NBTCompressedStreamTools.a(SourceFile:9)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.WorldNBTStorage.getWorldData(WorldNBTStorage.java:89)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.World.<init>(World.java:125)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.WorldServer.<init>(WorldServer.java:46)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.SecondaryWorldServer.<init>(SecondaryWorldServer.java:6)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.a(MinecraftServer.java:231)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.DedicatedServer.init(DedicatedServer.java:152)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:393)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+2014-11-26 13:41:14 [SEVERE] java.io.EOFException
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.readUByte(GZIPInputStream.java:224)
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.readUShort(GZIPInputStream.java:214)
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.readHeader(GZIPInputStream.java:153)
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:75)
+2014-11-26 13:41:14 [SEVERE] 	at java.util.zip.GZIPInputStream.<init>(GZIPInputStream.java:85)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.NBTCompressedStreamTools.a(SourceFile:9)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.WorldNBTStorage.getWorldData(WorldNBTStorage.java:89)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.World.<init>(World.java:125)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.WorldServer.<init>(WorldServer.java:46)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.SecondaryWorldServer.<init>(SecondaryWorldServer.java:6)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.a(MinecraftServer.java:231)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.DedicatedServer.init(DedicatedServer.java:152)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.MinecraftServer.run(MinecraftServer.java:393)
+2014-11-26 13:41:14 [SEVERE] 	at net.minecraft.server.v1_6_R3.ThreadServerApplication.run(SourceFile:583)
+2014-11-26 13:41:14 [INFO] Preparing start region for level 0 (Seed: 563634050155382046)
+2014-11-26 13:41:15 [INFO] Preparing spawn area: 56%
+2014-11-26 13:41:16 [INFO] Preparing start region for level 1 (Seed: 563634050155382046)
+2014-11-26 13:41:17 [INFO] Preparing start region for level 2 (Seed: 563634050155382046)
+2014-11-26 13:41:17 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-11-26 13:41:17 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-11-26 13:41:17 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2014-11-26 13:41:17 [INFO] GriefPrevention: Grief Prevention enabled.
+2014-11-26 13:41:17 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd".  Please update your config.yml.
+2014-11-26 13:41:17 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd_nether".  Please update your config.yml.
+2014-11-26 13:41:17 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd_the_end".  Please update your config.yml.
+2014-11-26 13:41:17 [INFO] GriefPrevention: 0 total claims loaded.
+2014-11-26 13:41:17 [INFO] GriefPrevention: 0 players have staked claims.
+2014-11-26 13:41:18 [INFO] [Essentials] Enabling Essentials v2.12.1
+2014-11-26 13:41:18 [INFO] Bukkit version format changed. Version not checked.
+2014-11-26 13:41:18 [INFO] git-Bukkit-1.6.4-R1.0 (MC: 1.6.4)
+2014-11-26 13:41:18 [INFO] 1.6.4-R1.0
+2014-11-26 13:41:19 [INFO] Essentials: Using config file enhanced permissions.
+2014-11-26 13:41:19 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-11-26 13:41:19 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v2.0
+2014-11-26 13:41:19 [INFO] [PermissionsBukkit] Enabled successfully
+2014-11-26 13:41:19 [INFO] Essentials: Using PermissionsBukkit based permissions.
+2014-11-26 13:41:19 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.1
+2014-11-26 13:41:19 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.1
+2014-11-26 13:41:19 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-11-26 13:41:19 [INFO] Done (4.909s)! For help, type "help" or "?"
+2014-11-26 13:41:19 [INFO] /192.168.1.195:49385 lost connection
+2014-11-26 13:41:54 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: UnknownHostException
+2014-11-26 13:41:54 [WARNING] Could not get latest artifact information: UnknownHostException
+2014-11-26 13:41:59 [INFO] [Metrics] mcstats.org
+2014-11-26 13:43:22 [WARNING] Failed to load player data for kelpfishthekid
+2014-11-26 13:43:22 [INFO] kelpfishthekid[/192.168.1.195:49405] logged in with entity id 153 at ([Library_Hub] -79.5, 91.0, 290.5)
+2014-11-26 13:43:30 [INFO] Killerbean0[/192.168.1.90:49290] logged in with entity id 1501 at ([Library_Hub] -86.30000001192096, 74.71857802255563, 303.79526783991906)
+2014-11-26 13:43:32 [INFO] Lachman22[/192.168.1.19:49412] logged in with entity id 1539 at ([Library_Hub] -88.22690750343106, 68.5, 304.12973994820663)
+2014-11-26 13:43:38 [INFO] kelpfishthekid issued server command: /creative
+2014-11-26 13:43:45 [INFO] Killerbean0 issued server command: /tphere train
+2014-11-26 13:43:50 [INFO] Killerbean0 issued server command: /tphere kid
+2014-11-26 13:43:52 [INFO] Killerbean0 issued server command: /tphere lach
+2014-11-26 13:44:05 [INFO] kelpfishthekid issued server command: /survival
+2014-11-26 13:44:10 [INFO] Killerbean0 issued server command: /gm 0 kid
+2014-11-26 13:44:10 [INFO] trainfrog[/192.168.1.18:49296] logged in with entity id 2594 at ([Library_Hub] -103.30000001192093, 63.0, 300.8140715907516)
+2014-11-26 13:44:16 [INFO] [WorldEdit] Using inbuilt NmsBlock for this version.
+2014-11-26 13:44:18 [INFO] Killerbean0 issued server command: /gm 0 lach
+2014-11-26 13:44:23 [INFO] trainfrog issued server command: /gamemode 1
+2014-11-26 13:44:23 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 13:44:31 [INFO] Killerbean0 issued server command: /tphere train
+2014-11-26 13:44:34 [INFO] kelpfishthekid issued server command: /creative
+2014-11-26 13:44:37 [INFO] Killerbean0 issued server command: /gm 0 train
+2014-11-26 13:45:02 [INFO] Killerbean0 issued server command: /heal kid
+2014-11-26 13:45:11 [INFO] Killerbean0 issued server command: /heal train
+2014-11-26 13:45:21 [INFO] Killerbean0 issued server command: /invsee kid
+2014-11-26 13:46:34 [INFO] Killerbean0 issued server command: /killall
+2014-11-26 13:46:39 [INFO] Killerbean0 issued server command: /heal train
+2014-11-26 13:47:11 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> GRIEFING IS;PUNISHABLE BY;TIME OUT;; @ Library_Hub(-96,84,303)
+2014-11-26 13:48:37 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> THIEVES WILL;BE THROWN;IN THE;DUNGEON; @ Library_Hub(-82,74,297)
+2014-11-26 13:48:49 [INFO] Killerbean0 issued server command: /heal kid
+2014-11-26 13:48:58 [INFO] Killerbean0 issued server command: /invsee kid
+2014-11-26 13:49:03 [INFO] Killerbean0 issued server command: /heal kid
+2014-11-26 13:50:16 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> ANYONE WHO;CURSES WILL;HAVE THEIR;ITEMS TAKEN; @ Library_Hub(-82,74,300)
+2014-11-26 13:50:51 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> WE CAN'T;AFFORD A NURSE;SO NO PUNCHING;; @ Library_Hub(-82,74,303)
+2014-11-26 13:50:55 [INFO] kelpfishthekid issued server command: /tphere train
+2014-11-26 13:51:35 [INFO] kelpfishthekid issued server command: /teleport killerbean0
+2014-11-26 13:51:41 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> JUST DON'T.;THANKS.;;; @ Library_Hub(-82,74,303)
+2014-11-26 13:51:59 [INFO] [Metrics] mcstats.org
+2014-11-26 13:52:36 [INFO] trainfrog issued server command: /tphere kid
+2014-11-26 13:52:36 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 13:52:39 [INFO] Killerbean0 issued server command: /heal kid
+2014-11-26 13:52:40 [INFO] trainfrog issued server command: /tpahere kid
+2014-11-26 13:52:41 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 13:52:49 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 13:52:49 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 13:52:53 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 13:52:53 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 13:52:53 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 13:52:53 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 13:52:54 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 13:52:54 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 13:52:54 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 13:52:54 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 13:52:54 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 13:52:54 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 13:52:54 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 13:52:54 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 13:52:54 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 13:52:55 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 13:52:56 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 13:52:56 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 13:53:08 [INFO] Connection reset
+2014-11-26 13:53:08 [INFO] trainfrog lost connection: disconnect.quitting
+2014-11-26 13:53:08 [INFO] ?etrainfrog left the game.
+2014-11-26 13:53:18 [INFO] Killerbean0 lost connection: disconnect.quitting
+2014-11-26 13:53:18 [INFO] Connection reset
+2014-11-26 13:53:19 [INFO] ?eKillerbean0 left the game.
+2014-11-26 13:53:20 [INFO] Lachman22 lost connection: disconnect.quitting
+2014-11-26 13:53:20 [INFO] Connection reset
+2014-11-26 13:53:20 [INFO] ?eLachman22 left the game.
+2014-11-26 13:53:51 [INFO] Killerbean0[/192.168.1.90:49292] logged in with entity id 16653 at ([Library_Hub] -85.52907814190826, 63.0, 310.3103591735662)
+2014-11-26 13:55:15 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> REGLA 1:;NO DESTRUIR;;; @ Library_Hub(-96,83,304)
+2014-11-26 13:56:55 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> DESTRUIR SE;CASTIGARA CON;TIEMPO FUERA;; @ Library_Hub(-96,83,303)
+2014-11-26 13:57:46 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> REGLA 2:;NO SPAMMING;;; @ Library_Hub(-96,83,301)
+2014-11-26 13:58:09 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> ^;|;ES MALO;; @ Library_Hub(-96,83,300)
+2014-11-26 13:58:36 [INFO] kelpfishthekid issued server command: /timeset 1
+2014-11-26 13:58:42 [INFO] kelpfishthekid issued server command: /timeset 1
+2014-11-26 13:58:43 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> REGLA 3:;SE AMISTOSO;;; @ Library_Hub(-96,83,298)
+2014-11-26 13:59:21 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> JUEGADORES;SON AMIGOS,;NO COMIDA;; @ Library_Hub(-96,83,297)
+2014-11-26 14:00:12 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> REGLA 4:;NO ROBAR;;; @ Library_Hub(-82,73,296)
+2014-11-26 14:01:07 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> LADRONES;IRAN A LA;CARCEL;; @ Library_Hub(-82,73,297)
+2014-11-26 14:01:35 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> REGLA 5:;NO MALAS;PALABRAS;; @ Library_Hub(-82,73,299)
+2014-11-26 14:01:59 [INFO] [Metrics] mcstats.org
+2014-11-26 14:02:42 [INFO] Lachman22[/192.168.1.19:49415] logged in with entity id 21709 at ([Library_Hub] -89.45771853371481, 63.0, 291.268779105564)
+2014-11-26 14:02:50 [INFO] Lachman22 issued server command: /gm 1
+2014-11-26 14:03:32 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> SI ROMPES LAS;REGLAS,;TOMAREMOS TU;INVENTORIO; @ Library_Hub(-82,73,300)
+2014-11-26 14:03:34 [INFO] Connection reset
+2014-11-26 14:03:34 [INFO] Lachman22 lost connection: disconnect.quitting
+2014-11-26 14:03:34 [INFO] ?eLachman22 left the game.
+2014-11-26 14:03:58 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> REGLA 6:;NO PVP;;; @ Library_Hub(-82,73,302)
+2014-11-26 14:04:17 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> NO LO HAGAS;;;; @ Library_Hub(-82,73,303)
+2014-11-26 14:04:48 [INFO] Connection reset
+2014-11-26 14:04:48 [INFO] Killerbean0 lost connection: disconnect.quitting
+2014-11-26 14:04:48 [INFO] ?eKillerbean0 left the game.
+2014-11-26 14:04:58 [INFO] Lachman22[/192.168.1.19:49419] logged in with entity id 24042 at ([Library_Hub] -89.45771853371481, 63.0, 291.268779105564)
+2014-11-26 14:05:00 [INFO] Connection reset
+2014-11-26 14:05:00 [INFO] Lachman22 lost connection: disconnect.quitting
+2014-11-26 14:05:00 [INFO] ?eLachman22 left the game.
+2014-11-26 14:05:22 [INFO] kelpfishthekid lost connection: disconnect.quitting
+2014-11-26 14:05:22 [INFO] Connection reset
+2014-11-26 14:05:22 [INFO] ?ekelpfishthekid left the game.
+2014-11-26 14:05:25 [INFO] kelpfishthekid[/192.168.1.195:49407] logged in with entity id 24718 at ([Library_Hub] -93.91744368945216, 63.0, 303.63521482399574)
+2014-11-26 14:05:29 [INFO] kelpfishthekid lost connection: disconnect.quitting
+2014-11-26 14:05:29 [INFO] Connection reset
+2014-11-26 14:05:29 [INFO] ?ekelpfishthekid left the game.
+2014-11-26 14:10:48 [INFO] Starting minecraft server version 1.6.4
+2014-11-26 14:10:48 [INFO] Loading properties
+2014-11-26 14:10:48 [INFO] Default game type: SURVIVAL
+2014-11-26 14:10:48 [INFO] Generating keypair
+2014-11-26 14:10:49 [INFO] Starting Minecraft server on *:25565
+2014-11-26 14:10:50 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-11-26 14:10:51 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-11-26 14:10:51 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2014-11-26 14:10:51 [INFO] [Essentials] Loading Essentials v2.12.1
+2014-11-26 14:10:51 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v2.0
+2014-11-26 14:10:51 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.1
+2014-11-26 14:10:51 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.1
+2014-11-26 14:10:51 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-11-26 14:10:51 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-11-26 14:10:51 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-11-26 14:10:51 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-11-26 14:10:51 [INFO] Preparing level "Library_1st_2nd"
+2014-11-26 14:10:51 [INFO] Preparing start region for level 0 (Seed: 4964361869162162695)
+2014-11-26 14:10:52 [INFO] Preparing spawn area: 44%
+2014-11-26 14:10:53 [INFO] Preparing start region for level 1 (Seed: 4964361869162162695)
+2014-11-26 14:10:53 [INFO] Preparing start region for level 2 (Seed: 4964361869162162695)
+2014-11-26 14:10:54 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-11-26 14:10:54 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-11-26 14:10:54 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2014-11-26 14:10:54 [INFO] GriefPrevention: Grief Prevention enabled.
+2014-11-26 14:10:54 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_Hub".  Please update your config.yml.
+2014-11-26 14:10:54 [INFO] GriefPrevention: Warning: PvP Configuration: There's no world named "Library_Hub".  Please update your config.yml.
+2014-11-26 14:10:54 [INFO] GriefPrevention: 0 total claims loaded.
+2014-11-26 14:10:54 [INFO] GriefPrevention: 0 players have staked claims.
+2014-11-26 14:10:55 [INFO] [Essentials] Enabling Essentials v2.12.1
+2014-11-26 14:10:55 [INFO] Bukkit version format changed. Version not checked.
+2014-11-26 14:10:55 [INFO] git-Bukkit-1.6.4-R1.0 (MC: 1.6.4)
+2014-11-26 14:10:55 [INFO] 1.6.4-R1.0
+2014-11-26 14:10:56 [INFO] Essentials: Using config file enhanced permissions.
+2014-11-26 14:10:56 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-11-26 14:10:56 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v2.0
+2014-11-26 14:10:56 [INFO] [PermissionsBukkit] Enabled successfully
+2014-11-26 14:10:56 [INFO] Essentials: Using PermissionsBukkit based permissions.
+2014-11-26 14:10:56 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.1
+2014-11-26 14:10:56 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.1
+2014-11-26 14:10:56 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-11-26 14:10:56 [INFO] Done (5.709s)! For help, type "help" or "?"
+2014-11-26 14:11:30 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: UnknownHostException
+2014-11-26 14:11:30 [WARNING] Could not get latest artifact information: UnknownHostException
+2014-11-26 14:11:37 [INFO] [Metrics] mcstats.org
+2014-11-26 14:11:50 [INFO] Killerbean0[/192.168.1.90:49295] logged in with entity id 27 at ([Library_1st_2nd] -305.8236666841303, 4.619856426909891, -1129.050585608506)
+2014-11-26 14:21:37 [INFO] [Metrics] mcstats.org
+2014-11-26 14:22:01 [INFO] Killerbean0 issued server command: /time set 1
+2014-11-26 14:22:37 [INFO] kelpfishthekid[/192.168.1.195:49421] logged in with entity id 123926 at ([Library_1st_2nd] -329.5, 4.0, -1111.5)
+2014-11-26 14:22:58 [INFO] Lachman22[/192.168.1.19:49425] logged in with entity id 128487 at ([Library_1st_2nd] -295.5, 24.0, -1117.5)
+2014-11-26 14:23:10 [INFO] [WorldEdit] Using inbuilt NmsBlock for this version.
+2014-11-26 14:23:20 [INFO] Lachman22 issued server command: /gamemode 1
+2014-11-26 14:23:21 [INFO] Killerbean0 issued server command: //pos2
+2014-11-26 14:23:22 [INFO] Killerbean0 issued server command: //set 0
+2014-11-26 14:23:36 [INFO] Killerbean0 issued server command: /ignoreclaims
+2014-11-26 14:24:03 [INFO] Connection reset
+2014-11-26 14:24:03 [INFO] /192.168.1.18:49333 lost connection
+2014-11-26 14:24:11 [INFO] trainfrog[/192.168.1.18:49336] logged in with entity id 148705 at ([Library_1st_2nd] -319.5, 18.0, -1112.5)
+2014-11-26 14:24:21 [INFO] Killerbean0 issued server command: /nick trainfrog off
+2014-11-26 14:24:24 [INFO] [m<trainfrog[m> taww[m
+2014-11-26 14:24:28 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 14:24:28 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 14:24:29 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 14:24:29 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 14:24:29 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 14:24:29 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 14:24:29 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 14:24:29 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 14:24:29 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 14:24:29 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 14:24:30 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 14:24:30 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 14:24:30 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 14:24:30 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 14:24:30 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-11-26 14:24:30 [INFO] [PT] trainfrog issued server command: /lightning
+2014-11-26 14:24:49 [INFO] trainfrog tried to swim in lava
+2014-11-26 14:24:54 [INFO] [m<trainfrog[m> op me[m
+2014-11-26 14:25:25 [INFO] [m<[0;31;22mkelpfishthekid[m> lol cats are blue[m
+2014-11-26 14:25:39 [INFO] [m<trainfrog[m> i prefer them cooked[m
+2014-11-26 14:26:54 [INFO] Killerbean0 issued server command: /op trainfrog
+2014-11-26 14:26:54 [INFO] Killerbean0: Opped trainfrog[m
+2014-11-26 14:27:01 [INFO] trainfrog issued server command: /GM 1
+2014-11-26 14:27:30 [INFO] kelpfishthekid issued server command: /creative
+2014-11-26 14:27:41 [INFO] trainfrog issued server command: /ignoreclaims
+2014-11-26 14:27:43 [INFO] kelpfishthekid issued server command: /ignore claim
+2014-11-26 14:27:51 [INFO] Lachman22 issued server command: /tp kid
+2014-11-26 14:27:54 [INFO] kelpfishthekid issued server command: /ignore claim
+2014-11-26 14:28:10 [INFO] kelpfishthekid issued server command: /ignoreclaims
+2014-11-26 14:28:17 [INFO] GriefPrevention: [Sign Placement] <trainfrog> Movement ;controls;;; @ Library_1st_2nd(-306,4,-1164)
+2014-11-26 14:28:24 [INFO] GriefPrevention: [Sign Placement] <trainfrog> contols;;;; @ Library_1st_2nd(-306,4,-1164)
+2014-11-26 14:28:36 [INFO] GriefPrevention: [Sign Placement] <trainfrog> ;CONTROLS;;; @ Library_1st_2nd(-306,4,-1164)
+2014-11-26 14:28:46 [INFO] Lachman22 issued server command: /Ingoreclaims
+2014-11-26 14:28:52 [INFO] Lachman22 issued server command: /ignoreclaims
+2014-11-26 14:28:59 [INFO] Lachman22 issued server command: /tphere kid
+2014-11-26 14:29:38 [INFO] Killerbean0 issued server command: /gamerule doFireTick false
+2014-11-26 14:29:38 [INFO] Killerbean0: Game rule doFireTick has been set to: false[m
+2014-11-26 14:29:44 [INFO] GriefPrevention: [Sign Placement] <trainfrog> press and;hold "W";to move forward;; @ Library_1st_2nd(-306,5,-1166)
+2014-11-26 14:30:05 [INFO] GriefPrevention: [Sign Placement] <trainfrog> "D" to move;right;;; @ Library_1st_2nd(-305,4,-1166)
+2014-11-26 14:30:18 [INFO] GriefPrevention: [Sign Placement] <trainfrog> "A" to move;left;;; @ Library_1st_2nd(-307,4,-1166)
+2014-11-26 14:30:33 [INFO] GriefPrevention: [Sign Placement] <trainfrog> "S" to move;back;;; @ Library_1st_2nd(-306,4,-1165)
+2014-11-26 14:30:44 [INFO] GriefPrevention: [Sign Placement] <Lachman22> ;Welcome To;The Park;; @ Library_1st_2nd(-354,8,-1183)
+2014-11-26 14:31:11 [INFO] GriefPrevention: [Sign Placement] <trainfrog> "SPACE" to ;jump;;; @ Library_1st_2nd(-306,4,-1169)
+2014-11-26 14:31:20 [INFO] Killerbean0 issued server command: //set cobble/mosyycobble
+2014-11-26 14:31:26 [INFO] Killerbean0 issued server command: //set cobble,mosyycobble
+2014-11-26 14:31:31 [INFO] Killerbean0 issued server command: //set cobble,mossycobble
+2014-11-26 14:31:37 [INFO] [Metrics] mcstats.org
+2014-11-26 14:32:56 [INFO] GriefPrevention: [Sign Placement] <trainfrog> Move forward;and jump over;the gap;; @ Library_1st_2nd(-306,4,-1172)
+2014-11-26 14:33:00 [INFO] GriefPrevention: [Sign Placement] <trainfrog> G;;;; @ Library_1st_2nd(-306,4,-1174)
+2014-11-26 14:33:10 [INFO] GriefPrevention: [Sign Placement] <kelpfishthekid> Sandbox;;;; @ Library_1st_2nd(-362,4,-1199)
+2014-11-26 14:33:15 [INFO] GriefPrevention: [Sign Placement] <trainfrog> ;Good Job!;;; @ Library_1st_2nd(-306,4,-1175)
+2014-11-26 14:33:26 [INFO] Killerbean0 issued server command: /time set 0
+2014-11-26 14:33:39 [INFO] Killerbean0 issued server command: //copy
+2014-11-26 14:33:42 [INFO] Killerbean0 issued server command: //paste
+2014-11-26 14:33:50 [INFO] Lachman22 issued server command: /remove grass
+2014-11-26 14:33:55 [INFO] Killerbean0 issued server command: //rotate 180
+2014-11-26 14:33:57 [INFO] Killerbean0 issued server command: //paste
+2014-11-26 14:34:04 [INFO] Killerbean0 issued server command: //paste
+2014-11-26 14:34:09 [INFO] Killerbean0 issued server command: //paste
+2014-11-26 14:34:15 [INFO] Killerbean0 issued server command: //rotate 180
+2014-11-26 14:34:17 [INFO] Killerbean0 issued server command: //paste
+2014-11-26 14:34:20 [INFO] Killerbean0 issued server command: //undo
+2014-11-26 14:34:26 [INFO] Killerbean0 issued server command: //paste
+2014-11-26 14:34:56 [INFO] Lachman22 issued server command: /time set night
+2014-11-26 14:35:06 [INFO] Lachman22 issued server command: /time set 0
+2014-11-26 14:36:22 [INFO] GriefPrevention: [Sign Placement] <trainfrog> When you;are done,;doubl;; @ Library_1st_2nd(-306,5,-1181)
+2014-11-26 14:37:24 [INFO] GriefPrevention: [Sign Placement] <trainfrog> Right-click on;your mouse;to interact;; @ Library_1st_2nd(-315,5,-1179)
+2014-11-26 14:37:57 [INFO] GriefPrevention: [Sign Placement] <trainfrog> look at the;button and;interact with;it; @ Library_1st_2nd(-314,4,-1178)
+2014-11-26 14:38:28 [INFO] GriefPrevention: [Sign Placement] <trainfrog> right click;while looking;at the button;to press it; @ Library_1st_2nd(-314,4,-1178)
+2014-11-26 14:38:49 [INFO] Killerbean0 issued server command: //set gravel,2
+2014-11-26 14:39:26 [INFO] Killerbean0 issued server command: //set 17:12
+2014-11-26 14:39:44 [INFO] Killerbean0 issued server command: //set 17:12
+2014-11-26 14:40:02 [INFO] Killerbean0 issued server command: //walls leaves
+2014-11-26 14:40:20 [INFO] Killerbean0 issued server command: //walls leaves
+2014-11-26 14:40:45 [INFO] Killerbean0 issued server command: //set gravel,cobble
+2014-11-26 14:40:48 [INFO] trainfrog issued server command: /more
+2014-11-26 14:40:56 [INFO] trainfrog issued server command: /more
+2014-11-26 14:41:04 [INFO] trainfrog issued server command: /more
+2014-11-26 14:41:09 [INFO] trainfrog issued server command: /more
+2014-11-26 14:41:15 [INFO] trainfrog issued server command: /more
+2014-11-26 14:41:26 [INFO] trainfrog issued server command: /more
+2014-11-26 14:41:29 [INFO] trainfrog issued server command: /more
+2014-11-26 14:41:30 [INFO] Killerbean0 issued server command: //set 17:12
+2014-11-26 14:41:31 [INFO] trainfrog issued server command: /more
+2014-11-26 14:41:33 [INFO] trainfrog issued server command: /more
+2014-11-26 14:41:37 [INFO] [Metrics] mcstats.org
+2014-11-26 14:41:37 [INFO] trainfrog issued server command: /more
+2014-11-26 14:41:40 [INFO] trainfrog issued server command: /more
+2014-11-26 14:41:45 [INFO] trainfrog issued server command: /more
+2014-11-26 14:41:48 [INFO] trainfrog issued server command: /more
+2014-11-26 14:41:51 [INFO] trainfrog issued server command: /more
+2014-11-26 14:42:03 [INFO] Killerbean0 issued server command: //set 17:12
+2014-11-26 14:42:11 [INFO] trainfrog issued server command: /more
+2014-11-26 14:42:13 [INFO] Killerbean0 issued server command: //walls leaves
+2014-11-26 14:42:37 [INFO] GriefPrevention: [Sign Placement] <kelpfishthekid> Building area;(build whatever;you wan't in;here); @ Library_1st_2nd(-366,5,-1242)
+2014-11-26 14:43:17 [INFO] Killerbean0 issued server command: //walls leaves
+2014-11-26 14:44:04 [INFO] Killerbean0 issued server command: //walls 17:12
+2014-11-26 14:44:12 [INFO] Killerbean0 issued server command: //walls 17:12
+2014-11-26 14:44:16 [INFO] GriefPrevention: [Sign Placement] <trainfrog> right click;while a block;is in your hand;to place it; @ Library_1st_2nd(-298,5,-1178)
+2014-11-26 14:44:35 [INFO] Killerbean0 issued server command: //walls leaves
+2014-11-26 14:44:52 [INFO] Killerbean0 issued server command: //walls leaves
+2014-11-26 14:45:53 [INFO] trainfrog issued server command: /tphere kil
+2014-11-26 14:46:09 [INFO] Lachman22 issued server command: /time set 0
+2014-11-26 14:47:08 [INFO] Killerbean0 issued server command: //walls cobble
+2014-11-26 14:47:31 [INFO] Killerbean0 issued server command: //walls cobble
+2014-11-26 14:47:50 [INFO] Killerbean0 issued server command: //walls cobble
+2014-11-26 14:48:01 [INFO] Killerbean0 issued server command: //walls cobble
+2014-11-26 14:48:30 [INFO] Killerbean0 issued server command: //walls cobble
+2014-11-26 14:49:47 [INFO] Killerbean0 issued server command: //set wood
+2014-11-26 14:50:00 [INFO] GriefPrevention: [Sign Placement] <trainfrog> w;;;; @ Library_1st_2nd(-305,4,-1180)
+2014-11-26 14:50:32 [INFO] Killerbean0 issued server command: //set farmland
+2014-11-26 14:50:49 [INFO] GriefPrevention: [Sign Placement] <trainfrog> right click;while a block;is in your hand;to place it; @ Library_1st_2nd(-315,5,-1177)
+2014-11-26 14:51:37 [INFO] [Metrics] mcstats.org
+2014-11-26 14:52:02 [INFO] GriefPrevention: [Sign Placement] <trainfrog> when you are;finished, g;out through;here; @ Library_1st_2nd(-306,4,-1182)
+2014-11-26 14:52:12 [INFO] GriefPrevention: [Sign Placement] <trainfrog> good work!;;;; @ Library_1st_2nd(-306,4,-1181)
+2014-11-26 14:52:33 [INFO] Killerbean0 issued server command: //copy
+2014-11-26 14:52:36 [INFO] Killerbean0 issued server command: //rotate 180
+2014-11-26 14:52:38 [INFO] Killerbean0 issued server command: //paste
+2014-11-26 14:52:42 [INFO] GriefPrevention: [Sign Placement] <trainfrog> use this space;to move around;and practice;your skills; @ Library_1st_2nd(-305,4,-1175)
+2014-11-26 14:52:45 [INFO] Killerbean0 issued server command: //undo
+2014-11-26 14:53:06 [INFO] Killerbean0 issued server command: //copy
+2014-11-26 14:53:16 [INFO] Killerbean0 issued server command: //rotate 180
+2014-11-26 14:53:18 [INFO] Killerbean0 issued server command: //paste
+2014-11-26 14:53:44 [INFO] Killerbean0 issued server command: //undo
+2014-11-26 14:53:51 [INFO] Killerbean0 issued server command: //rotate 180
+2014-11-26 14:53:53 [INFO] Killerbean0 issued server command: //paste
+2014-11-26 14:54:00 [INFO] Killerbean0 issued server command: //undo
+2014-11-26 14:54:03 [INFO] Killerbean0 issued server command: //paste
+2014-11-26 14:54:18 [INFO] Killerbean0 issued server command: //undo
+2014-11-26 14:54:27 [INFO] Killerbean0 issued server command: //rotate 180
+2014-11-26 14:54:29 [INFO] Killerbean0 issued server command: //paste
+2014-11-26 14:55:30 [INFO] GriefPrevention: [Sign Placement] <trainfrog> Climb;The;Mountain!;; @ Library_1st_2nd(-304,5,-1178)
+2014-11-26 14:56:43 [INFO] trainfrog issued server command: /tp kil
+2014-11-26 14:56:57 [INFO] Lachman22 issued server command: /time set 0
+2014-11-26 14:57:31 [INFO] GriefPrevention: [Sign Placement] <Lachman22> ;Maze;;; @ Library_1st_2nd(-366,5,-1242)
+2014-11-26 14:57:33 [INFO] trainfrog issued server command: /tp l
+2014-11-26 14:57:36 [INFO] trainfrog issued server command: /tp la
+2014-11-26 14:57:38 [INFO] Killerbean0 issued server command: //copy
+2014-11-26 14:57:44 [INFO] Killerbean0 issued server command: //paste
+2014-11-26 14:57:49 [INFO] Killerbean0 issued server command: //undo
+2014-11-26 14:58:10 [INFO] trainfrog issued server command: /tp l
+2014-11-26 14:58:17 [INFO] Killerbean0 issued server command: //rotate 180
+2014-11-26 14:58:20 [INFO] Killerbean0 issued server command: //paste
+2014-11-26 14:58:27 [INFO] Killerbean0 issued server command: //undo
+2014-11-26 14:58:41 [INFO] Killerbean0 issued server command: //paste
+2014-11-26 14:59:21 [INFO] Killerbean0 issued server command: //set crop
+2014-11-26 14:59:27 [INFO] Lachman22 issued server command: /gamemode 2
+2014-11-26 14:59:36 [INFO] Killerbean0 issued server command: //set crop
+2014-11-26 14:59:49 [INFO] Killerbean0 issued server command: //set crop
+2014-11-26 14:59:57 [INFO] Lachman22 issued server command: /gamemode 1
+2014-11-26 14:59:59 [INFO] Killerbean0 issued server command: //set crop
+2014-11-26 15:00:09 [INFO] Lachman22 issued server command: /gamemode 2
+2014-11-26 15:00:14 [INFO] Killerbean0 issued server command: //set crop
+2014-11-26 15:00:20 [INFO] Lachman22 issued server command: /gamemode 1
+2014-11-26 15:01:37 [INFO] [Metrics] mcstats.org
+2014-11-26 15:05:16 [INFO] Connection reset
+2014-11-26 15:05:16 [INFO] Killerbean0 lost connection: disconnect.quitting
+2014-11-26 15:05:16 [INFO] ?eKillerbean0 left the game.
+2014-11-26 15:05:17 [INFO] Connection reset
+2014-11-26 15:05:17 [INFO] Lachman22 lost connection: disconnect.quitting
+2014-11-26 15:05:18 [INFO] ?eLachman22 left the game.
+2014-11-26 15:05:29 [INFO] GriefPrevention: [Sign Placement] <trainfrog> double tap;space to;fly!;; @ Library_1st_2nd(-307,4,-1181)
+2014-11-26 15:05:32 [INFO] Connection reset
+2014-11-26 15:05:32 [INFO] trainfrog lost connection: disconnect.quitting
+2014-11-26 15:05:32 [INFO] ?etrainfrog left the game.
+2014-11-26 15:05:34 [INFO] GriefPrevention: [Sign Placement] <kelpfishthekid> YOU WIN!!!;;;; @ Library_1st_2nd(-364,4,-1264)
+2014-11-26 15:06:00 [INFO] kelpfishthekid issued server command: /
+2014-11-26 15:06:20 [INFO] kelpfishthekid lost connection: disconnect.quitting
+2014-11-26 15:06:20 [INFO] Connection reset
+2014-11-26 15:06:20 [INFO] ?ekelpfishthekid left the game.
+2014-11-26 15:11:37 [INFO] [Metrics] mcstats.org
+2014-11-26 15:21:37 [INFO] [Metrics] mcstats.org
+2014-11-26 15:31:37 [INFO] [Metrics] mcstats.org
+2014-11-26 15:41:37 [INFO] [Metrics] mcstats.org
+2014-11-26 15:51:37 [INFO] [Metrics] mcstats.org
+2014-11-26 16:01:37 [INFO] [Metrics] mcstats.org
+2014-11-26 16:11:37 [INFO] [Metrics] mcstats.org
+2014-11-26 16:21:37 [INFO] [Metrics] mcstats.org
+2014-11-26 16:31:37 [INFO] [Metrics] mcstats.org
+2014-11-26 16:41:37 [INFO] [Metrics] mcstats.org
+2014-11-26 16:51:37 [INFO] [Metrics] mcstats.org
+2014-11-26 17:01:37 [INFO] [Metrics] mcstats.org
+2014-11-26 17:11:37 [INFO] [Metrics] mcstats.org
+2014-11-26 17:21:37 [INFO] [Metrics] mcstats.org
+2014-11-26 17:31:37 [INFO] [Metrics] mcstats.org
+2014-11-26 17:41:37 [INFO] [Metrics] mcstats.org
+2014-11-26 17:51:37 [INFO] [Metrics] mcstats.org
+2014-11-26 18:01:37 [INFO] [Metrics] mcstats.org
+2014-11-26 18:11:37 [INFO] [Metrics] mcstats.org
+2014-11-26 18:21:37 [INFO] [Metrics] mcstats.org
+2014-11-26 18:31:37 [INFO] [Metrics] mcstats.org
+2014-11-26 18:41:37 [INFO] [Metrics] mcstats.org
+2014-11-26 18:51:37 [INFO] [Metrics] mcstats.org
+2014-11-26 19:01:37 [INFO] [Metrics] mcstats.org
+2014-11-26 19:11:37 [INFO] [Metrics] mcstats.org
+2014-11-26 19:21:37 [INFO] [Metrics] mcstats.org
+2014-11-26 19:31:37 [INFO] [Metrics] mcstats.org
+2014-11-26 19:41:37 [INFO] [Metrics] mcstats.org
+2014-11-26 19:51:37 [INFO] [Metrics] mcstats.org
+2014-11-26 20:01:37 [INFO] [Metrics] mcstats.org
+2014-11-26 20:11:37 [INFO] [Metrics] mcstats.org
+2014-11-26 20:21:37 [INFO] [Metrics] mcstats.org
+2014-11-26 20:31:37 [INFO] [Metrics] mcstats.org
+2014-11-26 20:41:37 [INFO] [Metrics] mcstats.org
+2014-11-26 20:51:37 [INFO] [Metrics] mcstats.org
+2014-11-26 21:01:37 [INFO] [Metrics] mcstats.org
+2014-11-26 21:11:37 [INFO] [Metrics] mcstats.org
+2014-11-26 21:21:37 [INFO] [Metrics] mcstats.org
+2014-11-26 21:31:37 [INFO] [Metrics] mcstats.org
+2014-11-26 21:41:37 [INFO] [Metrics] mcstats.org
+2014-11-26 21:51:37 [INFO] [Metrics] mcstats.org
+2014-11-26 22:01:37 [INFO] [Metrics] mcstats.org
+2014-11-26 22:11:37 [INFO] [Metrics] mcstats.org
+2014-11-26 22:21:37 [INFO] [Metrics] mcstats.org
+2014-11-26 22:31:37 [INFO] [Metrics] mcstats.org
+2014-11-26 22:41:37 [INFO] [Metrics] mcstats.org
+2014-11-26 22:51:37 [INFO] [Metrics] mcstats.org
+2014-11-26 23:01:37 [INFO] [Metrics] mcstats.org
+2014-11-26 23:11:37 [INFO] [Metrics] mcstats.org
+2014-11-26 23:21:37 [INFO] [Metrics] mcstats.org
+2014-11-26 23:31:37 [INFO] [Metrics] mcstats.org
+2014-11-26 23:41:37 [INFO] [Metrics] mcstats.org
+2014-11-26 23:51:37 [INFO] [Metrics] mcstats.org
+2014-11-27 00:01:37 [INFO] [Metrics] mcstats.org
+2014-11-27 00:11:37 [INFO] [Metrics] mcstats.org
+2014-11-27 00:21:37 [INFO] [Metrics] mcstats.org
+2014-11-27 00:31:37 [INFO] [Metrics] mcstats.org
+2014-11-27 00:41:37 [INFO] [Metrics] mcstats.org
+2014-11-27 00:51:37 [INFO] [Metrics] mcstats.org
+2014-11-27 01:01:37 [INFO] [Metrics] mcstats.org
+2014-11-27 01:11:37 [INFO] [Metrics] mcstats.org
+2014-11-27 01:21:37 [INFO] [Metrics] mcstats.org
+2014-11-27 01:31:37 [INFO] [Metrics] mcstats.org
+2014-11-27 01:41:37 [INFO] [Metrics] mcstats.org
+2014-11-27 01:51:37 [INFO] [Metrics] mcstats.org
+2014-11-27 02:01:37 [INFO] [Metrics] mcstats.org
+2014-11-27 02:11:37 [INFO] [Metrics] mcstats.org
+2014-11-27 02:21:37 [INFO] [Metrics] mcstats.org
+2014-11-27 02:31:37 [INFO] [Metrics] mcstats.org
+2014-11-27 02:41:37 [INFO] [Metrics] mcstats.org
+2014-11-27 02:51:37 [INFO] [Metrics] mcstats.org
+2014-11-27 03:01:37 [INFO] [Metrics] mcstats.org
+2014-11-27 03:11:37 [INFO] [Metrics] mcstats.org
+2014-11-27 03:21:37 [INFO] [Metrics] mcstats.org
+2014-11-27 03:31:37 [INFO] [Metrics] mcstats.org
+2014-11-27 03:41:37 [INFO] [Metrics] mcstats.org
+2014-11-27 03:51:37 [INFO] [Metrics] mcstats.org
+2014-11-27 04:01:37 [INFO] [Metrics] mcstats.org
+2014-11-27 04:11:37 [INFO] [Metrics] mcstats.org
+2014-11-27 04:21:37 [INFO] [Metrics] mcstats.org
+2014-11-27 04:31:37 [INFO] [Metrics] mcstats.org
+2014-11-27 04:41:37 [INFO] [Metrics] mcstats.org
+2014-11-27 04:51:37 [INFO] [Metrics] mcstats.org
+2014-11-27 05:01:37 [INFO] [Metrics] mcstats.org
+2014-11-27 05:11:37 [INFO] [Metrics] mcstats.org
+2014-11-27 05:21:37 [INFO] [Metrics] mcstats.org
+2014-11-27 05:31:37 [INFO] [Metrics] mcstats.org
+2014-11-27 05:41:37 [INFO] [Metrics] mcstats.org
+2014-11-27 05:51:37 [INFO] [Metrics] mcstats.org
+2014-11-27 06:01:37 [INFO] [Metrics] mcstats.org
+2014-11-27 06:11:37 [INFO] [Metrics] mcstats.org
+2014-11-27 06:21:37 [INFO] [Metrics] mcstats.org
+2014-11-27 06:31:37 [INFO] [Metrics] mcstats.org
+2014-11-27 06:41:37 [INFO] [Metrics] mcstats.org
+2014-11-27 06:51:37 [INFO] [Metrics] mcstats.org
+2014-11-27 07:01:37 [INFO] [Metrics] mcstats.org
+2014-11-27 07:11:37 [INFO] [Metrics] mcstats.org
+2014-11-27 07:21:37 [INFO] [Metrics] mcstats.org
+2014-11-27 07:31:37 [INFO] [Metrics] mcstats.org
+2014-11-27 07:41:37 [INFO] [Metrics] mcstats.org
+2014-11-27 07:51:37 [INFO] [Metrics] mcstats.org
+2014-11-27 08:01:37 [INFO] [Metrics] mcstats.org
+2014-11-27 08:11:37 [INFO] [Metrics] mcstats.org
+2014-11-27 08:21:37 [INFO] [Metrics] mcstats.org
+2014-11-27 08:31:37 [INFO] [Metrics] mcstats.org
+2014-11-27 08:41:37 [INFO] [Metrics] mcstats.org
+2014-11-27 08:51:37 [INFO] [Metrics] mcstats.org
+2014-11-27 09:01:37 [INFO] [Metrics] mcstats.org
+2014-11-27 09:11:37 [INFO] [Metrics] mcstats.org
+2014-11-27 09:21:37 [INFO] [Metrics] mcstats.org
+2014-11-27 09:31:37 [INFO] [Metrics] mcstats.org
+2014-11-27 09:41:37 [INFO] [Metrics] mcstats.org
+2014-11-27 09:51:37 [INFO] [Metrics] mcstats.org
+2014-11-27 10:01:37 [INFO] [Metrics] mcstats.org
+2014-11-27 10:11:37 [INFO] [Metrics] mcstats.org
+2014-11-27 10:21:37 [INFO] [Metrics] mcstats.org
+2014-11-27 10:31:37 [INFO] [Metrics] mcstats.org
+2014-11-27 10:41:37 [INFO] [Metrics] mcstats.org
+2014-11-27 10:51:37 [INFO] [Metrics] mcstats.org
+2014-11-27 11:01:37 [INFO] [Metrics] mcstats.org
+2014-11-27 11:11:37 [INFO] [Metrics] mcstats.org
+2014-11-27 11:21:37 [INFO] [Metrics] mcstats.org
+2014-11-27 11:31:37 [INFO] [Metrics] mcstats.org
+2014-11-27 11:41:37 [INFO] [Metrics] mcstats.org
+2014-11-27 11:51:37 [INFO] [Metrics] mcstats.org
+2014-11-27 12:01:37 [INFO] [Metrics] mcstats.org
+2014-11-27 12:11:37 [INFO] [Metrics] mcstats.org
+2014-11-27 12:21:37 [INFO] [Metrics] mcstats.org
+2014-11-27 12:31:37 [INFO] [Metrics] mcstats.org
+2014-11-27 12:41:37 [INFO] [Metrics] mcstats.org
+2014-11-27 12:51:37 [INFO] [Metrics] mcstats.org
+2014-11-27 13:01:37 [INFO] [Metrics] mcstats.org
+2014-11-27 13:11:37 [INFO] [Metrics] mcstats.org
+2014-11-27 13:21:37 [INFO] [Metrics] mcstats.org
+2014-11-27 13:31:37 [INFO] [Metrics] mcstats.org
+2014-11-27 13:41:37 [INFO] [Metrics] mcstats.org
+2014-11-27 13:51:37 [INFO] [Metrics] mcstats.org
+2014-11-27 14:01:37 [INFO] [Metrics] mcstats.org
+2014-11-27 14:11:37 [INFO] [Metrics] mcstats.org
+2014-11-27 14:21:37 [INFO] [Metrics] mcstats.org
+2014-11-27 14:31:37 [INFO] [Metrics] mcstats.org
+2014-11-27 14:41:37 [INFO] [Metrics] mcstats.org
+2014-11-27 14:51:37 [INFO] [Metrics] mcstats.org
+2014-11-27 15:01:37 [INFO] [Metrics] mcstats.org
+2014-11-27 15:11:37 [INFO] [Metrics] mcstats.org
+2014-11-27 15:21:37 [INFO] [Metrics] mcstats.org
+2014-11-27 15:31:37 [INFO] [Metrics] mcstats.org
+2014-11-27 15:41:37 [INFO] [Metrics] mcstats.org
+2014-11-27 15:51:37 [INFO] [Metrics] mcstats.org
+2014-11-27 16:01:37 [INFO] [Metrics] mcstats.org
+2014-11-27 16:11:37 [INFO] [Metrics] mcstats.org
+2014-11-27 16:21:37 [INFO] [Metrics] mcstats.org
+2014-11-27 16:31:37 [INFO] [Metrics] mcstats.org
+2014-11-27 16:41:37 [INFO] [Metrics] mcstats.org
+2014-11-27 16:51:37 [INFO] [Metrics] mcstats.org
+2014-11-27 17:01:37 [INFO] [Metrics] mcstats.org
+2014-11-27 17:11:37 [INFO] [Metrics] mcstats.org
+2014-11-27 17:21:37 [INFO] [Metrics] mcstats.org
+2014-11-27 17:31:37 [INFO] [Metrics] mcstats.org
+2014-11-27 17:41:37 [INFO] [Metrics] mcstats.org
+2014-11-27 17:51:37 [INFO] [Metrics] mcstats.org
+2014-11-27 18:01:37 [INFO] [Metrics] mcstats.org
+2014-11-27 18:11:37 [INFO] [Metrics] mcstats.org
+2014-11-27 18:21:37 [INFO] [Metrics] mcstats.org
+2014-11-27 18:31:37 [INFO] [Metrics] mcstats.org
+2014-11-27 18:41:37 [INFO] [Metrics] mcstats.org
+2014-11-27 18:51:37 [INFO] [Metrics] mcstats.org
+2014-11-27 19:01:37 [INFO] [Metrics] mcstats.org
+2014-11-27 19:11:37 [INFO] [Metrics] mcstats.org
+2014-11-27 19:21:37 [INFO] [Metrics] mcstats.org
+2014-11-27 19:31:37 [INFO] [Metrics] mcstats.org
+2014-11-27 19:41:37 [INFO] [Metrics] mcstats.org
+2014-11-27 19:51:37 [INFO] [Metrics] mcstats.org
+2014-11-27 20:01:37 [INFO] [Metrics] mcstats.org
+2014-11-27 20:11:37 [INFO] [Metrics] mcstats.org
+2014-11-27 20:21:37 [INFO] [Metrics] mcstats.org
+2014-11-27 20:31:37 [INFO] [Metrics] mcstats.org
+2014-11-27 20:41:37 [INFO] [Metrics] mcstats.org
+2014-11-27 20:51:37 [INFO] [Metrics] mcstats.org
+2014-11-27 21:01:37 [INFO] [Metrics] mcstats.org
+2014-11-27 21:11:37 [INFO] [Metrics] mcstats.org
+2014-11-27 21:21:37 [INFO] [Metrics] mcstats.org
+2014-11-27 21:31:37 [INFO] [Metrics] mcstats.org
+2014-11-27 21:41:37 [INFO] [Metrics] mcstats.org
+2014-11-27 21:51:37 [INFO] [Metrics] mcstats.org
+2014-11-27 22:01:37 [INFO] [Metrics] mcstats.org
+2014-11-27 22:11:37 [INFO] [Metrics] mcstats.org
+2014-11-27 22:21:37 [INFO] [Metrics] mcstats.org
+2014-11-27 22:31:37 [INFO] [Metrics] mcstats.org
+2014-11-27 22:41:37 [INFO] [Metrics] mcstats.org
+2014-11-27 22:51:37 [INFO] [Metrics] mcstats.org
+2014-11-27 23:01:37 [INFO] [Metrics] mcstats.org
+2014-11-27 23:11:37 [INFO] [Metrics] mcstats.org
+2014-11-27 23:21:37 [INFO] [Metrics] mcstats.org
+2014-11-27 23:31:37 [INFO] [Metrics] mcstats.org
+2014-11-27 23:41:37 [INFO] [Metrics] mcstats.org
+2014-11-27 23:51:37 [INFO] [Metrics] mcstats.org
+2014-11-28 00:01:37 [INFO] [Metrics] mcstats.org
+2014-11-28 00:11:37 [INFO] [Metrics] mcstats.org
+2014-11-28 00:21:37 [INFO] [Metrics] mcstats.org
+2014-11-28 00:31:37 [INFO] [Metrics] mcstats.org
+2014-11-28 00:41:37 [INFO] [Metrics] mcstats.org
+2014-11-28 00:51:37 [INFO] [Metrics] mcstats.org
+2014-11-28 01:01:37 [INFO] [Metrics] mcstats.org
+2014-11-28 01:11:37 [INFO] [Metrics] mcstats.org
+2014-11-28 01:21:37 [INFO] [Metrics] mcstats.org
+2014-11-28 01:31:37 [INFO] [Metrics] mcstats.org
+2014-11-28 01:41:37 [INFO] [Metrics] mcstats.org
+2014-11-28 01:51:37 [INFO] [Metrics] mcstats.org
+2014-11-28 02:01:37 [INFO] [Metrics] mcstats.org
+2014-11-28 02:11:37 [INFO] [Metrics] mcstats.org
+2014-11-28 02:21:37 [INFO] [Metrics] mcstats.org
+2014-11-28 02:31:37 [INFO] [Metrics] mcstats.org
+2014-11-28 02:41:37 [INFO] [Metrics] mcstats.org
+2014-11-28 02:51:37 [INFO] [Metrics] mcstats.org
+2014-11-28 03:01:37 [INFO] [Metrics] mcstats.org
+2014-11-28 03:11:37 [INFO] [Metrics] mcstats.org
+2014-11-28 03:21:37 [INFO] [Metrics] mcstats.org
+2014-11-28 03:31:37 [INFO] [Metrics] mcstats.org
+2014-11-28 03:41:37 [INFO] [Metrics] mcstats.org
+2014-11-28 03:51:37 [INFO] [Metrics] mcstats.org
+2014-11-28 04:01:37 [INFO] [Metrics] mcstats.org
+2014-11-28 04:11:37 [INFO] [Metrics] mcstats.org
+2014-11-28 04:21:37 [INFO] [Metrics] mcstats.org
+2014-11-28 04:31:37 [INFO] [Metrics] mcstats.org
+2014-11-28 04:41:37 [INFO] [Metrics] mcstats.org
+2014-11-28 04:51:37 [INFO] [Metrics] mcstats.org
+2014-11-28 05:01:37 [INFO] [Metrics] mcstats.org
+2014-11-28 05:11:37 [INFO] [Metrics] mcstats.org
+2014-11-28 05:21:37 [INFO] [Metrics] mcstats.org
+2014-11-28 05:31:37 [INFO] [Metrics] mcstats.org
+2014-11-28 05:41:37 [INFO] [Metrics] mcstats.org
+2014-11-28 05:51:37 [INFO] [Metrics] mcstats.org
+2014-11-28 06:01:37 [INFO] [Metrics] mcstats.org
+2014-11-28 06:11:37 [INFO] [Metrics] mcstats.org
+2014-11-28 06:21:37 [INFO] [Metrics] mcstats.org
+2014-11-28 06:31:37 [INFO] [Metrics] mcstats.org
+2014-11-28 06:41:37 [INFO] [Metrics] mcstats.org
+2014-11-28 06:51:37 [INFO] [Metrics] mcstats.org
+2014-11-28 07:01:37 [INFO] [Metrics] mcstats.org
+2014-11-28 07:11:37 [INFO] [Metrics] mcstats.org
+2014-11-28 07:21:37 [INFO] [Metrics] mcstats.org
+2014-11-28 07:31:37 [INFO] [Metrics] mcstats.org
+2014-11-28 07:41:37 [INFO] [Metrics] mcstats.org
+2014-11-28 07:51:37 [INFO] [Metrics] mcstats.org
+2014-11-28 08:01:37 [INFO] [Metrics] mcstats.org
+2014-11-28 08:11:37 [INFO] [Metrics] mcstats.org
+2014-11-28 08:21:37 [INFO] [Metrics] mcstats.org
+2014-11-28 08:31:37 [INFO] [Metrics] mcstats.org
+2014-11-28 08:41:37 [INFO] [Metrics] mcstats.org
+2014-11-28 08:51:37 [INFO] [Metrics] mcstats.org
+2014-11-28 09:01:37 [INFO] [Metrics] mcstats.org
+2014-11-28 09:11:37 [INFO] [Metrics] mcstats.org
+2014-11-28 09:21:37 [INFO] [Metrics] mcstats.org
+2014-11-28 09:31:37 [INFO] [Metrics] mcstats.org
+2014-11-28 09:41:37 [INFO] [Metrics] mcstats.org
+2014-11-28 09:51:37 [INFO] [Metrics] mcstats.org
+2014-11-28 10:01:37 [INFO] [Metrics] mcstats.org
+2014-11-28 10:11:37 [INFO] [Metrics] mcstats.org
+2014-11-28 10:21:37 [INFO] [Metrics] mcstats.org
+2014-11-28 10:31:37 [INFO] [Metrics] mcstats.org
+2014-11-28 10:41:37 [INFO] [Metrics] mcstats.org
+2014-11-28 10:51:37 [INFO] [Metrics] mcstats.org
+2014-11-28 11:01:37 [INFO] [Metrics] mcstats.org
+2014-11-28 11:11:37 [INFO] [Metrics] mcstats.org
+2014-11-28 11:21:37 [INFO] [Metrics] mcstats.org
+2014-11-28 11:31:37 [INFO] [Metrics] mcstats.org
+2014-11-28 11:41:37 [INFO] [Metrics] mcstats.org
+2014-11-28 11:51:37 [INFO] [Metrics] mcstats.org
+2014-11-28 12:01:37 [INFO] [Metrics] mcstats.org
+2014-11-28 12:11:37 [INFO] [Metrics] mcstats.org
+2014-11-28 12:21:37 [INFO] [Metrics] mcstats.org
+2014-11-28 12:31:37 [INFO] [Metrics] mcstats.org
+2014-11-28 12:41:37 [INFO] [Metrics] mcstats.org
+2014-11-28 12:51:37 [INFO] [Metrics] mcstats.org
+2014-11-28 13:01:37 [INFO] [Metrics] mcstats.org
+2014-11-28 13:11:37 [INFO] [Metrics] mcstats.org
+2014-11-28 13:21:37 [INFO] [Metrics] mcstats.org
+2014-11-28 13:31:37 [INFO] [Metrics] mcstats.org
+2014-11-28 13:41:37 [INFO] [Metrics] mcstats.org
+2014-11-28 13:51:37 [INFO] [Metrics] mcstats.org
+2014-11-28 14:01:37 [INFO] [Metrics] mcstats.org
+2014-11-28 14:11:37 [INFO] [Metrics] mcstats.org
+2014-11-28 14:21:37 [INFO] [Metrics] mcstats.org
+2014-11-28 14:31:37 [INFO] [Metrics] mcstats.org
+2014-11-28 14:41:37 [INFO] [Metrics] mcstats.org
+2014-11-28 14:51:37 [INFO] [Metrics] mcstats.org
+2014-11-28 15:01:37 [INFO] [Metrics] mcstats.org
+2014-11-28 15:11:37 [INFO] [Metrics] mcstats.org
+2014-11-28 15:21:37 [INFO] [Metrics] mcstats.org
+2014-11-28 15:31:37 [INFO] [Metrics] mcstats.org
+2014-11-28 15:41:37 [INFO] [Metrics] mcstats.org
+2014-11-28 15:51:37 [INFO] [Metrics] mcstats.org
+2014-11-28 16:01:37 [INFO] [Metrics] mcstats.org
+2014-11-28 16:11:37 [INFO] [Metrics] mcstats.org
+2014-11-28 16:21:37 [INFO] [Metrics] mcstats.org
+2014-11-28 16:31:37 [INFO] [Metrics] mcstats.org
+2014-11-28 16:41:37 [INFO] [Metrics] mcstats.org
+2014-11-28 16:51:37 [INFO] [Metrics] mcstats.org
+2014-11-28 17:01:37 [INFO] [Metrics] mcstats.org
+2014-11-28 17:11:37 [INFO] [Metrics] mcstats.org
+2014-11-28 17:21:37 [INFO] [Metrics] mcstats.org
+2014-11-28 17:31:37 [INFO] [Metrics] mcstats.org
+2014-11-28 17:41:37 [INFO] [Metrics] mcstats.org
+2014-11-28 17:51:37 [INFO] [Metrics] mcstats.org
+2014-11-28 18:01:37 [INFO] [Metrics] mcstats.org
+2014-11-28 18:11:37 [INFO] [Metrics] mcstats.org
+2014-11-28 18:21:37 [INFO] [Metrics] mcstats.org
+2014-11-28 18:31:37 [INFO] [Metrics] mcstats.org
+2014-11-28 18:41:37 [INFO] [Metrics] mcstats.org
+2014-11-28 18:51:37 [INFO] [Metrics] mcstats.org
+2014-11-28 19:01:37 [INFO] [Metrics] mcstats.org
+2014-11-28 19:11:37 [INFO] [Metrics] mcstats.org
+2014-11-28 19:21:37 [INFO] [Metrics] mcstats.org
+2014-11-28 19:31:37 [INFO] [Metrics] mcstats.org
+2014-11-28 19:41:37 [INFO] [Metrics] mcstats.org
+2014-11-28 19:51:37 [INFO] [Metrics] mcstats.org
+2014-11-28 20:01:37 [INFO] [Metrics] mcstats.org
+2014-11-28 20:11:37 [INFO] [Metrics] mcstats.org
+2014-11-28 20:21:37 [INFO] [Metrics] mcstats.org
+2014-11-28 20:31:37 [INFO] [Metrics] mcstats.org
+2014-11-28 20:41:37 [INFO] [Metrics] mcstats.org
+2014-11-28 20:51:37 [INFO] [Metrics] mcstats.org
+2014-11-28 21:01:37 [INFO] [Metrics] mcstats.org
+2014-11-28 21:11:37 [INFO] [Metrics] mcstats.org
+2014-11-28 21:21:37 [INFO] [Metrics] mcstats.org
+2014-11-28 21:31:37 [INFO] [Metrics] mcstats.org
+2014-11-28 21:41:37 [INFO] [Metrics] mcstats.org
+2014-11-28 21:51:37 [INFO] [Metrics] mcstats.org
+2014-11-28 22:01:37 [INFO] [Metrics] mcstats.org
+2014-11-28 22:11:37 [INFO] [Metrics] mcstats.org
+2014-11-28 22:21:37 [INFO] [Metrics] mcstats.org
+2014-11-28 22:31:37 [INFO] [Metrics] mcstats.org
+2014-11-28 22:41:37 [INFO] [Metrics] mcstats.org
+2014-11-28 22:51:37 [INFO] [Metrics] mcstats.org
+2014-11-28 23:01:37 [INFO] [Metrics] mcstats.org
+2014-11-28 23:11:37 [INFO] [Metrics] mcstats.org
+2014-11-28 23:21:37 [INFO] [Metrics] mcstats.org
+2014-11-28 23:31:37 [INFO] [Metrics] mcstats.org
+2014-11-28 23:41:37 [INFO] [Metrics] mcstats.org
+2014-11-28 23:51:37 [INFO] [Metrics] mcstats.org
+2014-11-29 00:01:37 [INFO] [Metrics] mcstats.org
+2014-11-29 00:11:37 [INFO] [Metrics] mcstats.org
+2014-11-29 00:21:37 [INFO] [Metrics] mcstats.org
+2014-11-29 00:31:37 [INFO] [Metrics] mcstats.org
+2014-11-29 00:41:37 [INFO] [Metrics] mcstats.org
+2014-11-29 00:51:37 [INFO] [Metrics] mcstats.org
+2014-11-29 01:01:37 [INFO] [Metrics] mcstats.org
+2014-11-29 01:11:37 [INFO] [Metrics] mcstats.org
+2014-11-29 01:21:37 [INFO] [Metrics] mcstats.org
+2014-11-29 01:31:37 [INFO] [Metrics] mcstats.org
+2014-11-29 01:41:37 [INFO] [Metrics] mcstats.org
+2014-11-29 01:51:37 [INFO] [Metrics] mcstats.org
+2014-11-29 02:01:37 [INFO] [Metrics] mcstats.org
+2014-11-29 02:11:37 [INFO] [Metrics] mcstats.org
+2014-11-29 02:21:37 [INFO] [Metrics] mcstats.org
+2014-11-29 02:31:37 [INFO] [Metrics] mcstats.org
+2014-11-29 02:41:37 [INFO] [Metrics] mcstats.org
+2014-11-29 02:51:37 [INFO] [Metrics] mcstats.org
+2014-11-29 03:01:37 [INFO] [Metrics] mcstats.org
+2014-11-29 03:11:37 [INFO] [Metrics] mcstats.org
+2014-11-29 03:21:37 [INFO] [Metrics] mcstats.org
+2014-11-29 03:31:37 [INFO] [Metrics] mcstats.org
+2014-11-29 03:41:37 [INFO] [Metrics] mcstats.org
+2014-11-29 03:51:37 [INFO] [Metrics] mcstats.org
+2014-11-29 04:01:37 [INFO] [Metrics] mcstats.org
+2014-11-29 04:11:37 [INFO] [Metrics] mcstats.org
+2014-11-29 04:21:37 [INFO] [Metrics] mcstats.org
+2014-11-29 04:31:37 [INFO] [Metrics] mcstats.org
+2014-11-29 04:41:37 [INFO] [Metrics] mcstats.org
+2014-11-29 04:51:37 [INFO] [Metrics] mcstats.org
+2014-11-29 05:01:37 [INFO] [Metrics] mcstats.org
+2014-11-29 05:11:37 [INFO] [Metrics] mcstats.org
+2014-11-29 05:21:37 [INFO] [Metrics] mcstats.org
+2014-11-29 05:31:37 [INFO] [Metrics] mcstats.org
+2014-11-29 05:41:37 [INFO] [Metrics] mcstats.org
+2014-11-29 05:51:37 [INFO] [Metrics] mcstats.org
+2014-11-29 06:01:37 [INFO] [Metrics] mcstats.org
+2014-11-29 06:11:37 [INFO] [Metrics] mcstats.org
+2014-11-29 06:21:37 [INFO] [Metrics] mcstats.org
+2014-11-29 06:31:37 [INFO] [Metrics] mcstats.org
+2014-11-29 06:41:37 [INFO] [Metrics] mcstats.org
+2014-11-29 06:51:37 [INFO] [Metrics] mcstats.org
+2014-11-29 07:01:37 [INFO] [Metrics] mcstats.org
+2014-11-29 07:11:37 [INFO] [Metrics] mcstats.org
+2014-11-29 07:21:37 [INFO] [Metrics] mcstats.org
+2014-11-29 07:31:37 [INFO] [Metrics] mcstats.org
+2014-11-29 07:41:37 [INFO] [Metrics] mcstats.org
+2014-11-29 07:51:37 [INFO] [Metrics] mcstats.org
+2014-11-29 08:01:37 [INFO] [Metrics] mcstats.org
+2014-11-29 08:11:37 [INFO] [Metrics] mcstats.org
+2014-11-29 08:21:37 [INFO] [Metrics] mcstats.org
+2014-11-29 08:31:37 [INFO] [Metrics] mcstats.org
+2014-11-29 08:41:37 [INFO] [Metrics] mcstats.org
+2014-11-29 08:51:37 [INFO] [Metrics] mcstats.org
+2014-11-29 09:01:37 [INFO] [Metrics] mcstats.org
+2014-11-29 09:11:37 [INFO] [Metrics] mcstats.org
+2014-11-29 09:21:37 [INFO] [Metrics] mcstats.org
+2014-11-29 09:31:37 [INFO] [Metrics] mcstats.org
+2014-11-29 09:41:37 [INFO] [Metrics] mcstats.org
+2014-11-29 09:51:37 [INFO] [Metrics] mcstats.org
+2014-11-29 10:01:37 [INFO] [Metrics] mcstats.org
+2014-11-29 10:11:37 [INFO] [Metrics] mcstats.org
+2014-11-29 10:21:37 [INFO] [Metrics] mcstats.org
+2014-11-29 10:31:37 [INFO] [Metrics] mcstats.org
+2014-11-29 10:41:37 [INFO] [Metrics] mcstats.org
+2014-11-29 10:51:37 [INFO] [Metrics] mcstats.org
+2014-11-29 11:01:37 [INFO] [Metrics] mcstats.org
+2014-11-29 11:11:37 [INFO] [Metrics] mcstats.org
+2014-11-29 11:21:37 [INFO] [Metrics] mcstats.org
+2014-11-29 11:31:37 [INFO] [Metrics] mcstats.org
+2014-11-29 11:41:37 [INFO] [Metrics] mcstats.org
+2014-11-29 11:51:37 [INFO] [Metrics] mcstats.org
+2014-11-29 12:01:37 [INFO] [Metrics] mcstats.org
+2014-11-29 12:11:37 [INFO] [Metrics] mcstats.org
+2014-11-29 12:21:37 [INFO] [Metrics] mcstats.org
+2014-11-29 12:31:37 [INFO] [Metrics] mcstats.org
+2014-11-29 12:41:37 [INFO] [Metrics] mcstats.org
+2014-11-29 12:51:37 [INFO] [Metrics] mcstats.org
+2014-11-29 13:01:37 [INFO] [Metrics] mcstats.org
+2014-11-29 13:11:37 [INFO] [Metrics] mcstats.org
+2014-11-29 13:21:37 [INFO] [Metrics] mcstats.org
+2014-11-29 13:31:37 [INFO] [Metrics] mcstats.org
+2014-11-29 13:41:37 [INFO] [Metrics] mcstats.org
+2014-11-29 13:51:37 [INFO] [Metrics] mcstats.org
+2014-11-29 14:01:37 [INFO] [Metrics] mcstats.org
+2014-11-29 14:11:37 [INFO] [Metrics] mcstats.org
+2014-11-29 14:21:37 [INFO] [Metrics] mcstats.org
+2014-11-29 14:31:37 [INFO] [Metrics] mcstats.org
+2014-11-29 14:41:37 [INFO] [Metrics] mcstats.org
+2014-11-29 14:51:37 [INFO] [Metrics] mcstats.org
+2014-11-29 15:01:37 [INFO] [Metrics] mcstats.org
+2014-11-29 15:11:37 [INFO] [Metrics] mcstats.org
+2014-11-29 15:21:37 [INFO] [Metrics] mcstats.org
+2014-11-29 15:31:37 [INFO] [Metrics] mcstats.org
+2014-11-29 15:41:37 [INFO] [Metrics] mcstats.org
+2014-11-29 15:51:37 [INFO] [Metrics] mcstats.org
+2014-11-29 16:01:37 [INFO] [Metrics] mcstats.org
+2014-11-29 16:11:37 [INFO] [Metrics] mcstats.org
+2014-11-29 16:21:37 [INFO] [Metrics] mcstats.org
+2014-11-29 16:31:37 [INFO] [Metrics] mcstats.org
+2014-11-29 16:41:37 [INFO] [Metrics] mcstats.org
+2014-11-29 16:51:37 [INFO] [Metrics] mcstats.org
+2014-11-29 17:01:37 [INFO] [Metrics] mcstats.org
+2014-11-29 17:11:37 [INFO] [Metrics] mcstats.org
+2014-11-29 17:21:37 [INFO] [Metrics] mcstats.org
+2014-11-29 17:31:37 [INFO] [Metrics] mcstats.org
+2014-11-29 17:41:37 [INFO] [Metrics] mcstats.org
+2014-11-29 17:51:37 [INFO] [Metrics] mcstats.org
+2014-11-29 18:01:37 [INFO] [Metrics] mcstats.org
+2014-11-29 18:11:37 [INFO] [Metrics] mcstats.org
+2014-11-29 18:21:37 [INFO] [Metrics] mcstats.org
+2014-11-29 18:31:37 [INFO] [Metrics] mcstats.org
+2014-11-29 18:41:37 [INFO] [Metrics] mcstats.org
+2014-11-29 18:51:37 [INFO] [Metrics] mcstats.org
+2014-11-29 19:01:37 [INFO] [Metrics] mcstats.org
+2014-11-29 19:11:37 [INFO] [Metrics] mcstats.org
+2014-11-29 19:21:37 [INFO] [Metrics] mcstats.org
+2014-11-29 19:31:37 [INFO] [Metrics] mcstats.org
+2014-11-29 19:41:37 [INFO] [Metrics] mcstats.org
+2014-11-29 19:51:37 [INFO] [Metrics] mcstats.org
+2014-11-29 20:01:37 [INFO] [Metrics] mcstats.org
+2014-11-29 20:11:37 [INFO] [Metrics] mcstats.org
+2014-11-29 20:21:37 [INFO] [Metrics] mcstats.org
+2014-11-29 20:31:37 [INFO] [Metrics] mcstats.org
+2014-11-29 20:41:37 [INFO] [Metrics] mcstats.org
+2014-11-29 20:51:37 [INFO] [Metrics] mcstats.org
+2014-11-29 21:01:37 [INFO] [Metrics] mcstats.org
+2014-11-29 21:11:37 [INFO] [Metrics] mcstats.org
+2014-11-29 21:21:37 [INFO] [Metrics] mcstats.org
+2014-11-29 21:31:37 [INFO] [Metrics] mcstats.org
+2014-11-29 21:41:37 [INFO] [Metrics] mcstats.org
+2014-11-29 21:51:37 [INFO] [Metrics] mcstats.org
+2014-11-29 22:01:37 [INFO] [Metrics] mcstats.org
+2014-11-29 22:11:37 [INFO] [Metrics] mcstats.org
+2014-11-29 22:21:37 [INFO] [Metrics] mcstats.org
+2014-11-29 22:31:37 [INFO] [Metrics] mcstats.org
+2014-11-29 22:41:37 [INFO] [Metrics] mcstats.org
+2014-11-29 22:51:37 [INFO] [Metrics] mcstats.org
+2014-11-29 23:01:37 [INFO] [Metrics] mcstats.org
+2014-11-29 23:11:37 [INFO] [Metrics] mcstats.org
+2014-11-29 23:21:37 [INFO] [Metrics] mcstats.org
+2014-11-29 23:31:37 [INFO] [Metrics] mcstats.org
+2014-11-29 23:41:37 [INFO] [Metrics] mcstats.org
+2014-11-29 23:51:37 [INFO] [Metrics] mcstats.org
+2014-11-30 00:01:37 [INFO] [Metrics] mcstats.org
+2014-11-30 00:11:37 [INFO] [Metrics] mcstats.org
+2014-11-30 00:21:37 [INFO] [Metrics] mcstats.org
+2014-11-30 00:31:37 [INFO] [Metrics] mcstats.org
+2014-11-30 00:41:37 [INFO] [Metrics] mcstats.org
+2014-11-30 00:51:37 [INFO] [Metrics] mcstats.org
+2014-11-30 01:01:37 [INFO] [Metrics] mcstats.org
+2014-11-30 01:11:37 [INFO] [Metrics] mcstats.org
+2014-11-30 01:21:37 [INFO] [Metrics] mcstats.org
+2014-11-30 01:31:37 [INFO] [Metrics] mcstats.org
+2014-11-30 01:41:37 [INFO] [Metrics] mcstats.org
+2014-11-30 01:51:37 [INFO] [Metrics] mcstats.org
+2014-11-30 02:01:37 [INFO] [Metrics] mcstats.org
+2014-11-30 02:11:37 [INFO] [Metrics] mcstats.org
+2014-11-30 02:21:37 [INFO] [Metrics] mcstats.org
+2014-11-30 02:31:37 [INFO] [Metrics] mcstats.org
+2014-11-30 02:41:37 [INFO] [Metrics] mcstats.org
+2014-11-30 02:51:37 [INFO] [Metrics] mcstats.org
+2014-11-30 03:01:37 [INFO] [Metrics] mcstats.org
+2014-11-30 03:11:37 [INFO] [Metrics] mcstats.org
+2014-11-30 03:21:37 [INFO] [Metrics] mcstats.org
+2014-11-30 03:31:37 [INFO] [Metrics] mcstats.org
+2014-11-30 03:41:37 [INFO] [Metrics] mcstats.org
+2014-11-30 03:51:37 [INFO] [Metrics] mcstats.org
+2014-11-30 04:01:37 [INFO] [Metrics] mcstats.org
+2014-11-30 04:11:37 [INFO] [Metrics] mcstats.org
+2014-11-30 04:21:37 [INFO] [Metrics] mcstats.org
+2014-11-30 04:31:37 [INFO] [Metrics] mcstats.org
+2014-11-30 04:41:37 [INFO] [Metrics] mcstats.org
+2014-11-30 04:51:37 [INFO] [Metrics] mcstats.org
+2014-11-30 05:01:37 [INFO] [Metrics] mcstats.org
+2014-11-30 05:11:37 [INFO] [Metrics] mcstats.org
+2014-11-30 05:21:37 [INFO] [Metrics] mcstats.org
+2014-11-30 05:31:37 [INFO] [Metrics] mcstats.org
+2014-11-30 05:41:37 [INFO] [Metrics] mcstats.org
+2014-11-30 05:51:37 [INFO] [Metrics] mcstats.org
+2014-11-30 06:01:37 [INFO] [Metrics] mcstats.org
+2014-11-30 06:11:37 [INFO] [Metrics] mcstats.org
+2014-11-30 06:21:37 [INFO] [Metrics] mcstats.org
+2014-11-30 06:31:37 [INFO] [Metrics] mcstats.org
+2014-11-30 06:41:37 [INFO] [Metrics] mcstats.org
+2014-11-30 06:51:37 [INFO] [Metrics] mcstats.org
+2014-11-30 07:01:37 [INFO] [Metrics] mcstats.org
+2014-11-30 07:11:37 [INFO] [Metrics] mcstats.org
+2014-11-30 07:21:37 [INFO] [Metrics] mcstats.org
+2014-11-30 07:31:37 [INFO] [Metrics] mcstats.org
+2014-11-30 07:41:37 [INFO] [Metrics] mcstats.org
+2014-11-30 07:51:37 [INFO] [Metrics] mcstats.org
+2014-11-30 08:01:37 [INFO] [Metrics] mcstats.org
+2014-11-30 08:11:37 [INFO] [Metrics] mcstats.org
+2014-11-30 08:21:37 [INFO] [Metrics] mcstats.org
+2014-11-30 08:31:37 [INFO] [Metrics] mcstats.org
+2014-11-30 08:41:37 [INFO] [Metrics] mcstats.org
+2014-11-30 08:51:37 [INFO] [Metrics] mcstats.org
+2014-11-30 09:01:37 [INFO] [Metrics] mcstats.org
+2014-11-30 09:11:37 [INFO] [Metrics] mcstats.org
+2014-11-30 09:21:37 [INFO] [Metrics] mcstats.org
+2014-11-30 09:31:37 [INFO] [Metrics] mcstats.org
+2014-11-30 09:41:37 [INFO] [Metrics] mcstats.org
+2014-11-30 09:51:37 [INFO] [Metrics] mcstats.org
+2014-11-30 10:01:37 [INFO] [Metrics] mcstats.org
+2014-11-30 10:11:37 [INFO] [Metrics] mcstats.org
+2014-11-30 10:21:37 [INFO] [Metrics] mcstats.org
+2014-11-30 10:31:37 [INFO] [Metrics] mcstats.org
+2014-11-30 10:41:37 [INFO] [Metrics] mcstats.org
+2014-11-30 10:51:37 [INFO] [Metrics] mcstats.org
+2014-11-30 11:01:37 [INFO] [Metrics] mcstats.org
+2014-11-30 11:11:37 [INFO] [Metrics] mcstats.org
+2014-11-30 11:21:37 [INFO] [Metrics] mcstats.org
+2014-11-30 11:31:37 [INFO] [Metrics] mcstats.org
+2014-11-30 11:41:37 [INFO] [Metrics] mcstats.org
+2014-11-30 11:51:37 [INFO] [Metrics] mcstats.org
+2014-11-30 12:01:37 [INFO] [Metrics] mcstats.org
+2014-11-30 12:11:37 [INFO] [Metrics] mcstats.org
+2014-11-30 12:21:37 [INFO] [Metrics] mcstats.org
+2014-11-30 12:31:37 [INFO] [Metrics] mcstats.org
+2014-11-30 12:41:37 [INFO] [Metrics] mcstats.org
+2014-11-30 12:51:37 [INFO] [Metrics] mcstats.org
+2014-11-30 13:01:37 [INFO] [Metrics] mcstats.org
+2014-11-30 13:11:37 [INFO] [Metrics] mcstats.org
+2014-11-30 13:21:37 [INFO] [Metrics] mcstats.org
+2014-11-30 13:31:37 [INFO] [Metrics] mcstats.org
+2014-11-30 13:41:37 [INFO] [Metrics] mcstats.org
+2014-11-30 13:51:37 [INFO] [Metrics] mcstats.org
+2014-11-30 14:01:37 [INFO] [Metrics] mcstats.org
+2014-11-30 14:11:37 [INFO] [Metrics] mcstats.org
+2014-11-30 14:21:37 [INFO] [Metrics] mcstats.org
+2014-11-30 14:31:37 [INFO] [Metrics] mcstats.org
+2014-11-30 14:41:37 [INFO] [Metrics] mcstats.org
+2014-11-30 14:51:37 [INFO] [Metrics] mcstats.org
+2014-11-30 15:01:37 [INFO] [Metrics] mcstats.org
+2014-11-30 15:11:37 [INFO] [Metrics] mcstats.org
+2014-11-30 15:21:37 [INFO] [Metrics] mcstats.org
+2014-11-30 15:31:37 [INFO] [Metrics] mcstats.org
+2014-11-30 15:41:37 [INFO] [Metrics] mcstats.org
+2014-11-30 15:51:37 [INFO] [Metrics] mcstats.org
+2014-11-30 16:01:37 [INFO] [Metrics] mcstats.org
+2014-11-30 16:11:37 [INFO] [Metrics] mcstats.org
+2014-11-30 16:21:37 [INFO] [Metrics] mcstats.org
+2014-11-30 16:31:37 [INFO] [Metrics] mcstats.org
+2014-11-30 16:41:37 [INFO] [Metrics] mcstats.org
+2014-11-30 16:51:37 [INFO] [Metrics] mcstats.org
+2014-11-30 17:01:37 [INFO] [Metrics] mcstats.org
+2014-11-30 17:11:37 [INFO] [Metrics] mcstats.org
+2014-11-30 17:21:37 [INFO] [Metrics] mcstats.org
+2014-11-30 17:31:37 [INFO] [Metrics] mcstats.org
+2014-11-30 17:41:37 [INFO] [Metrics] mcstats.org
+2014-11-30 17:51:37 [INFO] [Metrics] mcstats.org
+2014-11-30 18:01:37 [INFO] [Metrics] mcstats.org
+2014-11-30 18:11:37 [INFO] [Metrics] mcstats.org
+2014-11-30 18:21:37 [INFO] [Metrics] mcstats.org
+2014-11-30 18:31:37 [INFO] [Metrics] mcstats.org
+2014-11-30 18:41:37 [INFO] [Metrics] mcstats.org
+2014-11-30 18:51:37 [INFO] [Metrics] mcstats.org
+2014-11-30 19:01:37 [INFO] [Metrics] mcstats.org
+2014-11-30 19:11:37 [INFO] [Metrics] mcstats.org
+2014-11-30 19:21:37 [INFO] [Metrics] mcstats.org
+2014-11-30 19:31:37 [INFO] [Metrics] mcstats.org
+2014-11-30 19:41:37 [INFO] [Metrics] mcstats.org
+2014-11-30 19:51:37 [INFO] [Metrics] mcstats.org
+2014-11-30 20:01:37 [INFO] [Metrics] mcstats.org
+2014-11-30 20:11:37 [INFO] [Metrics] mcstats.org
+2014-11-30 20:21:37 [INFO] [Metrics] mcstats.org
+2014-11-30 20:31:37 [INFO] [Metrics] mcstats.org
+2014-11-30 20:41:37 [INFO] [Metrics] mcstats.org
+2014-11-30 20:51:37 [INFO] [Metrics] mcstats.org
+2014-11-30 21:01:37 [INFO] [Metrics] mcstats.org
+2014-11-30 21:11:37 [INFO] [Metrics] mcstats.org
+2014-11-30 21:21:37 [INFO] [Metrics] mcstats.org
+2014-11-30 21:31:37 [INFO] [Metrics] mcstats.org
+2014-11-30 21:41:37 [INFO] [Metrics] mcstats.org
+2014-11-30 21:51:37 [INFO] [Metrics] mcstats.org
+2014-11-30 22:01:37 [INFO] [Metrics] mcstats.org
+2014-11-30 22:11:37 [INFO] [Metrics] mcstats.org
+2014-11-30 22:21:37 [INFO] [Metrics] mcstats.org
+2014-11-30 22:31:37 [INFO] [Metrics] mcstats.org
+2014-11-30 22:41:37 [INFO] [Metrics] mcstats.org
+2014-11-30 22:51:37 [INFO] [Metrics] mcstats.org
+2014-11-30 23:01:37 [INFO] [Metrics] mcstats.org
+2014-11-30 23:11:37 [INFO] [Metrics] mcstats.org
+2014-11-30 23:21:37 [INFO] [Metrics] mcstats.org
+2014-11-30 23:31:37 [INFO] [Metrics] mcstats.org
+2014-11-30 23:41:37 [INFO] [Metrics] mcstats.org
+2014-11-30 23:51:37 [INFO] [Metrics] mcstats.org
+2014-12-01 00:01:37 [INFO] [Metrics] mcstats.org
+2014-12-01 00:11:37 [INFO] [Metrics] mcstats.org
+2014-12-01 00:21:37 [INFO] [Metrics] mcstats.org
+2014-12-01 00:31:37 [INFO] [Metrics] mcstats.org
+2014-12-01 00:41:37 [INFO] [Metrics] mcstats.org
+2014-12-01 00:51:37 [INFO] [Metrics] mcstats.org
+2014-12-01 01:01:37 [INFO] [Metrics] mcstats.org
+2014-12-01 01:11:37 [INFO] [Metrics] mcstats.org
+2014-12-01 01:21:37 [INFO] [Metrics] mcstats.org
+2014-12-01 01:31:37 [INFO] [Metrics] mcstats.org
+2014-12-01 01:41:37 [INFO] [Metrics] mcstats.org
+2014-12-01 01:51:37 [INFO] [Metrics] mcstats.org
+2014-12-01 02:01:37 [INFO] [Metrics] mcstats.org
+2014-12-01 02:11:37 [INFO] [Metrics] mcstats.org
+2014-12-01 02:21:37 [INFO] [Metrics] mcstats.org
+2014-12-01 02:31:37 [INFO] [Metrics] mcstats.org
+2014-12-01 02:41:37 [INFO] [Metrics] mcstats.org
+2014-12-01 02:51:37 [INFO] [Metrics] mcstats.org
+2014-12-01 03:01:37 [INFO] [Metrics] mcstats.org
+2014-12-01 03:11:37 [INFO] [Metrics] mcstats.org
+2014-12-01 03:21:37 [INFO] [Metrics] mcstats.org
+2014-12-01 03:31:37 [INFO] [Metrics] mcstats.org
+2014-12-01 03:41:37 [INFO] [Metrics] mcstats.org
+2014-12-01 03:51:37 [INFO] [Metrics] mcstats.org
+2014-12-01 04:01:37 [INFO] [Metrics] mcstats.org
+2014-12-01 04:11:37 [INFO] [Metrics] mcstats.org
+2014-12-01 04:21:37 [INFO] [Metrics] mcstats.org
+2014-12-01 04:31:37 [INFO] [Metrics] mcstats.org
+2014-12-01 04:41:37 [INFO] [Metrics] mcstats.org
+2014-12-01 04:51:37 [INFO] [Metrics] mcstats.org
+2014-12-01 05:01:37 [INFO] [Metrics] mcstats.org
+2014-12-01 05:11:37 [INFO] [Metrics] mcstats.org
+2014-12-01 05:21:37 [INFO] [Metrics] mcstats.org
+2014-12-01 05:31:37 [INFO] [Metrics] mcstats.org
+2014-12-01 05:41:37 [INFO] [Metrics] mcstats.org
+2014-12-01 05:51:37 [INFO] [Metrics] mcstats.org
+2014-12-01 06:01:37 [INFO] [Metrics] mcstats.org
+2014-12-01 06:11:37 [INFO] [Metrics] mcstats.org
+2014-12-01 06:21:37 [INFO] [Metrics] mcstats.org
+2014-12-01 06:31:37 [INFO] [Metrics] mcstats.org
+2014-12-01 06:41:37 [INFO] [Metrics] mcstats.org
+2014-12-01 06:51:37 [INFO] [Metrics] mcstats.org
+2014-12-01 07:01:37 [INFO] [Metrics] mcstats.org
+2014-12-01 07:11:37 [INFO] [Metrics] mcstats.org
+2014-12-01 07:21:37 [INFO] [Metrics] mcstats.org
+2014-12-01 07:31:37 [INFO] [Metrics] mcstats.org
+2014-12-01 07:41:37 [INFO] [Metrics] mcstats.org
+2014-12-01 07:51:37 [INFO] [Metrics] mcstats.org
+2014-12-01 08:01:37 [INFO] [Metrics] mcstats.org
+2014-12-01 08:11:37 [INFO] [Metrics] mcstats.org
+2014-12-01 08:21:37 [INFO] [Metrics] mcstats.org
+2014-12-01 08:31:37 [INFO] [Metrics] mcstats.org
+2014-12-01 08:41:37 [INFO] [Metrics] mcstats.org
+2014-12-01 08:51:37 [INFO] [Metrics] mcstats.org
+2014-12-01 09:01:37 [INFO] [Metrics] mcstats.org
+2014-12-01 09:11:37 [INFO] [Metrics] mcstats.org
+2014-12-01 09:21:37 [INFO] [Metrics] mcstats.org
+2014-12-01 09:31:37 [INFO] [Metrics] mcstats.org
+2014-12-01 09:41:37 [INFO] [Metrics] mcstats.org
+2014-12-01 09:51:37 [INFO] [Metrics] mcstats.org
+2014-12-01 10:01:37 [INFO] [Metrics] mcstats.org
+2014-12-01 10:11:37 [INFO] [Metrics] mcstats.org
+2014-12-01 10:21:37 [INFO] [Metrics] mcstats.org
+2014-12-01 10:31:37 [INFO] [Metrics] mcstats.org
+2014-12-01 10:41:37 [INFO] [Metrics] mcstats.org
+2014-12-01 10:51:37 [INFO] [Metrics] mcstats.org
+2014-12-01 11:01:37 [INFO] [Metrics] mcstats.org
+2014-12-01 11:11:37 [INFO] [Metrics] mcstats.org
+2014-12-01 11:21:37 [INFO] [Metrics] mcstats.org
+2014-12-01 11:31:37 [INFO] [Metrics] mcstats.org
+2014-12-01 11:41:37 [INFO] [Metrics] mcstats.org
+2014-12-01 11:51:37 [INFO] [Metrics] mcstats.org
+2014-12-01 12:01:37 [INFO] [Metrics] mcstats.org
+2014-12-01 12:11:37 [INFO] [Metrics] mcstats.org
+2014-12-01 12:21:37 [INFO] [Metrics] mcstats.org
+2014-12-01 12:31:37 [INFO] [Metrics] mcstats.org
+2014-12-01 12:41:37 [INFO] [Metrics] mcstats.org
+2014-12-01 12:51:37 [INFO] [Metrics] mcstats.org
+2014-12-01 13:01:37 [INFO] [Metrics] mcstats.org
+2014-12-01 13:11:37 [INFO] [Metrics] mcstats.org
+2014-12-01 13:21:37 [INFO] [Metrics] mcstats.org
+2014-12-01 13:31:37 [INFO] [Metrics] mcstats.org
+2014-12-01 13:41:37 [INFO] [Metrics] mcstats.org
+2014-12-01 13:51:37 [INFO] [Metrics] mcstats.org
+2014-12-01 14:01:37 [INFO] [Metrics] mcstats.org
+2014-12-01 14:11:37 [INFO] [Metrics] mcstats.org
+2014-12-01 14:21:37 [INFO] [Metrics] mcstats.org
+2014-12-01 14:31:37 [INFO] [Metrics] mcstats.org
+2014-12-01 14:41:37 [INFO] [Metrics] mcstats.org
+2014-12-01 14:51:37 [INFO] [Metrics] mcstats.org
+2014-12-01 15:01:37 [INFO] [Metrics] mcstats.org
+2014-12-01 15:11:37 [INFO] [Metrics] mcstats.org
+2014-12-01 15:21:37 [INFO] [Metrics] mcstats.org
+2014-12-01 15:31:37 [INFO] [Metrics] mcstats.org
+2014-12-01 15:41:37 [INFO] [Metrics] mcstats.org
+2014-12-01 15:51:37 [INFO] [Metrics] mcstats.org
+2014-12-01 16:01:37 [INFO] [Metrics] mcstats.org
+2014-12-01 16:11:37 [INFO] [Metrics] mcstats.org
+2014-12-01 16:21:37 [INFO] [Metrics] mcstats.org
+2014-12-01 16:31:37 [INFO] [Metrics] mcstats.org
+2014-12-01 16:41:37 [INFO] [Metrics] mcstats.org
+2014-12-01 16:51:37 [INFO] [Metrics] mcstats.org
+2014-12-01 17:01:37 [INFO] [Metrics] mcstats.org
+2014-12-01 17:11:37 [INFO] [Metrics] mcstats.org
+2014-12-01 17:21:37 [INFO] [Metrics] mcstats.org
+2014-12-01 17:31:37 [INFO] [Metrics] mcstats.org
+2014-12-01 17:41:37 [INFO] [Metrics] mcstats.org
+2014-12-01 17:51:37 [INFO] [Metrics] mcstats.org
+2014-12-01 18:01:37 [INFO] [Metrics] mcstats.org
+2014-12-01 18:11:37 [INFO] [Metrics] mcstats.org
+2014-12-01 18:21:37 [INFO] [Metrics] mcstats.org
+2014-12-01 18:31:37 [INFO] [Metrics] mcstats.org
+2014-12-01 18:41:37 [INFO] [Metrics] mcstats.org
+2014-12-01 18:51:37 [INFO] [Metrics] mcstats.org
+2014-12-01 19:01:37 [INFO] [Metrics] mcstats.org
+2014-12-01 19:11:37 [INFO] [Metrics] mcstats.org
+2014-12-01 19:21:37 [INFO] [Metrics] mcstats.org
+2014-12-01 19:31:37 [INFO] [Metrics] mcstats.org
+2014-12-01 19:41:37 [INFO] [Metrics] mcstats.org
+2014-12-01 19:51:37 [INFO] [Metrics] mcstats.org
+2014-12-01 20:01:37 [INFO] [Metrics] mcstats.org
+2014-12-01 20:11:37 [INFO] [Metrics] mcstats.org
+2014-12-01 20:21:37 [INFO] [Metrics] mcstats.org
+2014-12-01 20:31:37 [INFO] [Metrics] mcstats.org
+2014-12-01 20:41:37 [INFO] [Metrics] mcstats.org
+2014-12-01 20:51:37 [INFO] [Metrics] mcstats.org
+2014-12-01 21:01:37 [INFO] [Metrics] mcstats.org
+2014-12-01 21:11:37 [INFO] [Metrics] mcstats.org
+2014-12-01 21:21:37 [INFO] [Metrics] mcstats.org
+2014-12-01 21:31:37 [INFO] [Metrics] mcstats.org
+2014-12-01 21:41:37 [INFO] [Metrics] mcstats.org
+2014-12-01 21:51:37 [INFO] [Metrics] mcstats.org
+2014-12-01 22:01:37 [INFO] [Metrics] mcstats.org
+2014-12-01 22:11:37 [INFO] [Metrics] mcstats.org
+2014-12-01 22:21:37 [INFO] [Metrics] mcstats.org
+2014-12-01 22:31:37 [INFO] [Metrics] mcstats.org
+2014-12-01 22:41:37 [INFO] [Metrics] mcstats.org
+2014-12-01 22:51:37 [INFO] [Metrics] mcstats.org
+2014-12-01 23:01:37 [INFO] [Metrics] mcstats.org
+2014-12-01 23:11:37 [INFO] [Metrics] mcstats.org
+2014-12-01 23:21:37 [INFO] [Metrics] mcstats.org
+2014-12-01 23:31:37 [INFO] [Metrics] mcstats.org
+2014-12-01 23:41:37 [INFO] [Metrics] mcstats.org
+2014-12-01 23:51:37 [INFO] [Metrics] mcstats.org
+2014-12-02 00:01:37 [INFO] [Metrics] mcstats.org
+2014-12-02 00:11:37 [INFO] [Metrics] mcstats.org
+2014-12-02 00:21:37 [INFO] [Metrics] mcstats.org
+2014-12-02 00:31:37 [INFO] [Metrics] mcstats.org
+2014-12-02 00:41:37 [INFO] [Metrics] mcstats.org
+2014-12-02 00:51:37 [INFO] [Metrics] mcstats.org
+2014-12-02 01:01:37 [INFO] [Metrics] mcstats.org
+2014-12-02 01:11:37 [INFO] [Metrics] mcstats.org
+2014-12-02 01:21:37 [INFO] [Metrics] mcstats.org
+2014-12-02 01:31:37 [INFO] [Metrics] mcstats.org
+2014-12-02 01:41:37 [INFO] [Metrics] mcstats.org
+2014-12-02 01:51:37 [INFO] [Metrics] mcstats.org
+2014-12-02 02:01:37 [INFO] [Metrics] mcstats.org
+2014-12-02 02:11:37 [INFO] [Metrics] mcstats.org
+2014-12-02 02:21:37 [INFO] [Metrics] mcstats.org
+2014-12-02 02:31:37 [INFO] [Metrics] mcstats.org
+2014-12-02 02:41:37 [INFO] [Metrics] mcstats.org
+2014-12-02 02:51:37 [INFO] [Metrics] mcstats.org
+2014-12-02 03:01:37 [INFO] [Metrics] mcstats.org
+2014-12-02 03:11:37 [INFO] [Metrics] mcstats.org
+2014-12-02 03:21:37 [INFO] [Metrics] mcstats.org
+2014-12-02 03:31:37 [INFO] [Metrics] mcstats.org
+2014-12-02 03:41:37 [INFO] [Metrics] mcstats.org
+2014-12-02 03:51:37 [INFO] [Metrics] mcstats.org
+2014-12-02 04:01:37 [INFO] [Metrics] mcstats.org
+2014-12-02 04:11:37 [INFO] [Metrics] mcstats.org
+2014-12-02 04:21:37 [INFO] [Metrics] mcstats.org
+2014-12-02 04:31:37 [INFO] [Metrics] mcstats.org
+2014-12-02 04:41:37 [INFO] [Metrics] mcstats.org
+2014-12-02 04:51:37 [INFO] [Metrics] mcstats.org
+2014-12-02 05:01:37 [INFO] [Metrics] mcstats.org
+2014-12-02 05:11:37 [INFO] [Metrics] mcstats.org
+2014-12-02 05:21:37 [INFO] [Metrics] mcstats.org
+2014-12-02 05:31:37 [INFO] [Metrics] mcstats.org
+2014-12-02 05:41:37 [INFO] [Metrics] mcstats.org
+2014-12-02 05:51:37 [INFO] [Metrics] mcstats.org
+2014-12-02 06:01:37 [INFO] [Metrics] mcstats.org
+2014-12-02 06:11:37 [INFO] [Metrics] mcstats.org
+2014-12-02 06:21:37 [INFO] [Metrics] mcstats.org
+2014-12-02 06:31:37 [INFO] [Metrics] mcstats.org
+2014-12-02 06:41:37 [INFO] [Metrics] mcstats.org
+2014-12-02 06:51:37 [INFO] [Metrics] mcstats.org
+2014-12-02 07:01:37 [INFO] [Metrics] mcstats.org
+2014-12-02 07:11:37 [INFO] [Metrics] mcstats.org
+2014-12-02 07:21:37 [INFO] [Metrics] mcstats.org
+2014-12-02 07:31:37 [INFO] [Metrics] mcstats.org
+2014-12-02 07:41:37 [INFO] [Metrics] mcstats.org
+2014-12-02 07:51:37 [INFO] [Metrics] mcstats.org
+2014-12-02 08:01:37 [INFO] [Metrics] mcstats.org
+2014-12-02 08:11:37 [INFO] [Metrics] mcstats.org
+2014-12-02 08:21:37 [INFO] [Metrics] mcstats.org
+2014-12-02 08:31:37 [INFO] [Metrics] mcstats.org
+2014-12-02 08:41:37 [INFO] [Metrics] mcstats.org
+2014-12-02 08:51:37 [INFO] [Metrics] mcstats.org
+2014-12-02 09:01:37 [INFO] [Metrics] mcstats.org
+2014-12-02 09:04:52 [INFO] Starting minecraft server version 1.6.4
+2014-12-02 09:04:52 [INFO] Loading properties
+2014-12-02 09:04:52 [INFO] Default game type: SURVIVAL
+2014-12-02 09:04:52 [INFO] Generating keypair
+2014-12-02 09:04:53 [INFO] Starting Minecraft server on *:25565
+2014-12-02 09:04:53 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-12-02 09:04:53 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-12-02 09:04:53 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2014-12-02 09:04:53 [INFO] [Essentials] Loading Essentials v2.12.1
+2014-12-02 09:04:53 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v2.0
+2014-12-02 09:04:53 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.1
+2014-12-02 09:04:53 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.1
+2014-12-02 09:04:53 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-12-02 09:04:53 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-12-02 09:04:53 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-12-02 09:04:53 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-12-02 09:04:53 [INFO] Preparing level "Library_Hub"
+2014-12-02 09:04:53 [INFO] Preparing start region for level 0 (Seed: 563634050155382046)
+2014-12-02 09:04:54 [INFO] Preparing spawn area: 41%
+2014-12-02 09:04:55 [INFO] Preparing start region for level 1 (Seed: 563634050155382046)
+2014-12-02 09:04:56 [INFO] Preparing start region for level 2 (Seed: 563634050155382046)
+2014-12-02 09:04:56 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-12-02 09:04:56 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-12-02 09:04:56 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2014-12-02 09:04:56 [INFO] GriefPrevention: Grief Prevention enabled.
+2014-12-02 09:04:56 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd".  Please update your config.yml.
+2014-12-02 09:04:56 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd_nether".  Please update your config.yml.
+2014-12-02 09:04:56 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd_the_end".  Please update your config.yml.
+2014-12-02 09:04:56 [INFO] GriefPrevention: 0 total claims loaded.
+2014-12-02 09:04:56 [INFO] GriefPrevention: 0 players have staked claims.
+2014-12-02 09:04:57 [INFO] [Essentials] Enabling Essentials v2.12.1
+2014-12-02 09:04:57 [INFO] Bukkit version format changed. Version not checked.
+2014-12-02 09:04:57 [INFO] git-Bukkit-1.6.4-R1.0 (MC: 1.6.4)
+2014-12-02 09:04:57 [INFO] 1.6.4-R1.0
+2014-12-02 09:04:57 [INFO] Essentials: Using config file enhanced permissions.
+2014-12-02 09:04:57 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-12-02 09:04:57 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v2.0
+2014-12-02 09:04:57 [INFO] [PermissionsBukkit] Enabled successfully
+2014-12-02 09:04:57 [INFO] Essentials: Using PermissionsBukkit based permissions.
+2014-12-02 09:04:57 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.1
+2014-12-02 09:04:57 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.1
+2014-12-02 09:04:57 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-12-02 09:04:58 [INFO] Done (4.398s)! For help, type "help" or "?"
+2014-12-02 09:05:33 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: UnknownHostException
+2014-12-02 09:05:33 [WARNING] Could not get latest artifact information: UnknownHostException
+2014-12-02 09:05:38 [INFO] [Metrics] mcstats.org
+2014-12-02 09:08:14 [INFO] Starting minecraft server version 1.6.4
+2014-12-02 09:08:14 [INFO] Loading properties
+2014-12-02 09:08:14 [INFO] Default game type: SURVIVAL
+2014-12-02 09:08:14 [INFO] Generating keypair
+2014-12-02 09:08:15 [INFO] Starting Minecraft server on *:25565
+2014-12-02 09:08:16 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-12-02 09:08:16 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-12-02 09:08:16 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2014-12-02 09:08:16 [INFO] [Essentials] Loading Essentials v2.12.1
+2014-12-02 09:08:16 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v2.0
+2014-12-02 09:08:16 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.1
+2014-12-02 09:08:16 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.1
+2014-12-02 09:08:16 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-12-02 09:08:16 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-12-02 09:08:16 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-12-02 09:08:16 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-12-02 09:08:16 [INFO] Preparing level "Library_Hub"
+2014-12-02 09:08:17 [INFO] Preparing start region for level 0 (Seed: 563634050155382046)
+2014-12-02 09:08:18 [INFO] Preparing spawn area: 37%
+2014-12-02 09:08:18 [INFO] Preparing start region for level 1 (Seed: 563634050155382046)
+2014-12-02 09:08:19 [INFO] Preparing start region for level 2 (Seed: 563634050155382046)
+2014-12-02 09:08:19 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-12-02 09:08:19 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-12-02 09:08:20 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2014-12-02 09:08:20 [INFO] GriefPrevention: Grief Prevention enabled.
+2014-12-02 09:08:20 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd".  Please update your config.yml.
+2014-12-02 09:08:20 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd_nether".  Please update your config.yml.
+2014-12-02 09:08:20 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd_the_end".  Please update your config.yml.
+2014-12-02 09:08:20 [INFO] GriefPrevention: 0 total claims loaded.
+2014-12-02 09:08:20 [INFO] GriefPrevention: 0 players have staked claims.
+2014-12-02 09:08:20 [INFO] [Essentials] Enabling Essentials v2.12.1
+2014-12-02 09:08:20 [INFO] Bukkit version format changed. Version not checked.
+2014-12-02 09:08:20 [INFO] git-Bukkit-1.6.4-R1.0 (MC: 1.6.4)
+2014-12-02 09:08:20 [INFO] 1.6.4-R1.0
+2014-12-02 09:08:21 [INFO] Essentials: Using config file enhanced permissions.
+2014-12-02 09:08:21 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-12-02 09:08:21 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v2.0
+2014-12-02 09:08:21 [INFO] [PermissionsBukkit] Enabled successfully
+2014-12-02 09:08:21 [INFO] Essentials: Using PermissionsBukkit based permissions.
+2014-12-02 09:08:21 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.1
+2014-12-02 09:08:21 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.1
+2014-12-02 09:08:21 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-12-02 09:08:22 [INFO] Done (5.333s)! For help, type "help" or "?"
+2014-12-02 09:08:56 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: UnknownHostException
+2014-12-02 09:08:56 [WARNING] Could not get latest artifact information: UnknownHostException
+2014-12-02 09:09:02 [INFO] [Metrics] mcstats.org
+2014-12-02 09:19:02 [INFO] [Metrics] mcstats.org
+2014-12-02 09:29:02 [INFO] [Metrics] mcstats.org
+2014-12-02 09:39:02 [INFO] [Metrics] mcstats.org
+2014-12-02 09:49:02 [INFO] [Metrics] mcstats.org
+2014-12-02 09:59:02 [INFO] [Metrics] mcstats.org
+2014-12-02 10:09:02 [INFO] [Metrics] mcstats.org
+2014-12-02 10:19:02 [INFO] [Metrics] mcstats.org
+2014-12-02 10:29:02 [INFO] [Metrics] mcstats.org
+2014-12-02 10:39:02 [INFO] [Metrics] mcstats.org
+2014-12-02 10:49:02 [INFO] [Metrics] mcstats.org
+2014-12-02 10:59:02 [INFO] [Metrics] mcstats.org
+2014-12-02 11:09:02 [INFO] [Metrics] mcstats.org
+2014-12-02 11:19:02 [INFO] [Metrics] mcstats.org
+2014-12-02 11:29:02 [INFO] [Metrics] mcstats.org
+2014-12-02 11:39:02 [INFO] [Metrics] mcstats.org
+2014-12-02 11:49:02 [INFO] [Metrics] mcstats.org
+2014-12-02 11:59:02 [INFO] [Metrics] mcstats.org
+2014-12-02 12:09:02 [INFO] [Metrics] mcstats.org
+2014-12-02 12:19:02 [INFO] [Metrics] mcstats.org
+2014-12-02 12:29:02 [INFO] [Metrics] mcstats.org
+2014-12-02 12:39:02 [INFO] [Metrics] mcstats.org
+2014-12-02 12:49:02 [INFO] [Metrics] mcstats.org
+2014-12-02 12:59:02 [INFO] [Metrics] mcstats.org
+2014-12-02 13:09:02 [INFO] [Metrics] mcstats.org
+2014-12-02 13:19:02 [INFO] [Metrics] mcstats.org
+2014-12-02 13:29:02 [INFO] [Metrics] mcstats.org
+2014-12-02 13:39:02 [INFO] [Metrics] mcstats.org
+2014-12-02 13:49:02 [INFO] [Metrics] mcstats.org
+2014-12-02 13:59:02 [INFO] [Metrics] mcstats.org
+2014-12-02 14:09:02 [INFO] [Metrics] mcstats.org
+2014-12-02 14:19:02 [INFO] [Metrics] mcstats.org
+2014-12-02 14:29:02 [INFO] [Metrics] mcstats.org
+2014-12-02 14:39:02 [INFO] [Metrics] mcstats.org
+2014-12-02 14:49:02 [INFO] [Metrics] mcstats.org
