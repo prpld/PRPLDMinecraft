@@ -1,5 +1,5 @@
 worlds:
-  LibraryHub:
+  Library_Hub:
     seed: 3893759982153487564
     environment: NORMAL
     type: FLAT
@@ -31,10 +31,10 @@ worlds:
       z: -5.5
       pitch: 0.0
       yaw: 0.0
-      world: LibraryHub
+      world: Library_Hub
     autoload: true
     bedrespawn: true
-  LibraryHub_nether:
+  Library_Hub_nether:
     seed: 3893759982153487564
     environment: NETHER
     type: FLAT
@@ -66,10 +66,10 @@ worlds:
       z: 0.0
       pitch: 0.0
       yaw: 0.0
-      world: LibraryHub_nether
+      world: Library_Hub_nether
     autoload: true
     bedrespawn: true
-  LibraryHub_the_end:
+  Library_Hub_the_end:
     seed: 3893759982153487564
     environment: THE_END
     type: FLAT
@@ -101,6 +101,6 @@ worlds:
       z: 0.0
       pitch: 0.0
       yaw: 0.0
-      world: LibraryHub_the_end
+      world: Library_Hub_the_end
     autoload: true
     bedrespawn: true
