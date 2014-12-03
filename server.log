@@ -40678,3 +40678,93 @@ Caused by: java.lang.ClassCastException: net.minecraft.server.v1_6_R3.NBTTagStri
 2014-09-01 09:36:44 [INFO] [Metrics] mcstats.org
 2014-09-01 09:26:44 [INFO] [Metrics] mcstats.org
 2014-09-01 09:16:44 [INFO] [Metrics] mcstats.org
+2014-12-03 13:53:57 [INFO] Starting minecraft server version 1.6.4
+2014-12-03 13:53:57 [INFO] Loading properties
+2014-12-03 13:53:57 [INFO] Default game type: SURVIVAL
+2014-12-03 13:53:57 [INFO] Generating keypair
+2014-12-03 13:53:58 [INFO] Starting Minecraft server on *:25565
+2014-12-03 13:53:58 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-12-03 13:53:58 [INFO] [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+2014-12-03 13:53:58 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-12-03 13:53:58 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2014-12-03 13:53:58 [INFO] [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v2.4-b530
+2014-12-03 13:53:58 [INFO] [Essentials] Loading Essentials v2.12.1
+2014-12-03 13:53:58 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v2.0
+2014-12-03 13:53:58 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.1
+2014-12-03 13:53:58 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.1
+2014-12-03 13:53:58 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-12-03 13:53:58 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-12-03 13:53:58 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-12-03 13:53:58 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-12-03 13:53:58 [INFO] Preparing level "Library_6th_12th"
+2014-12-03 13:53:59 [INFO] Preparing start region for level 0 (Seed: 8473203657856964697)
+2014-12-03 13:54:00 [INFO] Preparing spawn area: 5%
+2014-12-03 13:54:01 [INFO] Preparing spawn area: 12%
+2014-12-03 13:54:02 [INFO] Preparing spawn area: 21%
+2014-12-03 13:54:03 [INFO] Preparing spawn area: 52%
+2014-12-03 13:54:03 [INFO] Preparing start region for level 1 (Seed: 8473203657856964697)
+2014-12-03 13:54:04 [INFO] Preparing start region for level 2 (Seed: 8473203657856964697)
+2014-12-03 13:54:04 [INFO] [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+2014-12-03 13:54:04 [INFO] [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+2014-12-03 13:54:04 [INFO] [AllPay] - Version 10.0 - hooked into Essentials Economy for Multiverse-Core v2.4-b527
+2014-12-03 13:54:05 [INFO] [Multiverse-Core] Loading World & Settings - 'Library_6th_12th' - Env: NORMAL - Type: NORMAL & seed: 8473203657856964697
+2014-12-03 13:54:05 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-12-03 13:54:05 [WARNING] [Multiverse-Core] Original Location: X: 96 Y: 64 Z: 252 P: 0 Y: 0 
+2014-12-03 13:54:05 [INFO] [Multiverse-Core] New Spawn for 'Library_6th_12th' is Located at: Library_6th_12th:94.50,66.00,246.50:0.00:0.00
+2014-12-03 13:54:05 [INFO] [Multiverse-Core] Loading World & Settings - 'Library_6th_12th_nether' - Env: NETHER - Type: NORMAL & seed: 8473203657856964697
+2014-12-03 13:54:05 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-12-03 13:54:05 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 64 Z: 0 P: 0 Y: 0 
+2014-12-03 13:54:05 [INFO] [Multiverse-Core] New Spawn for 'Library_6th_12th_nether' is Located at: Library_6th_12th_nether:0.50,64.00,3.50:0.00:0.00
+2014-12-03 13:54:05 [INFO] [Multiverse-Core] Loading World & Settings - 'Library_6th_12th_the_end' - Env: THE_END - Type: NORMAL & seed: 8473203657856964697
+2014-12-03 13:54:05 [WARNING] [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+2014-12-03 13:54:05 [WARNING] [Multiverse-Core] Original Location: X: 0 Y: 50 Z: 0 P: 0 Y: 0 
+2014-12-03 13:54:05 [INFO] [Multiverse-Core] New Spawn for 'Library_6th_12th_the_end' is Located at: Library_6th_12th_the_end:0.00,65.00,0.00:0.00:0.00
+2014-12-03 13:54:05 [INFO] [Multiverse-Core] Loading World & Settings - 'LibraryHub' - Env: NORMAL - Type: FLAT & seed: 3893759982153487564
+2014-12-03 13:54:05 [INFO] Preparing start region for level 3 (Seed: 3893759982153487564)
+2014-12-03 13:54:06 [INFO] [Multiverse-Core] Loading World & Settings - 'LibraryHub_nether' - Env: NETHER - Type: FLAT & seed: 3893759982153487564
+2014-12-03 13:54:06 [INFO] Preparing start region for level 4 (Seed: 3893759982153487564)
+2014-12-03 13:54:07 [INFO] [Multiverse-Core] Loading World & Settings - 'LibraryHub_the_end' - Env: THE_END - Type: FLAT & seed: 3893759982153487564
+2014-12-03 13:54:07 [INFO] Preparing start region for level 5 (Seed: 3893759982153487564)
+2014-12-03 13:54:08 [INFO] [Multiverse-Core] Loading World & Settings - 'Library_6th_12th' - Env: NORMAL - Type: NORMAL & seed: 8473203657856964697
+2014-12-03 13:54:08 [INFO] [Multiverse-Core] Loading World & Settings - 'Library_6th_12th_nether' - Env: NETHER - Type: NORMAL & seed: 8473203657856964697
+2014-12-03 13:54:08 [INFO] [Multiverse-Core] Loading World & Settings - 'Library_6th_12th_the_end' - Env: THE_END - Type: NORMAL & seed: 8473203657856964697
+2014-12-03 13:54:08 [INFO] [Multiverse-Core] 6 - World(s) loaded.
+2014-12-03 13:54:08 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-12-03 13:54:08 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-12-03 13:54:08 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2014-12-03 13:54:08 [INFO] GriefPrevention: Grief Prevention enabled.
+2014-12-03 13:54:08 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "world".  Please update your config.yml.
+2014-12-03 13:54:08 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "world_nether".  Please update your config.yml.
+2014-12-03 13:54:08 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "world_the_end".  Please update your config.yml.
+2014-12-03 13:54:08 [INFO] GriefPrevention: Warning: PvP Configuration: There's no world named "world".  Please update your config.yml.
+2014-12-03 13:54:08 [INFO] GriefPrevention: Warning: PvP Configuration: There's no world named "world_nether".  Please update your config.yml.
+2014-12-03 13:54:08 [INFO] GriefPrevention: Warning: PvP Configuration: There's no world named "world_the_end".  Please update your config.yml.
+2014-12-03 13:54:08 [INFO] GriefPrevention: 0 total claims loaded.
+2014-12-03 13:54:08 [INFO] GriefPrevention: 0 players have staked claims.
+2014-12-03 13:54:09 [INFO] [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v2.4-b530
+2014-12-03 13:54:09 [INFO] [MultiVerse-NetherPortals] - Version 2.4-b530 Enabled - By Rigby and fernferret
+2014-12-03 13:54:09 [INFO] [Essentials] Enabling Essentials v2.12.1
+2014-12-03 13:54:09 [INFO] Bukkit version format changed. Version not checked.
+2014-12-03 13:54:09 [INFO] git-Bukkit-1.6.4-R1.0 (MC: 1.6.4)
+2014-12-03 13:54:09 [INFO] 1.6.4-R1.0
+2014-12-03 13:54:10 [INFO] Essentials: Using config file enhanced permissions.
+2014-12-03 13:54:10 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-12-03 13:54:10 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v2.0
+2014-12-03 13:54:10 [INFO] [PermissionsBukkit] Enabled successfully
+2014-12-03 13:54:10 [INFO] Essentials: Using PermissionsBukkit based permissions.
+2014-12-03 13:54:10 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.1
+2014-12-03 13:54:10 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.1
+2014-12-03 13:54:10 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-12-03 13:54:10 [INFO] Done (11.909s)! For help, type "help" or "?"
+2014-12-03 13:54:38 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: UnknownHostException
+2014-12-03 13:54:38 [WARNING] Could not get latest artifact information: UnknownHostException
+2014-12-03 13:54:50 [INFO] [Metrics] mcstats.org
+2014-12-03 13:55:07 [INFO] BraveNewWorld78[/192.168.1.7:56305] logged in with entity id 1737 at ([Library_6th_12th] 239.30000001192093, 63.0, 222.69999998807907)
+2014-12-03 13:55:18 [INFO] BraveNewWorld78 issued server command: /plugins
+2014-12-03 13:55:40 [INFO] BraveNewWorld78 issued server command: /plugins
+2014-12-03 13:55:54 [INFO] [WorldEdit] Using inbuilt NmsBlock for this version.
+2014-12-03 13:56:01 [INFO] BraveNewWorld78 lost connection: disconnect.quitting
+2014-12-03 13:56:01 [INFO] Connection reset
+2014-12-03 13:56:02 [INFO] ?eBraveNewWorld78 left the game.
+2014-12-03 13:56:06 [INFO] BraveNewWorld78[/192.168.1.7:56308] logged in with entity id 2467 at ([Library_6th_12th] 94.5, 66.0, 246.5)
+2014-12-03 13:56:11 [INFO] BraveNewWorld78 issued server command: /world
