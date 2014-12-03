@@ -39377,3 +39377,138 @@ Caused by: java.util.zip.ZipException: invalid distance too far back
 2014-12-02 14:29:02 [INFO] [Metrics] mcstats.org
 2014-12-02 14:39:02 [INFO] [Metrics] mcstats.org
 2014-12-02 14:49:02 [INFO] [Metrics] mcstats.org
+2014-12-02 14:50:16 [INFO] Stopping server
+2014-12-02 14:55:50 [INFO] Starting minecraft server version 1.6.4
+2014-12-02 14:55:50 [INFO] Loading properties
+2014-12-02 14:55:50 [INFO] Default game type: SURVIVAL
+2014-12-02 14:55:50 [INFO] Generating keypair
+2014-12-02 14:55:51 [INFO] Starting Minecraft server on *:25565
+2014-12-02 14:55:51 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-12-02 14:55:52 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-12-02 14:55:52 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2014-12-02 14:55:52 [INFO] [Essentials] Loading Essentials v2.12.1
+2014-12-02 14:55:52 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v2.0
+2014-12-02 14:55:52 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.1
+2014-12-02 14:55:52 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.1
+2014-12-02 14:55:52 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-12-02 14:55:52 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-12-02 14:55:52 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-12-02 14:55:52 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-12-02 14:55:52 [INFO] Preparing level "Library_Hub"
+2014-12-02 14:55:52 [INFO] Preparing start region for level 0 (Seed: 563634050155382046)
+2014-12-02 14:55:53 [INFO] Preparing spawn area: 32%
+2014-12-02 14:55:54 [INFO] Preparing start region for level 1 (Seed: 563634050155382046)
+2014-12-02 14:55:55 [INFO] Preparing start region for level 2 (Seed: 563634050155382046)
+2014-12-02 14:55:55 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-12-02 14:55:55 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-12-02 14:55:56 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2014-12-02 14:55:56 [INFO] GriefPrevention: Grief Prevention enabled.
+2014-12-02 14:55:56 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd".  Please update your config.yml.
+2014-12-02 14:55:56 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd_nether".  Please update your config.yml.
+2014-12-02 14:55:56 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd_the_end".  Please update your config.yml.
+2014-12-02 14:55:56 [INFO] GriefPrevention: 0 total claims loaded.
+2014-12-02 14:55:56 [INFO] GriefPrevention: 0 players have staked claims.
+2014-12-02 14:55:56 [INFO] [Essentials] Enabling Essentials v2.12.1
+2014-12-02 14:55:56 [INFO] Bukkit version format changed. Version not checked.
+2014-12-02 14:55:56 [INFO] git-Bukkit-1.6.4-R1.0 (MC: 1.6.4)
+2014-12-02 14:55:56 [INFO] 1.6.4-R1.0
+2014-12-02 14:55:57 [INFO] Essentials: Using config file enhanced permissions.
+2014-12-02 14:55:57 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-12-02 14:55:57 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v2.0
+2014-12-02 14:55:57 [INFO] [PermissionsBukkit] Enabled successfully
+2014-12-02 14:55:57 [INFO] Essentials: Using PermissionsBukkit based permissions.
+2014-12-02 14:55:57 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.1
+2014-12-02 14:55:57 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.1
+2014-12-02 14:55:57 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-12-02 14:55:58 [INFO] Done (5.478s)! For help, type "help" or "?"
+2014-12-02 14:56:32 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: UnknownHostException
+2014-12-02 14:56:32 [WARNING] Could not get latest artifact information: UnknownHostException
+2014-12-02 14:56:38 [INFO] [Metrics] mcstats.org
+2014-12-02 15:06:38 [INFO] [Metrics] mcstats.org
+2014-12-02 15:09:22 [INFO] Starting minecraft server version 1.6.4
+2014-12-02 15:09:22 [INFO] Loading properties
+2014-12-02 15:09:22 [INFO] Default game type: SURVIVAL
+2014-12-02 15:09:22 [INFO] Generating keypair
+2014-12-02 15:09:23 [INFO] Starting Minecraft server on *:25565
+2014-12-02 15:09:23 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-12-02 15:09:24 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-12-02 15:09:24 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2014-12-02 15:09:24 [INFO] [Essentials] Loading Essentials v2.12.1
+2014-12-02 15:09:24 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v2.0
+2014-12-02 15:09:24 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.1
+2014-12-02 15:09:24 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.1
+2014-12-02 15:09:24 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-12-02 15:09:24 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-12-02 15:09:24 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-12-02 15:09:24 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-12-02 15:09:24 [INFO] Preparing level "Library_Hub"
+2014-12-02 15:09:24 [INFO] Preparing start region for level 0 (Seed: 563634050155382046)
+2014-12-02 15:09:25 [INFO] Preparing spawn area: 38%
+2014-12-02 15:09:26 [INFO] Preparing start region for level 1 (Seed: 563634050155382046)
+2014-12-02 15:09:27 [INFO] Preparing start region for level 2 (Seed: 563634050155382046)
+2014-12-02 15:09:27 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-12-02 15:09:27 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-12-02 15:09:27 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2014-12-02 15:09:27 [INFO] GriefPrevention: Grief Prevention enabled.
+2014-12-02 15:09:27 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd".  Please update your config.yml.
+2014-12-02 15:09:27 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd_nether".  Please update your config.yml.
+2014-12-02 15:09:27 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd_the_end".  Please update your config.yml.
+2014-12-02 15:09:27 [INFO] GriefPrevention: 0 total claims loaded.
+2014-12-02 15:09:27 [INFO] GriefPrevention: 0 players have staked claims.
+2014-12-02 15:09:28 [INFO] [Essentials] Enabling Essentials v2.12.1
+2014-12-02 15:09:28 [INFO] Bukkit version format changed. Version not checked.
+2014-12-02 15:09:28 [INFO] git-Bukkit-1.6.4-R1.0 (MC: 1.6.4)
+2014-12-02 15:09:28 [INFO] 1.6.4-R1.0
+2014-12-02 15:09:29 [INFO] Essentials: Using config file enhanced permissions.
+2014-12-02 15:09:29 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-12-02 15:09:29 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v2.0
+2014-12-02 15:09:29 [INFO] [PermissionsBukkit] Enabled successfully
+2014-12-02 15:09:29 [INFO] Essentials: Using PermissionsBukkit based permissions.
+2014-12-02 15:09:29 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.1
+2014-12-02 15:09:29 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.1
+2014-12-02 15:09:29 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-12-02 15:09:29 [INFO] Done (5.276s)! For help, type "help" or "?"
+2014-12-02 15:10:04 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: UnknownHostException
+2014-12-02 15:10:04 [WARNING] Could not get latest artifact information: UnknownHostException
+2014-12-02 15:10:10 [INFO] [Metrics] mcstats.org
+2014-12-02 15:20:10 [INFO] [Metrics] mcstats.org
+2014-12-02 15:30:10 [INFO] [Metrics] mcstats.org
+2014-12-02 15:40:10 [INFO] [Metrics] mcstats.org
+2014-12-02 15:50:10 [INFO] [Metrics] mcstats.org
+2014-12-02 16:00:10 [INFO] [Metrics] mcstats.org
+2014-12-02 16:10:10 [INFO] [Metrics] mcstats.org
+2014-12-02 16:20:10 [INFO] [Metrics] mcstats.org
+2014-12-02 16:30:10 [INFO] [Metrics] mcstats.org
+2014-12-02 16:40:10 [INFO] [Metrics] mcstats.org
+2014-12-02 16:50:10 [INFO] [Metrics] mcstats.org
+2014-12-02 17:00:10 [INFO] [Metrics] mcstats.org
+2014-12-02 17:10:10 [INFO] [Metrics] mcstats.org
+2014-12-02 17:20:10 [INFO] [Metrics] mcstats.org
+2014-12-02 17:30:10 [INFO] [Metrics] mcstats.org
+2014-12-02 17:40:10 [INFO] [Metrics] mcstats.org
+2014-12-02 17:50:10 [INFO] [Metrics] mcstats.org
+2014-12-02 18:00:10 [INFO] [Metrics] mcstats.org
+2014-12-02 18:10:10 [INFO] [Metrics] mcstats.org
+2014-12-02 18:16:08 [INFO] Sigurre[/192.168.1.24:63620] logged in with entity id 242 at ([Library_Hub] -96.65105694789247, 65.15473176351254, 246.69999998807907)
+2014-12-02 18:16:26 [INFO] Sigurre issued server command: /plugins
+2014-12-02 18:18:07 [INFO] Sigurre issued server command: /gamemode 1
+2014-12-02 18:18:43 [INFO] [WorldEdit] Using inbuilt NmsBlock for this version.
+2014-12-02 18:19:18 [INFO] Sigurre lost connection: disconnect.quitting
+2014-12-02 18:19:18 [INFO] Connection reset
+2014-12-02 18:19:18 [INFO] ?eSigurre left the game.
+2014-12-02 18:20:10 [INFO] [Metrics] mcstats.org
+2014-12-02 18:30:10 [INFO] [Metrics] mcstats.org
+2014-12-02 18:40:10 [INFO] [Metrics] mcstats.org
+2014-12-02 18:50:10 [INFO] [Metrics] mcstats.org
+2014-12-02 19:00:10 [INFO] [Metrics] mcstats.org
+2014-12-02 19:10:10 [INFO] [Metrics] mcstats.org
+2014-12-02 19:20:10 [INFO] [Metrics] mcstats.org
+2014-12-02 19:30:10 [INFO] [Metrics] mcstats.org
+2014-12-02 19:31:56 [INFO] Sigurre[/192.168.1.24:53995] logged in with entity id 3572 at ([Library_Hub] -76.18914323879406, 63.5, 300.95837011179174)
+2014-12-02 19:32:03 [INFO] Sigurre issued server command: /plugins
+2014-12-02 19:32:09 [INFO] Sigurre lost connection: disconnect.quitting
+2014-12-02 19:32:09 [INFO] Connection reset
+2014-12-02 19:32:09 [INFO] ?eSigurre left the game.
+2014-12-02 19:33:01 [INFO] Unknown command. Type "help" for help.[m
+2014-12-02 19:33:31 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)[m
+2014-12-02 19:40:10 [INFO] [Metrics] mcstats.org
