@@ -40768,3 +40768,4 @@ Caused by: java.lang.ClassCastException: net.minecraft.server.v1_6_R3.NBTTagStri
 2014-12-03 13:56:02 [INFO] ?eBraveNewWorld78 left the game.
 2014-12-03 13:56:06 [INFO] BraveNewWorld78[/192.168.1.7:56308] logged in with entity id 2467 at ([Library_6th_12th] 94.5, 66.0, 246.5)
 2014-12-03 13:56:11 [INFO] BraveNewWorld78 issued server command: /world
+2014-12-03 13:57:39 [INFO] BraveNewWorld78 was slain by Magma Cube

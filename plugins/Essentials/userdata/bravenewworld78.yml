@@ -4,12 +4,12 @@ timestamps:
   lastteleport: 1417640171943
 ipAddress: 192.168.1.7
 lastlocation:
-  world: Library_6th_12th
-  x: 94.5
-  y: 66.0
-  z: 246.5
-  yaw: 127.049904
-  pitch: -23.100004
+  world: Library_6th_12th_nether
+  x: 16.69999998807907
+  y: 83.0
+  z: 30.69999998807907
+  yaw: 179.40004
+  pitch: 8.1
 logoutlocation:
   world: Library_6th_12th
   x: 94.5
