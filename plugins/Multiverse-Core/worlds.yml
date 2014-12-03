@@ -26,9 +26,9 @@ worlds:
     gamemode: SURVIVAL
     keepspawninmemory: true
     spawn:
-      x: -3.5
-      y: 24.0
-      z: -5.5
+      x: 1232.5
+      y: 4.0
+      z: 1107.5
       pitch: 0.0
       yaw: 0.0
       world: LibraryHub
@@ -61,9 +61,9 @@ worlds:
     gamemode: SURVIVAL
     keepspawninmemory: true
     spawn:
-      x: 0.0
-      y: 68.0
-      z: 0.0
+      x: -6.5
+      y: 12.0
+      z: -0.5
       pitch: 0.0
       yaw: 0.0
       world: LibraryHub_nether
@@ -207,5 +207,110 @@ worlds:
       pitch: 0.0
       yaw: 0.0
       world: Library_6th_12th_the_end
+    autoload: true
+    bedrespawn: true
+  Library_Hub:
+    seed: 563634050155382046
+    environment: NORMAL
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: -87.5
+      y: 97.0
+      z: 300.5
+      pitch: 0.0
+      yaw: 0.0
+      world: Library_Hub
+    autoload: true
+    bedrespawn: true
+  Library_Hub_nether:
+    seed: 563634050155382046
+    environment: NETHER
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 8.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: -5.5
+      y: 65.0
+      z: 3.5
+      pitch: 0.0
+      yaw: 0.0
+      world: Library_Hub_nether
+    autoload: true
+    bedrespawn: true
+  Library_Hub_the_end:
+    seed: 563634050155382046
+    environment: THE_END
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 0.0
+      y: 64.0
+      z: 0.0
+      pitch: 0.0
+      yaw: 0.0
+      world: Library_Hub_the_end
     autoload: true
     bedrespawn: true

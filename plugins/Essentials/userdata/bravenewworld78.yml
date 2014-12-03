@@ -1,15 +1,15 @@
 timestamps:
-  login: 1417640166362
+  login: 1417641928692
   logout: 1417640160733
-  lastteleport: 1417640171943
+  lastteleport: 1417641629180
 ipAddress: 192.168.1.7
 lastlocation:
-  world: Library_6th_12th_nether
-  x: 16.69999998807907
-  y: 83.0
-  z: 30.69999998807907
-  yaw: 179.40004
-  pitch: 8.1
+  world: LibraryHub
+  x: 35.626857845560316
+  y: 32.98712620410093
+  z: 94.01877226374162
+  yaw: 0.75
+  pitch: 11.700003
 logoutlocation:
   world: Library_6th_12th
   x: 94.5

@@ -1,11 +1,14 @@
 GriefPrevention:
   SeaLevelOverrides:
-    Library_6th_12th: -1
-    Library_6th_12th_nether: -1
-    Library_6th_12th_the_end: -1
+    Library_Hub: -1
+    Library_Hub_nether: -1
+    Library_Hub_the_end: -1
     LibraryHub: -1
     LibraryHub_nether: -1
     LibraryHub_the_end: -1
+    Library_6th_12th: -1
+    Library_6th_12th_nether: -1
+    Library_6th_12th_the_end: -1
   Claims:
     Expiration:
       ChestClaimDays: 7
