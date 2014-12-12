@@ -1,15 +1,15 @@
 timestamps:
-  login: 1417031802147
+  login: 1417642360100
   logout: 1417029315499
   lastteleport: 1415916934892
 ipAddress: 192.168.1.7
 lastlocation:
   world: Library_Hub
-  x: -88.31274863569
-  y: 97.0
-  z: 300.44387828976704
-  yaw: 1.7636719
-  pitch: 7.9498653
+  x: 271.30000001192093
+  y: 11.414430669677753
+  z: 109.69999998807904
+  yaw: 36.15309
+  pitch: 52.199978
 logoutlocation:
   world: Library_Aztlan
   x: -626.7950852240482
@@ -17,4 +17,4 @@ logoutlocation:
   z: 590.9011342190861
   yaw: 358.05045
   pitch: 34.199986
-afk: false
+afk: true

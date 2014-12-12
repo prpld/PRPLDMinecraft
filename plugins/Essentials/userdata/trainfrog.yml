@@ -1,22 +1,23 @@
 timestamps:
-  login: 1417037052056
-  logout: 1417039531949
-  lastteleport: 1417039090351
-ipAddress: 192.168.1.18
+  login: 1418255828865
+  logout: 1418255985535
+  lastteleport: 1418255854150
+  mute: 0
+ipAddress: 192.168.1.110
 logoutlocation:
-  world: Library_1st_2nd
-  x: -305.5669035020724
-  y: 4.0
-  z: -1177.7465986047828
-  yaw: 159.00783
-  pitch: 28.799896
+  world: Library_Aztlan
+  x: 6007.9134906223335
+  y: 4.987213905371329
+  z: 5970.817127591025
+  yaw: -160.4392
+  pitch: 69.60002
 lastlocation:
-  world: Library_1st_2nd
-  x: -328.837702879668
-  y: 10.113527980459702
-  z: -1185.5648890274751
-  yaw: -231.78894
-  pitch: 17.440008
+  world: Library_Aztlan
+  x: 5927.962517686172
+  y: 4.700000017881393
+  z: 5915.398120272732
+  yaw: 236.05658
+  pitch: 22.7999
 powertools:
   '279':
   - lightning
@@ -28,3 +29,5 @@ powertools:
   - lightning
 ban:
   timeout: 0
+nickname: obama
+muted: false
