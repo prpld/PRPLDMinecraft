@@ -1,19 +1,20 @@
 timestamps:
-  login: 1416088558790
-  logout: 1416092804210
-  lastteleport: 1416092332308
-ipAddress: 192.168.1.16
+  login: 1418683648684
+  logout: 1418689183121
+  lastteleport: 1418688302669
+ipAddress: 192.168.1.207
 logoutlocation:
-  world: world
-  x: -109.6743385483302
-  y: 64.0
-  z: 287.6968966988118
-  yaw: -93.576904
-  pitch: 12.900005
+  world: Library_3rd_5th
+  x: -200.46756956745745
+  y: 85.0
+  z: -411.0248833718951
+  yaw: -259.35736
+  pitch: 53.549942
 lastlocation:
-  world: world
-  x: -87.23080088651575
-  y: 56.0
-  z: 512.5745163152001
-  yaw: 127.841446
-  pitch: 67.50001
+  world: Library_3rd_5th
+  x: -200.706023063045
+  y: 64.0
+  z: -409.4381481389062
+  yaw: 99.89136
+  pitch: 55.35
+nickname: Funny

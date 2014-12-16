@@ -1,20 +1,20 @@
 timestamps:
-  login: 1416085718275
-  logout: 1416092921710
-  lastteleport: 1416092785911
-ipAddress: 192.168.1.22
+  login: 1418684234799
+  logout: 1418689489638
+  lastteleport: 1418689536547
+ipAddress: 192.168.1.9
 logoutlocation:
-  world: world
-  x: 9.5
-  y: 71.0
-  z: 254.5
-  yaw: -112.60806
-  pitch: 35.399982
+  world: Library_3rd_5th
+  x: 165.5
+  y: 75.0
+  z: 102.5
+  yaw: 234.15063
+  pitch: 45.750122
 lastlocation:
-  world: world_the_end
-  x: 88.5
-  y: 49.0
-  z: -2.5
-  yaw: 276.4475
-  pitch: 4.199939
-nickname: SpongeBob
+  world: Library_3rd_5th
+  x: 165.5
+  y: 75.0
+  z: 102.5
+  yaw: 234.15063
+  pitch: 45.750122
+nickname: SpongeBlock
