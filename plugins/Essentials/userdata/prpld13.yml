@@ -1,8 +1,8 @@
 timestamps:
-  login: 1417650377587
+  login: 1418683904908
   lastteleport: 1417653227919
-  logout: 1417653286660
-ipAddress: 192.168.1.63
+  logout: 1418689489638
+ipAddress: 192.168.1.210
 lastlocation:
   world: Library_6th_12th
   x: 187.68167094528292
@@ -11,9 +11,9 @@ lastlocation:
   yaw: -49.04441
   pitch: 4.19986
 logoutlocation:
-  world: Library_6th_12th
-  x: 80.99865889086686
-  y: 84.0
-  z: 267.38402022789774
-  yaw: 211.05424
-  pitch: -79.350044
+  world: Library_3rd_5th
+  x: -135.03981533905747
+  y: 65.0
+  z: 295.5881570464868
+  yaw: -262.5077
+  pitch: 22.650007

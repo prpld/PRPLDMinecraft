@@ -1,24 +1,23 @@
 timestamps:
-  login: 1418251938586
-  logout: 1418256183035
-  lastteleport: 1418254466645
-ipAddress: 192.168.1.109
+  login: 1418687156369
+  logout: 1418689489638
+  lastteleport: 1418689401122
+ipAddress: 192.168.1.161
 logoutlocation:
-  world: Library_Aztlan
-  x: 6004.873462799484
-  y: 4.0
-  z: 5955.831903853135
-  yaw: 355.60406
-  pitch: -12.150017
+  world: Library_3rd_5th
+  x: 167.29458023354653
+  y: 75.0
+  z: 104.54661529899529
+  yaw: 251.54895
+  pitch: 28.050152
 lastlocation:
-  world: Library_Aztlan
-  x: 5999.699999988079
-  y: 24.225769190867172
-  z: 5999.405956249278
-  yaw: 272.5044
-  pitch: 51.15006
+  world: Library_3rd_5th
+  x: -64.88617454118119
+  y: 94.59190488958347
+  z: -501.1044572085074
+  yaw: -127.20805
+  pitch: 27.00003
 afk: false
-nickname: MelonLord
 powertools:
   '351':
   - lightning
