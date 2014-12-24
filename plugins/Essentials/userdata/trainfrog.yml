@@ -1,33 +1,31 @@
 timestamps:
-  login: 1418683601846
-  logout: 1418683512762
+  login: 1419368145536
+  logout: 1419375472485
   lastteleport: 1418255854150
   mute: 0
-ipAddress: 192.168.1.161
+ipAddress: 192.168.1.249
 logoutlocation:
-  world: Library_3rd_5th
-  x: -36.71133198623653
-  y: 101.0
-  z: 265.3714839476777
-  yaw: -44.69989
-  pitch: 6.7500253
+  world: Library_Aztlan
+  x: 5890.378000871785
+  y: 15.113049315863455
+  z: 6342.66983447439
+  yaw: 328.44922
+  pitch: 46.350014
 lastlocation:
   world: Library_Aztlan
-  x: 5927.962517686172
-  y: 4.700000017881393
-  z: 5915.398120272732
-  yaw: 236.05658
-  pitch: 22.7999
+  x: 6003.588186440172
+  y: 4.0
+  z: 5994.656234174125
+  yaw: -2.8953857
+  pitch: 21.449955
 powertools:
   '279':
   - lightning
-  '272':
-  - lightning
-  '276':
-  - lightning
   '257':
   - lightning
+  '276':
+  - kittycannon
 ban:
   timeout: 0
-nickname: obama
+nickname: PoopLoser69
 muted: false

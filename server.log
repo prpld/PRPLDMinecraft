@@ -46409,3 +46409,2488 @@ org.bukkit.plugin.UnknownDependencyException: Multiverse-Core
 2014-12-15 18:53:51 [WARNING] Could not get latest artifact information: UnknownHostException
 2014-12-15 18:53:57 [INFO] [Metrics] mcstats.org
 2014-12-15 19:03:57 [INFO] [Metrics] mcstats.org
+2014-12-15 19:13:57 [INFO] [Metrics] mcstats.org
+2014-12-15 19:23:57 [INFO] [Metrics] mcstats.org
+2014-12-15 19:33:57 [INFO] [Metrics] mcstats.org
+2014-12-15 19:43:57 [INFO] [Metrics] mcstats.org
+2014-12-15 19:53:57 [INFO] [Metrics] mcstats.org
+2014-12-15 20:03:57 [INFO] [Metrics] mcstats.org
+2014-12-15 20:13:57 [INFO] [Metrics] mcstats.org
+2014-12-15 20:23:57 [INFO] [Metrics] mcstats.org
+2014-12-15 20:33:57 [INFO] [Metrics] mcstats.org
+2014-12-15 20:43:57 [INFO] [Metrics] mcstats.org
+2014-12-15 20:53:57 [INFO] [Metrics] mcstats.org
+2014-12-15 21:03:57 [INFO] [Metrics] mcstats.org
+2014-12-15 21:13:57 [INFO] [Metrics] mcstats.org
+2014-12-15 21:23:57 [INFO] [Metrics] mcstats.org
+2014-12-15 21:33:57 [INFO] [Metrics] mcstats.org
+2014-12-15 21:43:57 [INFO] [Metrics] mcstats.org
+2014-12-15 21:53:57 [INFO] [Metrics] mcstats.org
+2014-12-15 22:03:57 [INFO] [Metrics] mcstats.org
+2014-12-15 22:13:57 [INFO] [Metrics] mcstats.org
+2014-12-15 22:23:57 [INFO] [Metrics] mcstats.org
+2014-12-15 22:33:57 [INFO] [Metrics] mcstats.org
+2014-12-15 22:43:57 [INFO] [Metrics] mcstats.org
+2014-12-15 22:53:57 [INFO] [Metrics] mcstats.org
+2014-12-15 23:03:57 [INFO] [Metrics] mcstats.org
+2014-12-15 23:13:57 [INFO] [Metrics] mcstats.org
+2014-12-15 23:23:57 [INFO] [Metrics] mcstats.org
+2014-12-15 23:33:57 [INFO] [Metrics] mcstats.org
+2014-12-15 23:43:57 [INFO] [Metrics] mcstats.org
+2014-12-15 23:53:57 [INFO] [Metrics] mcstats.org
+2014-12-16 00:03:57 [INFO] [Metrics] mcstats.org
+2014-12-16 00:13:57 [INFO] [Metrics] mcstats.org
+2014-12-16 00:23:57 [INFO] [Metrics] mcstats.org
+2014-12-16 00:33:57 [INFO] [Metrics] mcstats.org
+2014-12-16 00:43:57 [INFO] [Metrics] mcstats.org
+2014-12-16 00:53:57 [INFO] [Metrics] mcstats.org
+2014-12-16 01:03:57 [INFO] [Metrics] mcstats.org
+2014-12-16 01:13:57 [INFO] [Metrics] mcstats.org
+2014-12-16 01:23:57 [INFO] [Metrics] mcstats.org
+2014-12-16 01:33:57 [INFO] [Metrics] mcstats.org
+2014-12-16 01:43:57 [INFO] [Metrics] mcstats.org
+2014-12-16 01:53:57 [INFO] [Metrics] mcstats.org
+2014-12-16 02:03:57 [INFO] [Metrics] mcstats.org
+2014-12-16 02:13:57 [INFO] [Metrics] mcstats.org
+2014-12-16 02:23:57 [INFO] [Metrics] mcstats.org
+2014-12-16 02:33:57 [INFO] [Metrics] mcstats.org
+2014-12-16 02:43:57 [INFO] [Metrics] mcstats.org
+2014-12-16 02:53:57 [INFO] [Metrics] mcstats.org
+2014-12-16 03:03:57 [INFO] [Metrics] mcstats.org
+2014-12-16 03:13:57 [INFO] [Metrics] mcstats.org
+2014-12-16 03:23:57 [INFO] [Metrics] mcstats.org
+2014-12-16 03:33:57 [INFO] [Metrics] mcstats.org
+2014-12-16 03:43:57 [INFO] [Metrics] mcstats.org
+2014-12-16 03:53:57 [INFO] [Metrics] mcstats.org
+2014-12-16 04:03:57 [INFO] [Metrics] mcstats.org
+2014-12-16 04:13:57 [INFO] [Metrics] mcstats.org
+2014-12-16 04:23:57 [INFO] [Metrics] mcstats.org
+2014-12-16 04:33:57 [INFO] [Metrics] mcstats.org
+2014-12-16 04:43:57 [INFO] [Metrics] mcstats.org
+2014-12-16 04:53:57 [INFO] [Metrics] mcstats.org
+2014-12-16 05:03:57 [INFO] [Metrics] mcstats.org
+2014-12-16 05:13:57 [INFO] [Metrics] mcstats.org
+2014-12-16 05:23:57 [INFO] [Metrics] mcstats.org
+2014-12-16 05:33:57 [INFO] [Metrics] mcstats.org
+2014-12-16 05:43:57 [INFO] [Metrics] mcstats.org
+2014-12-16 05:53:57 [INFO] [Metrics] mcstats.org
+2014-12-16 06:03:57 [INFO] [Metrics] mcstats.org
+2014-12-16 06:13:57 [INFO] [Metrics] mcstats.org
+2014-12-16 06:23:57 [INFO] [Metrics] mcstats.org
+2014-12-16 06:33:57 [INFO] [Metrics] mcstats.org
+2014-12-16 06:43:57 [INFO] [Metrics] mcstats.org
+2014-12-16 06:53:57 [INFO] [Metrics] mcstats.org
+2014-12-16 07:03:57 [INFO] [Metrics] mcstats.org
+2014-12-16 07:13:57 [INFO] [Metrics] mcstats.org
+2014-12-16 07:23:57 [INFO] [Metrics] mcstats.org
+2014-12-16 07:33:57 [INFO] [Metrics] mcstats.org
+2014-12-16 07:43:57 [INFO] [Metrics] mcstats.org
+2014-12-16 07:53:57 [INFO] [Metrics] mcstats.org
+2014-12-16 08:03:57 [INFO] [Metrics] mcstats.org
+2014-12-16 08:13:57 [INFO] [Metrics] mcstats.org
+2014-12-16 08:23:57 [INFO] [Metrics] mcstats.org
+2014-12-16 08:33:57 [INFO] [Metrics] mcstats.org
+2014-12-16 08:43:57 [INFO] [Metrics] mcstats.org
+2014-12-16 08:53:57 [INFO] [Metrics] mcstats.org
+2014-12-16 09:03:57 [INFO] [Metrics] mcstats.org
+2014-12-16 09:13:57 [INFO] [Metrics] mcstats.org
+2014-12-16 09:23:57 [INFO] [Metrics] mcstats.org
+2014-12-16 09:33:57 [INFO] [Metrics] mcstats.org
+2014-12-16 09:43:57 [INFO] [Metrics] mcstats.org
+2014-12-16 09:53:57 [INFO] [Metrics] mcstats.org
+2014-12-16 10:03:57 [INFO] [Metrics] mcstats.org
+2014-12-16 10:13:57 [INFO] [Metrics] mcstats.org
+2014-12-16 10:23:57 [INFO] [Metrics] mcstats.org
+2014-12-16 10:33:57 [INFO] [Metrics] mcstats.org
+2014-12-16 10:43:57 [INFO] [Metrics] mcstats.org
+2014-12-16 10:53:57 [INFO] [Metrics] mcstats.org
+2014-12-16 11:03:57 [INFO] [Metrics] mcstats.org
+2014-12-16 11:13:57 [INFO] [Metrics] mcstats.org
+2014-12-16 11:23:57 [INFO] [Metrics] mcstats.org
+2014-12-16 11:33:57 [INFO] [Metrics] mcstats.org
+2014-12-16 11:43:57 [INFO] [Metrics] mcstats.org
+2014-12-16 11:53:57 [INFO] [Metrics] mcstats.org
+2014-12-16 12:03:57 [INFO] [Metrics] mcstats.org
+2014-12-16 12:13:57 [INFO] [Metrics] mcstats.org
+2014-12-16 12:23:57 [INFO] [Metrics] mcstats.org
+2014-12-16 12:33:57 [INFO] [Metrics] mcstats.org
+2014-12-16 12:43:57 [INFO] [Metrics] mcstats.org
+2014-12-16 12:53:57 [INFO] [Metrics] mcstats.org
+2014-12-16 13:03:57 [INFO] [Metrics] mcstats.org
+2014-12-16 13:13:57 [INFO] [Metrics] mcstats.org
+2014-12-16 13:23:57 [INFO] [Metrics] mcstats.org
+2014-12-16 13:33:57 [INFO] [Metrics] mcstats.org
+2014-12-16 13:43:57 [INFO] [Metrics] mcstats.org
+2014-12-16 13:53:57 [INFO] [Metrics] mcstats.org
+2014-12-16 14:03:57 [INFO] [Metrics] mcstats.org
+2014-12-16 14:13:57 [INFO] [Metrics] mcstats.org
+2014-12-16 14:23:57 [INFO] [Metrics] mcstats.org
+2014-12-16 14:33:57 [INFO] [Metrics] mcstats.org
+2014-12-16 14:43:57 [INFO] [Metrics] mcstats.org
+2014-12-16 14:53:57 [INFO] [Metrics] mcstats.org
+2014-12-16 15:03:57 [INFO] [Metrics] mcstats.org
+2014-12-16 15:13:57 [INFO] [Metrics] mcstats.org
+2014-12-16 15:23:57 [INFO] [Metrics] mcstats.org
+2014-12-16 15:33:57 [INFO] [Metrics] mcstats.org
+2014-12-16 15:43:57 [INFO] [Metrics] mcstats.org
+2014-12-16 15:53:57 [INFO] [Metrics] mcstats.org
+2014-12-16 16:03:57 [INFO] [Metrics] mcstats.org
+2014-12-16 16:13:57 [INFO] [Metrics] mcstats.org
+2014-12-16 16:23:57 [INFO] [Metrics] mcstats.org
+2014-12-16 16:33:57 [INFO] [Metrics] mcstats.org
+2014-12-16 16:43:57 [INFO] [Metrics] mcstats.org
+2014-12-16 16:53:57 [INFO] [Metrics] mcstats.org
+2014-12-16 17:03:57 [INFO] [Metrics] mcstats.org
+2014-12-16 17:13:57 [INFO] [Metrics] mcstats.org
+2014-12-16 17:23:57 [INFO] [Metrics] mcstats.org
+2014-12-16 17:33:57 [INFO] [Metrics] mcstats.org
+2014-12-16 17:43:57 [INFO] [Metrics] mcstats.org
+2014-12-16 17:53:57 [INFO] [Metrics] mcstats.org
+2014-12-16 18:03:57 [INFO] [Metrics] mcstats.org
+2014-12-16 18:13:57 [INFO] [Metrics] mcstats.org
+2014-12-16 18:23:57 [INFO] [Metrics] mcstats.org
+2014-12-16 18:33:57 [INFO] [Metrics] mcstats.org
+2014-12-16 18:43:57 [INFO] [Metrics] mcstats.org
+2014-12-16 18:53:57 [INFO] [Metrics] mcstats.org
+2014-12-16 19:03:57 [INFO] [Metrics] mcstats.org
+2014-12-16 19:13:57 [INFO] [Metrics] mcstats.org
+2014-12-16 19:23:57 [INFO] [Metrics] mcstats.org
+2014-12-16 19:33:57 [INFO] [Metrics] mcstats.org
+2014-12-16 19:43:57 [INFO] [Metrics] mcstats.org
+2014-12-16 19:53:57 [INFO] [Metrics] mcstats.org
+2014-12-16 20:03:57 [INFO] [Metrics] mcstats.org
+2014-12-16 20:13:57 [INFO] [Metrics] mcstats.org
+2014-12-16 20:23:57 [INFO] [Metrics] mcstats.org
+2014-12-16 20:33:57 [INFO] [Metrics] mcstats.org
+2014-12-16 20:43:57 [INFO] [Metrics] mcstats.org
+2014-12-16 20:53:57 [INFO] [Metrics] mcstats.org
+2014-12-16 21:03:57 [INFO] [Metrics] mcstats.org
+2014-12-16 21:13:57 [INFO] [Metrics] mcstats.org
+2014-12-16 21:23:57 [INFO] [Metrics] mcstats.org
+2014-12-16 21:33:57 [INFO] [Metrics] mcstats.org
+2014-12-16 21:43:57 [INFO] [Metrics] mcstats.org
+2014-12-16 21:53:57 [INFO] [Metrics] mcstats.org
+2014-12-16 22:03:57 [INFO] [Metrics] mcstats.org
+2014-12-16 22:13:57 [INFO] [Metrics] mcstats.org
+2014-12-16 22:23:57 [INFO] [Metrics] mcstats.org
+2014-12-16 22:33:57 [INFO] [Metrics] mcstats.org
+2014-12-16 22:43:57 [INFO] [Metrics] mcstats.org
+2014-12-16 22:53:57 [INFO] [Metrics] mcstats.org
+2014-12-16 23:03:57 [INFO] [Metrics] mcstats.org
+2014-12-16 23:13:57 [INFO] [Metrics] mcstats.org
+2014-12-16 23:23:57 [INFO] [Metrics] mcstats.org
+2014-12-16 23:33:57 [INFO] [Metrics] mcstats.org
+2014-12-16 23:43:57 [INFO] [Metrics] mcstats.org
+2014-12-16 23:53:57 [INFO] [Metrics] mcstats.org
+2014-12-17 00:03:57 [INFO] [Metrics] mcstats.org
+2014-12-17 00:13:57 [INFO] [Metrics] mcstats.org
+2014-12-17 00:23:57 [INFO] [Metrics] mcstats.org
+2014-12-17 00:33:57 [INFO] [Metrics] mcstats.org
+2014-12-17 00:43:57 [INFO] [Metrics] mcstats.org
+2014-12-17 00:53:57 [INFO] [Metrics] mcstats.org
+2014-12-17 01:03:57 [INFO] [Metrics] mcstats.org
+2014-12-17 01:13:57 [INFO] [Metrics] mcstats.org
+2014-12-17 01:23:57 [INFO] [Metrics] mcstats.org
+2014-12-17 01:33:57 [INFO] [Metrics] mcstats.org
+2014-12-17 01:43:57 [INFO] [Metrics] mcstats.org
+2014-12-17 01:53:57 [INFO] [Metrics] mcstats.org
+2014-12-17 02:03:57 [INFO] [Metrics] mcstats.org
+2014-12-17 02:13:57 [INFO] [Metrics] mcstats.org
+2014-12-17 02:23:57 [INFO] [Metrics] mcstats.org
+2014-12-17 02:33:57 [INFO] [Metrics] mcstats.org
+2014-12-17 02:43:57 [INFO] [Metrics] mcstats.org
+2014-12-17 02:53:57 [INFO] [Metrics] mcstats.org
+2014-12-17 03:03:57 [INFO] [Metrics] mcstats.org
+2014-12-17 03:13:57 [INFO] [Metrics] mcstats.org
+2014-12-17 03:23:57 [INFO] [Metrics] mcstats.org
+2014-12-17 03:33:57 [INFO] [Metrics] mcstats.org
+2014-12-17 03:43:57 [INFO] [Metrics] mcstats.org
+2014-12-17 03:53:57 [INFO] [Metrics] mcstats.org
+2014-12-17 04:03:57 [INFO] [Metrics] mcstats.org
+2014-12-17 04:13:57 [INFO] [Metrics] mcstats.org
+2014-12-17 04:23:57 [INFO] [Metrics] mcstats.org
+2014-12-17 04:33:57 [INFO] [Metrics] mcstats.org
+2014-12-17 04:43:57 [INFO] [Metrics] mcstats.org
+2014-12-17 04:53:57 [INFO] [Metrics] mcstats.org
+2014-12-17 05:03:57 [INFO] [Metrics] mcstats.org
+2014-12-17 05:13:57 [INFO] [Metrics] mcstats.org
+2014-12-17 05:23:57 [INFO] [Metrics] mcstats.org
+2014-12-17 05:33:57 [INFO] [Metrics] mcstats.org
+2014-12-17 05:43:57 [INFO] [Metrics] mcstats.org
+2014-12-17 05:53:57 [INFO] [Metrics] mcstats.org
+2014-12-17 06:03:57 [INFO] [Metrics] mcstats.org
+2014-12-17 06:13:57 [INFO] [Metrics] mcstats.org
+2014-12-17 06:23:57 [INFO] [Metrics] mcstats.org
+2014-12-17 06:33:57 [INFO] [Metrics] mcstats.org
+2014-12-17 06:43:57 [INFO] [Metrics] mcstats.org
+2014-12-17 06:53:57 [INFO] [Metrics] mcstats.org
+2014-12-17 07:03:57 [INFO] [Metrics] mcstats.org
+2014-12-17 07:13:57 [INFO] [Metrics] mcstats.org
+2014-12-17 07:23:57 [INFO] [Metrics] mcstats.org
+2014-12-17 07:33:57 [INFO] [Metrics] mcstats.org
+2014-12-17 07:43:57 [INFO] [Metrics] mcstats.org
+2014-12-17 07:53:57 [INFO] [Metrics] mcstats.org
+2014-12-17 08:03:57 [INFO] [Metrics] mcstats.org
+2014-12-17 08:13:57 [INFO] [Metrics] mcstats.org
+2014-12-17 08:23:57 [INFO] [Metrics] mcstats.org
+2014-12-17 08:33:57 [INFO] [Metrics] mcstats.org
+2014-12-17 08:43:57 [INFO] [Metrics] mcstats.org
+2014-12-17 08:53:57 [INFO] [Metrics] mcstats.org
+2014-12-17 09:03:57 [INFO] [Metrics] mcstats.org
+2014-12-17 09:13:57 [INFO] [Metrics] mcstats.org
+2014-12-17 09:23:57 [INFO] [Metrics] mcstats.org
+2014-12-17 09:33:57 [INFO] [Metrics] mcstats.org
+2014-12-17 09:43:57 [INFO] [Metrics] mcstats.org
+2014-12-17 09:53:57 [INFO] [Metrics] mcstats.org
+2014-12-17 10:03:57 [INFO] [Metrics] mcstats.org
+2014-12-17 10:13:57 [INFO] [Metrics] mcstats.org
+2014-12-17 10:23:57 [INFO] [Metrics] mcstats.org
+2014-12-17 10:33:57 [INFO] [Metrics] mcstats.org
+2014-12-17 10:43:57 [INFO] [Metrics] mcstats.org
+2014-12-17 10:53:57 [INFO] [Metrics] mcstats.org
+2014-12-17 11:03:57 [INFO] [Metrics] mcstats.org
+2014-12-17 11:13:57 [INFO] [Metrics] mcstats.org
+2014-12-17 11:23:57 [INFO] [Metrics] mcstats.org
+2014-12-17 11:33:57 [INFO] [Metrics] mcstats.org
+2014-12-17 11:43:57 [INFO] [Metrics] mcstats.org
+2014-12-17 11:53:57 [INFO] [Metrics] mcstats.org
+2014-12-17 12:03:57 [INFO] [Metrics] mcstats.org
+2014-12-17 12:13:57 [INFO] [Metrics] mcstats.org
+2014-12-17 12:23:57 [INFO] [Metrics] mcstats.org
+2014-12-17 12:33:57 [INFO] [Metrics] mcstats.org
+2014-12-17 12:43:57 [INFO] [Metrics] mcstats.org
+2014-12-17 12:53:57 [INFO] [Metrics] mcstats.org
+2014-12-17 13:03:57 [INFO] [Metrics] mcstats.org
+2014-12-17 13:13:57 [INFO] [Metrics] mcstats.org
+2014-12-17 13:23:57 [INFO] [Metrics] mcstats.org
+2014-12-17 13:33:57 [INFO] [Metrics] mcstats.org
+2014-12-17 13:43:57 [INFO] [Metrics] mcstats.org
+2014-12-17 13:53:57 [INFO] [Metrics] mcstats.org
+2014-12-17 14:03:57 [INFO] [Metrics] mcstats.org
+2014-12-17 14:13:57 [INFO] [Metrics] mcstats.org
+2014-12-17 14:23:57 [INFO] [Metrics] mcstats.org
+2014-12-17 14:33:57 [INFO] [Metrics] mcstats.org
+2014-12-17 14:43:57 [INFO] [Metrics] mcstats.org
+2014-12-17 14:53:57 [INFO] [Metrics] mcstats.org
+2014-12-17 15:03:57 [INFO] [Metrics] mcstats.org
+2014-12-17 15:13:57 [INFO] [Metrics] mcstats.org
+2014-12-17 15:23:57 [INFO] [Metrics] mcstats.org
+2014-12-17 15:33:57 [INFO] [Metrics] mcstats.org
+2014-12-17 15:43:57 [INFO] [Metrics] mcstats.org
+2014-12-17 15:53:57 [INFO] [Metrics] mcstats.org
+2014-12-17 16:03:57 [INFO] [Metrics] mcstats.org
+2014-12-17 16:13:57 [INFO] [Metrics] mcstats.org
+2014-12-17 16:23:57 [INFO] [Metrics] mcstats.org
+2014-12-17 16:33:57 [INFO] [Metrics] mcstats.org
+2014-12-17 16:43:57 [INFO] [Metrics] mcstats.org
+2014-12-17 16:53:57 [INFO] [Metrics] mcstats.org
+2014-12-17 17:03:57 [INFO] [Metrics] mcstats.org
+2014-12-17 17:13:57 [INFO] [Metrics] mcstats.org
+2014-12-17 17:23:57 [INFO] [Metrics] mcstats.org
+2014-12-17 17:33:57 [INFO] [Metrics] mcstats.org
+2014-12-23 13:53:15 [INFO] Starting minecraft server version 1.6.4
+2014-12-23 13:53:15 [INFO] Loading properties
+2014-12-23 13:53:15 [INFO] Default game type: SURVIVAL
+2014-12-23 13:53:15 [INFO] Generating keypair
+2014-12-23 13:53:16 [INFO] Starting Minecraft server on *:25565
+2014-12-23 13:53:16 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-12-23 13:53:17 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-12-23 13:53:17 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2014-12-23 13:53:17 [INFO] [Essentials] Loading Essentials v2.12.1
+2014-12-23 13:53:17 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v2.0
+2014-12-23 13:53:17 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.1
+2014-12-23 13:53:17 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.1
+2014-12-23 13:53:17 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-12-23 13:53:17 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-12-23 13:53:17 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-12-23 13:53:17 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-12-23 13:53:17 [INFO] Preparing level "Library_3rd_5th"
+2014-12-23 13:53:18 [INFO] Preparing start region for level 0 (Seed: -2223397492249718441)
+2014-12-23 13:53:19 [INFO] Preparing spawn area: 36%
+2014-12-23 13:53:19 [INFO] Preparing start region for level 1 (Seed: -2223397492249718441)
+2014-12-23 13:53:20 [INFO] Preparing start region for level 2 (Seed: -2223397492249718441)
+2014-12-23 13:53:20 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-12-23 13:53:20 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-12-23 13:53:21 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2014-12-23 13:53:21 [INFO] GriefPrevention: Grief Prevention enabled.
+2014-12-23 13:53:21 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_Hub".  Please update your config.yml.
+2014-12-23 13:53:21 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd".  Please update your config.yml.
+2014-12-23 13:53:21 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd_nether".  Please update your config.yml.
+2014-12-23 13:53:21 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd_the_end".  Please update your config.yml.
+2014-12-23 13:53:21 [INFO] GriefPrevention: Warning: PvP Configuration: There's no world named "Library_Hub".  Please update your config.yml.
+2014-12-23 13:53:21 [INFO] GriefPrevention: 0 total claims loaded.
+2014-12-23 13:53:21 [INFO] GriefPrevention: 0 players have staked claims.
+2014-12-23 13:53:22 [INFO] [Essentials] Enabling Essentials v2.12.1
+2014-12-23 13:53:22 [INFO] Bukkit version format changed. Version not checked.
+2014-12-23 13:53:22 [INFO] git-Bukkit-1.6.4-R1.0 (MC: 1.6.4)
+2014-12-23 13:53:22 [INFO] 1.6.4-R1.0
+2014-12-23 13:53:23 [INFO] Essentials: Using config file enhanced permissions.
+2014-12-23 13:53:23 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-12-23 13:53:23 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v2.0
+2014-12-23 13:53:23 [INFO] [PermissionsBukkit] Enabled successfully
+2014-12-23 13:53:23 [INFO] Essentials: Using PermissionsBukkit based permissions.
+2014-12-23 13:53:23 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.1
+2014-12-23 13:53:23 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.1
+2014-12-23 13:53:23 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-12-23 13:53:23 [INFO] Done (5.701s)! For help, type "help" or "?"
+2014-12-23 13:53:48 [INFO] roboashy[/192.168.1.21:49160] logged in with entity id 163 at ([Library_3rd_5th] -102.71598927052337, 87.0, -450.05585046902075)
+2014-12-23 13:53:57 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: UnknownHostException
+2014-12-23 13:53:57 [WARNING] Could not get latest artifact information: UnknownHostException
+2014-12-23 13:54:03 [INFO] [Metrics] mcstats.org
+2014-12-23 13:54:11 [INFO] Connection reset
+2014-12-23 13:54:11 [INFO] roboashy lost connection: disconnect.genericReason
+2014-12-23 13:54:11 [INFO] ?eroboashy left the game.
+2014-12-23 13:54:42 [INFO] trainfrog[/192.168.1.249:49310] logged in with entity id 597 at ([Library_3rd_5th] -36.71133198623653, 101.0, 265.3714839476777)
+2014-12-23 13:55:00 [INFO] trainfrog issued server command: /me care works!
+2014-12-23 13:55:07 [INFO] Killerbean0[/192.168.1.248:49308] logged in with entity id 2004 at ([Library_3rd_5th] 167.29458023354653, 75.0, 104.54661529899529)
+2014-12-23 13:55:09 [INFO] trainfrog issued server command: /me care works!
+2014-12-23 13:55:12 [INFO] [WorldEdit] Using inbuilt NmsBlock for this version.
+2014-12-23 13:55:20 [INFO] Killerbean0 lost connection: disconnect.quitting
+2014-12-23 13:55:20 [INFO] Connection reset
+2014-12-23 13:55:20 [INFO] ?eKillerbean0 left the game.
+2014-12-23 13:55:20 [INFO] Stopping server
+2014-12-23 13:55:20 [INFO] [EssentialsSpawn] Disabling EssentialsSpawn v2.12.1
+2014-12-23 13:55:22 [INFO] Starting minecraft server version 1.6.4
+2014-12-23 13:55:22 [INFO] Loading properties
+2014-12-23 13:55:22 [INFO] Default game type: SURVIVAL
+2014-12-23 13:55:22 [INFO] Generating keypair
+2014-12-23 13:55:23 [INFO] Starting Minecraft server on *:25565
+2014-12-23 13:55:23 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-12-23 13:55:24 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-12-23 13:55:24 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2014-12-23 13:55:24 [INFO] [Essentials] Loading Essentials v2.12.1
+2014-12-23 13:55:24 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v2.0
+2014-12-23 13:55:24 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.1
+2014-12-23 13:55:24 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.1
+2014-12-23 13:55:24 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-12-23 13:55:24 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-12-23 13:55:24 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-12-23 13:55:24 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-12-23 13:55:24 [INFO] Preparing level "Library_Aztlan"
+2014-12-23 13:55:24 [INFO] Preparing start region for level 0 (Seed: 8163330286958787011)
+2014-12-23 13:55:25 [INFO] Preparing spawn area: 40%
+2014-12-23 13:55:26 [INFO] Preparing start region for level 1 (Seed: 8163330286958787011)
+2014-12-23 13:55:26 [INFO] Preparing start region for level 2 (Seed: 8163330286958787011)
+2014-12-23 13:55:27 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-12-23 13:55:27 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-12-23 13:55:27 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2014-12-23 13:55:27 [INFO] GriefPrevention: Grief Prevention enabled.
+2014-12-23 13:55:27 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_Hub".  Please update your config.yml.
+2014-12-23 13:55:27 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd".  Please update your config.yml.
+2014-12-23 13:55:27 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd_nether".  Please update your config.yml.
+2014-12-23 13:55:27 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd_the_end".  Please update your config.yml.
+2014-12-23 13:55:27 [INFO] GriefPrevention: Warning: PvP Configuration: There's no world named "Library_Hub".  Please update your config.yml.
+2014-12-23 13:55:27 [INFO] GriefPrevention: 0 total claims loaded.
+2014-12-23 13:55:27 [INFO] GriefPrevention: 0 players have staked claims.
+2014-12-23 13:55:28 [INFO] [Essentials] Enabling Essentials v2.12.1
+2014-12-23 13:55:28 [INFO] Bukkit version format changed. Version not checked.
+2014-12-23 13:55:28 [INFO] git-Bukkit-1.6.4-R1.0 (MC: 1.6.4)
+2014-12-23 13:55:28 [INFO] 1.6.4-R1.0
+2014-12-23 13:55:29 [INFO] Essentials: Using config file enhanced permissions.
+2014-12-23 13:55:29 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-12-23 13:55:29 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v2.0
+2014-12-23 13:55:29 [INFO] [PermissionsBukkit] Enabled successfully
+2014-12-23 13:55:29 [INFO] Essentials: Using PermissionsBukkit based permissions.
+2014-12-23 13:55:29 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.1
+2014-12-23 13:55:29 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.1
+2014-12-23 13:55:29 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-12-23 13:55:29 [INFO] Done (5.273s)! For help, type "help" or "?"
+2014-12-23 13:55:42 [INFO] Killerbean0[/192.168.1.248:49310] logged in with entity id 78 at ([Library_Aztlan] 6004.873462799484, 4.0, 5955.831903853135)
+2014-12-23 13:55:45 [INFO] trainfrog[/192.168.1.249:49313] logged in with entity id 646 at ([Library_Aztlan] 6008.6515038839425, 4.0, 6027.234013609373)
+2014-12-23 13:55:46 [INFO] ODDBALL8000[/192.168.1.20:49882] logged in with entity id 910 at ([Library_Aztlan] 5993.5, 14.0, 5990.5)
+2014-12-23 13:55:51 [INFO] [WorldEdit] Using inbuilt NmsBlock for this version.
+2014-12-23 13:55:53 [INFO] trainfrog issued server command: /nick obamacare
+2014-12-23 13:55:57 [INFO] Killerbean0 issued server command: /op ODDBALL8000
+2014-12-23 13:55:57 [INFO] Killerbean0: Opped ODDBALL8000[m
+2014-12-23 13:55:57 [INFO] trainfrog issued server command: /me works!
+2014-12-23 13:56:03 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: UnknownHostException
+2014-12-23 13:56:03 [WARNING] Could not get latest artifact information: UnknownHostException
+2014-12-23 13:56:06 [INFO] ODDBALL8000 issued server command: /gm creative
+2014-12-23 13:56:09 [INFO] [Metrics] mcstats.org
+2014-12-23 13:56:15 [INFO] [PT] trainfrog issued server command: /lightning
+2014-12-23 13:56:21 [INFO] [PT] trainfrog issued server command: /lightning
+2014-12-23 13:56:26 [INFO] Killerbean0 issued server command: /difficulty peaceful
+2014-12-23 13:56:26 [INFO] Killerbean0: Set difficulty to PEACEFUL[m
+2014-12-23 13:56:27 [INFO] [PT] trainfrog issued server command: /lightning
+2014-12-23 13:56:27 [INFO] [PT] trainfrog issued server command: /lightning
+2014-12-23 13:56:31 [INFO] [PT] trainfrog issued server command: /lightning
+2014-12-23 13:56:38 [INFO] [PT] trainfrog issued server command: /lightning
+2014-12-23 13:56:41 [INFO] trainfrog issued server command: /v
+2014-12-23 13:56:53 [INFO] trainfrog issued server command: /powertool
+2014-12-23 13:56:56 [INFO] Killerbean0 issued server command: /nuke
+2014-12-23 13:57:11 [INFO] trainfrog issued server command: /powertool lightning
+2014-12-23 13:57:13 [INFO] [PT] trainfrog issued server command: /lightning
+2014-12-23 13:57:33 [INFO] trainfrog issued server command: /powertool
+2014-12-23 13:57:40 [INFO] trainfrog issued server command: /powertool kittycannon
+2014-12-23 13:57:40 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:42 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:42 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:42 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:42 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:42 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:43 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:43 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:43 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:48 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:49 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:49 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:49 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:49 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:49 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:50 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:50 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:50 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:51 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:52 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:52 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:52 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:53 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:53 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:53 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:55 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:55 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:56 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:56 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:56 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:56 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:56 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:56 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:57 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:57 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:57 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:57 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:57 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:58 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:58 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:57:58 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:58:01 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:58:02 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:58:02 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:58:02 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:58:02 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:58:06 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:58:08 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:58:08 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:58:08 [INFO] Killerbean0 issued server command: /ban trainfrog
+2014-12-23 13:58:08 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:58:08 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:58:08 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:58:08 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:58:09 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:58:09 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:58:09 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:58:09 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:58:09 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:58:09 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:58:10 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:58:10 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 13:58:14 [INFO] Killerbean0 issued server command: /deop trainfrog
+2014-12-23 13:58:14 [INFO] Killerbean0: De-opped trainfrog[m
+2014-12-23 13:59:07 [INFO] Killerbean0 issued server command: /gm 0 train
+2014-12-23 13:59:14 [INFO] ODDBALL8000 issued server command: /gamemode trainfrog survival
+2014-12-23 13:59:58 [INFO] ODDBALL8000 issued server command: /gamemode survival trainfrog
+2014-12-23 14:00:06 [INFO] Killerbean0 issued server command: //hcyl 98:2 50
+2014-12-23 14:00:22 [INFO] ODDBALL8000 issued server command: /gamemode survival trainfrog
+2014-12-23 14:00:40 [INFO] Killerbean0 issued server command: /kill train
+2014-12-23 14:00:40 [INFO] trainfrog died
+2014-12-23 14:00:56 [INFO] Connection reset
+2014-12-23 14:00:56 [INFO] ODDBALL8000 lost connection: disconnect.quitting
+2014-12-23 14:00:56 [INFO] ?eODDBALL8000 left the game.
+2014-12-23 14:01:35 [INFO] stevebean[/192.168.1.21:49255] logged in with entity id 86411 at ([Library_Aztlan] 5989.5, 4.0, 6006.5)
+2014-12-23 14:01:35 [INFO] Creating empty config: /home/vzuniga/CraftBukkit/plugins/Essentials/userdata/stevebean.yml
+2014-12-23 14:01:41 [INFO] Disconnecting /192.168.1.22:65116: Protocol error
+2014-12-23 14:01:41 [INFO] /192.168.1.22:65116 lost connection
+2014-12-23 14:01:47 [INFO] Disconnecting /192.168.1.22:65118: Protocol error
+2014-12-23 14:01:48 [INFO] /192.168.1.22:65118 lost connection
+2014-12-23 14:02:04 [INFO] stevebean issued server command: /gamemode 1
+2014-12-23 14:02:04 [INFO] ?cstevebean ?4was denied access to command.
+2014-12-23 14:02:12 [INFO] Disconnecting /192.168.1.22:65119: Protocol error
+2014-12-23 14:02:12 [INFO] /192.168.1.22:65119 lost connection
+2014-12-23 14:02:18 [INFO] trainfrog issued server command: /me works
+2014-12-23 14:02:18 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 14:02:25 [INFO] [m<~obamacare[m> wazzup[m
+2014-12-23 14:03:03 [INFO] stevebean issued server command: //wand
+2014-12-23 14:03:13 [INFO] Disconnecting /192.168.1.22:65121: Protocol error
+2014-12-23 14:03:13 [INFO] /192.168.1.22:65121 lost connection
+2014-12-23 14:03:24 [INFO] Disconnecting /192.168.1.22:65124: Protocol error
+2014-12-23 14:03:24 [INFO] /192.168.1.22:65124 lost connection
+2014-12-23 14:03:29 [INFO] Killerbean0 issued server command: /toggledownfall
+2014-12-23 14:03:29 [INFO] Killerbean0: Toggling downfall off for world 'Library_Aztlan'[m
+2014-12-23 14:03:50 [INFO] Killerbean0 issued server command: /tp t
+2014-12-23 14:04:04 [INFO] Killerbean0 issued server command: /op stevebean
+2014-12-23 14:04:04 [INFO] Killerbean0: Opped stevebean[m
+2014-12-23 14:04:08 [INFO] stevebean issued server command: /gamemode 1
+2014-12-23 14:04:10 [INFO] Disconnecting /192.168.1.22:65127: Protocol error
+2014-12-23 14:04:10 [INFO] /192.168.1.22:65127 lost connection
+2014-12-23 14:04:18 [INFO] Disconnecting /192.168.1.22:65129: Protocol error
+2014-12-23 14:04:18 [INFO] /192.168.1.22:65129 lost connection
+2014-12-23 14:04:41 [INFO] Killerbean0 issued server command: /time set 0
+2014-12-23 14:04:43 [INFO] stevebean issued server command: //wand
+2014-12-23 14:05:12 [INFO] Disconnecting /192.168.1.22:65131: Protocol error
+2014-12-23 14:05:12 [INFO] /192.168.1.22:65131 lost connection
+2014-12-23 14:05:21 [INFO] Disconnecting /192.168.1.22:65134: Protocol error
+2014-12-23 14:05:21 [INFO] /192.168.1.22:65134 lost connection
+2014-12-23 14:05:58 [INFO] ODDBALL8000[/192.168.1.20:50170] logged in with entity id 149678 at ([Library_Aztlan] 6002.387810711601, 26.72246054342815, 6000.8899211314)
+2014-12-23 14:06:09 [INFO] [Metrics] mcstats.org
+2014-12-23 14:06:09 [INFO] Disconnecting /192.168.1.22:65135: Protocol error
+2014-12-23 14:06:09 [INFO] /192.168.1.22:65135 lost connection
+2014-12-23 14:06:28 [INFO] Disconnecting /192.168.1.22:65139: Protocol error
+2014-12-23 14:06:28 [INFO] /192.168.1.22:65139 lost connection
+2014-12-23 14:07:34 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 14:07:35 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 14:07:55 [INFO] stevebean issued server command: /pt
+2014-12-23 14:07:56 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 14:08:03 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 14:08:05 [INFO] trainfrog fell out of the world
+2014-12-23 14:08:10 [INFO] ODDBALL8000 issued server command: /kill trainfrog
+2014-12-23 14:08:15 [INFO] ODDBALL8000 issued server command: /kill trainfrog
+2014-12-23 14:08:18 [INFO] ODDBALL8000 issued server command: /kill trainfrog
+2014-12-23 14:08:19 [INFO] ODDBALL8000 issued server command: /kill trainfrog
+2014-12-23 14:08:20 [INFO] ODDBALL8000 issued server command: /kill trainfrog
+2014-12-23 14:08:20 [INFO] ODDBALL8000 issued server command: /kill trainfrog
+2014-12-23 14:08:21 [INFO] ODDBALL8000 issued server command: /kill trainfrog
+2014-12-23 14:08:21 [INFO] ODDBALL8000 issued server command: /kill trainfrog
+2014-12-23 14:08:21 [INFO] ODDBALL8000 issued server command: /kill trainfrog
+2014-12-23 14:08:22 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 14:08:34 [INFO] ODDBALL8000 issued server command: /kill trainfrog
+2014-12-23 14:08:47 [INFO] ODDBALL8000 issued server command: /kill trainfrog
+2014-12-23 14:08:52 [INFO] ODDBALL8000 issued server command: /kill trainfrog
+2014-12-23 14:08:54 [INFO] ODDBALL8000 issued server command: /kill trainfrog
+2014-12-23 14:08:54 [INFO] ODDBALL8000 issued server command: /kill trainfrog
+2014-12-23 14:08:55 [INFO] ODDBALL8000 issued server command: /kill trainfrog
+2014-12-23 14:09:29 [INFO] Disconnecting /192.168.1.22:65158: Protocol error
+2014-12-23 14:09:29 [INFO] /192.168.1.22:65158 lost connection
+2014-12-23 14:09:33 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 14:09:34 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 14:09:35 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 14:09:36 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 14:09:37 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 14:09:37 [INFO] Disconnecting /192.168.1.22:65161: Protocol error
+2014-12-23 14:09:37 [INFO] /192.168.1.22:65161 lost connection
+2014-12-23 14:09:38 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 14:09:38 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 14:09:39 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 14:09:39 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 14:09:40 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 14:09:43 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 14:09:44 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 14:09:45 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 14:09:45 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 14:09:46 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 14:09:49 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 14:09:50 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 14:09:52 [INFO] [m<~obamacare[m> op me pls[m
+2014-12-23 14:10:02 [INFO] stevebean issued server command: /nick
+2014-12-23 14:12:17 [INFO] stevebean issued server command: //wand
+2014-12-23 14:13:16 [INFO] stevebean issued server command: /nick
+2014-12-23 14:14:14 [INFO] ODDBALL8000 issued server command: /kill trainfrog
+2014-12-23 14:14:14 [INFO] trainfrog died
+2014-12-23 14:14:34 [INFO] Killerbean0 issued server command: //replacenear 100 gravel stone
+2014-12-23 14:14:41 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-12-23 14:14:43 [INFO] stevebean issued server command: /clear
+2014-12-23 14:15:32 [INFO] Killerbean0 issued server command: //pos2
+2014-12-23 14:15:36 [INFO] Killerbean0 issued server command: //naturalize
+2014-12-23 14:15:50 [INFO] Killerbean0 issued server command: //setbiome jungle
+2014-12-23 14:15:53 [INFO] Killerbean0 lost connection: disconnect.quitting
+2014-12-23 14:15:53 [INFO] Connection reset
+2014-12-23 14:15:53 [INFO] ?eKillerbean0 left the game.
+2014-12-23 14:15:55 [INFO] stevebean lost connection: disconnect.quitting
+2014-12-23 14:15:55 [INFO] Connection reset
+2014-12-23 14:15:55 [INFO] ?estevebean left the game.
+2014-12-23 14:15:56 [INFO] Connection reset
+2014-12-23 14:15:56 [INFO] ODDBALL8000 lost connection: disconnect.quitting
+2014-12-23 14:15:56 [INFO] ?eODDBALL8000 left the game.
+2014-12-23 14:15:59 [INFO] Killerbean0[/192.168.1.248:49312] logged in with entity id 348834 at ([Library_Aztlan] 6043.433463141298, 53.58449110764341, 6038.840425467714)
+2014-12-23 14:16:00 [INFO] stevebean[/192.168.1.21:49258] logged in with entity id 349104 at ([Library_Aztlan] 6035.666208307616, 6.529367595578465, 6017.984833409416)
+2014-12-23 14:16:10 [INFO] Killerbean0 issued server command: /heal train
+2014-12-23 14:16:12 [INFO] stevebean issued server command: /nick stevebean Michael
+2014-12-23 14:16:14 [INFO] [Metrics] mcstats.org
+2014-12-23 14:16:20 [INFO] Killerbean0 issued server command: /time set 0
+2014-12-23 14:16:36 [INFO] ODDBALL8000[/192.168.1.20:50191] logged in with entity id 361155 at ([Library_Aztlan] 5967.151790462094, 4.253112777748326, 6023.823795484434)
+2014-12-23 14:16:46 [INFO] Killerbean0 issued server command: /kill
+2014-12-23 14:16:48 [INFO] Killerbean0 issued server command: /kill train
+2014-12-23 14:16:48 [INFO] trainfrog died
+2014-12-23 14:17:00 [INFO] Killerbean0 issued server command: /clearinventory
+2014-12-23 14:17:40 [INFO] Killerbean0 issued server command: //replacenear 50 gravel stone
+2014-12-23 14:18:17 [INFO] Killerbean0 issued server command: //pos2
+2014-12-23 14:18:20 [INFO] Killerbean0 issued server command: //naturalize
+2014-12-23 14:19:27 [INFO] Killerbean0 issued server command: //cyl cobble,mossycobble 20
+2014-12-23 14:19:54 [INFO] Killerbean0 issued server command: //cyl cobble,mossycobble 30
+2014-12-23 14:20:53 [INFO] Killerbean0 issued server command: //hcyl cobble,mossycobble 30
+2014-12-23 14:21:18 [INFO] [m<~obamacare[m> wazzup[m
+2014-12-23 14:21:27 [INFO] [m<[0;31;22m~Michael[m> wazzup[m
+2014-12-23 14:21:27 [INFO] [m<~obamacare[m> buy me[m
+2014-12-23 14:21:45 [INFO] [m<~obamacare[m> do you like cats[m
+2014-12-23 14:21:50 [INFO] [m<[0;31;22m~Michael[m> yes[m
+2014-12-23 14:21:54 [INFO] [m<[0;31;22mODDBALL8000[m> suck a pighole[m
+2014-12-23 14:21:59 [INFO] [m<[0;31;22m~Michael[m> ok[m
+2014-12-23 14:22:05 [INFO] [m<[0;31;22m~Michael[m> i need a pig[m
+2014-12-23 14:22:09 [INFO] [m<~obamacare[m> i like cats, but i vcan't finish a whole one by myself[m
+2014-12-23 14:22:19 [INFO] ODDBALL8000 issued server command: /nickname ODDBALL8000 poppey the sailor
+2014-12-23 14:22:29 [INFO] [m<[0;31;22m~poppey[m> im am secret[m
+2014-12-23 14:22:38 [INFO] stevebean issued server command: /nick stevebean &bMichael
+2014-12-23 14:23:33 [INFO] Killerbean0 issued server command: /nuk
+2014-12-23 14:23:35 [INFO] Killerbean0 issued server command: /nuke
+2014-12-23 14:24:20 [INFO] [m<[0;31;22mKillerbean0[m> Dave[m
+2014-12-23 14:24:24 [INFO] [m<[0;31;22mKillerbean0[m> IS[m
+2014-12-23 14:24:26 [INFO] [m<[0;31;22mKillerbean0[m> A[m
+2014-12-23 14:24:31 [INFO] [m<[0;31;22m~[0;36;1mMichael[m> pighole[m
+2014-12-23 14:24:57 [INFO] [m<[0;31;22mKillerbean0[m> Hey[m
+2014-12-23 14:25:22 [INFO] Killerbean0 issued server command: /nick Killerbean0 &4 MelonLord
+2014-12-23 14:25:25 [INFO] [m<[0;31;22m~[0;31;22m[m> t[m
+2014-12-23 14:25:29 [INFO] ODDBALL8000 issued server command: /nick ODDBALL8000 &5Narhwals
+2014-12-23 14:25:33 [INFO] [m<[0;31;22m~[0;35;22mNarhwals[m> k[m
+2014-12-23 14:25:34 [INFO] Killerbean0 issued server command: /nick Killerbean0 &4MelonLord
+2014-12-23 14:25:47 [INFO] [m<~obamacare[m> hey[m
+2014-12-23 14:25:53 [INFO] [m<[0;31;22m~[0;35;22mNarhwals[m> wazzup biatch[m
+2014-12-23 14:25:54 [INFO] [m<~obamacare[m> op me!!!!!!!!!!!!!11[m
+2014-12-23 14:26:05 [INFO] Killerbean0 issued server command: /nick Killerbean0 &7MelonLord
+2014-12-23 14:26:10 [INFO] Killerbean0 issued server command: /nick Killerbean0 &2MelonLord
+2014-12-23 14:26:14 [INFO] [Metrics] mcstats.org
+2014-12-23 14:26:16 [INFO] [m<[0;31;22m~[0;32;22mMelonLord[m> HERRO[m
+2014-12-23 14:26:26 [INFO] Killerbean0 issued server command: /op trainfrog
+2014-12-23 14:26:27 [INFO] Killerbean0: Opped trainfrog[m
+2014-12-23 14:26:44 [INFO] trainfrog issued server command: /nick trainfrog &5Obama
+2014-12-23 14:26:46 [INFO] Connection reset
+2014-12-23 14:26:46 [INFO] ODDBALL8000 lost connection: disconnect.quitting
+2014-12-23 14:26:46 [INFO] ?eODDBALL8000 left the game.
+2014-12-23 14:26:50 [INFO] trainfrog issued server command: /nick trainfrog &2Obama
+2014-12-23 14:26:56 [INFO] trainfrog issued server command: /nick trainfrog &3Obama
+2014-12-23 14:27:00 [INFO] trainfrog issued server command: /nick trainfrog &4Obama
+2014-12-23 14:27:04 [INFO] trainfrog issued server command: /nick trainfrog &6Obama
+2014-12-23 14:27:09 [INFO] trainfrog issued server command: /nick trainfrog &8Obama
+2014-12-23 14:27:13 [INFO] trainfrog issued server command: /nick trainfrog &9Obama
+2014-12-23 14:27:22 [INFO] [m<[0;31;22m~[0;34;1mObama[m> poiple[m
+2014-12-23 14:27:31 [INFO] trainfrog issued server command: /gm 1
+2014-12-23 14:27:38 [INFO] trainfrog issued server command: /nick trainfrog &10Obama
+2014-12-23 14:27:44 [INFO] trainfrog issued server command: /nick trainfrog &1Obama
+2014-12-23 14:27:48 [INFO] trainfrog issued server command: /nick trainfrog &8Obama
+2014-12-23 14:27:50 [INFO] Killerbean0 issued server command: /time set 0
+2014-12-23 14:27:54 [INFO] [m<[0;31;22m~[0;30;1mObama[m> there we go[m
+2014-12-23 14:28:12 [INFO] trainfrog issued server command: /nick trainfrog &1Obama
+2014-12-23 14:28:29 [INFO] ODDBALL8000[/192.168.1.20:50200] logged in with entity id 566408 at ([Library_Aztlan] 5961.687010205222, 5.256711318155354, 6014.585284573226)
+2014-12-23 14:28:31 [INFO] [m<[0;31;22m~[0;34;22mObama[m> i l i k e t h i s b e t t e r[m
+2014-12-23 14:28:38 [INFO] Killerbean0 issued server command: //set 0
+2014-12-23 14:28:47 [INFO] [m<[0;31;22m~[0;35;22mNarhwals[m> i d o n t[m
+2014-12-23 14:28:49 [INFO] trainfrog issued server command: /nick Forever_Obama
+2014-12-23 14:29:00 [INFO] trainfrog issued server command: /nick trainfrog &1Forever_Obama
+2014-12-23 14:29:03 [INFO] [m<[0;31;22m~[0;36;1mMichael[m> w h y a r e w e d o i n g u n e s s i c a r y s p a c e s[m
+2014-12-23 14:29:13 [INFO] trainfrog issued server command: /nick ODDBALL8000 &1Forever_Obama
+2014-12-23 14:29:17 [INFO] Killerbean0 issued server command: //walls cobble,mossycobble
+2014-12-23 14:29:40 [INFO] trainfrog issued server command: /nick Killerbean0 &1Forever_Obama
+2014-12-23 14:29:53 [INFO] stevebean issued server command: /nick stevebean &aMichael
+2014-12-23 14:29:55 [INFO] [m<[0;31;22m~[0;34;22mForever_Obama[m> what[m
+2014-12-23 14:29:57 [INFO] Killerbean0 issued server command: //set cobble,mossycobble,gravel
+2014-12-23 14:30:01 [INFO] stevebean issued server command: /nick stevebean &bMichael
+2014-12-23 14:30:02 [INFO] Killerbean0 issued server command: //set cobble,mossycobble,gravel
+2014-12-23 14:30:03 [INFO] [m<[0;31;22m~[0;34;22mForever_Obama[m> hello[m
+2014-12-23 14:30:03 [INFO] Killerbean0 issued server command: //set cobble,mossycobble,gravel
+2014-12-23 14:30:07 [INFO] [m<[0;31;22m~[0;34;22mForever_Obama[m> no[m
+2014-12-23 14:30:28 [INFO] Killerbean0 issued server command: /nick trainfrog LordOfTheButt
+2014-12-23 14:30:30 [INFO] trainfrog issued server command: /nick ODDBALL8000 &1Forever_Obama
+2014-12-23 14:30:33 [INFO] stevebean issued server command: /nick trainfrog &4LonleyManInTheCorner
+2014-12-23 14:30:36 [INFO] ODDBALL8000 issued server command: /nick ODDBALL8000 &5Gnarwhals
+2014-12-23 14:30:39 [INFO] [m<[0;31;22m~[0;35;22mGnarwhals[m> whoooo[m
+2014-12-23 14:30:40 [INFO] trainfrog issued server command: /nick trainfrog &1Forever_Obama
+2014-12-23 14:30:43 [INFO] trainfrog issued server command: /nick ODDBALL8000 &1Forever_Obama
+2014-12-23 14:30:46 [INFO] [m<[0;31;22m~[0;34;22mForever_Obama[m> whoooo[m
+2014-12-23 14:30:48 [INFO] ODDBALL8000 issued server command: /nick ODDBALL8000 &5Gnarwhals
+2014-12-23 14:30:49 [INFO] stevebean issued server command: /nick trainfrog &4LonleyCornerMan
+2014-12-23 14:30:50 [INFO] [m<[0;31;22m~[0;34;22mForever_Obama[m> yay[m
+2014-12-23 14:30:53 [INFO] ODDBALL8000 issued server command: /nick ODDBALL8000 &5Gnarwhals
+2014-12-23 14:30:55 [INFO] stevebean issued server command: /nick trainfrog &4LonleyMan
+2014-12-23 14:31:04 [INFO] trainfrog issued server command: /nick trainfrog &1Forever_Obama
+2014-12-23 14:31:07 [INFO] [m<[0;31;22m~[0;34;22mForever_Obama[m> why[m
+2014-12-23 14:31:14 [INFO] ODDBALL8000 issued server command: /kill trainfrog
+2014-12-23 14:31:14 [INFO] trainfrog died
+2014-12-23 14:31:18 [INFO] stevebean issued server command: /nick trainfrog &4LonleyMan
+2014-12-23 14:31:18 [INFO] ODDBALL8000 issued server command: /kill trainfrog
+2014-12-23 14:31:19 [INFO] ODDBALL8000 issued server command: /kill trainfrog
+2014-12-23 14:31:20 [INFO] ODDBALL8000 issued server command: /kill trainfrog
+2014-12-23 14:31:20 [INFO] ODDBALL8000 issued server command: /kill trainfrog
+2014-12-23 14:31:21 [INFO] ODDBALL8000 issued server command: /kill trainfrog
+2014-12-23 14:31:21 [INFO] ODDBALL8000 issued server command: /kill trainfrog
+2014-12-23 14:31:22 [INFO] ODDBALL8000 issued server command: /kill trainfrog
+2014-12-23 14:31:23 [INFO] Killerbean0 issued server command: /deop trainfrog
+2014-12-23 14:31:23 [INFO] Killerbean0: De-opped trainfrog[m
+2014-12-23 14:31:30 [INFO] [m<[0;31;22m~[0;36;1mMichael[m> g[m
+2014-12-23 14:32:46 [INFO] Killerbean0 issued server command: //flora
+2014-12-23 14:33:06 [INFO] stevebean issued server command: /forcesay
+2014-12-23 14:35:00 [INFO] [m<~[0;31;22mLonleyMan[m> percicely[m
+2014-12-23 14:35:04 [INFO] trainfrog issued server command: /gm 1
+2014-12-23 14:35:04 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 14:35:14 [INFO] [m<[0;31;22m~[0;36;1mMichael[m> g[m
+2014-12-23 14:35:15 [INFO] [m<[0;31;22m~[0;36;1mMichael[m> h[m
+2014-12-23 14:35:16 [INFO] [m<[0;31;22m~[0;36;1mMichael[m> i[m
+2014-12-23 14:35:18 [INFO] [m<[0;31;22m~[0;36;1mMichael[m> p[m
+2014-12-23 14:35:29 [INFO] [m<[0;31;22m~[0;34;22mForever_Obama[m> p[m
+2014-12-23 14:35:31 [INFO] [m<[0;31;22m~[0;34;22mForever_Obama[m> e[m
+2014-12-23 14:35:34 [INFO] [m<[0;31;22m~[0;34;22mForever_Obama[m> n[m
+2014-12-23 14:35:36 [INFO] [m<[0;31;22m~[0;34;22mForever_Obama[m> i[m
+2014-12-23 14:35:37 [INFO] [m<[0;31;22m~[0;36;1mMichael[m> s[m
+2014-12-23 14:35:54 [INFO] [m<[0;31;22m~[0;34;22mForever_Obama[m> We finish each otehr's[m
+2014-12-23 14:36:00 [INFO] [m<[0;31;22m~[0;36;1mMichael[m> sentences[m
+2014-12-23 14:36:12 [INFO] [m<[0;31;22m~[0;35;22mGnarwhals[m> GAY1[m
+2014-12-23 14:36:14 [INFO] [Metrics] mcstats.org
+2014-12-23 14:36:22 [INFO] [m<[0;31;22m~[0;36;1mMichael[m> gnarly man[m
+2014-12-23 14:37:12 [INFO] mwahlikespizza[/192.168.1.254:50198] logged in with entity id 730042 at ([Library_Aztlan] 6005.5, 4.0, 6013.5)
+2014-12-23 14:37:12 [INFO] Creating empty config: /home/vzuniga/CraftBukkit/plugins/Essentials/userdata/mwahlikespizza.yml
+2014-12-23 14:37:30 [INFO] stevebean issued server command: /op mwahlikespizza
+2014-12-23 14:37:30 [INFO] stevebean: Opped mwahlikespizza[m
+2014-12-23 14:37:53 [INFO] [m<~[0;31;22mLonleyMan[m> ljgkusyjsblagbljdk igvaouwthfniuhbbbbbbbbiauo;nslkgbijkh jlsbofnaeufkdflforeverobama[m
+2014-12-23 14:37:56 [INFO] mwahlikespizza issued server command: /nick mwahlikespizza &5sexybodies
+2014-12-23 14:38:00 [INFO] Killerbean0 issued server command: /broadcast WANNA HEAR SOMETHING FUNNY?
+2014-12-23 14:38:01 [INFO] [m<[0;31;22m~[0;36;1mMichael[m> No[m
+2014-12-23 14:38:02 [INFO] [m<[0;31;22m~[0;35;22msexybodies[m> hi[m
+2014-12-23 14:38:05 [INFO] Killerbean0 issued server command: /toggledownfall
+2014-12-23 14:38:05 [INFO] Killerbean0: Toggling downfall off for world 'Library_Aztlan'[m
+2014-12-23 14:38:11 [INFO] ODDBALL8000 issued server command: /time set 1
+2014-12-23 14:38:13 [INFO] [m<[0;31;22m~[0;36;1mMichael[m> I AM BEAUTIFUL[m
+2014-12-23 14:38:18 [INFO] mwahlikespizza issued server command: /gamemode 1
+2014-12-23 14:38:21 [INFO] [m<[0;31;22m~[0;36;1mMichael[m> VERY[m
+2014-12-23 14:38:22 [INFO] ODDBALL8000 issued server command: /broadcast im a ho
+2014-12-23 14:38:23 [INFO] [m<[0;31;22m~[0;36;1mMichael[m> VERY[m
+2014-12-23 14:38:24 [INFO] Killerbean0 issued server command: /nick Killerbean0 CtrlAltDel
+2014-12-23 14:38:26 [INFO] [m<[0;31;22m~[0;36;1mMichael[m> BEAUTIFUL[m
+2014-12-23 14:38:26 [INFO] [m<[0;31;22m~CtrlAltDel[m> Sup[m
+2014-12-23 14:38:29 [INFO] mwahlikespizza issued server command: /kill stevebean
+2014-12-23 14:38:29 [INFO] stevebean died
+2014-12-23 14:38:38 [INFO] Killerbean0 issued server command: /nuke
+2014-12-23 14:38:43 [INFO] stevebean issued server command: /kill mwahlikespizza
+2014-12-23 14:38:43 [INFO] mwahlikespizza died
+2014-12-23 14:38:46 [INFO] GriefPrevention: Muted spam from trainfrog: op me!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+2014-12-23 14:38:49 [INFO] mwahlikespizza issued server command: /kill all
+2014-12-23 14:38:50 [INFO] ODDBALL8000 died
+2014-12-23 14:38:50 [INFO] stevebean issued server command: /kill mwahlikespizza
+2014-12-23 14:38:51 [INFO] Killerbean0 issued server command: /nuke
+2014-12-23 14:38:53 [INFO] [m<~[0;31;22mLonleyMan[m> beeeen[m
+2014-12-23 14:39:04 [INFO] stevebean issued server command: /kill mwahlikespizza
+2014-12-23 14:39:05 [INFO] trainfrog issued server command: /gm 1
+2014-12-23 14:39:05 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 14:39:08 [INFO] ODDBALL8000 issued server command: /kill ALL
+2014-12-23 14:39:16 [INFO] stevebean issued server command: /killall
+2014-12-23 14:39:17 [INFO] Killerbean0 issued server command: //cyl cobble 3
+2014-12-23 14:39:24 [INFO] Killerbean0 issued server command: /tphere mwah
+2014-12-23 14:39:27 [INFO] stevebean issued server command: /kill all
+2014-12-23 14:39:29 [INFO] Killerbean0 issued server command: /j
+2014-12-23 14:39:31 [INFO] Killerbean0 issued server command: /j
+2014-12-23 14:39:41 [INFO] stevebean issued server command: /kill all
+2014-12-23 14:39:42 [INFO] Killerbean0 issued server command: /gm o mwah
+2014-12-23 14:39:46 [INFO] Killerbean0 issued server command: /gm 0 mwah
+2014-12-23 14:39:47 [INFO] stevebean issued server command: /kill mwahlikespizza
+2014-12-23 14:39:57 [INFO] stevebean issued server command: /gamemode 1 mwahlikespizza
+2014-12-23 14:40:02 [INFO] stevebean issued server command: /kill mwahlikespizza
+2014-12-23 14:40:07 [INFO] stevebean issued server command: /kill all
+2014-12-23 14:40:11 [INFO] Killerbean0 issued server command: /tphere mwah
+2014-12-23 14:40:17 [INFO] Killerbean0 issued server command: /gm 0 mwah
+2014-12-23 14:40:17 [INFO] stevebean issued server command: /gamemode 1 mwahlikespizza
+2014-12-23 14:40:20 [INFO] stevebean issued server command: /gamemode 1 mwahlikespizza
+2014-12-23 14:40:21 [INFO] mwahlikespizza issued server command: /kill Killerbean0
+2014-12-23 14:40:21 [INFO] Killerbean0 died
+2014-12-23 14:40:29 [INFO] mwahlikespizza issued server command: /kill Killerbean0
+2014-12-23 14:40:30 [INFO] stevebean issued server command: /kill trainfrog
+2014-12-23 14:40:30 [INFO] trainfrog died
+2014-12-23 14:40:32 [INFO] mwahlikespizza issued server command: /kill Killerbean0
+2014-12-23 14:40:37 [INFO] mwahlikespizza issued server command: /kill Killerbean0
+2014-12-23 14:40:40 [INFO] mwahlikespizza issued server command: /kill Killerbean0
+2014-12-23 14:40:44 [INFO] mwahlikespizza issued server command: /kill Killerbean0
+2014-12-23 14:40:49 [INFO] stevebean issued server command: /kill all
+2014-12-23 14:40:50 [INFO] mwahlikespizza issued server command: /kill Killerbean0
+2014-12-23 14:40:54 [INFO] mwahlikespizza issued server command: /kill Killerbean0
+2014-12-23 14:41:00 [INFO] mwahlikespizza issued server command: /kill Killerbean0
+2014-12-23 14:41:07 [INFO] mwahlikespizza issued server command: /kill Killerbean0
+2014-12-23 14:41:08 [INFO] stevebean issued server command: /kill all
+2014-12-23 14:41:10 [INFO] [m<~[0;31;22mLonleyMan[m> p[m
+2014-12-23 14:41:10 [INFO] Connection reset
+2014-12-23 14:41:10 [INFO] mwahlikespizza lost connection: disconnect.endOfStream
+2014-12-23 14:41:10 [INFO] ?emwahlikespizza left the game.
+2014-12-23 14:41:16 [INFO] Killerbean0 issued server command: /gm 0 mwahlikespizza
+2014-12-23 14:41:21 [INFO] [m<~[0;31;22mLonleyMan[m> rukus[m
+2014-12-23 14:41:24 [INFO] stevebean issued server command: /kill all
+2014-12-23 14:41:27 [INFO] Killerbean0 issued server command: /gm 0 stevenbean
+2014-12-23 14:41:32 [INFO] Killerbean0 issued server command: /gm 0 stevebean
+2014-12-23 14:41:34 [INFO] stevebean issued server command: /kill kill
+2014-12-23 14:41:35 [INFO] stevebean fell from a high place
+2014-12-23 14:41:38 [INFO] ODDBALL8000 issued server command: /deop stevebean
+2014-12-23 14:41:39 [INFO] ODDBALL8000: De-opped stevebean[m
+2014-12-23 14:41:52 [INFO] stevebean issued server command: /gamemode 1
+2014-12-23 14:41:52 [INFO] ?cstevebean ?4was denied access to command.
+2014-12-23 14:42:11 [INFO] Killerbean0 issued server command: /gm 0 steve
+2014-12-23 14:42:14 [INFO] ODDBALL8000 issued server command: /gamemode stevebean survival
+2014-12-23 14:42:24 [INFO] Killerbean0 issued server command: //hsphere bedrock 4
+2014-12-23 14:42:30 [INFO] Killerbean0 issued server command: /tphere steve
+2014-12-23 14:42:37 [INFO] Killerbean0 issued server command: /j
+2014-12-23 14:42:40 [INFO] ODDBALL8000 issued server command: /gamemode survival stevebean
+2014-12-23 14:42:43 [INFO] stevebean issued server command: /thru
+2014-12-23 14:43:06 [INFO] stevebean issued server command: /kill
+2014-12-23 14:43:06 [INFO] ?cstevebean ?4was denied access to command.
+2014-12-23 14:43:08 [INFO] ODDBALL8000 issued server command: /deop mwahlikespizza
+2014-12-23 14:43:08 [INFO] ODDBALL8000: De-opped mwahlikespizza[m
+2014-12-23 14:43:38 [INFO] [m<~[0;36;1mMichael[m> whyy cruel world!?!?!?!?!??!?!?!?!?!??!?!?!?!?!?!?!?!?!?!?!??!?!?!?!?!??!?!?!?!?!?!??!?!?!?!?!??!?!?[m
+2014-12-23 14:43:47 [INFO] GriefPrevention: Muted spam from stevebean: why!?!?!?!?!?!?!?!?
+2014-12-23 14:44:17 [INFO] Killerbean0 issued server command: /tphere steve
+2014-12-23 14:44:18 [INFO] mwahlikespizza[/192.168.1.254:49158] logged in with entity id 852599 at ([Library_Aztlan] 5938.642606824655, 4.0, 5945.086921877254)
+2014-12-23 14:44:20 [INFO] ODDBALL8000 issued server command: /deop mwahlikespizza
+2014-12-23 14:44:20 [INFO] ODDBALL8000: De-opped mwahlikespizza[m
+2014-12-23 14:44:28 [INFO] Killerbean0 issued server command: /tphere mwah
+2014-12-23 14:44:28 [INFO] [m<~[0;36;1mMichael[m> WHY[m
+2014-12-23 14:44:30 [INFO] GriefPrevention: Muted spam from stevebean: why
+2014-12-23 14:44:31 [INFO] GriefPrevention: Muted spam from stevebean: why
+2014-12-23 14:44:31 [INFO] GriefPrevention: Muted spam from stevebean: why
+2014-12-23 14:44:32 [INFO] GriefPrevention: Warned stevebean about spam penalties.
+2014-12-23 14:44:32 [INFO] GriefPrevention: Muted spam from stevebean: why
+2014-12-23 14:44:32 [INFO] GriefPrevention: Muted spam from stevebean: why
+2014-12-23 14:44:33 [INFO] GriefPrevention: Muted spam from stevebean: why
+2014-12-23 14:44:33 [INFO] GriefPrevention: Muted spam from stevebean: why
+2014-12-23 14:44:33 [INFO] Killerbean0 issued server command: /gm 0 mwah
+2014-12-23 14:44:33 [INFO] GriefPrevention: Muted spam from stevebean: why
+2014-12-23 14:44:34 [INFO] GriefPrevention: Banning stevebean for spam.
+2014-12-23 14:44:34 [INFO] ?estevebean left the game.
+2014-12-23 14:44:34 [INFO] mwahlikespizza issued server command: /op steve
+2014-12-23 14:44:39 [INFO] Disconnecting stevebean [/192.168.1.21:49260]: ?4Banned:
+?rThe Ban Hammer has spoken!
+2014-12-23 14:44:49 [INFO] Disconnecting stevebean [/192.168.1.21:49262]: ?4Banned:
+?rThe Ban Hammer has spoken!
+2014-12-23 14:45:02 [INFO] mwahlikespizza fell from a high place
+2014-12-23 14:45:10 [INFO] Killerbean0 issued server command: /tphere mwah
+2014-12-23 14:45:10 [INFO] ODDBALL8000 issued server command: /pvpon
+2014-12-23 14:45:11 [INFO] Disconnecting stevebean [/192.168.1.21:49264]: ?4Banned:
+?rThe Ban Hammer has spoken!
+2014-12-23 14:45:13 [INFO] ODDBALL8000 issued server command: /pvp on
+2014-12-23 14:45:20 [INFO] ODDBALL8000 issued server command: /toggle pvp
+2014-12-23 14:46:14 [INFO] Killerbean0 issued server command: /unban stevebean
+2014-12-23 14:46:14 [INFO] ?6Player?c ?4~CtrlAltDel?r ?6unbanned?c stevebean.
+2014-12-23 14:46:14 [INFO] [Metrics] mcstats.org
+2014-12-23 14:46:24 [INFO] mwahlikespizza tried to swim in lava
+2014-12-23 14:46:39 [INFO] mwahlikespizza lost connection: disconnect.quitting
+2014-12-23 14:46:39 [INFO] Connection reset
+2014-12-23 14:46:39 [INFO] ?emwahlikespizza left the game.
+2014-12-23 14:46:45 [INFO] mwahlikespizza[/192.168.1.254:49160] logged in with entity id 884969 at ([Library_Aztlan] 5995.442647064478, 4.0, 5998.253354966426)
+2014-12-23 14:46:51 [INFO] Killerbean0 issued server command: /tphere mwah
+2014-12-23 14:46:55 [INFO] Killerbean0 issued server command: /spawnpoint mwah
+2014-12-23 14:46:57 [INFO] stevebean[/192.168.1.21:49266] logged in with entity id 887736 at ([Library_Aztlan] 5965.627111815584, 45.0, 5936.412947530934)
+2014-12-23 14:46:58 [INFO] mwahlikespizza tried to swim in lava
+2014-12-23 14:47:01 [INFO] Killerbean0 issued server command: /spawnpoint mwahlikespizza
+2014-12-23 14:47:01 [INFO] Killerbean0: Set ~[0;35;22msexybodies[m's spawnpoint to 6005.07298374355, 4.0, 5995.688413104967[m
+2014-12-23 14:47:05 [INFO] mwahlikespizza lost connection: disconnect.quitting
+2014-12-23 14:47:05 [INFO] Connection reset
+2014-12-23 14:47:05 [INFO] ?emwahlikespizza left the game.
+2014-12-23 14:47:05 [INFO] Killerbean0 issued server command: /tphere mwah
+2014-12-23 14:47:07 [INFO] Killerbean0 issued server command: /spawnpoint mwahlikespizza
+2014-12-23 14:47:10 [INFO] Connection reset
+2014-12-23 14:47:10 [INFO] stevebean lost connection: disconnect.quitting
+2014-12-23 14:47:11 [INFO] ?estevebean left the game.
+2014-12-23 14:47:14 [INFO] Killerbean0 issued server command: /tphere steve
+2014-12-23 14:47:24 [INFO] Disconnecting mwahlikespizza [/192.168.1.254:49162]: You must wait 2 more minutes before logging-in again.
+2014-12-23 14:47:27 [INFO] Disconnecting stevebean [/192.168.1.21:49268]: You must wait 2 more minutes before logging-in again.
+2014-12-23 14:47:32 [INFO] Disconnecting stevebean [/192.168.1.21:49270]: You must wait 2 more minutes before logging-in again.
+2014-12-23 14:47:33 [INFO] Disconnecting mwahlikespizza [/192.168.1.254:49164]: You must wait 2 more minutes before logging-in again.
+2014-12-23 14:47:46 [INFO] Killerbean0 issued server command: //pos1
+2014-12-23 14:47:50 [INFO] Disconnecting mwahlikespizza [/192.168.1.254:49179]: You must wait 1 more minutes before logging-in again.
+2014-12-23 14:47:55 [INFO] Killerbean0 issued server command: //pos2
+2014-12-23 14:47:55 [INFO] Disconnecting stevebean [/192.168.1.21:49273]: You must wait 2 more minutes before logging-in again.
+2014-12-23 14:47:57 [INFO] Killerbean0 issued server command: //set 0
+2014-12-23 14:48:08 [INFO] Disconnecting stevebean [/192.168.1.21:49276]: You must wait 1 more minutes before logging-in again.
+2014-12-23 14:48:26 [INFO] Disconnecting mwahlikespizza [/192.168.1.254:49249]: You must wait 1 more minutes before logging-in again.
+2014-12-23 14:48:41 [INFO] Killerbean0 issued server command: //spawner
+2014-12-23 14:48:45 [INFO] Killerbean0 issued server command: /spawner
+2014-12-23 14:48:51 [INFO] Killerbean0 issued server command: /spawner giant
+2014-12-23 14:48:54 [INFO] Disconnecting stevebean [/192.168.1.21:49281]: You must wait 1 more minutes before logging-in again.
+2014-12-23 14:48:55 [INFO] mwahlikespizza[/192.168.1.254:49251] logged in with entity id 915283 at ([Library_Aztlan] 6010.233453289642, 4.0, 6002.93712266407)
+2014-12-23 14:49:01 [INFO] stevebean[/192.168.1.21:49287] logged in with entity id 917505 at ([Library_Aztlan] 5964.300000011921, 45.0, 5940.699999988079)
+2014-12-23 14:49:02 [INFO] Killerbean0 issued server command: /give Killerbean0 mobspawner
+2014-12-23 14:49:06 [INFO] Killerbean0 issued server command: /spawner giant
+2014-12-23 14:49:39 [INFO] Killerbean0 issued server command: /time set 0
+2014-12-23 14:50:03 [INFO] Killerbean0 issued server command: /spawner giant
+2014-12-23 14:50:06 [INFO] Killerbean0 issued server command: /spawner giant
+2014-12-23 14:50:10 [INFO] Killerbean0 issued server command: /spawner giant
+2014-12-23 14:50:27 [INFO] Killerbean0 issued server command: /spawner enderman
+2014-12-23 14:50:37 [INFO] Killerbean0 issued server command: /spawner giant
+2014-12-23 14:51:02 [INFO] mwahlikespizza issued server command: /gamemode1
+2014-12-23 14:51:05 [INFO] mwahlikespizza tried to swim in lava
+2014-12-23 14:51:10 [INFO] Killerbean0 issued server command: /diff e
+2014-12-23 14:51:15 [INFO] Killerbean0 issued server command: /difficulty e
+2014-12-23 14:51:16 [INFO] Killerbean0: Set difficulty to EASY[m
+2014-12-23 14:51:23 [INFO] stevebean went up in flames
+2014-12-23 14:51:26 [INFO] Killerbean0 issued server command: //replacenear 30 lava 0
+2014-12-23 14:51:33 [INFO] Killerbean0 issued server command: //replacenear 30 lava 0
+2014-12-23 14:51:38 [INFO] [m<~[0;36;1mMichael[m> i need op nOW[m
+2014-12-23 14:51:38 [INFO] GriefPrevention: Muted spam from stevebean: i need op now
+2014-12-23 14:51:39 [INFO] GriefPrevention: Warned stevebean about spam penalties.
+2014-12-23 14:51:39 [INFO] GriefPrevention: Muted spam from stevebean: i need op now
+2014-12-23 14:51:39 [INFO] GriefPrevention: Muted spam from stevebean: i need op now
+2014-12-23 14:51:39 [INFO] stevebean issued server command: /
+2014-12-23 14:51:42 [INFO] GriefPrevention: Muted spam from stevebean: i need op now
+2014-12-23 14:51:43 [INFO] GriefPrevention: Muted spam from stevebean: i need op now
+2014-12-23 14:51:43 [INFO] GriefPrevention: Banning stevebean for spam.
+2014-12-23 14:51:43 [INFO] ?estevebean left the game.
+2014-12-23 14:51:52 [INFO] Killerbean0 issued server command: //replacenear 30 lava 0
+2014-12-23 14:51:53 [INFO] ODDBALL8000 issued server command: /gamemode adventure mwahlikespizza
+2014-12-23 14:51:54 [INFO] Connection reset
+2014-12-23 14:51:54 [INFO] mwahlikespizza lost connection: disconnect.quitting
+2014-12-23 14:51:54 [INFO] ?emwahlikespizza left the game.
+2014-12-23 14:51:58 [INFO] mwahlikespizza[/192.168.1.254:49253] logged in with entity id 992447 at ([Library_Aztlan] 5983.837458034258, 4.0, 5959.991602371618)
+2014-12-23 14:52:31 [INFO] Disconnecting stevebean [/192.168.1.21:49289]: ?4Banned:
+?rThe Ban Hammer has spoken!
+2014-12-23 14:52:40 [INFO] mwahlikespizza issued server command: /nick mwahlikespizza &5rukus
+2014-12-23 14:52:40 [INFO] ?cmwahlikespizza ?4was denied access to command.
+2014-12-23 14:53:05 [INFO] Disconnecting stevebean [/192.168.1.21:49293]: ?4Banned:
+?rThe Ban Hammer has spoken!
+2014-12-23 14:53:14 [INFO] Killerbean0 issued server command: /spawner
+2014-12-23 14:53:25 [INFO] Killerbean0 issued server command: /spawner experiencorb
+2014-12-23 14:53:28 [INFO] Killerbean0 issued server command: /spawner experiencorb
+2014-12-23 14:53:35 [INFO] Killerbean0 issued server command: /spawner experienorb
+2014-12-23 14:53:41 [INFO] Killerbean0 issued server command: /spawner experienceorb
+2014-12-23 14:54:10 [INFO] Killerbean0 issued server command: /spawner enderdragon
+2014-12-23 14:54:15 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 14:54:17 [WARNING] trainfrog moved too quickly! -0.13450744893270894,0.0,0.011005373967236665 (14.727670073146811, 0.6943411303464889, 8.655830941585203)
+2014-12-23 14:54:17 [WARNING] trainfrog moved too quickly! 0.0,-8.881784197001252E-16,0.0 (3.739805029551444, 1.376604692513008, 17.640689938940053)
+2014-12-23 14:54:17 [WARNING] trainfrog moved too quickly! 0.0,-8.881784197001252E-16,0.0 (3.4032226749721044, 0.8259628155078048, 16.053028307080954)
+2014-12-23 14:54:17 [WARNING] trainfrog moved too quickly! 0.0,-8.881784197001252E-16,0.0 (0.9983859531685403, 0.8555776946691009, 15.439855502781505)
+2014-12-23 14:54:17 [WARNING] trainfrog moved too quickly! 0.0,-8.881784197001252E-16,0.0 (0.1542851595684987, 0.7533466203777393, 14.394302436259451)
+2014-12-23 14:54:22 [INFO] Killerbean0 issued server command: /killall
+2014-12-23 14:54:58 [INFO] Disconnecting stevebean [/192.168.1.21:49297]: ?4Banned:
+?rThe Ban Hammer has spoken!
+2014-12-23 14:55:21 [INFO] Killerbean0 issued server command: //set 1
+2014-12-23 14:55:32 [INFO] Killerbean0 issued server command: //set 1
+2014-12-23 14:55:52 [INFO] Killerbean0 issued server command: //set 1
+2014-12-23 14:55:57 [INFO] Killerbean0 issued server command: /j
+2014-12-23 14:56:04 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 14:56:14 [INFO] [Metrics] mcstats.org
+2014-12-23 14:56:15 [INFO] Killerbean0 issued server command: //set 1
+2014-12-23 14:56:22 [INFO] Disconnecting stevebean [/192.168.1.21:49300]: ?4Banned:
+?rThe Ban Hammer has spoken!
+2014-12-23 14:56:36 [INFO] Killerbean0 issued server command: /kill mwah
+2014-12-23 14:56:37 [INFO] mwahlikespizza died
+2014-12-23 14:56:47 [INFO] Killerbean0 issued server command: /gm 0 train
+2014-12-23 14:56:49 [INFO] trainfrog fell from a high place
+2014-12-23 14:57:00 [INFO] Killerbean0 issued server command: //hsphere obsidian 3
+2014-12-23 14:57:07 [INFO] ODDBALL8000 issued server command: /unban stevebean
+2014-12-23 14:57:08 [INFO] ?6Player?c ?4~?5Gnarwhals?r ?6unbanned?c stevebean.
+2014-12-23 14:57:13 [INFO] stevebean[/192.168.1.21:49302] logged in with entity id 1129304 at ([Library_Aztlan] 6003.588186440172, 4.0, 5994.656234174125)
+2014-12-23 14:57:16 [INFO] [m<~[0;36;1mMichael[m> woo[m
+2014-12-23 14:57:17 [INFO] GriefPrevention: Muted spam from stevebean: woo
+2014-12-23 14:57:17 [INFO] GriefPrevention: Warned stevebean about spam penalties.
+2014-12-23 14:57:17 [INFO] GriefPrevention: Muted spam from stevebean: woo
+2014-12-23 14:57:18 [INFO] GriefPrevention: Muted spam from stevebean: woo
+2014-12-23 14:57:18 [INFO] GriefPrevention: Muted spam from stevebean: woo
+2014-12-23 14:57:18 [INFO] GriefPrevention: Muted spam from stevebean: woo
+2014-12-23 14:57:19 [INFO] GriefPrevention: Banning stevebean for spam.
+2014-12-23 14:57:19 [INFO] ?estevebean left the game.
+2014-12-23 14:57:21 [INFO] Killerbean0 issued server command: /tphere train
+2014-12-23 14:57:24 [INFO] Disconnecting stevebean [/192.168.1.21:49304]: ?4Banned:
+?rThe Ban Hammer has spoken!
+2014-12-23 14:57:25 [INFO] ODDBALL8000 issued server command: /gamemode creative mwah
+2014-12-23 14:57:31 [INFO] ODDBALL8000 issued server command: /unban stevebean
+2014-12-23 14:57:31 [INFO] ?6Player?c ?4~?5Gnarwhals?r ?6unbanned?c stevebean.
+2014-12-23 14:57:36 [INFO] Disconnecting stevebean [/192.168.1.21:49306]: You must wait 2 more minutes before logging-in again.
+2014-12-23 14:57:37 [INFO] Killerbean0 issued server command: /invsee train
+2014-12-23 14:57:42 [INFO] ODDBALL8000 issued server command: /unban stevebean
+2014-12-23 14:57:42 [INFO] ?6Player?c ?4~?5Gnarwhals?r ?6unbanned?c stevebean.
+2014-12-23 14:57:48 [INFO] Killerbean0 issued server command: /tphere train
+2014-12-23 14:58:05 [INFO] Killerbean0 issued server command: /tphere mwah
+2014-12-23 14:58:07 [INFO] Killerbean0 issued server command: /j
+2014-12-23 14:58:22 [INFO] Disconnecting stevebean [/192.168.1.21:49308]: You must wait 1 more minutes before logging-in again.
+2014-12-23 14:58:42 [INFO] Disconnecting stevebean [/192.168.1.21:49311]: You must wait 1 more minutes before logging-in again.
+2014-12-23 14:58:58 [INFO] Disconnecting stevebean [/192.168.1.21:49314]: You must wait 1 more minutes before logging-in again.
+2014-12-23 15:00:30 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> THIS IS A;BLOCK OF ;FECES;; @ Library_Aztlan(6003,5,6040)
+2014-12-23 15:00:46 [INFO] stevebean[/192.168.1.21:49339] logged in with entity id 1201255 at ([Library_Aztlan] 6003.588186440172, 4.0, 5994.656234174125)
+2014-12-23 15:00:51 [INFO] [m<~[0;36;1mMichael[m> dont ban me[m
+2014-12-23 15:00:52 [INFO] GriefPrevention: Muted spam from stevebean: dont ban me
+2014-12-23 15:00:52 [INFO] GriefPrevention: Warned stevebean about spam penalties.
+2014-12-23 15:00:52 [INFO] GriefPrevention: Muted spam from stevebean: dont ban me
+2014-12-23 15:00:52 [INFO] GriefPrevention: Muted spam from stevebean: dont ban me
+2014-12-23 15:00:53 [INFO] GriefPrevention: Muted spam from stevebean: dont ban me
+2014-12-23 15:00:54 [INFO] GriefPrevention: Muted spam from stevebean: woo
+2014-12-23 15:00:55 [INFO] [m<~[0;36;1mMichael[m> woo[m
+2014-12-23 15:00:56 [INFO] GriefPrevention: Muted spam from stevebean: woo
+2014-12-23 15:00:56 [INFO] GriefPrevention: Warned stevebean about spam penalties.
+2014-12-23 15:00:56 [INFO] GriefPrevention: Muted spam from stevebean: woo
+2014-12-23 15:00:57 [INFO] GriefPrevention: Muted spam from stevebean: woo
+2014-12-23 15:00:57 [INFO] GriefPrevention: Muted spam from stevebean: woo
+2014-12-23 15:00:58 [INFO] GriefPrevention: Muted spam from stevebean: woo
+2014-12-23 15:00:58 [INFO] GriefPrevention: Muted spam from stevebean: woo
+2014-12-23 15:00:58 [INFO] stevebean issued server command: /
+2014-12-23 15:00:59 [INFO] stevebean issued server command: /
+2014-12-23 15:01:01 [INFO] GriefPrevention: Banning stevebean for spam.
+2014-12-23 15:01:01 [INFO] ?estevebean left the game.
+2014-12-23 15:02:47 [INFO] ODDBALL8000 issued server command: /pvp on
+2014-12-23 15:02:53 [INFO] ODDBALL8000 issued server command: /unban stevebean
+2014-12-23 15:02:53 [INFO] ?6Player?c ?4~?5Gnarwhals?r ?6unbanned?c stevebean.
+2014-12-23 15:02:58 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> PRAAAAAAISE;JEBUS;;; @ Library_Aztlan(6003,34,5997)
+2014-12-23 15:02:59 [INFO] stevebean[/192.168.1.21:49341] logged in with entity id 1202561 at ([Library_Aztlan] 6003.588186440172, 4.0, 5994.656234174125)
+2014-12-23 15:03:01 [INFO] [m<~[0;36;1mMichael[m> woo[m
+2014-12-23 15:03:02 [INFO] GriefPrevention: Muted spam from stevebean: woo
+2014-12-23 15:03:03 [INFO] GriefPrevention: Warned stevebean about spam penalties.
+2014-12-23 15:03:03 [INFO] GriefPrevention: Muted spam from stevebean: woo
+2014-12-23 15:03:10 [INFO] stevebean issued server command: /OP
+2014-12-23 15:03:31 [INFO] ODDBALL8000 issued server command: /gamemode creaive stevebean
+2014-12-23 15:03:41 [INFO] ODDBALL8000 issued server command: /gamemode creative stevebean
+2014-12-23 15:03:42 [INFO] [m<~[0;36;1mMichael[m> make me op now[m
+2014-12-23 15:03:43 [INFO] Killerbean0 issued server command: /time set 0
+2014-12-23 15:03:49 [INFO] Killerbean0 issued server command: /
+2014-12-23 15:03:54 [INFO] Killerbean0 issued server command: /r
+2014-12-23 15:04:06 [INFO] Killerbean0 issued server command: /kabewm
+2014-12-23 15:04:11 [INFO] Killerbean0 issued server command: /nuke
+2014-12-23 15:04:21 [INFO] GriefPrevention: Muted spam from stevebean: make me op now
+2014-12-23 15:04:21 [INFO] Killerbean0 issued server command: /nuke
+2014-12-23 15:04:23 [INFO] Killerbean0 issued server command: /nuke
+2014-12-23 15:04:28 [INFO] GriefPrevention: Muted spam from stevebean: make me op now
+2014-12-23 15:04:42 [INFO] Killerbean0 issued server command: /invsee mwah
+2014-12-23 15:05:11 [INFO] [m<~[0;36;1mMichael[m> DIE[m
+2014-12-23 15:05:13 [INFO] GriefPrevention: Muted spam from stevebean: die
+2014-12-23 15:05:15 [INFO] GriefPrevention: Muted spam from stevebean: die
+2014-12-23 15:05:16 [INFO] Killerbean0 issued server command: /invsee mwah
+2014-12-23 15:05:32 [INFO] [m<~[0;36;1mMichael[m> make me op[m
+2014-12-23 15:06:01 [INFO] [m<~[0;36;1mMichael[m> make me op now or die[m
+2014-12-23 15:06:03 [INFO] GriefPrevention: Muted spam from stevebean: make me op now or die
+2014-12-23 15:06:04 [INFO] GriefPrevention: Muted spam from stevebean: make me op now or die
+2014-12-23 15:06:15 [INFO] ODDBALL8000 issued server command: /kill stevebean
+2014-12-23 15:06:15 [INFO] stevebean died
+2014-12-23 15:06:15 [INFO] [Metrics] mcstats.org
+2014-12-23 15:06:24 [INFO] [m<~[0;36;1mMichael[m> die now[m
+2014-12-23 15:06:24 [INFO] GriefPrevention: Muted spam from stevebean: die now
+2014-12-23 15:06:25 [INFO] GriefPrevention: Warned stevebean about spam penalties.
+2014-12-23 15:06:25 [INFO] GriefPrevention: Muted spam from stevebean: die now
+2014-12-23 15:06:25 [INFO] GriefPrevention: Muted spam from stevebean: die now
+2014-12-23 15:06:26 [INFO] GriefPrevention: Muted spam from stevebean: die now
+2014-12-23 15:06:29 [INFO] ODDBALL8000 issued server command: /kill stevebean
+2014-12-23 15:06:30 [INFO] Killerbean0 issued server command: /more
+2014-12-23 15:06:32 [INFO] ODDBALL8000 issued server command: /kill stevebean
+2014-12-23 15:06:32 [INFO] ODDBALL8000 issued server command: /kill stevebean
+2014-12-23 15:06:33 [INFO] ODDBALL8000 issued server command: /kill stevebean
+2014-12-23 15:06:33 [INFO] ODDBALL8000 issued server command: /kill stevebean
+2014-12-23 15:06:33 [INFO] ODDBALL8000 issued server command: /kill stevebean
+2014-12-23 15:06:34 [INFO] ODDBALL8000 issued server command: /kill stevebean
+2014-12-23 15:06:34 [INFO] ODDBALL8000 issued server command: /kill stevebean
+2014-12-23 15:06:34 [INFO] ODDBALL8000 issued server command: /kill stevebean
+2014-12-23 15:06:35 [INFO] Connection reset
+2014-12-23 15:06:35 [INFO] stevebean lost connection: disconnect.quitting
+2014-12-23 15:06:35 [INFO] ?estevebean left the game.
+2014-12-23 15:06:36 [INFO] Killerbean0 issued server command: /invsee mwah
+2014-12-23 15:06:42 [INFO] stevebean[/192.168.1.21:49343] logged in with entity id 1265749 at ([Library_Aztlan] 6005.1791004638135, 4.0, 5996.049476605866)
+2014-12-23 15:06:49 [INFO] Killerbean0 issued server command: /invsee ODD
+2014-12-23 15:06:50 [INFO] [m<~[0;36;1mMichael[m> i need op[m
+2014-12-23 15:06:51 [INFO] GriefPrevention: Muted spam from stevebean: i need op
+2014-12-23 15:06:51 [INFO] GriefPrevention: Warned stevebean about spam penalties.
+2014-12-23 15:06:51 [INFO] GriefPrevention: Muted spam from stevebean: i need op
+2014-12-23 15:06:52 [INFO] stevebean issued server command: /
+2014-12-23 15:06:52 [INFO] stevebean issued server command: /
+2014-12-23 15:06:52 [INFO] stevebean issued server command: /
+2014-12-23 15:06:54 [INFO] GriefPrevention: Muted spam from stevebean: i need op
+2014-12-23 15:06:54 [INFO] GriefPrevention: Muted spam from stevebean: i need op
+2014-12-23 15:06:55 [INFO] GriefPrevention: Muted spam from stevebean: i need op
+2014-12-23 15:06:56 [INFO] stevebean issued server command: /
+2014-12-23 15:06:57 [INFO] GriefPrevention: Muted spam from stevebean: i need op
+2014-12-23 15:06:58 [INFO] GriefPrevention: Banning stevebean for spam.
+2014-12-23 15:06:58 [INFO] ?estevebean left the game.
+2014-12-23 15:07:01 [INFO] ODDBALL8000 issued server command: /invsee mwah
+2014-12-23 15:07:26 [INFO] ODDBALL8000 issued server command: /invsee mwah
+2014-12-23 15:07:31 [INFO] Killerbean0 issued server command: /invsee train
+2014-12-23 15:08:10 [INFO] ODDBALL8000 issued server command: /invsee train
+2014-12-23 15:08:33 [INFO] ODDBALL8000 issued server command: /invsee train
+2014-12-23 15:09:02 [INFO] [m<~[0;31;22mLonleyMan[m> 672156198164264519645613546125481654163284328654832654236145134[m
+2014-12-23 15:09:27 [INFO] Killerbean0 issued server command: /gm 1 train
+2014-12-23 15:09:33 [INFO] GriefPrevention: Muted spam from trainfrog: yesssssssssssssssssssss
+2014-12-23 15:09:35 [INFO] [m<~[0;31;22mLonleyMan[m> noooo[m
+2014-12-23 15:10:05 [INFO] Killerbean0 issued server command: /nick trainfrog LonelyMan2.0
+2014-12-23 15:10:09 [INFO] ODDBALL8000 issued server command: /kill all
+2014-12-23 15:10:09 [INFO] ODDBALL8000 died
+2014-12-23 15:10:11 [INFO] Killerbean0 issued server command: /nick trainfrog LonelyManV2
+2014-12-23 15:10:18 [INFO] ODDBALL8000 issued server command: /kill all mob
+2014-12-23 15:10:22 [INFO] Disconnecting stevebean [/192.168.1.21:49345]: ?4Banned:
+?rThe Ban Hammer has spoken!
+2014-12-23 15:10:27 [INFO] Killerbean0 issued server command: /killall
+2014-12-23 15:10:32 [INFO] ODDBALL8000 issued server command: /killall
+2014-12-23 15:11:05 [INFO] [m<~LonelyManV2[m> poop[m
+2014-12-23 15:11:21 [INFO] Killerbean0 issued server command: /nick trainfrog PoopLoser69
+2014-12-23 15:11:25 [INFO] [m<~PoopLoser69[m> yess[m
+2014-12-23 15:11:36 [INFO] Killerbean0 issued server command: /nick trainfrog &8PoopLoser69
+2014-12-23 15:11:40 [INFO] [m<~[0;30;1mPoopLoser69[m> yessss[m
+2014-12-23 15:11:43 [INFO] Killerbean0 issued server command: /nick trainfrog &9PoopLoser69
+2014-12-23 15:11:49 [INFO] Killerbean0 issued server command: /nick trainfrog &1PoopLoser69
+2014-12-23 15:11:53 [INFO] Killerbean0 issued server command: /nick trainfrog &2PoopLoser69
+2014-12-23 15:11:57 [INFO] Killerbean0 issued server command: /nick trainfrog &3PoopLoser69
+2014-12-23 15:12:01 [INFO] Killerbean0 issued server command: /nick trainfrog &4PoopLoser69
+2014-12-23 15:12:04 [INFO] Killerbean0 issued server command: /nick trainfrog &5PoopLoser69
+2014-12-23 15:12:09 [INFO] Killerbean0 issued server command: /nick trainfrog &10PoopLoser69
+2014-12-23 15:12:34 [INFO] Killerbean0 issued server command: /nick trainfrog &10PoopLoser69
+2014-12-23 15:12:40 [INFO] Killerbean0 issued server command: /nick trainfrog &11PoopLoser69
+2014-12-23 15:12:46 [INFO] Killerbean0 issued server command: /nick trainfrog PoopLoser69
+2014-12-23 15:12:52 [INFO] [m<~PoopLoser69[m> hi[m
+2014-12-23 15:13:23 [INFO] ODDBALL8000 issued server command: /tp mwahlikespizza
+2014-12-23 15:13:23 [INFO] Killerbean0 issued server command: /tp mwah
+2014-12-23 15:13:28 [INFO] Killerbean0 issued server command: /give Kill 118 1
+2014-12-23 15:13:33 [INFO] Killerbean0 issued server command: /give Kill 120 1
+2014-12-23 15:13:36 [INFO] Killerbean0 issued server command: /give Kill 121 1
+2014-12-23 15:13:40 [INFO] Killerbean0 issued server command: /give Kill 122 1
+2014-12-23 15:14:00 [INFO] Killerbean0 issued server command: /give Kill 119 1
+2014-12-23 15:14:19 [INFO] ODDBALL8000 issued server command: /
+2014-12-23 15:14:25 [INFO] ODDBALL8000 issued server command: /spawn
+2014-12-23 15:14:27 [INFO] Disconnecting stevebean [/192.168.1.21:49351]: ?4Banned:
+?rThe Ban Hammer has spoken!
+2014-12-23 15:14:33 [INFO] ODDBALL8000 issued server command: /timeset 1
+2014-12-23 15:14:36 [INFO] ODDBALL8000 issued server command: /set time
+2014-12-23 15:14:39 [INFO] ODDBALL8000 issued server command: /set time 1
+2014-12-23 15:14:44 [INFO] Disconnecting stevebean [/192.168.1.21:49354]: ?4Banned:
+?rThe Ban Hammer has spoken!
+2014-12-23 15:14:46 [INFO] Killerbean0 issued server command: /tphere mwah
+2014-12-23 15:14:49 [WARNING] mwahlikespizza moved too quickly! -5785.437347921656,46.58000001311302,-5998.666513957883 (5785.437347921656, 46.58000001311302, 5998.666513957883)
+2014-12-23 15:14:49 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-12-23 15:14:54 [INFO] mwahlikespizza fell out of the world
+2014-12-23 15:15:04 [WARNING] Killerbean0 moved too quickly! -5786.535036927237,44.093050661597346,-6000.274868033568 (5786.535036927237, 44.093050661597346, 6000.274868033568)
+2014-12-23 15:15:12 [INFO] Disconnecting stevebean [/192.168.1.21:49357]: ?4Banned:
+?rThe Ban Hammer has spoken!
+2014-12-23 15:15:15 [INFO] Killerbean0 issued server command: /tp ODD
+2014-12-23 15:15:18 [INFO] ODDBALL8000 issued server command: /set time 1
+2014-12-23 15:15:20 [INFO] Killerbean0 issued server command: /time set 0
+2014-12-23 15:15:24 [INFO] ODDBALL8000 issued server command: /time set 1
+2014-12-23 15:15:28 [INFO] ODDBALL8000 issued server command: /time set 1
+2014-12-23 15:15:28 [INFO] ODDBALL8000 issued server command: /time set 1
+2014-12-23 15:15:29 [INFO] ODDBALL8000 issued server command: /time set 1
+2014-12-23 15:15:51 [INFO] Disconnecting stevebean [/192.168.1.21:49362]: ?4Banned:
+?rThe Ban Hammer has spoken!
+2014-12-23 15:16:04 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 15:16:05 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 15:16:05 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 15:16:06 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 15:16:06 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 15:16:07 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 15:16:08 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 15:16:08 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 15:16:08 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 15:16:09 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 15:16:09 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 15:16:10 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 15:16:15 [INFO] [Metrics] mcstats.org
+2014-12-23 15:16:21 [INFO] Disconnecting stevebean [/192.168.1.21:49387]: ?4Banned:
+?rThe Ban Hammer has spoken!
+2014-12-23 15:17:24 [INFO] Disconnecting stevebean [/192.168.1.21:49404]: ?4Banned:
+?rThe Ban Hammer has spoken!
+2014-12-23 15:18:48 [INFO] ODDBALL8000 issued server command: /unban stevebean
+2014-12-23 15:18:48 [INFO] ?6Player?c ?4~?5Gnarwhals?r ?6unbanned?c stevebean.
+2014-12-23 15:18:51 [INFO] trainfrog issued server command: /tp j
+2014-12-23 15:18:53 [INFO] stevebean[/192.168.1.21:49407] logged in with entity id 1565678 at ([Library_Aztlan] 6001.480333441064, 4.0, 5993.055178216879)
+2014-12-23 15:18:56 [INFO] trainfrog issued server command: /tphere kil
+2014-12-23 15:18:56 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:19:19 [INFO] mwahlikespizza issued server command: /tp stevebean
+2014-12-23 15:19:36 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 15:19:44 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 15:19:59 [INFO] ODDBALL8000 issued server command: /op mwah
+2014-12-23 15:19:59 [INFO] ODDBALL8000: Opped mwah[m
+2014-12-23 15:20:07 [INFO] [m<~[0;36;1mMichael[m> op me[m
+2014-12-23 15:20:08 [INFO] ODDBALL8000 issued server command: /op mwahlikespizza
+2014-12-23 15:20:08 [INFO] ODDBALL8000: Opped mwahlikespizza[m
+2014-12-23 15:20:11 [INFO] [m<~PoopLoser69[m> tei8fkseyfgkuesyfkaewhlksnflkhesafaehfsekjhfsefefsdfsfdfffffffffffffffffffffffffff[m
+2014-12-23 15:20:13 [INFO] GriefPrevention: Muted spam from stevebean: op me
+2014-12-23 15:20:16 [INFO] [m<~[0;36;1mMichael[m> [plkz[m
+2014-12-23 15:20:17 [INFO] ODDBALL8000 issued server command: /op stevebean
+2014-12-23 15:20:17 [INFO] ODDBALL8000: Opped stevebean[m
+2014-12-23 15:20:19 [INFO] [m<~PoopLoser69[m> 'bama[m
+2014-12-23 15:20:24 [INFO] [m<[0;31;22m~[0;36;1mMichael[m> YAYAYYAYAYAYAYAYAYYAYAYAYAYAYAYAYAYYAYAYAYAYAYAYAYA[m
+2014-12-23 15:20:27 [INFO] [m<~PoopLoser69[m> ksgfmsnhfv fkj SBLFIUj kse bpiogNfiO:ESIFN SPEGO;sjfdslifuhnewjraesflioulfhnDSLIFfndslkjesnfljkhsbnl[m
+2014-12-23 15:20:29 [INFO] GriefPrevention: Muted spam from trainfrog: ksgfmsnhfv fkj sblfiuj.kse bpiognfio:esifn spego;sjfdslifuhnewjraesflioulfhndsliffndslkjesnfljkhsbnl
+2014-12-23 15:20:29 [INFO] GriefPrevention: Muted spam from trainfrog: ksgfmsnhfv fkj sblfiuj.kse bpiognfio:esifn spego;sjfdslifuhnewjraesflioulfhndsliffndslkjesnfljkhsbnl
+2014-12-23 15:20:30 [INFO] GriefPrevention: Warned trainfrog about spam penalties.
+2014-12-23 15:20:30 [INFO] GriefPrevention: Muted spam from trainfrog: ksgfmsnhfv fkj sblfiuj.kse bpiognfio:esifn spego;sjfdslifuhnewjraesflioulfhndsliffndslkjesnfljkhsbnl
+2014-12-23 15:20:31 [INFO] GriefPrevention: Muted spam from trainfrog: ksgfmsnhfv fkj sblfiuj.kse bpiognfio:esifn spego;sjfdslifuhnewjraesflioulfhndsliffndslkjesnfljkhsbnl
+2014-12-23 15:20:36 [INFO] mwahlikespizza issued server command: /nick mwahlikespizza &5rugged rukus
+2014-12-23 15:20:41 [INFO] mwahlikespizza issued server command: /nick mwahlikespizza &5ruggedrukus
+2014-12-23 15:20:42 [INFO] stevebean issued server command: /effect stevebean 1 30 255
+2014-12-23 15:20:42 [INFO] stevebean: Given SPEED (ID 1) * 255 to stevebean for 30 seconds[m
+2014-12-23 15:20:44 [WARNING] stevebean moved too quickly! 0.20471707252272608,0.0,10.264371798185493 (0.20471707252272608, 0.0784000015258789, 10.264371798185493)
+2014-12-23 15:20:45 [WARNING] stevebean moved too quickly! 0.20332875261556183,0.0,10.194762402858032 (0.20332875261556183, 0.0784000015258789, 10.194762402858032)
+2014-12-23 15:20:45 [WARNING] stevebean moved too quickly! 0.20332875261556183,0.0,10.194762402858032 (0.20332875261556183, 0.0784000015258789, 10.194762402858032)
+2014-12-23 15:20:46 [WARNING] stevebean moved too quickly! 0.20332875261556183,0.0,10.194762402858032 (0.20332875261556183, 0.0784000015258789, 10.194762402858032)
+2014-12-23 15:20:46 [WARNING] stevebean moved too quickly! 0.3942599942893139,0.0,10.189040711002235 (0.3942599942893139, 0.0784000015258789, 10.189040711002235)
+2014-12-23 15:20:46 [WARNING] stevebean moved too quickly! 0.4486514175505363,0.0,10.186866366650065 (0.4486514175505363, 0.0784000015258789, 10.186866366650065)
+2014-12-23 15:20:47 [WARNING] stevebean moved too quickly! 1.5358957057760563,0.0,10.075749483056825 (1.5358957057760563, 0.0784000015258789, 10.075749483056825)
+2014-12-23 15:20:48 [WARNING] stevebean moved too quickly! 1.6217765709061496,0.0,10.066858768484053 (1.6217765709061496, 0.0784000015258789, 10.066858768484053)
+2014-12-23 15:20:48 [WARNING] stevebean moved too quickly! 2.0267126241942606,0.0,9.992490587595967 (2.0267126241942606, 0.0784000015258789, 9.992490587595967)
+2014-12-23 15:20:49 [WARNING] stevebean moved too quickly! -0.5962329109615894,0.0,10.021824280439432 (0.5962329109615894, 0.0784000015258789, 10.021824280439432)
+2014-12-23 15:20:49 [WARNING] stevebean moved too quickly! 2.059243610858175,0.0,9.986515642438462 (2.059243610858175, 0.0784000015258789, 9.986515642438462)
+2014-12-23 15:20:50 [WARNING] stevebean moved too quickly! 2.019364302271242,0.0,9.99465308345043 (2.019364302271242, 0.0784000015258789, 9.99465308345043)
+2014-12-23 15:20:50 [WARNING] stevebean moved too quickly! 0.8535176734358174,0.0,10.157697475232453 (0.8535176734358174, 0.0784000015258789, 10.157697475232453)
+2014-12-23 15:20:50 [INFO] [m<[0;31;22m~CtrlAltDel[m> t[m
+2014-12-23 15:20:50 [WARNING] stevebean moved too quickly! 1.574466657632911,0.0,10.072448929025086 (1.574466657632911, 0.0784000015258789, 10.072448929025086)
+2014-12-23 15:20:51 [WARNING] stevebean moved too quickly! 1.79740737424072,0.0,10.036576675579454 (1.79740737424072, 0.0784000015258789, 10.036576675579454)
+2014-12-23 15:20:51 [WARNING] stevebean moved too quickly! 2.769099985099274,0.0,9.813201865472365 (2.769099985099274, 0.0784000015258789, 9.813201865472365)
+2014-12-23 15:20:52 [WARNING] stevebean moved too quickly! 2.794914053994944,0.0,9.806025421658887 (2.794914053994944, 0.0784000015258789, 9.806025421658887)
+2014-12-23 15:20:52 [WARNING] stevebean moved too quickly! 2.794914053994944,0.0,9.806025421658887 (2.794914053994944, 0.0784000015258789, 9.806025421658887)
+2014-12-23 15:20:52 [WARNING] stevebean moved too quickly! 2.794914053994944,0.0,9.806025421658887 (2.794914053994944, 0.0784000015258789, 9.806025421658887)
+2014-12-23 15:20:53 [WARNING] stevebean moved too quickly! 2.794914053994944,0.0,9.806025421658887 (2.794914053994944, 0.0784000015258789, 9.806025421658887)
+2014-12-23 15:20:53 [WARNING] stevebean moved too quickly! 2.794914053994944,0.0,9.806025421658887 (2.794914053994944, 0.0784000015258789, 9.806025421658887)
+2014-12-23 15:20:54 [WARNING] stevebean moved too quickly! 1.856172378813426,0.0,9.869590691026133 (1.856172378813426, 0.0784000015258789, 9.869590691026133)
+2014-12-23 15:20:55 [WARNING] stevebean moved too quickly! 7.61821103863258,0.0,7.207689458266941 (7.61821103863258, 0.0784000015258789, 7.207689458266941)
+2014-12-23 15:20:55 [WARNING] stevebean moved too quickly! 5.909528819594016,0.0,8.30278543921213 (5.909528819594016, 0.0784000015258789, 8.30278543921213)
+2014-12-23 15:20:56 [WARNING] stevebean moved too quickly! 6.169287431590419,0.0,8.117363880028279 (6.169287431590419, 0.0784000015258789, 8.117363880028279)
+2014-12-23 15:21:09 [WARNING] stevebean moved too quickly! 8.919231225891053,0.0,5.081714988104977 (8.919231225891053, 0.0784000015258789, 5.081714988104977)
+2014-12-23 15:21:09 [WARNING] stevebean moved too quickly! 9.050137071748395,0.0,4.695881480264688 (9.050137071748395, 0.0784000015258789, 4.695881480264688)
+2014-12-23 15:21:09 [WARNING] stevebean moved too quickly! 9.377760017522633,0.0,3.9978382605268052 (9.377760017522633, 0.0784000015258789, 3.9978382605268052)
+2014-12-23 15:21:10 [WARNING] stevebean moved too quickly! 9.433665018164902,0.0,3.8696121980456155 (9.433665018164902, 0.0784000015258789, 3.8696121980456155)
+2014-12-23 15:21:10 [WARNING] stevebean moved too quickly! 9.554456863583255,0.0,3.555118040513662 (9.554456863583255, 0.0784000015258789, 3.555118040513662)
+2014-12-23 15:21:11 [WARNING] stevebean moved too quickly! 9.009762688609044,0.0,5.03663004846203 (9.009762688609044, 0.0784000015258789, 5.03663004846203)
+2014-12-23 15:21:11 [WARNING] stevebean moved too quickly! 9.39822621276744,0.0,3.954870532341374 (9.39822621276744, 0.0784000015258789, 3.954870532341374)
+2014-12-23 15:21:12 [WARNING] stevebean moved too quickly! 9.399537486558984,0.0,3.9517711950074954 (9.399537486558984, 0.0784000015258789, 3.9517711950074954)
+2014-12-23 15:21:12 [WARNING] stevebean moved too quickly! 4.34000813410421,0.0,9.208295604402338 (4.34000813410421, 0.0784000015258789, 9.208295604402338)
+2014-12-23 15:21:13 [WARNING] stevebean moved too quickly! 9.320249292624794,0.0,4.134855561531367 (9.320249292624794, 0.0784000015258789, 4.134855561531367)
+2014-12-23 15:21:13 [WARNING] stevebean moved too quickly! 9.310896767396116,0.0,4.156285939506233 (9.310896767396116, 0.0784000015258789, 4.156285939506233)
+2014-12-23 15:21:13 [WARNING] stevebean moved too quickly! 9.362043746450581,0.0,4.039711050345431 (9.362043746450581, 0.0784000015258789, 4.039711050345431)
+2014-12-23 15:21:14 [WARNING] stevebean moved too quickly! 9.465852134946545,0.0,3.790190978591454 (9.465852134946545, 0.0784000015258789, 3.790190978591454)
+2014-12-23 15:21:14 [WARNING] stevebean moved too quickly! 9.467073046163932,0.0,3.78715831804584 (9.467073046163932, 0.0784000015258789, 3.78715831804584)
+2014-12-23 15:21:15 [WARNING] stevebean moved too quickly! 9.308644916796766,0.0,4.159078842864801 (9.308644916796766, 0.0784000015258789, 4.159078842864801)
+2014-12-23 15:21:15 [WARNING] stevebean moved too quickly! 8.927668734248982,0.0,4.920249886708916 (8.927668734248982, 0.0784000015258789, 4.920249886708916)
+2014-12-23 15:21:16 [WARNING] stevebean moved too quickly! 8.958822141601559,0.0,4.868831533241973 (8.958822141601559, 0.0784000015258789, 4.868831533241973)
+2014-12-23 15:21:16 [WARNING] stevebean moved too quickly! 8.757895045405348,0.0,5.220093679134152 (8.757895045405348, 0.0784000015258789, 5.220093679134152)
+2014-12-23 15:21:17 [WARNING] stevebean moved too quickly! 9.018916558607089,0.0,4.756662853873422 (9.018916558607089, 0.0784000015258789, 4.756662853873422)
+2014-12-23 15:21:18 [WARNING] stevebean moved too quickly! 9.616742447929937,0.0,3.3376069479409125 (9.616742447929937, 0.0784000015258789, 3.3376069479409125)
+2014-12-23 15:21:18 [WARNING] stevebean moved too quickly! 9.773366371832708,0.0,2.9069993845205317 (9.773366371832708, 0.0784000015258789, 2.9069993845205317)
+2014-12-23 15:21:19 [WARNING] stevebean moved too quickly! 9.829024792298696,0.0,2.7084238837778685 (9.829024792298696, 0.0784000015258789, 2.7084238837778685)
+2014-12-23 15:21:19 [WARNING] stevebean moved too quickly! 10.045855244997256,0.0,1.7335801707622522 (10.045855244997256, 0.0784000015258789, 1.7335801707622522)
+2014-12-23 15:21:22 [INFO] mwahlikespizza issued server command: /tpa stevebean
+2014-12-23 15:21:25 [INFO] Killerbean0 issued server command: //pos2
+2014-12-23 15:21:32 [INFO] stevebean issued server command: /tpaccept
+2014-12-23 15:21:34 [INFO] Killerbean0 issued server command: //replace gravel 1
+2014-12-23 15:21:44 [INFO] Killerbean0 issued server command: //naturalize
+2014-12-23 15:21:59 [INFO] Killerbean0 issued server command: //setbiome jungle
+2014-12-23 15:22:08 [INFO] Killerbean0 lost connection: disconnect.quitting
+2014-12-23 15:22:08 [INFO] Connection reset
+2014-12-23 15:22:08 [INFO] ?eKillerbean0 left the game.
+2014-12-23 15:22:11 [INFO] stevebean issued server command: /tp mwahlikespizza
+2014-12-23 15:22:14 [INFO] Killerbean0[/192.168.1.248:49314] logged in with entity id 1684031 at ([Library_Aztlan] 5942.365788596273, 36.710227786361195, 5794.159969687494)
+2014-12-23 15:22:16 [INFO] stevebean issued server command: /kill
+2014-12-23 15:22:23 [INFO] stevebean issued server command: /kill stevebean
+2014-12-23 15:22:23 [INFO] stevebean died
+2014-12-23 15:22:34 [INFO] mwahlikespizza issued server command: /spawn
+2014-12-23 15:24:27 [INFO] stevebean issued server command: /tpohere mwahlikespizza
+2014-12-23 15:25:46 [INFO] stevebean issued server command: /summon Pig ~ ~ ~ {Invunerable:1}
+2014-12-23 15:25:53 [INFO] stevebean issued server command: /summon Pig
+2014-12-23 15:26:09 [INFO] ODDBALL8000 issued server command: /time set 1
+2014-12-23 15:26:14 [INFO] stevebean issued server command: /give stevebean 193
+2014-12-23 15:26:15 [INFO] [Metrics] mcstats.org
+2014-12-23 15:26:18 [INFO] stevebean issued server command: /give stevebean head
+2014-12-23 15:26:39 [INFO] BraveNewWorld78[/192.168.1.23:49578] logged in with entity id 1791004 at ([Library_Aztlan] -626.7950852240482, 13.0, 590.9011342190861)
+2014-12-23 15:26:41 [INFO] stevebean issued server command: /give stevebean head 3 3 {SkullOwner:manontheroof111}
+2014-12-23 15:27:23 [INFO] BraveNewWorld78 issued server command: /gm 1
+2014-12-23 15:27:30 [INFO] stevebean issued server command: /op bravenewworld3659872
+2014-12-23 15:27:30 [INFO] stevebean: Opped bravenewworld3659872[m
+2014-12-23 15:27:41 [INFO] BraveNewWorld78 issued server command: /tp to killerbean
+2014-12-23 15:27:54 [INFO] Killerbean0 issued server command: /tphere brave
+2014-12-23 15:28:32 [INFO] GriefPrevention: [Sign Placement] <stevebean> Pigs Are Pink;;;; @ Library_Aztlan(6043,4,5932)
+2014-12-23 15:28:33 [INFO] ODDBALL8000 issued server command: /killall
+2014-12-23 15:29:02 [INFO] stevebean issued server command: /killall pig
+2014-12-23 15:29:28 [INFO] stevebean issued server command: /kill mwahlikespizza
+2014-12-23 15:29:29 [INFO] mwahlikespizza died
+2014-12-23 15:29:35 [INFO] stevebean issued server command: /deop mwahlikespizza
+2014-12-23 15:29:35 [INFO] stevebean: De-opped mwahlikespizza[m
+2014-12-23 15:29:44 [INFO] stevebean issued server command: /op mwahlikespizza
+2014-12-23 15:29:44 [INFO] stevebean: Opped mwahlikespizza[m
+2014-12-23 15:30:03 [INFO] stevebean issued server command: /deop mwahlikespizza
+2014-12-23 15:30:03 [INFO] stevebean: De-opped mwahlikespizza[m
+2014-12-23 15:30:20 [INFO] stevebean issued server command: /op mwahlikespizza
+2014-12-23 15:30:20 [INFO] stevebean: Opped mwahlikespizza[m
+2014-12-23 15:30:27 [INFO] mwahlikespizza issued server command: /bann stevebean
+2014-12-23 15:30:30 [INFO] stevebean issued server command: /kill mwahlikespizza
+2014-12-23 15:30:30 [INFO] mwahlikespizza died
+2014-12-23 15:30:32 [INFO] stevebean issued server command: /kill mwahlikespizza
+2014-12-23 15:30:34 [INFO] stevebean issued server command: /kill mwahlikespizza
+2014-12-23 15:30:35 [INFO] stevebean issued server command: /
+2014-12-23 15:30:41 [INFO] mwahlikespizza issued server command: /ban stevebean
+2014-12-23 15:30:53 [INFO] mwahlikespizza issued server command: /deop stevebean
+2014-12-23 15:30:53 [INFO] mwahlikespizza: De-opped stevebean[m
+2014-12-23 15:30:56 [INFO] mwahlikespizza issued server command: /ban stevebean
+2014-12-23 15:30:56 [INFO] ?estevebean left the game.
+2014-12-23 15:30:56 [INFO] ?6Player?c ?4~?5ruggedrukus?r ?6banned?c stevebean ?6for The Ban Hammer has spoken!.
+2014-12-23 15:31:14 [INFO] Killerbean0 issued server command: /tp train
+2014-12-23 15:31:41 [INFO] Disconnecting stevebean [/192.168.1.21:49412]: ?4Banned:
+?rThe Ban Hammer has spoken!
+2014-12-23 15:32:00 [INFO] ODDBALL8000 issued server command: /unban stevebean
+2014-12-23 15:32:00 [INFO] ?6Player?c ?4~?5Gnarwhals?r ?6unbanned?c stevebean.
+2014-12-23 15:32:03 [INFO] stevebean[/192.168.1.21:49414] logged in with entity id 1942761 at ([Library_Aztlan] 6045.003777285054, 6.0, 5933.825656118681)
+2014-12-23 15:32:23 [INFO] mwahlikespizza issued server command: /tpa train
+2014-12-23 15:32:28 [INFO] trainfrog issued server command: /tpaccept
+2014-12-23 15:32:28 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:32:35 [INFO] mwahlikespizza issued server command: /tpa train
+2014-12-23 15:32:40 [INFO] Killerbean0 issued server command: /tp mwah train
+2014-12-23 15:32:59 [INFO] stevebean issued server command: /killall pig
+2014-12-23 15:32:59 [INFO] ?cstevebean ?4was denied access to command.
+2014-12-23 15:33:07 [INFO] Killerbean0 issued server command: /killall
+2014-12-23 15:33:23 [INFO] mwahlikespizza fell out of the world
+2014-12-23 15:33:23 [INFO] stevebean issued server command: /killall pig
+2014-12-23 15:33:23 [INFO] ?cstevebean ?4was denied access to command.
+2014-12-23 15:33:43 [INFO] Killerbean0 issued server command: /braodcast Mwahlikespizza is out of this world
+2014-12-23 15:34:29 [INFO] Killerbean0 issued server command: /killall
+2014-12-23 15:34:33 [INFO] stevebean issued server command: /killall pig
+2014-12-23 15:34:33 [INFO] ?cstevebean ?4was denied access to command.
+2014-12-23 15:34:57 [INFO] stevebean issued server command: /clear
+2014-12-23 15:34:57 [INFO] ?cstevebean ?4was denied access to command.
+2014-12-23 15:36:15 [INFO] [Metrics] mcstats.org
+2014-12-23 15:36:24 [INFO] ODDBALL8000 issued server command: /killall
+2014-12-23 15:36:28 [INFO] ODDBALL8000 issued server command: /time set 1
+2014-12-23 15:37:23 [INFO] mwahlikespizza issued server command: /tp Killerbean0
+2014-12-23 15:37:39 [INFO] ODDBALL8000 issued server command: /tp trainfrog
+2014-12-23 15:38:32 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 15:38:34 [INFO] Killerbean0 issued server command: //undo
+2014-12-23 15:39:13 [INFO] Killerbean0 issued server command: /tp train
+2014-12-23 15:39:38 [INFO] Killerbean0 issued server command: /kittycannon
+2014-12-23 15:39:41 [INFO] Killerbean0 issued server command: /kittycannon
+2014-12-23 15:39:43 [INFO] Killerbean0 issued server command: /kittycannon
+2014-12-23 15:39:44 [INFO] Killerbean0 issued server command: /kittycannon
+2014-12-23 15:39:45 [INFO] Killerbean0 issued server command: /kittycannon
+2014-12-23 15:39:49 [INFO] Killerbean0 issued server command: /back
+2014-12-23 15:40:24 [INFO] Killerbean0 issued server command: /tp odd
+2014-12-23 15:40:51 [INFO] [m<~[0;36;1mMichael[m> me uses proper graamer the bestest[m
+2014-12-23 15:41:22 [INFO] ODDBALL8000 issued server command: /killall
+2014-12-23 15:41:53 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-12-23 15:42:03 [INFO] mwahlikespizza issued server command: /spawn
+2014-12-23 15:42:50 [INFO] Killerbean0 issued server command: /tp train
+2014-12-23 15:43:03 [INFO] mwahlikespizza issued server command: /tp train
+2014-12-23 15:43:38 [INFO] stevebean issued server command: /pt
+2014-12-23 15:43:42 [INFO] stevebean issued server command: /powertool
+2014-12-23 15:43:42 [INFO] ?cstevebean ?4was denied access to command.
+2014-12-23 15:46:16 [INFO] [Metrics] mcstats.org
+2014-12-23 15:47:22 [INFO] Killerbean0 issued server command: /time set 0
+2014-12-23 15:48:56 [INFO] stevebean issued server command: /powertool
+2014-12-23 15:48:57 [INFO] ?cstevebean ?4was denied access to command.
+2014-12-23 15:49:04 [INFO] stevebean issued server command: /powertool kittycannon
+2014-12-23 15:49:05 [INFO] ?cstevebean ?4was denied access to command.
+2014-12-23 15:49:29 [INFO] GriefPrevention: [Sign Placement] <BraveNewWorld78> Take a look;inside!;Build your own;next to mine!; @ Library_Aztlan(6079,5,6019)
+2014-12-23 15:50:26 [INFO] GriefPrevention: [Sign Placement] <BraveNewWorld78> Build a;house!;This way! ;--->; @ Library_Aztlan(6027,5,6017)
+2014-12-23 15:50:36 [WARNING] mwahlikespizza moved too quickly! 0.0,0.0,0.0 (17.246135453655086, 0.0, 17.966758693099468)
+2014-12-23 15:50:36 [WARNING] mwahlikespizza moved too quickly! 0.0,0.0,0.0 (15.69398371512403, 0.0, 16.349750881917515)
+2014-12-23 15:50:36 [WARNING] mwahlikespizza moved too quickly! 0.0,0.0,0.0 (22.453182287942607, 0.0, 26.522660044077828)
+2014-12-23 15:50:36 [WARNING] mwahlikespizza moved too quickly! 0.0,0.0,0.0 (31.66080659203203, 0.0, 42.04335542895614)
+2014-12-23 15:50:36 [WARNING] mwahlikespizza moved too quickly! 0.0,0.0,0.0 (36.14995399544377, 0.0, 50.96881912928571)
+2014-12-23 15:50:37 [WARNING] mwahlikespizza moved too quickly! 0.0,0.0,0.0 (32.8964590839241, 0.0, 46.381626744360474)
+2014-12-23 15:50:37 [WARNING] mwahlikespizza moved too quickly! 0.0,0.0,0.0 (29.935778629114903, 0.0, 42.2072815537746)
+2014-12-23 15:50:37 [WARNING] mwahlikespizza moved too quickly! 0.0,0.0,0.0 (27.2415593375916, 0.0, 38.408627320864895)
+2014-12-23 15:50:37 [WARNING] mwahlikespizza moved too quickly! 0.0,0.0,0.0 (24.789819711646683, 0.0, 34.95185186929339)
+2014-12-23 15:50:37 [WARNING] mwahlikespizza moved too quickly! 0.0,0.0,0.0 (22.558736587737375, 0.0, 31.80618611770578)
+2014-12-23 15:50:37 [WARNING] mwahlikespizza moved too quickly! 0.0,0.0,0.0 (20.52845088646742, 0.0, 28.94363020126269)
+2014-12-23 15:50:37 [WARNING] mwahlikespizza moved too quickly! 0.0,0.0,0.0 (18.680890845065402, 0.0, 26.33870424222596)
+2014-12-23 15:50:37 [WARNING] mwahlikespizza moved too quickly! 0.0,0.0,0.0 (16.999611158935377, 0.0, 23.968221551185632)
+2014-12-23 15:50:37 [WARNING] mwahlikespizza moved too quickly! 0.0,0.0,0.0 (15.469646600463738, 0.0, 21.811082240170553)
+2014-12-23 15:50:37 [WARNING] mwahlikespizza moved too quickly! 0.0,0.0,0.0 (14.077378812129629, 0.0, 19.8480854105736)
+2014-12-23 15:50:37 [WARNING] mwahlikespizza moved too quickly! 0.0,0.0,0.0 (12.810415088231915, 0.0, 18.06175824415873)
+2014-12-23 15:50:37 [WARNING] mwahlikespizza moved too quickly! 0.0,0.0,0.0 (11.657478066257548, 0.0, 16.43620047587291)
+2014-12-23 15:50:37 [WARNING] mwahlikespizza moved too quickly! 0.0,0.0,0.0 (10.608305346023897, 0.0, 14.956942864100858)
+2014-12-23 15:50:37 [WARNING] mwahlikespizza moved too quickly! 0.0,0.0,0.0 (9.653558143095626, 0.0, 13.610818398593219)
+2014-12-23 15:50:37 [WARNING] mwahlikespizza moved too quickly! 0.0,0.0,0.0 (8.784738163391658, 0.0, 12.385845099677747)
+2014-12-23 15:50:38 [WARNING] mwahlikespizza moved too quickly! 0.0,0.0,0.0 (7.994111959075336, 0.0, 11.271119365538464)
+2014-12-23 15:50:38 [WARNING] mwahlikespizza moved too quickly! 0.0,0.0,0.0 (7.274642092412485, 0.0, 10.25671891823687)
+2014-12-23 15:50:38 [WARNING] mwahlikespizza moved too quickly! 0.0,0.0,0.0 (6.6199244948804425, 0.0, 9.333614484588711)
+2014-12-23 15:50:38 [WARNING] mwahlikespizza moved too quickly! 0.0,0.0,0.0 (6.024131463955632, 0.0, 8.493589425759508)
+2014-12-23 15:50:44 [INFO] ODDBALL8000 issued server command: /kill all
+2014-12-23 15:50:44 [INFO] ODDBALL8000 died
+2014-12-23 15:50:53 [INFO] ODDBALL8000 issued server command: /killall
+2014-12-23 15:50:58 [INFO] GriefPrevention: [Sign Placement] <BraveNewWorld78> Build a;house!;This way!;--->; @ Library_Aztlan(6027,5,6017)
+2014-12-23 15:51:03 [INFO] mwahlikespizza issued server command: /op steve
+2014-12-23 15:51:03 [INFO] mwahlikespizza: Opped steve[m
+2014-12-23 15:51:09 [INFO] stevebean issued server command: /powertool kittycannon
+2014-12-23 15:51:09 [INFO] ?cstevebean ?4was denied access to command.
+2014-12-23 15:51:09 [INFO] mwahlikespizza issued server command: /op stevebean
+2014-12-23 15:51:09 [INFO] mwahlikespizza: Opped stevebean[m
+2014-12-23 15:51:11 [INFO] stevebean issued server command: /powertool kittycannon
+2014-12-23 15:51:16 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:51:26 [INFO] stevebean issued server command: /powertool
+2014-12-23 15:52:33 [INFO] stevebean issued server command: /powertool kittycannon
+2014-12-23 15:52:35 [INFO] stevebean issued server command: /tp mwahlikespizza
+2014-12-23 15:52:37 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:37 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:38 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:38 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:38 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:38 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:38 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:38 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:41 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:41 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:41 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:42 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:42 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:42 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:44 [INFO] stevebean issued server command: /tp mwahlikespizza
+2014-12-23 15:52:45 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:46 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:46 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:46 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:46 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:46 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:46 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:47 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:47 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:47 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:47 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:48 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:48 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:48 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:48 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:50 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:51 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:52 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:54 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:54 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:54 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:52:57 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:11 [INFO] stevebean issued server command: /powertool display stevebean
+2014-12-23 15:53:11 [INFO] [PT] stevebean issued server command: /display stevebean
+2014-12-23 15:53:25 [INFO] stevebean issued server command: /powertool kittycannon
+2014-12-23 15:53:31 [INFO] stevebean issued server command: /tp all
+2014-12-23 15:53:33 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:35 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:35 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:35 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:37 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:37 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:38 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:41 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:41 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:41 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:41 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:41 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:41 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:41 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:41 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:41 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:42 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:43 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:45 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:45 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:45 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:45 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:45 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:45 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:46 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:46 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:53:46 [INFO] mwahlikespizza issued server command: /spawn
+2014-12-23 15:53:54 [INFO] ODDBALL8000 issued server command: /killall
+2014-12-23 15:53:54 [INFO] stevebean issued server command: /powertool']
+2014-12-23 15:53:56 [INFO] stevebean issued server command: /powertool
+2014-12-23 15:54:09 [INFO] stevebean issued server command: /powertool stevebean stevebean
+2014-12-23 15:54:10 [INFO] [PT] stevebean issued server command: /stevebean stevebean
+2014-12-23 15:54:12 [INFO] stevebean issued server command: /powertool
+2014-12-23 15:54:18 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:18 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:18 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:18 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:18 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:18 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:18 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:18 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:18 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:18 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:18 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:18 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:19 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:19 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:19 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:19 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:19 [INFO] GriefPrevention: [Sign Placement] <BraveNewWorld78> Roller;Coaster!;;; @ Library_Aztlan(6013,5,6027)
+2014-12-23 15:54:19 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:19 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:19 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:19 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:19 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:19 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:20 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:20 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:20 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:20 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:20 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:20 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:21 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:21 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:21 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:21 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:21 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:21 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:21 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:21 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:22 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:22 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:22 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:22 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:22 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:22 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:22 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:22 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:22 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:22 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:22 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:22 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:23 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:23 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:23 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:23 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:23 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:23 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:23 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:23 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:23 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:23 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:23 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:23 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:24 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:24 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:24 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:24 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:24 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:24 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:24 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:24 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:24 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:25 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:25 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:25 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:25 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:25 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:25 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:25 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:25 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:25 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:25 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:25 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:26 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:26 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:26 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:26 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:26 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:26 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:26 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:26 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:26 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:26 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:26 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:26 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:27 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:27 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:27 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:27 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:27 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:27 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:27 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:27 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:27 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:27 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:30 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:30 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:30 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:30 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:30 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:30 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:31 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:31 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:31 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:31 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:31 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:31 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:31 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:31 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:31 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:31 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:32 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:32 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:32 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:32 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:32 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:32 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:32 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:33 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:33 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:33 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:33 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:33 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:33 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:33 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:33 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:33 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:33 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:33 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:34 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:34 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:34 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:34 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:34 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:34 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:34 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:34 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:34 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:34 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:34 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:34 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:35 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:35 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:35 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:35 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:35 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:35 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:35 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:35 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:36 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:36 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:36 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:36 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:36 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:36 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:36 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:36 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:36 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:36 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:37 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:37 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:37 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:37 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:37 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:37 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:37 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:37 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:37 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:37 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:38 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:38 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:38 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:38 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:38 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:38 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:38 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:38 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:39 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:39 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:39 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:39 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:39 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:39 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:39 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:39 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:39 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:39 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:40 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:40 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:40 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:40 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:40 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:40 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:40 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:40 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:40 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:40 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:40 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:40 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:41 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:41 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:41 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:41 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:41 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:41 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:41 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:41 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:41 [INFO] GriefPrevention: [Sign Placement] <BraveNewWorld78> Roller;Coaster!;<----;; @ Library_Aztlan(6014,5,6027)
+2014-12-23 15:54:41 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:42 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:42 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:42 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:42 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:42 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:42 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:42 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:42 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:42 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:42 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:42 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:43 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:43 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:43 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:43 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:43 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:43 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:43 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:43 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:43 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:43 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:44 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:44 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:44 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:44 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:44 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:44 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:44 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:44 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:44 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:44 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:45 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:45 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:45 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:45 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:45 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:45 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:45 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:45 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:45 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:45 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:46 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:46 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:46 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:46 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:46 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:46 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:46 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:46 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:46 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:46 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:47 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:47 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:47 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:47 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:47 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:47 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:47 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:47 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:48 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:48 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:48 [INFO] stevebean issued server command: /tp od
+2014-12-23 15:54:48 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:48 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:49 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:49 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:49 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:49 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:49 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:49 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:49 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:49 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:50 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:50 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:50 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:50 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:50 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:50 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:50 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:50 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:50 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:50 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:51 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:51 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:51 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:51 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:51 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:51 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:52 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:52 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:52 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:52 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:52 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:52 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:52 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:52 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:52 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:52 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:52 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:52 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:53 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:53 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:53 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:53 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:53 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:53 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:53 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:53 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:54 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:54 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:54 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:54 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:54 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:54 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:54 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:54 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:55 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:55 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:55 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:55 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:55 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:55 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:55 [INFO] Killerbean0 issued server command: /killall
+2014-12-23 15:54:55 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:55 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:55 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:55 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:56 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:56 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:56 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:54:56 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:54:57 [INFO] stevebean issued server command: /pt
+2014-12-23 15:55:01 [INFO] GriefPrevention: [Sign Placement] <BraveNewWorld78> Roller;Coaster;<----;; @ Library_Aztlan(6013,5,6027)
+2014-12-23 15:55:30 [INFO] stevebean issued server command: /powertool kittycannon
+2014-12-23 15:55:44 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:02 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:14 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:15 [INFO] [Metrics] mcstats.org
+2014-12-23 15:56:16 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:17 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:17 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:17 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:17 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:17 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:17 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:18 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:18 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:18 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:18 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:18 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:18 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:18 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:19 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:21 [INFO] Killerbean0 issued server command: //set 0
+2014-12-23 15:56:21 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:21 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:23 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:23 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:23 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:24 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:24 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:24 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:28 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:28 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:29 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:29 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:29 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:29 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:29 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:30 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:30 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:30 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:30 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:30 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:31 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:31 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:31 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:31 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:32 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:32 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:33 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:33 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:33 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:33 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:33 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:34 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:34 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:34 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:34 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:34 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:34 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:35 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:35 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:35 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:35 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:36 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:36 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:36 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:36 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:36 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:37 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:37 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:37 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:37 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:37 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:37 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:37 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:37 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:37 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:37 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:37 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:37 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:40 [INFO] stevebean issued server command: /tp m
+2014-12-23 15:56:44 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:46 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:47 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:47 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:48 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:49 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:50 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:50 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:50 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:51 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:51 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:51 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:51 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:51 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:51 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:51 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:51 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:51 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:52 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:52 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:52 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:52 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:52 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:52 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:52 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:52 [INFO] [PT] stevebean issued server command: /kittycannon
+2014-12-23 15:56:52 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:52 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:52 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:52 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:52 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:52 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:53 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:53 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:53 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:53 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:53 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:53 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:53 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:53 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:53 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:53 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:54 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:54 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:54 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:54 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:54 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:54 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:54 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:54 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:54 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:54 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:54 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:54 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:55 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:55 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:55 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:55 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:55 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:55 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:55 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:55 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:55 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:55 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:55 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:55 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:56 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:56 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:56 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:56 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:56 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:56 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:56 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:56 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:56 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:56 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:57 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:57 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:57 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:57 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:57 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:57 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:57 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:57 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:57 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:57 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:57 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:57 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:58 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:58 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:58 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:58 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:58 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:58 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:58 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:58 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:58 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:58 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:58 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:58 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:56:59 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:56:59 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:00 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:00 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:00 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:00 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:00 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:00 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:00 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:00 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:00 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:00 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:00 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:00 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:01 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:01 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:01 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:01 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:01 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:01 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:01 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:01 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:01 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:01 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:02 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:02 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:02 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:02 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:02 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:02 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:02 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:02 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:02 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:02 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:02 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:02 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:03 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:03 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:03 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:03 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:03 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:03 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:03 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:03 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:03 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:03 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:03 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:03 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:04 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:04 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:04 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:04 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:04 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:04 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:04 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:04 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:04 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:04 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:04 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:04 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:05 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:05 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:05 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:05 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:05 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:05 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:05 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:05 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:05 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:05 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:06 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:06 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:06 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:06 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:06 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:06 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:06 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:06 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:06 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:06 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:06 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:06 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:07 [INFO] ?ctrainfrog ?4was denied access to command.
+2014-12-23 15:57:07 [INFO] [PT] trainfrog issued server command: /kittycannon
+2014-12-23 15:57:45 [INFO] stevebean issued server command: /powertool stevebean
+2014-12-23 15:57:47 [INFO] [PT] stevebean issued server command: /stevebean
+2014-12-23 15:57:52 [INFO] [PT] stevebean issued server command: /stevebean
+2014-12-23 15:57:53 [INFO] trainfrog lost connection: disconnect.quitting
+2014-12-23 15:57:53 [INFO] Connection reset
+2014-12-23 15:57:53 [INFO] ?etrainfrog left the game.
+2014-12-23 15:58:23 [INFO] stevebean issued server command: /tp stevebean 123456 64 123456
+2014-12-23 15:58:25 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-12-23 15:58:47 [INFO] stevebean issued server command: /tp mwahlikespizza
+2014-12-23 15:59:57 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> Chicken;;;; @ Library_Aztlan(5967,5,6003)
+2014-12-23 16:00:03 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> Pig;;;; @ Library_Aztlan(5967,5,6010)
+2014-12-23 16:00:05 [INFO] ODDBALL8000 issued server command: /killall
+2014-12-23 16:00:07 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> Sheep;;;; @ Library_Aztlan(5965,5,6010)
+2014-12-23 16:00:27 [INFO] ODDBALL8000 issued server command: /time set 1
+2014-12-23 16:00:34 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> Cows;;;; @ Library_Aztlan(5965,5,6008)
+2014-12-23 16:00:39 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> Wolf;;;; @ Library_Aztlan(5965,5,6000)
+2014-12-23 16:00:48 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> Abomanation;;;; @ Library_Aztlan(5965,5,5996)
+2014-12-23 16:00:54 [INFO] GriefPrevention: [Sign Placement] <Killerbean0> Horses;;;; @ Library_Aztlan(5967,5,5996)
+2014-12-23 16:03:17 [INFO] GriefPrevention: [Sign Placement] <BraveNewWorld78> ;Cocoa;;; @ Library_Aztlan(5993,7,6031)
+2014-12-23 16:03:38 [INFO] ODDBALL8000 lost connection: disconnect.quitting
+2014-12-23 16:03:38 [INFO] Connection reset
+2014-12-23 16:03:38 [INFO] ?eODDBALL8000 left the game.
+2014-12-23 16:03:47 [INFO] stevebean lost connection: disconnect.quitting
+2014-12-23 16:03:47 [INFO] Connection reset
+2014-12-23 16:03:48 [INFO] ?estevebean left the game.
+2014-12-23 16:03:51 [INFO] Connection reset
+2014-12-23 16:03:51 [INFO] BraveNewWorld78 lost connection: disconnect.quitting
+2014-12-23 16:03:51 [INFO] ?eBraveNewWorld78 left the game.
+2014-12-23 16:03:52 [INFO] Killerbean0 lost connection: disconnect.quitting
+2014-12-23 16:03:52 [INFO] Connection reset
+2014-12-23 16:03:53 [INFO] ?eKillerbean0 left the game.
+2014-12-23 16:04:01 [INFO] Connection reset
+2014-12-23 16:04:01 [INFO] mwahlikespizza lost connection: disconnect.quitting
+2014-12-23 16:04:01 [INFO] ?emwahlikespizza left the game.
+2014-12-23 16:06:15 [INFO] [Metrics] mcstats.org
+2014-12-23 16:16:15 [INFO] [Metrics] mcstats.org
+2014-12-23 16:26:15 [INFO] [Metrics] mcstats.org
+2014-12-23 16:36:15 [INFO] [Metrics] mcstats.org
+2014-12-23 16:46:15 [INFO] [Metrics] mcstats.org
+2014-12-23 16:56:15 [INFO] [Metrics] mcstats.org
+2014-12-23 17:06:15 [INFO] [Metrics] mcstats.org
+2014-12-23 17:16:15 [INFO] [Metrics] mcstats.org
+2014-12-23 17:25:53 [INFO] CONSOLE issued server command: /help 
+2014-12-23 17:25:54 [INFO] To view help from the console, type ?.[m
+2014-12-23 17:26:10 [INFO] [0;33;1m--------- [0;37;1mHelp: Index [0;33;1m---------------------------[m
+2014-12-23 17:26:10 [INFO] [0;37;22mUse /help [n] to get page n of help.[m
+2014-12-23 17:26:10 [INFO] [0;33;22mAliases: [0;37;1mLists command aliases[m
+2014-12-23 17:26:10 [INFO] [0;33;22mBukkit: [0;37;1mAll commands for Bukkit[m
+2014-12-23 17:26:10 [INFO] [0;33;22mEssentials: [0;37;1mAll commands for Essentials[m
+2014-12-23 17:26:10 [INFO] [0;33;22mEssentialsSpawn: [0;37;1mAll commands for EssentialsSpawn[m
+2014-12-23 17:26:10 [INFO] [0;33;22mGriefPrevention: [0;37;1mAll commands for GriefPrevention[m
+2014-12-23 17:26:10 [INFO] [0;33;22mPermissionsBukkit: [0;37;1mAll commands for PermissionsBukkit[m
+2014-12-23 17:26:10 [INFO] [0;33;22mWorldEdit: [0;37;1mAll commands for WorldEdit[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/.s: [0;37;1mExecute last CraftScript[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//: [0;37;1mToggle the super pickaxe pickaxe function[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//center: [0;37;1mSet the center block(s)[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//chunk: [0;37;1mSet the selection to your current chunk.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//clearhistory: [0;37;1mClear your history[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//contract: [0;37;1mContract the selection area[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//copy: [0;37;1mCopy the selection to the clipboard[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//count: [0;37;1mCounts the number of a certain type of block[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//cut: [0;37;1mCut the selection to the clipboard[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//cyl: [0;37;1mGenerates a cylinder.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//deform: [0;37;1mDeforms a selected region with an expression[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//desel: [0;37;1mDeselect the current selection[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//distr: [0;37;1mGet the distribution of blocks in the selection[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//drain: [0;37;1mDrain a pool[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//ex: [0;37;1mExtinguish nearby fire[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//expand: [0;37;1mExpand the selection area[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//faces: [0;37;1mBuild the walls, ceiling, and floor of a selection[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//fast: [0;37;1mToggle fast mode[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//fill: [0;37;1mFill a hole[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//fillr: [0;37;1mFill a hole recursively[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//fixlava: [0;37;1mFix lava to be stationary[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//fixwater: [0;37;1mFix water to be stationary[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//flip: [0;37;1mFlip the contents of the clipboard.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//generate: [0;37;1mGenerates a shape according to a formula.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//gmask: [0;37;1mSet the global mask[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//green: [0;37;1mGreens the area[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//hcyl: [0;37;1mGenerates a hollow cylinder.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//help: [0;37;1mDisplays help for the given command or lists all commands.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//hollow: [0;37;1mHollows out the object contained in this selection[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//hpos1: [0;37;1mSet position 1 to targeted block[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//hpos2: [0;37;1mSet position 2 to targeted block[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//hpyramid: [0;37;1mGenerate a hollow pyramid[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//hsphere: [0;37;1mGenerates a hollow sphere.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//inset: [0;37;1mInset the selection area[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//limit: [0;37;1mModify block change limit[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//load: [0;37;1mLoad a schematic into your clipboard[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//move: [0;37;1mMove the contents of the selection[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//naturalize: [0;37;1m3 layers of dirt on top then rock below[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//outset: [0;37;1mOutset the selection area[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//overlay: [0;37;1mSet a block on top of blocks in the region[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//paste: [0;37;1mPaste the clipboard's contents[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//pos1: [0;37;1mSet position 1[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//pos2: [0;37;1mSet position 2[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//pyramid: [0;37;1mGenerate a filled pyramid[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//redo: [0;37;1mRedoes the last action (from history)[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//regen: [0;37;1mRegenerates the contents of the selection[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//removeabove: [0;37;1mRemove blocks above your head.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//removebelow: [0;37;1mRemove blocks below you.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//removenear: [0;37;1mRemove blocks near you.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//replace: [0;37;1mReplace all blocks in the selection with another[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//replacenear: [0;37;1mReplace nearby blocks[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//rotate: [0;37;1mRotate the contents of the clipboard[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//save: [0;37;1mSave a schematic into your clipboard[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//schematic: [0;37;1mSchematic-related commands[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//searchitem: [0;37;1mSearch for an item[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//sel: [0;37;1mChoose a region selector[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//set: [0;37;1mSet all the blocks inside the selection to a block[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//setbiome: [0;37;1mSets the biome of the player's current block or region.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//shift: [0;37;1mShift the selection area[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//size: [0;37;1mGet information about the selection[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//smooth: [0;37;1mSmooth the elevation in the selection[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//snow: [0;37;1mSimulates snow[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//sphere: [0;37;1mGenerates a filled sphere.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//stack: [0;37;1mRepeat the contents of the selection[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//thaw: [0;37;1mThaws the area[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//toggleplace: [0;37;1mSwitch between your position and pos1 for placement[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//undo: [0;37;1mUndoes the last action[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//walls: [0;37;1mBuild the four sides of the selection[m
+2014-12-23 17:26:10 [INFO] [0;33;22m//wand: [0;37;1mGet the wand object[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/abandonallclaims: [0;37;1mDeletes ALL your claims.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/abandonclaim: [0;37;1mDeletes a claim.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/abandontoplevelclaim: [0;37;1mDeletes a claim and all its subdivisions.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/accesstrust: [0;37;1mGrants a player entry to your claim(s) and use of your bed.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/adjustbonusclaimblocks: [0;37;1mAdds or subtracts bonus claim blocks for a player.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/adminclaims: [0;37;1mSwitches the shovel tool to administrative claims mode.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/afk: [0;37;1mMarks you as away-from-keyboard.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/antioch: [0;37;1mA little surprise for operators.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/ascend: [0;37;1mGo up a floor[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/back: [0;37;1mTeleports you to your location prior to tp/spawn/warp.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/backup: [0;37;1mRuns the backup if configured.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/balance: [0;37;1mStates the current balance of a player.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/balancetop: [0;37;1mGets the top balance values.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/ban: [0;37;1mBans a player.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/ban-ip: [0;37;1mPrevents the specified IP address from using this server[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/banip: [0;37;1mBans an IP address.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/banlist: [0;37;1mView all players banned from this server[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/basicclaims: [0;37;1mSwitches the shovel tool back to basic claims mode.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/bigtree: [0;37;1mSpawn a big tree where you are looking.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/biomeinfo: [0;37;1mGet the biome of the targeted block.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/biomelist: [0;37;1mGets all biomes available.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/book: [0;37;1mAllows reopening and editing of sealed books.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/break: [0;37;1mBreaks the block you are looking at.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/broadcast: [0;37;1mBroadcasts a message to the entire server.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/brush: [0;37;1mBrush tool[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/burn: [0;37;1mSet a player on fire.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/butcher: [0;37;1mKill all or nearby mobs[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/buyclaimblocks: [0;37;1mPurchases additional claim blocks with server money.  Doesn't work on servers without a Vault-compatible economy plugin.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/ceil: [0;37;1mGo to the celing[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/chunkinfo: [0;37;1mGet information about the chunk that you are inside[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/claimexplosions: [0;37;1mToggles whether explosives may be used in a specific land claim.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/claimslist: [0;37;1mLists information about a player's claim blocks and claims.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/clearclipboard: [0;37;1mClear your clipboard[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/clearinventory: [0;37;1mClear all items in your inventory.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/compass: [0;37;1mDescribes your current bearing.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/containertrust: [0;37;1mGrants a player access to your containers.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/cs: [0;37;1mExecute a CraftScript[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/customtext: [0;37;1mAllows you to create custom text commands.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/cycler: [0;37;1mBlock data cycler tool[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/deathblow: [0;37;1mKills a player, optionally giving his inventory to another player.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/defaultgamemode: [0;37;1mSet the default gamemode[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/delchunks: [0;37;1mDelete chunks that your selection includes[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/deletealladminclaims: [0;37;1mDeletes all administrative claims.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/deleteallclaims: [0;37;1mDeletes all of another player's claims.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/deleteclaim: [0;37;1mDeletes the claim you're standing in, even if it's not your claim.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/delhome: [0;37;1mRemoves a home.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/deljail: [0;37;1mRemoves a jail.[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/deltree: [0;37;1mFloating tree remover tool[m
+2014-12-23 17:26:10 [INFO] [0;33;22m/delwarp: [0;37;1mDeletes the specified warp.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/deop: [0;37;1mTakes the specified player's operator status[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/depth: [0;37;1mStates current depth, relative to sea level.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/descend: [0;37;1mGo down a floor[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/difficulty: [0;37;1mSets the game difficulty[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/eco: [0;37;1mManages the server economy.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/effect: [0;37;1mAdds/Removes effects on players[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/enchant: [0;37;1mEnchants the item the user is holding.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/enderchest: [0;37;1mLets you see inside an enderchest.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/essentials: [0;37;1mReloads essentials.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/essentials:info: [0;37;1mShows information set by the server owner.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/essentials:remove: [0;37;1mRemoves entities in your world.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/essentials:tree: [0;37;1mSpawn a tree where you are looking.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/exp: [0;37;1mGive, set or look at a players exp.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/ext: [0;37;1mExtinguish players.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/farwand: [0;37;1mWand at a distance tool[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/feed: [0;37;1mSatisfy the hunger.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/fireball: [0;37;1mThrow a fireball.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/firework: [0;37;1mAllows you to modify a stack of fireworks.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/floodfill: [0;37;1mFlood fill tool[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/fly: [0;37;1mTake off, and soar![m
+2014-12-23 17:26:12 [INFO] [0;33;22m/forestgen: [0;37;1mGenerate a forest[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/gamemode: [0;37;1mChange player gamemode.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/gamerule: [0;37;1mSets a server's game rules[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/gc: [0;37;1mReports memory, uptime and tick info.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/getpos: [0;37;1mGet your current coordinates or those of a player.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/give: [0;37;1mGive a player an item.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/god: [0;37;1mEnables your godly powers.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/hat: [0;37;1mGet some cool new headgear.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/heal: [0;37;1mHeals you or the given player.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/help: [0;37;1mViews a list of available commands.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/helpop: [0;37;1mMessage online admins.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/home: [0;37;1mTeleport to your home.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/ignore: [0;37;1mIgnore other players.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/ignoreclaims: [0;37;1mToggles ignore claims mode.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/info: [0;37;1mBlock information tool[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/invsee: [0;37;1mSee the inventory of other players.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/item: [0;37;1mSpawn an item.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/itemdb: [0;37;1mSearches for an item.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/jails: [0;37;1mList all jails.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/jump: [0;37;1mJumps to the nearest block in the line of sight.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/jumpto: [0;37;1mTeleport to a location[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/kick: [0;37;1mKicks a specified player with a reason.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/kickall: [0;37;1mKicks all players off the server except the issuer.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/kill: [0;37;1mKills specified player.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/killall: [0;37;1mKill all mobs in a world.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/kit: [0;37;1mObtains the specified kit or views all available kits.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/kittycannon: [0;37;1mThrow an exploding kitten at your opponent.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/lightning: [0;37;1mThe power of Thor. Strike at cursor or player.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/list: [0;37;1mList all online players.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/listchunks: [0;37;1mList chunks that your selection includes[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/lockclaim: [0;37;1mLocks the claim from accidental mass/automatic deletion.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/lrbuild: [0;37;1mLong-range building tool[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/mail: [0;37;1mManages inter-player, intra-server mail.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/mask: [0;37;1mSet the brush mask[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/mat: [0;37;1mSet the brush material[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/me: [0;37;1mDescribes an action in the context of the player.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/more: [0;37;1mFills the item stack in hand to maximum size.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/motd: [0;37;1mViews the Message Of The Day.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/msg: [0;37;1mSends a private message to the specified player.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/mute: [0;37;1mMutes or unmutes a player.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/near: [0;37;1mLists the players near by or around a player.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/nick: [0;37;1mChange your nickname or that of another player.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/none: [0;37;1mUnbind a bound tool from your current item[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/nuke: [0;37;1mMay death rain upon them.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/op: [0;37;1mGives the specified player operator status[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/pardon-ip: [0;37;1mAllows the specified IP address to use this server[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/pay: [0;37;1mPays another player from your balance.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/permissions: [0;37;1mCommands for manipulating permissions.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/permissiontrust: [0;37;1mGrants a player permission to grant his level of permission to others.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/ping: [0;37;1mPong![m
+2014-12-23 17:26:12 [INFO] [0;33;22m/playsound: [0;37;1mPlays a sound to a given player[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/plugins: [0;37;1mGets a list of plugins running on the server[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/potion: [0;37;1mAdds custom potion effects to a potion.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/powertool: [0;37;1mAssigns a command to the item in hand.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/powertooltoggle: [0;37;1mEnables or disables all current powertools.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/ptime: [0;37;1mAdjust player's client time. Add @ prefix to fix.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/pumpkins: [0;37;1mGenerate pumpkin patches[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/pweather: [0;37;1mAdjust a player's weather[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/r: [0;37;1mQuickly reply to the last player to message you.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/range: [0;37;1mSet the brush range[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/realname: [0;37;1mDisplays the username of a user based on nick.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/recipe: [0;37;1mDisplays how to craft items.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/reload: [0;37;1mReloads the server configuration and plugins[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/remove: [0;37;1mRemove all entities of a type[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/repair: [0;37;1mRepairs the durability of one or all items.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/repl: [0;37;1mBlock replacer tool[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/restore: [0;37;1mRestore the selection from a snapshot[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/restorenature: [0;37;1mSwitches the shovel tool to restoration mode.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/restorenatureaggressive: [0;37;1mSwitches the shovel tool to aggressive restoration mode.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/restorenaturefill: [0;37;1mSwitches the shovel tool to fill mode.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/rules: [0;37;1mViews the server rules.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/save-all: [0;37;1mSaves the server to disk[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/save-off: [0;37;1mDisables server autosaving[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/save-on: [0;37;1mEnables server autosaving[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/say: [0;37;1mBroadcasts the given message as the console[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/scoreboard: [0;37;1mScoreboard control[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/seed: [0;37;1mShows the world seed[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/seen: [0;37;1mShows the last logout time of a player.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/sell: [0;37;1mSells the item currently in your hand.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/sellclaimblocks: [0;37;1mSells your claim blocks for server money.  Doesn't work on servers without a Vault-compatible economy plugin.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/sethome: [0;37;1mSet your home to your current location.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/setjail: [0;37;1mCreates a jail where you specified named [jailname].[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/setspawn: [0;37;1mSet the spawnpoint to your current position.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/setwarp: [0;37;1mCreates a new warp.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/setworth: [0;37;1mSet the sell value of an item.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/siege: [0;37;1mInitiates a siege versus another player.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/size: [0;37;1mSet the brush size[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/snapshot: [0;37;1mSnapshot commands[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/socialspy: [0;37;1mToggles if you can see msg/mail commands in chat.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/spawn: [0;37;1mTeleport to the spawnpoint.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/spawner: [0;37;1mChange the mob type of a spawner.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/spawnmob: [0;37;1mSpawns a mob.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/spawnpoint: [0;37;1mSets a player's spawn point[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/speed: [0;37;1mChange your speed limits.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/spreadplayers: [0;37;1mSpreads players around a point[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/stop: [0;37;1mStops the server with optional reason[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/subdivideclaims: [0;37;1mSwitches the shovel tool to subdivision mode, used to subdivide your claims.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/sudo: [0;37;1mMake another user perform a command.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/suicide: [0;37;1mCauses you to perish.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/superpickaxe: [0;37;1mSelect super pickaxe mode[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/tempban: [0;37;1mTemporary ban a user.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/testfor: [0;37;1mTests whether a specifed player is online[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/thru: [0;37;1mPassthrough walls[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/thunder: [0;37;1mEnable/disable thunder.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/time: [0;37;1mDisplay/Change the world time. Defaults to current world.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/timings: [0;37;1mRecords timings for all plugin events[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/toggledownfall: [0;37;1mToggles rain on/off on a given world[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/toggleeditwand: [0;37;1mToggle functionality of the edit wand[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/togglejail: [0;37;1mJails/Unjails a player, TPs them to the jail specified.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/tool: [0;37;1mSelect a tool to bind[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/top: [0;37;1mTeleport to the highest block at your current position.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/tp: [0;37;1mTeleport to a player.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/tpa: [0;37;1mRequest to teleport to the specified player.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/tpaall: [0;37;1mRequests all players online to teleport to you.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/tpaccept: [0;37;1mAccepts a teleport request.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/tpahere: [0;37;1mRequest that the specified player teleport to you.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/tpall: [0;37;1mTeleport all online players to another player.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/tpdeny: [0;37;1mReject a teleport request.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/tphere: [0;37;1mTeleport a player to you.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/tpo: [0;37;1mTeleport override for tptoggle.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/tpohere: [0;37;1mTeleport here override for tptoggle.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/tppos: [0;37;1mTeleport to coordinates.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/tptoggle: [0;37;1mBlocks all forms of teleportation.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/transferclaim: [0;37;1mConverts an administrative claim to a private claim.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/trapped: [0;37;1mEjects you to nearby unclaimed land.  Has a substantial cooldown period.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/tree: [0;37;1mTree generator tool[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/trust: [0;37;1mGrants a player full access to your claim(s).[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/trustlist: [0;37;1mLists permissions for the claim you're standing in.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/unban: [0;37;1mUnbans the specified player.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/unbanip: [0;37;1mUnbans the specified IP address.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/unlimited: [0;37;1mAllows the unlimited placing of items.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/unlockclaim: [0;37;1mUnlocks a previously locked claim.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/unstuck: [0;37;1mEscape from being stuck inside a block[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/untrust: [0;37;1mRevokes a player's access to your claim(s).[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/up: [0;37;1mGo upwards some distance[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/vanish: [0;37;1mHide yourself from other players.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/version: [0;37;1mGets the version of this server including any plugins in use[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/warp: [0;37;1mList all warps or warp to the specified location.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/we: [0;37;1mWorldEdit commands[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/weather: [0;37;1mSets the weather.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/whitelist: [0;37;1mManages the list of players allowed to use this server[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/whois: [0;37;1mDetermine the username behind a nickname.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/workbench: [0;37;1mOpens up a workbench.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/world: [0;37;1mSwitch between worlds.[m
+2014-12-23 17:26:12 [INFO] [0;33;22m/worth: [0;37;1mCalculates the worth of items in hand or as specified.[m
+2014-12-23 17:26:15 [INFO] [Metrics] mcstats.org
+2014-12-23 17:27:30 [INFO] Unknown command. Type "help" for help.[m
+2014-12-23 17:28:53 [INFO] Unknown command. Type "help" for help.[m
+2014-12-23 17:34:07 [INFO] BraveNewWorld78[/192.168.1.5:49442] logged in with entity id 2709379 at ([Library_Aztlan] 5992.108531047918, 6.111521411537406, 6031.022420858395)
+2014-12-23 17:34:17 [INFO] BraveNewWorld78 issued server command: /set time 1
+2014-12-23 17:34:23 [INFO] BraveNewWorld78 issued server command: /time set 1
+2014-12-23 17:35:10 [INFO] BraveNewWorld78 issued server command: /world help
+2014-12-23 17:35:29 [INFO] BraveNewWorld78 issued server command: /world: Library_Hub
+2014-12-23 17:35:34 [INFO] BraveNewWorld78 issued server command: /help
+2014-12-23 17:35:42 [INFO] BraveNewWorld78 issued server command: /help world
+2014-12-23 17:36:11 [INFO] BraveNewWorld78 issued server command: /world 1
+2014-12-23 17:36:15 [INFO] [Metrics] mcstats.org
+2014-12-23 17:36:19 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2014-12-23 17:36:29 [INFO] BraveNewWorld78 issued server command: /set time 1
+2014-12-23 17:36:33 [INFO] BraveNewWorld78 issued server command: /time set 1
+2014-12-23 17:37:48 [INFO] BraveNewWorld78 issued server command: /world: 2
+2014-12-23 17:37:53 [INFO] BraveNewWorld78 issued server command: /world 2
+2014-12-23 17:38:06 [INFO] BraveNewWorld78 issued server command: /world 1
+2014-12-23 17:38:13 [INFO] BraveNewWorld78 issued server command: /world 0
+2014-12-23 17:38:36 [INFO] BraveNewWorld78 issued server command: /world Library_Hub
+2014-12-23 17:38:53 [INFO] BraveNewWorld78 issued server command: /Library_Hub
+2014-12-23 17:39:52 [INFO] Read timed out
+2014-12-23 17:39:53 [INFO] BraveNewWorld78 lost connection: disconnect.endOfStream
+2014-12-23 17:39:53 [INFO] ?eBraveNewWorld78 left the game.
+2014-12-23 17:46:20 [INFO] [Metrics] mcstats.org
+2014-12-23 17:56:20 [INFO] [Metrics] mcstats.org
+2014-12-23 18:03:47 [INFO] Starting minecraft server version 1.6.4
+2014-12-23 18:03:47 [INFO] Loading properties
+2014-12-23 18:03:47 [INFO] Default game type: SURVIVAL
+2014-12-23 18:03:47 [INFO] Generating keypair
+2014-12-23 18:03:48 [INFO] Starting Minecraft server on *:25565
+2014-12-23 18:03:48 [INFO] This server is running CraftBukkit version git-Bukkit-1.6.4-R1.0 (MC: 1.6.4) (Implementing API version 1.6.4-R1.0)
+2014-12-23 18:03:49 [INFO] [WorldEdit] Loading WorldEdit v5.5.8
+2014-12-23 18:03:49 [INFO] [GriefPrevention] Loading GriefPrevention v7.7
+2014-12-23 18:03:49 [INFO] [Essentials] Loading Essentials v2.12.1
+2014-12-23 18:03:49 [INFO] [PermissionsBukkit] Loading PermissionsBukkit v2.0
+2014-12-23 18:03:49 [INFO] [EssentialsChat] Loading EssentialsChat v2.12.1
+2014-12-23 18:03:49 [INFO] [EssentialsSpawn] Loading EssentialsSpawn v2.12.1
+2014-12-23 18:03:49 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2014-12-23 18:03:49 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2014-12-23 18:03:49 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2014-12-23 18:03:49 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2014-12-23 18:03:49 [INFO] Preparing level "Library_Aztlan"
+2014-12-23 18:03:50 [INFO] Preparing start region for level 0 (Seed: 8163330286958787011)
+2014-12-23 18:03:51 [INFO] Preparing spawn area: 36%
+2014-12-23 18:03:51 [INFO] Preparing start region for level 1 (Seed: 8163330286958787011)
+2014-12-23 18:03:52 [INFO] Preparing start region for level 2 (Seed: 8163330286958787011)
+2014-12-23 18:03:53 [INFO] [WorldEdit] Enabling WorldEdit v5.5.8
+2014-12-23 18:03:53 [INFO] WEPIF: Using the Bukkit Permissions API.
+2014-12-23 18:03:53 [INFO] [GriefPrevention] Enabling GriefPrevention v7.7
+2014-12-23 18:03:53 [INFO] GriefPrevention: Grief Prevention enabled.
+2014-12-23 18:03:53 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_Hub".  Please update your config.yml.
+2014-12-23 18:03:53 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd".  Please update your config.yml.
+2014-12-23 18:03:53 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd_nether".  Please update your config.yml.
+2014-12-23 18:03:53 [INFO] GriefPrevention: Warning: Claims Configuration: There's no world named "Library_1st_2nd_the_end".  Please update your config.yml.
+2014-12-23 18:03:53 [INFO] GriefPrevention: Warning: PvP Configuration: There's no world named "Library_Hub".  Please update your config.yml.
+2014-12-23 18:03:53 [INFO] GriefPrevention: 0 total claims loaded.
+2014-12-23 18:03:53 [INFO] GriefPrevention: 0 players have staked claims.
+2014-12-23 18:03:54 [INFO] [Essentials] Enabling Essentials v2.12.1
+2014-12-23 18:03:54 [INFO] Bukkit version format changed. Version not checked.
+2014-12-23 18:03:54 [INFO] git-Bukkit-1.6.4-R1.0 (MC: 1.6.4)
+2014-12-23 18:03:54 [INFO] 1.6.4-R1.0
+2014-12-23 18:03:55 [INFO] Essentials: Using config file enhanced permissions.
+2014-12-23 18:03:55 [INFO] Permissions listed in as player-commands will be given to all users.
+2014-12-23 18:03:55 [INFO] [PermissionsBukkit] Enabling PermissionsBukkit v2.0
+2014-12-23 18:03:55 [INFO] [PermissionsBukkit] Enabled successfully
+2014-12-23 18:03:55 [INFO] Essentials: Using PermissionsBukkit based permissions.
+2014-12-23 18:03:55 [INFO] [EssentialsChat] Enabling EssentialsChat v2.12.1
+2014-12-23 18:03:55 [INFO] [EssentialsSpawn] Enabling EssentialsSpawn v2.12.1
+2014-12-23 18:03:55 [INFO] Server permissions file permissions.yml is empty, ignoring it
+2014-12-23 18:03:55 [INFO] Done (6.105s)! For help, type "help" or "?"
+2014-12-23 18:04:29 [WARNING] Could not get information about this CraftBukkit version; perhaps you are running a custom one?: UnknownHostException
+2014-12-23 18:04:29 [WARNING] Could not get latest artifact information: UnknownHostException
+2014-12-23 18:04:36 [INFO] [Metrics] mcstats.org
+2014-12-23 18:14:36 [INFO] [Metrics] mcstats.org
