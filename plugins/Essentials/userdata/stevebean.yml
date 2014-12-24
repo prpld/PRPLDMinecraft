@@ -1,0 +1,30 @@
+timestamps:
+  login: 1419373923797
+  logout: 1419375827391
+  lastteleport: 1419375528033
+ipAddress: 192.168.1.21
+lastlocation:
+  world: Library_Aztlan
+  x: 123456.0
+  y: 4.0
+  z: 123456.0
+  yaw: -261.47754
+  pitch: 50.550003
+logoutlocation:
+  world: Library_Aztlan
+  x: 6016.86203207005
+  y: 20.003050608480038
+  z: 6023.855527985786
+  yaw: 210.69592
+  pitch: 29.699936
+nickname: §bMichael
+ban:
+  timeout: 0
+  reason: '§4Banned:
+
+    §rThe Ban Hammer has spoken!'
+powertools:
+  '6':
+  - stevebean
+  '367':
+  - kittycannon

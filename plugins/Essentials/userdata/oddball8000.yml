@@ -1,19 +1,20 @@
 timestamps:
-  login: 1415920241933
-  lastteleport: 1415910914741
-  logout: 1415920416619
-ipAddress: 192.168.1.96
+  login: 1419370109528
+  lastteleport: 1419374260043
+  logout: 1419375817391
+ipAddress: 192.168.1.20
 lastlocation:
-  world: Library_Hub
-  x: -136.58535748291283
-  y: 91.44338623791836
-  z: 260.2301167714898
-  yaw: -321.96167
-  pitch: 89.399994
+  world: Library_Aztlan
+  x: 6082.722513713375
+  y: 12.0
+  z: 6020.857098156715
+  yaw: 317.5011
+  pitch: -2.7001204
 logoutlocation:
-  world: Library_3rd_5th
-  x: -1.7534747781522386
-  y: 116.8497925813015
-  z: 328.3362969645741
-  yaw: 184.80396
-  pitch: 22.499878
+  world: Library_Aztlan
+  x: 5988.27877010249
+  y: 6.748487918219353
+  z: 6031.659168123445
+  yaw: 318.2726
+  pitch: 75.75005
+nickname: §5Gnarwhals
