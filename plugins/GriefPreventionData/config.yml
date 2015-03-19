@@ -1,8 +1,8 @@
 GriefPrevention:
   SeaLevelOverrides:
-    Library_3rd_5th: -1
-    Library_3rd_5th_nether: -1
-    Library_3rd_5th_the_end: -1
+    Library_Aztlan: -1
+    Library_Aztlan_nether: -1
+    Library_Aztlan_the_end: -1
   Claims:
     Expiration:
       ChestClaimDays: 7
