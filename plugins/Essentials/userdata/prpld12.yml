@@ -1,21 +1,31 @@
 timestamps:
-  login: 1418685370669
-  logout: 1418687093868
-  lastteleport: 1418686648623
+  login: 1426280033568
+  logout: 1426286142108
+  lastteleport: 1426286131213
   mute: 0
-ipAddress: 192.168.1.162
+ipAddress: 192.168.1.7
 lastlocation:
-  world: Library_3rd_5th
-  x: -11.50485706480787
-  y: 119.0
-  z: 295.9075888669411
-  yaw: 82.50244
-  pitch: 0.1510474
+  world: Library_Aztlan_the_end
+  x: 11.21984677419047
+  y: 65.99897820457392
+  z: 7.35368516129761
+  yaw: -280.8293
+  pitch: 24.39219
 logoutlocation:
-  world: Library_3rd_5th
-  x: -100.1935224686631
-  y: 8.0
-  z: 195.126899696515
-  yaw: 94.23328
-  pitch: -4.5078034
-muted: true
+  world: Library_Aztlan_the_end
+  x: 112.69828555028707
+  y: 62.779272383140096
+  z: -5.508862890398787
+  yaw: 93.33334
+  pitch: 43.898827
+muted: false
+nickname: PRPLD12
+afk: false
+homes:
+  home:
+    world: Library_Aztlan_the_end
+    x: 112.70554141321972
+    y: 66.14491975559949
+    z: -7.632238827670937
+    yaw: 256.50873
+    pitch: 70.366325

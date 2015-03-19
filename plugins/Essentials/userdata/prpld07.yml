@@ -1,20 +1,20 @@
 timestamps:
-  login: 1418683648684
-  logout: 1418689183121
-  lastteleport: 1418688302669
-ipAddress: 192.168.1.207
+  login: 1426279870919
+  logout: 1426286127108
+  lastteleport: 1426284251281
+ipAddress: 192.168.1.13
 logoutlocation:
-  world: Library_3rd_5th
-  x: -200.46756956745745
-  y: 85.0
-  z: -411.0248833718951
-  yaw: -259.35736
-  pitch: 53.549942
+  world: Library_Aztlan
+  x: -777.1712318422675
+  y: 23.18986027835722
+  z: -129.42658410499462
+  yaw: 8.7039795
+  pitch: 25.50001
 lastlocation:
-  world: Library_3rd_5th
-  x: -200.706023063045
-  y: 64.0
-  z: -409.4381481389062
-  yaw: 99.89136
-  pitch: 55.35
+  world: Library_Aztlan
+  x: 1106.9485350657278
+  y: 21.846798308479485
+  z: -20.9339214838344
+  yaw: 113.099846
+  pitch: 28.050005
 nickname: Funny
