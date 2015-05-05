@@ -1,0 +1,27 @@
+timestamps:
+  login: 1430865286399
+  logout: 1430184262849
+  lastteleport: 1430865656301
+ipAddress: 192.168.1.20
+lastlocation:
+  world: Library_Aztlan
+  x: -441.1815008666166
+  y: 5.158488907052965
+  z: -209.0785369469396
+  yaw: 93.92973
+  pitch: 44.087234
+logoutlocation:
+  world: Library_6th_12th
+  x: -775.5416047875103
+  y: 239.75944783996493
+  z: 700.1006988501081
+  yaw: -348.51917
+  pitch: 66.3
+nickname: §ki§4xornob§ki
+afk: false
+teleportenabled: true
+powertools: {}
+socialspy: true
+money: '10000000000000'
+unlimited:
+- 15

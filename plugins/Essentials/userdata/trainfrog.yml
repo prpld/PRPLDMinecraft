@@ -1,31 +1,41 @@
 timestamps:
-  login: 1419368145536
-  logout: 1419375472485
-  lastteleport: 1418255854150
+  login: 1430863777502
+  logout: 1430863784830
+  lastteleport: 1430179074836
   mute: 0
-ipAddress: 192.168.1.249
+ipAddress: 192.168.1.6
 logoutlocation:
-  world: Library_Aztlan
-  x: 5890.378000871785
-  y: 15.113049315863455
-  z: 6342.66983447439
-  yaw: 328.44922
-  pitch: 46.350014
+  world: Library_6th_12th
+  x: 197.9316766014622
+  y: 131.0
+  z: 248.28322541175416
+  yaw: 85.950005
+  pitch: -54.149994
 lastlocation:
-  world: Library_Aztlan
-  x: 6003.588186440172
-  y: 4.0
-  z: 5994.656234174125
-  yaw: -2.8953857
-  pitch: 21.449955
+  world: Library_6th_12th_nether
+  x: 56.559104400054345
+  y: 65.5946407392461
+  z: 68.32049681369067
+  yaw: 143.24962
+  pitch: 22.80004
 powertools:
   '279':
   - lightning
   '257':
   - lightning
   '276':
+  - TNT
+  '272':
+  - lightning
+  '264':
   - kittycannon
+  '283':
+  - lightning
+  '273':
+  - fireball
 ban:
   timeout: 0
-nickname: PoopLoser69
+  reason: Temporarily banned from server for 1 second.
 muted: false
+afk: false
+nickname: ghostly_gibous

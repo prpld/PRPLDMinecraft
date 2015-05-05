@@ -1,22 +1,23 @@
 timestamps:
-  login: 1426280117693
-  logout: 1426280210349
-  lastteleport: 1424114427383
-ipAddress: 192.168.1.34
+  login: 1430863817446
+  logout: 1430863819831
+  lastteleport: 1430180806559
+  jail: 0
+ipAddress: 192.168.1.21
 lastlocation:
-  world: Library_Aztlan
-  x: -822.257184508216
-  y: -188.01859441054506
-  z: -58.860517912053915
-  yaw: 112.49985
-  pitch: 32.249977
+  world: Library_6th_12th
+  x: -779.2736119675101
+  y: 97.66620263338875
+  z: 674.1648256061563
+  yaw: -107.17627
+  pitch: 1.5075206E-4
 logoutlocation:
-  world: Library_Aztlan
-  x: -725.1074998625819
-  y: 4.0
-  z: -95.97254199123371
-  yaw: 295.19983
-  pitch: -90.0
+  world: Library_6th_12th
+  x: -770.7588323441927
+  y: 152.6594059021357
+  z: 709.0976838628321
+  yaw: -205.82532
+  pitch: 17.40001
 afk: false
 powertools:
   '391':
@@ -31,4 +32,5 @@ powertools:
   - lightning
   '276':
   - kittycannon
-nickname: Link
+nickname: Ocelot_Jesus
+jailed: false

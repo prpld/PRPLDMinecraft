@@ -1,24 +1,27 @@
 timestamps:
-  login: 1426279934092
-  logout: 1426286115543
-  lastteleport: 1424219175559
-ipAddress: 192.168.1.20
+  login: 1430865213739
+  logout: 1430184339934
+  lastteleport: 1430184241848
+  jail: 0
+ipAddress: 192.168.1.14
 lastlocation:
-  world: Library_Aztlan
-  x: -309.3392686023909
-  y: 4.0
-  z: 20.54965242719332
-  yaw: -248.94159
-  pitch: -3.8999965
+  world: Library_6th_12th_nether
+  x: -4.561676920325076
+  y: 69.0
+  z: 22.52386759625518
+  yaw: 75.299805
+  pitch: 2.5500007
 logoutlocation:
-  world: Library_Aztlan
-  x: -720.0300980115187
-  y: 1.7000000178813934
-  z: -101.30000001192093
-  yaw: -142.02301
-  pitch: 28.200016
-nickname: TuxedoHamzter
+  world: Library_6th_12th
+  x: 183.4936510654434
+  y: 131.0
+  z: 247.05584581697997
+  yaw: 4.5000157
+  pitch: 59.100006
 powertools:
   '271':
   - kittycannon
 afk: false
+jailed: false
+ban:
+  timeout: 0

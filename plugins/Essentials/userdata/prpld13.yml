@@ -1,19 +1,21 @@
 timestamps:
-  login: 1426279952888
-  lastteleport: 1424113491432
-  logout: 1426286119608
-ipAddress: 192.168.1.16
+  login: 1430865108849
+  lastteleport: 1429993376366
+  logout: 1430183077832
+  jail: 0
+ipAddress: 192.168.1.10
 lastlocation:
-  world: Library_Aztlan
-  x: -731.4645942592763
-  y: 4.0
-  z: -101.85790767731902
-  yaw: -268.04498
-  pitch: 25.349941
+  world: Library_6th_12th
+  x: 184.5
+  y: 131.0
+  z: 247.5
+  yaw: 95.99999
+  pitch: 10.650009
 logoutlocation:
-  world: Library_Aztlan
-  x: -755.4653338716763
-  y: 29.354908126776387
-  z: -150.06493761722226
-  yaw: 288.93237
-  pitch: 46.949993
+  world: Library_6th_12th
+  x: 192.88375009743618
+  y: 131.0
+  z: 246.05824077981657
+  yaw: -247.65018
+  pitch: -9.299983
+jailed: false
