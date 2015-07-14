@@ -1,22 +1,22 @@
 timestamps:
-  login: 1424109601018
-  lastteleport: 1424113769976
-  logout: 1424110348236
-ipAddress: 192.168.1.10
+  login: 1435076679091
+  lastteleport: 1435076923074
+  logout: 1435076956874
+ipAddress: 192.168.1.18
 lastlocation:
   world: Library_3rd_5th
-  x: 139.5507235065873
-  y: 93.85318686248331
-  z: 398.69999998807907
-  yaw: 317.20526
-  pitch: 22.650023
+  x: 137.67342876151747
+  y: 70.0
+  z: 375.9902911208643
+  yaw: -177.10565
+  pitch: 15.450069
 logoutlocation:
-  world: Library_Aztlan
-  x: 5917.429915631149
-  y: 9.417685219684087
-  z: 5673.15686467274
-  yaw: -285.57068
-  pitch: 5.5499487
+  world: Library_3rd_5th
+  x: 137.67342876151747
+  y: 70.0
+  z: 375.9902911208643
+  yaw: -177.10565
+  pitch: 15.450069
 afk: false
 homes:
   home:
@@ -26,3 +26,9 @@ homes:
     z: 72.30000001192093
     yaw: -89.553314
     pitch: 6.449918
+nickname: ThePigMaster
+powertools:
+  '1':
+  - kill prpld13
+  '61':
+  - tp Mr_DerpTaco

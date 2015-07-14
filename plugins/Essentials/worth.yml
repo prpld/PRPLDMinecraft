@@ -1,7 +1,7 @@
 worth:
   stonebutton: 6.0
-  wood: 0.50
-  arrow: 3.50
+  wood: 0.5
+  arrow: 3.5
   diamondpickaxe: 650.0
   rawfish: 5.0
   minecart: 23.0
@@ -64,7 +64,8 @@ worth:
   diamondspade: 210.0
   waterbucket: 40.0
   water: 1.0
-  bedrock: 100.0
+  bedrock:
+    '0': 9.99999999999999E14
   irondoorblock: 15.0
   goldhoe: 6.0
   sand: 1.0
@@ -83,9 +84,10 @@ worth:
   cactus: 10.0
   sulphur: 20.0
   rails: 22.0
-  ironore: 18.0
+  ironore:
+    '0': 3.0
   leatherhelmet: 52.0
-  stone: 3.00
+  stone: 3.0
   egg: 1.0
   diamondore: 200.0
   woodhoe: 2.0
@@ -142,14 +144,14 @@ worth:
   goldaxe: 6.0
   bone: 2.0
   diamond: 200.0
-  glass: 3.00
+  glass: 3.0
   goldspade: 6.0
   lapisblock: 950.0
   lavabucket: 40.0
   wheat: 9.0
   ladder: 0.5
   sugarcaneblock: 15.0
-  bowl: 0.50
+  bowl: 0.5
   chainmailchestplate: 40.0
   sapling: 2.0
   diamondboots: 850.0

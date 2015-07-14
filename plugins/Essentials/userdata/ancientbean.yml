@@ -1,0 +1,28 @@
+timestamps:
+  login: 1435682202392
+  logout: 1435682566199
+  lastteleport: 1435682019707
+ipAddress: 192.168.1.9
+logoutlocation:
+  world: Library_3rd_5th
+  x: 137.67342876151747
+  y: 70.0
+  z: 375.9902911208643
+  yaw: -173.1123
+  pitch: 5.1340766
+lastlocation:
+  world: Library_3rd_5th
+  x: 145.29097811729093
+  y: 64.0
+  z: 907.5990634252187
+  yaw: -97.74103
+  pitch: 14.79308
+powertools:
+  '280':
+  - spawnmob experienceorb 10
+  '279':
+  - fireball
+  '313':
+  - nuke
+afk: false
+nickname: §aJ§4o§1s§dh

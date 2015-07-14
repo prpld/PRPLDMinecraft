@@ -1,0 +1,20 @@
+timestamps:
+  login: 1430184138431
+  logout: 1430184347433
+  lastteleport: 1430183652954
+ipAddress: 192.168.1.4
+lastlocation:
+  world: Library_6th_12th_nether
+  x: -81.05572442231968
+  y: 74.42287843835413
+  z: 57.099685792943106
+  yaw: 356.7004
+  pitch: 60.0
+logoutlocation:
+  world: Library_6th_12th
+  x: 225.20518193641914
+  y: 5.0
+  z: 260.1412211689726
+  yaw: 70.05011
+  pitch: 69.600006
+nickname: AlphaDunce

@@ -1,0 +1,63 @@
+timestamps:
+  login: 1433195793656
+  logout: 1433197955704
+  lastteleport: 1433197874823
+ipAddress: 192.168.1.60
+lastlocation:
+  world: Library_3rd_5th
+  x: 1437.425242361545
+  y: 51.0
+  z: 187.67751451916783
+  yaw: -170.77081
+  pitch: 16.789736
+logoutlocation:
+  world: Library_3rd_5th_the_end
+  x: 11.906460912727269
+  y: 79.02882134401274
+  z: 3.3213320055845714
+  yaw: 165.9231
+  pitch: 46.317307
+afk: false
+teleportenabled: true
+powertools:
+  '5':
+  - spawnmob
+  '391':
+  - tell Killerbean0 heh
+  '274':
+  - break
+  '50':
+  - fireball
+  '272':
+  - lightning
+  '276':
+  - lightning
+  '283':
+  - lightning
+  '275':
+  - firball
+  '286':
+  - lightning
+  '271':
+  - fireball
+  '291':
+  - bigtree jungle
+  '261':
+  - fireball
+  '359':
+  - spawnmob silverfish
+  '278':
+  - break
+  '347':
+  - time set 0
+socialspy: true
+money: '9999999999998'
+unlimited:
+- 15
+nickname: §ki§4xornob§ki
+godmode: false
+ban:
+  reason: '§4Banned:
+
+    §rThe Ban Hammer has spoken!'
+  timeout: 0

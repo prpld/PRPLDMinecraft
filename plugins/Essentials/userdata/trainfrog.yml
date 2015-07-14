@@ -1,31 +1,51 @@
 timestamps:
-  login: 1419368145536
-  logout: 1419375472485
-  lastteleport: 1418255854150
+  login: 1435010038993
+  logout: 1435011290976
+  lastteleport: 1435010287920
   mute: 0
-ipAddress: 192.168.1.249
+ipAddress: 192.168.1.17
 logoutlocation:
-  world: Library_Aztlan
-  x: 5890.378000871785
-  y: 15.113049315863455
-  z: 6342.66983447439
-  yaw: 328.44922
-  pitch: 46.350014
+  world: Library_3rd_5th
+  x: 146.80120929637133
+  y: 100.3149353114952
+  z: 370.21926775609893
+  yaw: -120.92222
+  pitch: 38.84987
 lastlocation:
-  world: Library_Aztlan
-  x: 6003.588186440172
-  y: 4.0
-  z: 5994.656234174125
-  yaw: -2.8953857
-  pitch: 21.449955
+  world: Library_3rd_5th
+  x: 135.38200638623147
+  y: 98.61555216000001
+  z: 376.60835335523694
+  yaw: -185.50539
+  pitch: 2.7000625
 powertools:
   '279':
   - lightning
   '257':
   - lightning
   '276':
+  - TNT
+  '272':
+  - kittycannon
+  '264':
+  - kittycannon
+  '283':
+  - lightning
+  '273':
+  - fireball
+  '280':
   - kittycannon
 ban:
   timeout: 0
-nickname: PoopLoser69
+  reason: Temporarily banned from server for 2 seconds.
 muted: false
+afk: false
+homes:
+  home:
+    world: Library_3rd_5th
+    x: 946.8988662585459
+    y: 72.20000004768366
+    z: -608.0436383229861
+    yaw: -90.944824
+    pitch: 23.112436
+nickname: NATE

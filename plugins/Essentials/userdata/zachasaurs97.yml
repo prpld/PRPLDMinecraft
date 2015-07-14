@@ -1,0 +1,22 @@
+timestamps:
+  login: 1430183892331
+  logout: 1430184339934
+  lastteleport: 1430184177876
+  jail: 0
+ipAddress: 192.168.1.15
+lastlocation:
+  world: Library_6th_12th
+  x: -786.018955583885
+  y: 25.62278773733284
+  z: 675.6999999880791
+  yaw: -63.51895
+  pitch: -32.850002
+logoutlocation:
+  world: Library_6th_12th
+  x: -776.4204689563742
+  y: 155.0
+  z: 699.5451808793283
+  yaw: -49.267555
+  pitch: -43.950012
+nickname: DeSweqlurd
+jailed: false

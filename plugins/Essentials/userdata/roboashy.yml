@@ -1,21 +1,21 @@
 timestamps:
-  login: 1424109668504
-  logout: 1424112646150
-  lastteleport: 1418688303110
-ipAddress: 192.168.1.51
+  login: 1430863848171
+  logout: 1430863849830
+  lastteleport: 1430183884339
+ipAddress: 192.168.1.22
 logoutlocation:
-  world: Library_3rd_5th
-  x: -102.38105676795223
-  y: 87.0
-  z: -452.475228413561
-  yaw: -345.48047
-  pitch: 30.750128
+  world: Library_6th_12th
+  x: -876.794921186989
+  y: 113.11691616712324
+  z: 520.7930236245602
+  yaw: -271.1748
+  pitch: -5.506118
 lastlocation:
-  world: Library_3rd_5th
-  x: -15.804521545413042
-  y: 69.90818321117915
-  z: 22.433641752686306
-  yaw: 43.70248
-  pitch: 18.44847
+  world: Library_6th_12th
+  x: 188.36011151485002
+  y: 131.0
+  z: 249.46668208781244
+  yaw: -3.3000026
+  pitch: 0.60000855
 afk: false
 nickname: CactusKing

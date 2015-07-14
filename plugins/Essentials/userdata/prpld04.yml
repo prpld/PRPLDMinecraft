@@ -1,23 +1,23 @@
 timestamps:
-  login: 1426279956795
-  logout: 1426286162108
-  lastteleport: 1424823937096
+  login: 1435680104666
+  logout: 1435682123504
+  lastteleport: 1435354634828
   mute: 0
-ipAddress: 192.168.1.4
+ipAddress: 192.168.1.2
 lastlocation:
-  world: Library_Aztlan
-  x: -911.4397574346921
-  y: 16.64810491445815
-  z: -291.2148214965158
-  yaw: -292.34964
-  pitch: 30.149923
+  world: Library_3rd_5th
+  x: 118.18383810395346
+  y: 63.0
+  z: 358.0745240294175
+  yaw: -235.27856
+  pitch: -56.850056
 logoutlocation:
-  world: Library_Aztlan_the_end
-  x: 104.69999998807907
-  y: 52.0
-  z: 0.6061501218044275
-  yaw: 254.85004
-  pitch: 77.99998
+  world: Library_3rd_5th
+  x: 205.5
+  y: 23.0
+  z: 301.5
+  yaw: 187.236
+  pitch: 75.35795
 afk: false
 muted: false
 powertools:
@@ -25,6 +25,10 @@ powertools:
   - kittycannon
   '259':
   - kittycannon
+  '267':
+  - lightning
+  '276':
+  - tnt
 homes:
   home:
     world: Library_6th_12th
@@ -33,3 +37,6 @@ homes:
     z: 835.7029127692115
     yaw: 10.640015
     pitch: 60.599945
+ban:
+  timeout: 0
+nickname: §aThe§2Jester

@@ -1,25 +1,25 @@
 timestamps:
-  login: 1426280033568
-  logout: 1426286142108
-  lastteleport: 1426286131213
+  login: 1435680141327
+  logout: 1435682123504
+  lastteleport: 1435679280154
   mute: 0
+  jail: 0
 ipAddress: 192.168.1.7
 lastlocation:
-  world: Library_Aztlan_the_end
-  x: 11.21984677419047
-  y: 65.99897820457392
-  z: 7.35368516129761
-  yaw: -280.8293
-  pitch: 24.39219
+  world: Library_3rd_5th
+  x: 142.85668906566687
+  y: 70.0
+  z: 374.68303747449346
+  yaw: -15.105649
+  pitch: -28.199926
 logoutlocation:
-  world: Library_Aztlan_the_end
-  x: 112.69828555028707
-  y: 62.779272383140096
-  z: -5.508862890398787
-  yaw: 93.33334
-  pitch: 43.898827
+  world: Library_3rd_5th
+  x: 205.5
+  y: 23.0
+  z: 301.5
+  yaw: 317.586
+  pitch: 90.0
 muted: false
-nickname: PRPLD12
 afk: false
 homes:
   home:
@@ -29,3 +29,9 @@ homes:
     z: -7.632238827670937
     yaw: 256.50873
     pitch: 70.366325
+ban:
+  reason: '§4Banned:
+
+    §rNO'
+  timeout: 0
+jailed: false

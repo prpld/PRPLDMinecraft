@@ -1,19 +1,33 @@
 timestamps:
-  login: 1426279969956
-  logout: 1426286137108
-  lastteleport: 1424824100993
-ipAddress: 192.168.1.18
+  login: 1435680075678
+  logout: 1435682123504
+  lastteleport: 1435681490400
+  jail: 0
+ipAddress: 192.168.1.11
 logoutlocation:
-  world: Library_Aztlan
-  x: -805.0
-  y: 4.0
-  z: -89.0
-  yaw: -5.7000003
-  pitch: 18.449999
+  world: Library_3rd_5th
+  x: 192.6509748978233
+  y: 144.68667423496566
+  z: 301.0338255402831
+  yaw: 187.236
+  pitch: 75.35795
 lastlocation:
-  world: Library_Aztlan
-  x: 6105.152077223235
-  y: 8.352625985396928
-  z: 5994.77392707995
-  yaw: -92.04904
-  pitch: 34.94996
+  world: Library_3rd_5th
+  x: 319.4052058914341
+  y: 64.0
+  z: 374.8141165168579
+  yaw: 240.49463
+  pitch: 30.299961
+jailed: false
+unlimited:
+- 41
+money: '1'
+ban:
+  reason: '§4Banned:
+
+    §rThe Ban Hammer has spoken!'
+  timeout: 0
+powertools:
+  '383':
+  - tnt
+afk: false

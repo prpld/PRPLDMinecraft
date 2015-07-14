@@ -1,0 +1,46 @@
+timestamps:
+  login: 1435682197497
+  logout: 1435682628699
+  lastteleport: 1435682113736
+ipAddress: 192.168.1.21
+logoutlocation:
+  world: Library_3rd_5th
+  x: 294.98333827322574
+  y: 67.97791985101232
+  z: 233.9827068980481
+  yaw: -7.303192
+  pitch: 26.850006
+afk: false
+lastlocation:
+  world: Library_3rd_5th
+  x: 191.8293553002748
+  y: 146.92766719338871
+  z: 302.92760026387356
+  yaw: 226.68594
+  pitch: 33.900005
+homes:
+  home:
+    world: Library_3rd_5th
+    x: 181.74657900095278
+    y: 64.0
+    z: 177.2340349056533
+    yaw: -173.63727
+    pitch: 5.8499064
+powertools:
+  '369':
+  - lightning
+  '32':
+  - summon EnderCrystal
+  '385':
+  - fireball
+  '280':
+  - bigtree tree
+  '261':
+  - fireball
+  '397':
+  - fireball
+  '6':
+  - nuke
+godmode: false
+money: '0'
+nickname: §kj§bTaco§4§kj

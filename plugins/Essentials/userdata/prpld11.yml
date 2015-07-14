@@ -1,23 +1,24 @@
 timestamps:
-  login: 1426280034069
-  logout: 1426286119608
-  lastteleport: 1424114428006
+  login: 1435680141939
+  logout: 1435682123504
+  lastteleport: 1435354691172
   mute: 0
-ipAddress: 192.168.1.15
+  jail: 0
+ipAddress: 192.168.1.13
 lastlocation:
   world: Library_3rd_5th
-  x: 98.58293532854907
-  y: 70.0
-  z: 348.28413222846575
-  yaw: -265.39386
-  pitch: 24.450052
+  x: 178.6382079870731
+  y: 62.0
+  z: 352.9128422485785
+  yaw: 199.80743
+  pitch: 59.058544
 logoutlocation:
-  world: Library_Aztlan
-  x: -793.6592515629477
-  y: 4.0
-  z: -54.80436773527321
-  yaw: 127.350174
-  pitch: -10.649986
+  world: Library_3rd_5th
+  x: 205.30000001192093
+  y: 22.0
+  z: 302.30000001192093
+  yaw: 187.236
+  pitch: 75.35795
 muted: false
 money: '1'
 powertools:
@@ -29,3 +30,4 @@ powertools:
   - burn PRPLD04 50
   '80':
   - burn 4 1
+jailed: false
