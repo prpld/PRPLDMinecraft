@@ -1,21 +1,30 @@
 timestamps:
-  login: 1430865108849
-  lastteleport: 1429993376366
-  logout: 1430183077832
+  login: 1435354277691
+  lastteleport: 1435354521285
+  logout: 1435354693996
   jail: 0
-ipAddress: 192.168.1.10
+ipAddress: 192.168.1.20
 lastlocation:
-  world: Library_6th_12th
-  x: 184.5
-  y: 131.0
-  z: 247.5
-  yaw: 95.99999
-  pitch: 10.650009
+  world: Library_3rd_5th
+  x: 171.27725211889793
+  y: 77.0
+  z: 413.98554724301965
+  yaw: -109.60486
+  pitch: 42.750103
 logoutlocation:
-  world: Library_6th_12th
-  x: 192.88375009743618
-  y: 131.0
-  z: 246.05824077981657
-  yaw: -247.65018
-  pitch: -9.299983
+  world: Library_3rd_5th
+  x: 112.30000001192093
+  y: 70.0
+  z: 370.48991629442213
+  yaw: -241.6058
+  pitch: 30.750067
 jailed: false
+nickname: Missy
+powertools:
+  '276':
+  - lightning
+  '371':
+  - witch
+ban:
+  reason: Temporarily banned from server for 1 second.
+  timeout: 0

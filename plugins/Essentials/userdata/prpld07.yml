@@ -1,22 +1,22 @@
 timestamps:
-  login: 1430863736170
-  logout: 1430183931405
-  lastteleport: 1430184336331
+  login: 1435680135149
+  logout: 1435682123504
+  lastteleport: 1435354375732
   jail: 0
-ipAddress: 192.168.1.19
+ipAddress: 192.168.1.16
 logoutlocation:
-  world: Library_6th_12th
-  x: 189.58522679009192
-  y: 133.24099295842305
-  z: 250.92740469489075
-  yaw: 235.45518
-  pitch: 40.062256
+  world: Library_3rd_5th
+  x: 205.5
+  y: 23.0
+  z: 301.5
+  yaw: 196.6537
+  pitch: 16.853136
 lastlocation:
-  world: Library_6th_12th_nether
-  x: 37.78256597589529
-  y: 79.98241978926536
-  z: -266.668944089674
-  yaw: 162.28804
-  pitch: 38.531586
+  world: Library_3rd_5th
+  x: 112.30000001192097
+  y: 88.0
+  z: 392.8279314340398
+  yaw: 182.09644
+  pitch: 24.624968
 jailed: false
 money: '1'

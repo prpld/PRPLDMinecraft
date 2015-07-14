@@ -1,21 +1,30 @@
 timestamps:
-  login: 1423337050775
-  lastteleport: 1423008656692
-  logout: 1423337069647
-ipAddress: 192.168.1.216
+  login: 1435343543602
+  lastteleport: 1435074665611
+  logout: 1435343557842
+ipAddress: 192.168.1.13
 lastlocation:
-  world: Library_Aztlan
-  x: 5761.166046928815
-  y: 18.532233941276544
-  z: 5883.904374104581
-  yaw: -239.64687
-  pitch: 55.500015
+  world: Library_3rd_5th
+  x: 165.27942561227803
+  y: 72.83191631490774
+  z: 190.9827761428639
+  yaw: -116.42311
+  pitch: 42.080566
 logoutlocation:
-  world: Library_6th_12th
-  x: 194.5
-  y: 134.0
-  z: 235.5
-  yaw: -18.150002
-  pitch: -3.1500003
+  world: Library_3rd_5th
+  x: 147.85867261637202
+  y: 84.73935697417646
+  z: 350.3290195683609
+  yaw: -40.508728
+  pitch: 21.479252
 afk: false
-nickname: TuxedoHamzter
+powertools:
+  '277':
+  - lightning
+  '279':
+  - lightning
+  '280':
+  - LIGHTNING
+  '276':
+  - lightning
+nickname: Savy

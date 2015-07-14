@@ -30,6 +30,97 @@ users:
   sigurre:
     groups:
     - admin
+  ancientbean:
+    groups:
+    - default
+    - admin
+  xornob:
+    groups:
+    - default
+    - admin
+  prpld01:
+    groups:
+    - default
+    - peasants
+  prpld02:
+    groups:
+    - default
+    - peasants
+  prpld03:
+    groups:
+    - default
+    - peasants
+  prpld04:
+    groups:
+    - default
+    - peasants
+  prpld05:
+    groups:
+    - default
+    - peasants
+  prpld06:
+    groups:
+    - default
+    - peasants
+  prpld07:
+    groups:
+    - default
+    - peasants
+  prpld08:
+    groups:
+    - default
+    - peasants
+  prpld09:
+    groups:
+    - default
+    - peasants
+  prpld10:
+    groups:
+    - default
+    - peasants
+  prpld11:
+    groups:
+    - default
+    - peasants
+  prpld12:
+    groups:
+    - default
+    - peasants
+  prpld13:
+    groups:
+    - default
+    - peasants
+  prpld14:
+    groups:
+    - default
+    - peasants
+  prpld15:
+    groups:
+    - default
+    - peasants
+  prpld16:
+    groups:
+    - default
+    - peasants
+  prpld17:
+    groups:
+    - default
+    - peasants
+  prpld18:
+    groups:
+    - default
+    - peasants
+  prpld19:
+    groups:
+    - default
+    - peasants
+  prpld20:
+    groups:
+    - default
+    - peasants
+  porthos57:
+    groups:
+    - default
 groups:
   default:
     permissions:
@@ -41,6 +132,9 @@ groups:
       essentials.tp: true
       permissions.back: true
       essentials.back: true
+      warp: true
+      bukkit.warp: true
+      bukkit.command.warp: true
   admin:
     permissions:
       permissions.*: true
@@ -49,6 +143,7 @@ groups:
   user:
     permissions:
       permissions.build: true
+      warp: true
     worlds:
       creative:
         coolplugin.item: true

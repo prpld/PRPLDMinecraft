@@ -1,22 +1,23 @@
 timestamps:
-  login: 1430865173105
-  logout: 1430183903905
-  lastteleport: 1429998769414
+  login: 1435680137743
+  logout: 1435682123504
+  lastteleport: 1435354604789
   jail: 0
-ipAddress: 192.168.1.2
+ipAddress: 192.168.1.6
 logoutlocation:
-  world: Library_6th_12th
-  x: 1263.8357311283924
-  y: 100.0
-  z: -681.6999999880791
-  yaw: -212.47217
-  pitch: 66.77959
+  world: Library_3rd_5th
+  x: 137.67342876151747
+  y: 70.0
+  z: 375.9902911208643
+  yaw: -192.22145
+  pitch: 24.06982
 lastlocation:
-  world: Library_6th_12th
-  x: 1264.173018825447
-  y: 100.0
-  z: -681.3000000119209
-  yaw: -212.47217
-  pitch: 66.77959
+  world: Library_3rd_5th
+  x: 294.5321260885247
+  y: 64.0
+  z: 214.68013328390023
+  yaw: 141.47002
+  pitch: 24.186493
 afk: false
 jailed: false
+nickname: toby

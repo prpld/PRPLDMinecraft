@@ -1,23 +1,23 @@
 timestamps:
-  login: 1430865109893
-  logout: 1430184329933
-  lastteleport: 1430865729198
+  login: 1430867795920
+  logout: 1430868583540
+  lastteleport: 1430867121613
   jail: 0
 ipAddress: 192.168.1.9
 logoutlocation:
-  world: Library_6th_12th
-  x: -770.7741979457138
-  y: 147.0
-  z: 699.2575953453138
-  yaw: 82.5327
-  pitch: 33.169098
+  world: Library_Aztlan
+  x: 6099.565868278084
+  y: 24.51206052357755
+  z: 5966.82789411764
+  yaw: 164.12122
+  pitch: -5.8388987
 lastlocation:
   world: Library_Aztlan
-  x: -471.856439402067
-  y: 5.5
-  z: -211.53657850634534
-  yaw: 269.71155
-  pitch: 1.4821486
+  x: -986.242311810508
+  y: 4.0
+  z: -242.30000001192093
+  yaw: 152.9273
+  pitch: 19.482597
 afk: false
 powertools:
   '351':
@@ -32,6 +32,14 @@ powertools:
   - 'off'
   '276':
   - tnt
+  '35':
+  - spawnmob endercrystal
+  '320':
+  - spawnmob squid
+  '344':
+  - spawn chicken
+  '273':
+  - placeobsidansphere
 powertoolsenabled: true
 homes:
   home:
@@ -41,7 +49,7 @@ homes:
     z: 108.8888130300063
     yaw: 4.652771
     pitch: 33.74993
-money: '99'
+money: '0'
 ban:
   reason: Temporarily banned from server for 1 second.
   timeout: 0

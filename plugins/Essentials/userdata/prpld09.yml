@@ -1,22 +1,25 @@
 timestamps:
-  login: 1430863726070
-  logout: 1430181080350
-  lastteleport: 1430183893537
+  login: 1435680131330
+  logout: 1435682123504
+  lastteleport: 1435354625585
   jail: 0
-ipAddress: 192.168.1.8
+ipAddress: 192.168.1.5
 lastlocation:
-  world: Library_6th_12th
-  x: 186.97921738095954
-  y: 98.40184970855955
-  z: 188.46562130873875
-  yaw: 358.7325
-  pitch: -3.6345654
+  world: Library_3rd_5th
+  x: 146.82458094091214
+  y: 107.0
+  z: 334.59695001359415
+  yaw: 124.72092
+  pitch: 89.33445
 logoutlocation:
-  world: Library_6th_12th
-  x: 141.30000001192093
-  y: 40.0
-  z: 288.0653040353428
-  yaw: -216.37318
-  pitch: 42.975395
+  world: Library_3rd_5th
+  x: 204.0609426202758
+  y: 23.0
+  z: 301.05627089341846
+  yaw: 187.236
+  pitch: 75.35795
 jailed: false
 money: '1'
+ban:
+  reason: Temporarily banned from server for 1 minute 59 seconds.
+  timeout: 0

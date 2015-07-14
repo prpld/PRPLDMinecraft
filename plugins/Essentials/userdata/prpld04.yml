@@ -1,23 +1,23 @@
 timestamps:
-  login: 1430863771873
-  logout: 1429999299098
-  lastteleport: 1429998800903
+  login: 1435680104666
+  logout: 1435682123504
+  lastteleport: 1435354634828
   mute: 0
-ipAddress: 192.168.1.7
+ipAddress: 192.168.1.2
 lastlocation:
-  world: Library_6th_12th
-  x: 183.60295166602566
-  y: 131.0
-  z: 243.92738515960878
-  yaw: 337.90964
-  pitch: -11.828827
+  world: Library_3rd_5th
+  x: 118.18383810395346
+  y: 63.0
+  z: 358.0745240294175
+  yaw: -235.27856
+  pitch: -56.850056
 logoutlocation:
-  world: Library_6th_12th
-  x: 1262.4256495360246
-  y: 100.0
-  z: -678.6999999880791
-  yaw: -77.05664
-  pitch: 33.749985
+  world: Library_3rd_5th
+  x: 205.5
+  y: 23.0
+  z: 301.5
+  yaw: 187.236
+  pitch: 75.35795
 afk: false
 muted: false
 powertools:
@@ -39,3 +39,4 @@ homes:
     pitch: 60.599945
 ban:
   timeout: 0
+nickname: §aThe§2Jester
