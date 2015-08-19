@@ -1,6 +1,4 @@
 bravenewworld78
-mr_derptaco
-xornob
 prpld001
 prpld02
 prpld03
@@ -23,5 +21,3 @@ prpld01
 prpld19
 prpld20
 prpld21
-porthos57
-tuxedohamzter
