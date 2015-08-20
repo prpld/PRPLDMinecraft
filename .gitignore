@@ -1,7 +1,11 @@
-# Don't tracked log files
+# Don't track the following files
 server.log
-server.log*
+server.log.*
 *.log
+*.dat
+#Don't track the following folders
 /downloads
 /plugins/*.log*
-
+plugins/GriefPreventionData/PlayerData/*
+crash-reports/*
+/logs/*
