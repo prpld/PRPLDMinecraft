@@ -1,0 +1,71 @@
+timestamps:
+  login: 1439585886810
+  logout: 1439586524091
+  lastteleport: 1439586194115
+ipAddress: 192.168.1.31
+logoutlocation:
+  world: Library_6th_12th
+  x: 202.26513080072652
+  y: 131.0
+  z: 249.0036948999113
+  yaw: 346.1986
+  pitch: 10.350024
+lastlocation:
+  world: Library_6th_12th
+  x: -774.4112096963213
+  y: 158.11163302697386
+  z: 713.8343422320338
+  yaw: 359.18146
+  pitch: 41.399952
+afk: false
+powertools:
+  '91':
+  - /speed walk 20
+  '272':
+  - /lightning
+  '273':
+  - give PRPLD09 dirt 64
+  '264':
+  - vanish
+  '267':
+  - give PRPLD07 dirt 64
+  '352':
+  - replacenear 15 grass,sand,stone diamondore
+  '385':
+  - lightning
+  '101':
+  - fireball
+  '22':
+  - spawnmob wither
+  '263':
+  - replacenear 20 grass glowstone
+  '262':
+  - give 11 dirt 50000
+  '30':
+  - fireball
+  '280':
+  - kittycannon
+  '109':
+  - replacenear 10 grass gold
+  '384':
+  - replacenear 10 grass,emeraldblock emeraldblock,diamondblock,lapislazuli
+  '79':
+  - tpohere 20
+  '256':
+  - tpall
+  '335':
+  - v
+  '31':
+  - lightning
+  '6':
+  - spawnmob zombie 10
+  '4':
+  - heal
+  '145':
+  - feed
+  '87':
+  - kill 01
+socialspy: true
+nickname: §fTheGuardian
+teleportenabled: true
+money: '-2000'
