@@ -1,8 +1,14 @@
 [
   {
+    "uuid": "9b2523d1-a209-41d2-a169-b36716a0b29d",
+    "name": "PRPLD21",
+    "level": 1,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "c06ea143-afaa-4511-9acd-3ac2f20850fb",
     "name": "BraveNewWorld78",
-    "level": 4,
+    "level": 1,
     "bypassesPlayerLimit": false
   }
 ]
