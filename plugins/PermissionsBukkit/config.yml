@@ -36,9 +36,14 @@ users:
 groups:
     default:
         permissions:
-            permissions.build: false
-            essentials.list: true
+            permissions.build: true
             essentials.help: true
+            essentials.spawn: true
+            essentials.tp: true
+            permissions.back: true
+            essentials.warp: true
+            bukkit.warp: true
+            bukkit.command.warp: true
     admin:
         permissions:
             permissions.*: true
