@@ -37,6 +37,7 @@ groups:
     default:
         permissions:
             permissions.build: false
+            essentials.list: true
     admin:
         permissions:
             permissions.*: true
