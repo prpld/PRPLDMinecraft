@@ -37,6 +37,8 @@ groups:
     default:
         permissions:
             permissions.build: true
+            build: true
+            help: true
             essentials.help: true
             essentials.spawn: true
             essentials.tp: true
