@@ -1,3 +1,8 @@
+users:
+ BraveNewWorld78:
+   permissions: []
+   group: default
+
 groups:
   default: true
   permissions: [essentials.list, essentials.help]
