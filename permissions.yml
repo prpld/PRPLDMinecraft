@@ -5,5 +5,5 @@ users:
 
 groups:
   default: true
-  permissions: [essentials.list, essentials.help]
+  permissions: [essentials.help, essentials.time]
   inheritance: []
