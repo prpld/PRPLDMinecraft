@@ -1,0 +1,4 @@
+groups:
+  default: true
+  permissions: [essentials.list, essentials.help]
+  inheritance: []
