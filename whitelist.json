@@ -1,6 +1,86 @@
 [
   {
+    "uuid": "0115a698-4de6-4976-80a7-b022a3dd43be",
+    "name": "PRPLD06"
+  },
+  {
+    "uuid": "8d66e486-ef70-4f4b-9dad-4b70eb78f3ff",
+    "name": "PRPLD12"
+  },
+  {
+    "uuid": "7d140107-6805-4456-b11b-dc8c528561f7",
+    "name": "PRPLD02"
+  },
+  {
+    "uuid": "7458d26e-b130-45bb-99e6-f6b92283904c",
+    "name": "PRPLD17"
+  },
+  {
+    "uuid": "c9226eb9-16da-48ef-b83b-26acf945a510",
+    "name": "PRPLD09"
+  },
+  {
+    "uuid": "5e729bfe-404b-4a44-8c25-ef11023e9fa8",
+    "name": "PRPLD04"
+  },
+  {
+    "uuid": "2dff68fb-0344-4ec3-9963-64b87c7853d7",
+    "name": "PRPLD15"
+  },
+  {
+    "uuid": "22915cdd-eaa6-457f-9d9f-42dc7613759d",
+    "name": "PRPLD08"
+  },
+  {
+    "uuid": "32be3572-e1bf-40a0-9769-ff299d2fd101",
+    "name": "PRPLD20"
+  },
+  {
+    "uuid": "6680bfa2-84bf-4b80-b939-daf402bcc606",
+    "name": "PRPLD18"
+  },
+  {
+    "uuid": "19b6b1a0-c747-4c19-ab24-57d81b76d1e4",
+    "name": "PRPLD16"
+  },
+  {
+    "uuid": "9b2523d1-a209-41d2-a169-b36716a0b29d",
+    "name": "PRPLD21"
+  },
+  {
+    "uuid": "def9db01-12c3-4db2-ae46-43377e54fd50",
+    "name": "PRPLD14"
+  },
+  {
+    "uuid": "a3200606-6f19-4016-964a-ae87744caee8",
+    "name": "PRPLD03"
+  },
+  {
+    "uuid": "49b04fdb-8b9b-4e61-b20d-534ddf707794",
+    "name": "PRPLD07"
+  },
+  {
+    "uuid": "3757cd3b-060b-46ed-90fd-35edc3d9e34e",
+    "name": "PRPLD10"
+  },
+  {
+    "uuid": "40b46d1e-5806-4e6e-8010-903cafeae5f1",
+    "name": "PRPLD19"
+  },
+  {
     "uuid": "c06ea143-afaa-4511-9acd-3ac2f20850fb",
     "name": "BraveNewWorld78"
+  },
+  {
+    "uuid": "a96870d2-a1be-4305-98fd-8760ad8cefaf",
+    "name": "PRPLD11"
+  },
+  {
+    "uuid": "1b539724-caba-4e94-a3c4-38d1ce8007a1",
+    "name": "PRPLD05"
+  },
+  {
+    "uuid": "13aa9242-0fa0-4660-a245-bf8e724644fd",
+    "name": "PRPLD13"
   }
 ]
