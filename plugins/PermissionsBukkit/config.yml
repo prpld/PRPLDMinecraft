@@ -21,47 +21,51 @@
 # groups. Like user permissions, groups may override the permissions of their
 # parent group(s). Unlike users, groups do NOT automatically inherit from
 # default. World permissions may be assigned to groups with a 'worlds:' entry.
-#
-# The cannot-build message is configurable. If it is left blank, no message
-# will be displayed to the player if PermissionsBukkit prevents them from
-# building, digging, or interacting with a block. Use '&' characters to
-# signify color codes.
-
 users:
-    BraveNewWorld78:
-        permissions:
-            permissions.*: true
-            essentials.*: true
-        groups:
-        - admin
+  c06ea143-afaa-4511-9acd-3ac2f20850fb:
+    permissions:
+      permissions.*: true
+      essentials.*: true
+    groups:
+    - counselor
+    name: BraveNewWorld78
 groups:
-    default:
-        permissions:
-            permissions.build: true
-            build: true
-            help: true
-            essentials.help: true
-            essentials.spawn: true
-            essentials.tp: true
-            permissions.back: true
-            essentials.warp: true
-            bukkit.warp: true
-            bukkit.command.warp: true
-    admin:
-        permissions:
-            permissions.*: true
-            essentials.*: true
-        inheritance:
-        - user
-    user:
-        permissions:
-            permissions.build: true
-        worlds:
-            creative:
-                coolplugin.item: true
-        inheritance:
-        - default
+  default:
+    permissions:
+      permissions.build: true
+      build: true
+      help: true
+      essentials.help: true
+      essentials.spawn: true
+      essentials.tp: true
+      permissions.back: true
+      essentials.warp: true
+      bukkit.warp: true
+      bukkit.command.warp: true
+  counselor:
+    permissions:
+      permissions.group.players: true
+      permissions.group.list: true
+      permissions.player.list: true
+      permissions.player.groups: true
+      permissions.player.removegroup: true
+      essentials.*: true
+    inheritance:
+    - default
+  admin:
+    permissions:
+      permissions.*: true
+      essentials.*: true
+    inheritance:
+    - user
+  user:
+    permissions:
+      permissions.build: true
+    worlds:
+      creative:
+        coolplugin.item: true
+    inheritance:
+    - default
 messages:
-    build: '&cYou do not have permission to build here.'
-
+  build: '&cYou do not have permission to build here.'
 debug: false
