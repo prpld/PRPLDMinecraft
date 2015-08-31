@@ -28,9 +28,10 @@
 # signify color codes.
 
 users:
-    ConspiracyWizard:
+    BraveNewWorld78:
         permissions:
-            permissions.example: true
+            permissions.*: true
+            essentials.*: true
         groups:
         - admin
 groups:
@@ -49,6 +50,7 @@ groups:
     admin:
         permissions:
             permissions.*: true
+            essentials.*: true
         inheritance:
         - user
     user:
