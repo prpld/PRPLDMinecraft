@@ -49,6 +49,7 @@ groups:
       permissions.player.list: true
       permissions.player.groups: true
       permissions.player.removegroup: true
+     
       essentials.*: true
     inheritance:
     - default
