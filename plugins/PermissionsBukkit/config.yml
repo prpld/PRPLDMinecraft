@@ -27,7 +27,7 @@ users:
       permissions.*: true
       essentials.*: true
     groups:
-    - counselor
+    - guide
     name: BraveNewWorld78
 groups:
   default:
@@ -42,17 +42,25 @@ groups:
       essentials.warp: true
       bukkit.warp: true
       bukkit.command.warp: true
-  counselor:
+  guide:
     permissions:
       permissions.group.players: true
       permissions.group.list: true
       permissions.player.list: true
       permissions.player.groups: true
       permissions.player.removegroup: true
-     
       essentials.*: true
     inheritance:
     - default
+  timeout:
+    permissions:
+      permissions.build: true
+      permissions.help: true
+      essentials.tp: false
+      essentials.spawn: true
+      essentials.help: true
+    inheritance:
+    - 
   admin:
     permissions:
       permissions.*: true
