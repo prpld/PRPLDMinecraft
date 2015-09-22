@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "uuid": "c93b0500-2153-39ce-b599-1aa5018abb1a",
+    "name": "PRPLD05",
+    "level": 1,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f65ece8e-e411-3b69-9b82-a0f42b41b21d",
+    "name": "Grim_Blueberry",
+    "level": 1,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c9519ebb-d143-3e39-8410-58823fff68a1",
+    "name": "PRPLD11",
+    "level": 1,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e7cb812a-8c9d-3041-9a9d-8fe987798cd2",
+    "name": "Mr_DerpTaco",
+    "level": 1,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "553550a1-2198-32b8-8417-5ed6aedb8de0",
+    "name": "PRPLD21",
+    "level": 1,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "57db873e-c77f-3a4d-91fc-5c1db7901d65",
+    "name": "AncientBean",
+    "level": 1,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "188a8731-ccc4-3fa1-83ed-1570c8a56496",
+    "name": "ancientbean",
+    "level": 1,
+    "bypassesPlayerLimit": false
+  }
+]

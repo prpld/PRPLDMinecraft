@@ -1,0 +1,22 @@
+lastAccountName: AncientBean
+timestamps:
+  login: 1442701285495
+  logout: 1442701749652
+  lastteleport: 1442701288632
+ipAddress: 192.168.1.223
+logoutlocation:
+  world: World
+  x: 36.34472532895407
+  y: 71.12286418949883
+  z: -74.6999999880791
+  yaw: 13.199951
+  pitch: 43.05001
+lastlocation:
+  world: World
+  x: 247.4938750322377
+  y: 64.0
+  z: 666.8615490656417
+  yaw: -73.90407
+  pitch: -1.0500073
+afk: false
+powertools: {}

@@ -1,0 +1,35 @@
+socialspy: true
+nickname: LordOfDarkness
+timestamps:
+  lastteleport: 1442700485500
+  logout: 1442700710085
+  login: 1442700526464
+lastlocation:
+  world: World
+  x: -519.274365399725
+  y: 72.18189329426265
+  z: -101.02259465470017
+  yaw: 57.300476
+  pitch: 25.500069
+logoutlocation:
+  world: World
+  x: -508.2359203399125
+  y: 65.83463853308807
+  z: -19.623317971445555
+  yaw: 60.00051
+  pitch: 45.600025
+lastAccountName: Grim_Blueberry
+ipAddress: 192.168.1.217
+powertools:
+  '114':
+  - give 08 64 chicken
+  '6':
+  - replacenear 5 grass,dirt glowstone
+  '397':
+  - speed run 25 08
+  '89':
+  - speed run 5 08
+  '351':
+  - speed run 0.001 08
+  '50':
+  - lightning

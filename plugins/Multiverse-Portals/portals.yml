@@ -1,1 +1,56 @@
-portals: {}
+portals:
+  Test:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Mr_DerpTaco
+    location: -24.0,127.0,1.0:-24.0,130.0,4.0
+    world: World
+    destination: LibraryHub
+  Test2:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Mr_DerpTaco
+    location: -28.0,127.0,0.0:-28.0,130.0,3.0
+    world: World
+    destination: LibraryHub
+  Beans:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: AncientBean
+    location: -412.0,114.0,-292.0:-412.0,118.0,-289.0
+    world: World
+    destination: Library_3th_5th
+  ToHubAdminTown:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Mr_DerpTaco
+    location: 267.0,66.0,631.0:267.0,68.0,633.0
+    world: World
+    destination: LibraryHub
+  To3rd5thAdminTown:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: Mr_DerpTaco
+    location: 270.0,65.0,648.0:273.0,68.0,648.0
+    world: World
+    destination: Library_3th_5th

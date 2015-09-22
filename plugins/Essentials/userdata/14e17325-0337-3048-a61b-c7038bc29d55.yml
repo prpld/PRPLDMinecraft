@@ -1,0 +1,20 @@
+logoutlocation:
+  world: World
+  x: 442.5696638861913
+  y: 163.93179415078245
+  z: -429.5156586063174
+  yaw: -87.29969
+  pitch: 41.399994
+timestamps:
+  logout: 1442698897149
+  login: 1442697976263
+  lastteleport: 1442698135980
+lastAccountName: PRPLD09
+ipAddress: 192.168.1.209
+lastlocation:
+  world: World
+  x: 279.46272046758924
+  y: 64.0
+  z: 619.4820130692867
+  yaw: 78.413574
+  pitch: 49.800053

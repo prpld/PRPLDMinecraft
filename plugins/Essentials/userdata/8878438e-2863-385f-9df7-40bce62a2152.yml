@@ -1,0 +1,20 @@
+lastAccountName: PRPLD18
+timestamps:
+  login: 1442701270670
+  logout: 1442701562154
+  lastteleport: 1442701005832
+ipAddress: 192.168.1.215
+logoutlocation:
+  world: World
+  x: 31.857752586404587
+  y: 66.0
+  z: -64.91422922844849
+  yaw: 126.154785
+  pitch: 11.099985
+lastlocation:
+  world: World
+  x: 27.30000001192093
+  y: 64.0
+  z: -60.30000001192093
+  yaw: 85.049255
+  pitch: 18.300022
