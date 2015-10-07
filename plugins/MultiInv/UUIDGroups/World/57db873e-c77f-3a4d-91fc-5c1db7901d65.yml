@@ -3,7 +3,7 @@ CREATIVE: REDSTONE_LAMP_OFF,1,0,0;COMMAND,64,0,0;AIR,0,0,0;BOOK_AND_QUILL,1,0,bo
 experience: 0
 level: 0
 exp: 0.0
-gameMode: CREATIVE
+gameMode: SURVIVAL
 health: 20.0
 hunger: 20
 saturation: 4.0
