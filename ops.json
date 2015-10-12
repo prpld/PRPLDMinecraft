@@ -20,7 +20,7 @@
   {
     "uuid": "e7cb812a-8c9d-3041-9a9d-8fe987798cd2",
     "name": "Mr_DerpTaco",
-    "level": 1,
+    "level": 2,
     "bypassesPlayerLimit": false
   },
   {
@@ -36,9 +36,21 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "f1afe957-b826-3d53-b541-faf9ac22e1e2",
+    "name": "trainfrog",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "188a8731-ccc4-3fa1-83ed-1570c8a56496",
     "name": "ancientbean",
     "level": 1,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "9e05aa56-b3e4-38a2-92c3-c9d99a430356",
+    "name": "PRPLD04",
+    "level": 2,
     "bypassesPlayerLimit": false
   }
 ]

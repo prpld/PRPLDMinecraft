@@ -1,20 +1,21 @@
 lastAccountName: Mr_DerpTaco
 timestamps:
-  login: 1442701269412
-  logout: 1442701522156
-  lastteleport: 1442699447196
-ipAddress: 192.168.1.216
+  login: 1443659936326
+  logout: 1443661038199
+  lastteleport: 1443658952807
+ipAddress: 192.168.1.3
 logoutlocation:
-  world: World
-  x: 479.5972438967211
-  y: 67.4718400316408
-  z: 1039.4530791396946
-  yaw: 15.04675
-  pitch: 9.149972
+  world: Library_1st_2nd
+  x: -295.4147111720628
+  y: 5.975172204712419
+  z: -1064.746623531827
+  yaw: -59.970154
+  pitch: 34.34998
 lastlocation:
-  world: World
-  x: 228.02879384296634
-  y: 126.12283184432366
-  z: 502.3300683792587
-  yaw: -86.43705
-  pitch: 31.950035
+  world: Library_1st_2nd
+  x: -304.16176811764365
+  y: 4.0
+  z: -1114.1625493681502
+  yaw: -66.9
+  pitch: 28.050001
+afk: false

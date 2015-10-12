@@ -9,7 +9,7 @@ portals:
     owner: Mr_DerpTaco
     location: -24.0,127.0,1.0:-24.0,130.0,4.0
     world: World
-    destination: LibraryHub
+    destination: Libraryhub
   Test2:
     entryfee:
       currency: -1
@@ -20,7 +20,7 @@ portals:
     owner: Mr_DerpTaco
     location: -28.0,127.0,0.0:-28.0,130.0,3.0
     world: World
-    destination: LibraryHub
+    destination: Libraryhub
   Beans:
     entryfee:
       currency: -1
@@ -42,7 +42,7 @@ portals:
     owner: Mr_DerpTaco
     location: 267.0,66.0,631.0:267.0,68.0,633.0
     world: World
-    destination: LibraryHub
+    destination: Libraryhub
   To3rd5thAdminTown:
     entryfee:
       currency: -1
@@ -54,3 +54,78 @@ portals:
     location: 270.0,65.0,648.0:273.0,68.0,648.0
     world: World
     destination: Library_3th_5th
+  Castle:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: AncientBean
+    location: -10.0,70.0,-102.0:-10.0,74.0,-99.0
+    world: Library_hub
+  Library_6th_12th:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: PRPLD21
+    location: -176.0,68.0,268.0:-173.0,72.0,268.0
+    world: Library_hub
+  Oldies:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: PRPLD21
+    location: -176.0,68.0,268.0:-173.0,72.0,268.0
+    world: Library_hub
+    destination: Library_6th_12th
+  3-5:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: AncientBean
+    location: -141.0,68.0,233.0:-141.0,72.0,236.0
+    world: Library_hub
+    destination: Library_3rd_5th
+  Young:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: PRPLD21
+    location: -176.0,68.0,201.0:-173.0,72.0,201.0
+    world: Library_hub
+    destination: Library_1st_2nd
+  old:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: AncientBean
+    location: -176.0,68.0,268.0:-173.0,72.0,268.0
+    world: Library_hub
+    destination: Library_6th_12th
+  Other:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: PRPLD21
+    location: -208.0,68.0,233.0:-208.0,72.0,236.0
+    world: Library_hub
+    destination: Library_Aztlan
