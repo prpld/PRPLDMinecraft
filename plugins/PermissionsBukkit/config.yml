@@ -44,6 +44,18 @@ groups:
       bukkit.command.warp: true
   guide:
     permissions:
+      bukkit.command.gamemode: true
+      bukkit.command.gamerule: false
+      bukkit.command.give: true
+      bukkit.command.kick: true
+      bukkit.command.kill: true
+      bukkit.command.list: true
+      bukkit.command.ban: true
+      bukkit.command.banlist: true
+      bukkit.command.clear: true
+      bukkit.command.op.give: false
+      bukkit.command.deop: false
+      bukkit.command.gamemode: true
       permissions.group.players: true
       permissions.group.list: true
       permissions.player.list: true
