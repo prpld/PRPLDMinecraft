@@ -56,6 +56,21 @@ groups:
       bukkit.command.op.give: false
       bukkit.command.deop: false
       bukkit.command.gamemode: true
+      bukkit.command.save.enable: true
+      bukkit.command.save.disabled: false
+      bukkit.command.save.perform: true
+      bukkit.command.setworldspawn: true
+      bukkit.command.spawnpoint: true
+      bukkit.command.spreadplayers: true
+      bukkit.command.stop: true
+      bukkit.command.say: true
+      bukkit.command.tellraw: false
+      bukkit.command.time.add: true
+      bukkit.command.toggledownfall: true
+      bukkit.command.teleport: true
+      bukkit.command.weather: true
+      bukkit.command.whitelist.enable: false
+      bukkit.command.whitelist.disable: false
       permissions.group.players: true
       permissions.group.list: true
       permissions.player.list: true
