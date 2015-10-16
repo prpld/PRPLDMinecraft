@@ -29,6 +29,10 @@ users:
     groups:
     - guide
     name: BraveNewWorld78
+  553550a1-2198-32b8-8417-5ed6aedb8de0:
+    groups:
+    - guide
+    name: PRPLD21
 groups:
   default:
     permissions:
@@ -42,6 +46,8 @@ groups:
       essentials.warp: true
       bukkit.warp: true
       bukkit.command.warp: true
+      essentials.*: true
+
   guide:
     permissions:
       bukkit.command.gamemode: true
@@ -55,7 +61,6 @@ groups:
       bukkit.command.clear: true
       bukkit.command.op.give: false
       bukkit.command.deop: false
-      bukkit.command.gamemode: true
       bukkit.command.save.enable: true
       bukkit.command.save.disabled: false
       bukkit.command.save.perform: true
@@ -87,7 +92,7 @@ groups:
       essentials.spawn: true
       essentials.help: true
     inheritance:
-    - 
+    - null
   admin:
     permissions:
       permissions.*: true
