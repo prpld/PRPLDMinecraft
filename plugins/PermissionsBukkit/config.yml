@@ -46,7 +46,9 @@ groups:
       essentials.warp: true
       bukkit.warp: true
       bukkit.command.warp: true
-      multiverse.access.*: true
+      bukkit.command.ignoreclaims: true
+      griefprevention.claims: true
+      multiverse.access.Library_6th_12th: false
 
   guide:
     permissions:
