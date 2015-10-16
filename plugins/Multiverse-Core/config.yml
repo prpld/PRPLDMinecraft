@@ -17,7 +17,7 @@
 
 multiverse-configuration:
   ==: com.onarandombox.MultiverseCore.MultiverseCoreConfiguration
-  enforceaccess: 'false'
+  enforceaccess: 'true'
   prefixchat: 'true'
   prefixchatformat: '[%world%]%chat%'
   useasyncchat: 'true'
