@@ -46,7 +46,7 @@ groups:
       essentials.warp: true
       bukkit.warp: true
       bukkit.command.warp: true
-      essentials.*: true
+      multiverse.access.Library_3rd_5th: true
 
   guide:
     permissions:
