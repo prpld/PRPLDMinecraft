@@ -42,17 +42,20 @@ groups:
       essentials.help: true
       essentials.spawn: true
       essentials.tp: true
+      essentials.fly: true
       permissions.back: true
       essentials.warp: true
       essentials.lightning: false
       bukkit.warp: true
       bukkit.command.warp: true
-      bukkit.command.ignoreclaims: true
+      multiverse.access.Libraryhub: true
+      multiverse.access.Library_1st_2nd: true
+      multiverse.access.Library_3rd_5th: true
 
   guide:
     permissions:
       bukkit.command.gamemode: true
-      bukkit.command.gamerule: false
+      bukkit.command.gamerule: true
       bukkit.command.give: true
       bukkit.command.kick: true
       bukkit.command.kill: true
@@ -83,7 +86,12 @@ groups:
       permissions.player.groups: true
       permissions.player.removegroup: true
       essentials.*: true
+      essentials.fly: true
+      essentials.fly.others: true
+      essentials.gamemode: true
+      essentials.gamemode.others: true
       essentials.lightning: false
+      multiverse.*: true
     inheritance:
     - default
   timeout:
