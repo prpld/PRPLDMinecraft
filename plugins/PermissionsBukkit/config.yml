@@ -44,11 +44,10 @@ groups:
       essentials.tp: true
       permissions.back: true
       essentials.warp: true
+      essentials.lightning: false
       bukkit.warp: true
       bukkit.command.warp: true
       bukkit.command.ignoreclaims: true
-      griefprevention.claims: true
-      multiverse.access.Library_6th_12th: false
 
   guide:
     permissions:
@@ -84,6 +83,7 @@ groups:
       permissions.player.groups: true
       permissions.player.removegroup: true
       essentials.*: true
+      essentials.lightning: false
     inheritance:
     - default
   timeout:
