@@ -3,45 +3,11 @@ GriefPrevention:
     Libraryhub: -1
     Libraryhub_nether: -1
     Libraryhub_the_end: -1
-    Library_3rd_5th: -1
-    Library_Aztlan_nether: -1
-    Library_6th_12th_the_end: -1
-    Library_6th_12th_nether: -1
-    Library_Aztlan_the_end: -1
-    Library_6th_12th: -1
-    Library_hub_the_end: -1
-    Library_3rd_5th_the_end: -1
-    Library_3rd_5th_nether: -1
-    Library_hub: -1
-    Library_Aztlan: -1
-    Library_1st_2nd_the_end: -1
-    Library_1st_2nd: -1
-    World: -1
-    Library_1st_2nd_nether: -1
-    Nether: -1
-    Library_hub_nether: -1
   Claims:
     Mode:
-      Library_hub_the_end: Creative
-      Library_Aztlan: Creative
       Libraryhub_nether: Creative
-      Library_3rd_5th: Creative
-      Library_6th_12th_the_end: Creative
-      Library_Aztlan_the_end: Creative
-      World: Creative
       Libraryhub: Creative
-      Library_1st_2nd_the_end: Creative
-      Library_6th_12th_nether: Creative
-      Library_1st_2nd_nether: Creative
-      Library_3rd_5th_the_end: Creative
-      Library_1st_2nd: Creative
-      Library_3rd_5th_nether: Creative
-      Library_hub: Creative
-      Library_hub_nether: Creative
       Libraryhub_the_end: Creative
-      Library_Aztlan_nether: Creative
-      Library_6th_12th: Creative
-      Nether: Creative
     PreventTheft: true
     ProtectCreatures: true
     PreventButtonsSwitches: true
@@ -88,23 +54,6 @@ GriefPrevention:
       Libraryhub: false
       Libraryhub_nether: false
       Libraryhub_the_end: false
-      Library_3rd_5th: false
-      Library_Aztlan_nether: false
-      Library_6th_12th_the_end: false
-      Library_6th_12th_nether: false
-      Library_Aztlan_the_end: false
-      Library_6th_12th: false
-      Library_hub_the_end: false
-      Library_3rd_5th_the_end: false
-      Library_3rd_5th_nether: false
-      Library_hub: false
-      Library_Aztlan: false
-      Library_1st_2nd_the_end: false
-      Library_1st_2nd: false
-      World: false
-      Library_1st_2nd_nether: false
-      Nether: false
-      Library_hub_nether: false
     ProtectFreshSpawns: true
     PunishLogout: true
     CombatTimeoutSeconds: 15

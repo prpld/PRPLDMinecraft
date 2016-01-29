@@ -33,6 +33,16 @@ users:
     groups:
     - guide
     name: PRPLD21
+  fafd8c0e-b15b-3797-88d4-b8ffea0015f9:
+    groups:
+    - default
+    name: PRPLD20
+  8878438e-2863-385f-9df7-40bce62a2152:
+    permissions:
+      '[Library_1st_2nd]multiverse.portal.access.1st_2nd_To_Wilderness': true
+    name: PRPLD18
+    groups:
+    - default
 groups:
   default:
     permissions:
@@ -51,7 +61,10 @@ groups:
       multiverse.access.Libraryhub: true
       multiverse.access.Library_1st_2nd: true
       multiverse.access.Library_3rd_5th: true
-
+      '[Library_1st_2nd]multiverse.portal.access.1st_2nd_To_Wilderness': true
+      multiverse.core.list: true
+      '[Library_1st_2nd]multiverse.core.list.world': true
+      ignoreclaims: true
   guide:
     permissions:
       bukkit.command.gamemode: true

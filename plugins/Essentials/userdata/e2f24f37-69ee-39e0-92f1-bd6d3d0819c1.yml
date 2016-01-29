@@ -1,20 +1,23 @@
 lastAccountName: PRPLD13
 timestamps:
-  login: 1442697976263
-  logout: 1442700464851
-  lastteleport: 1442699864598
-ipAddress: 192.168.1.205
+  login: 1453673513441
+  logout: 1453671162206
+  lastteleport: 1453590465640
+ipAddress: 192.168.1.10
 logoutlocation:
-  world: World
-  x: 334.10379114975785
-  y: 63.0
-  z: 733.5692117568058
-  yaw: -268.01123
-  pitch: 17.850124
+  world: Libraryhub
+  x: 155.5
+  y: 71.0
+  z: 258.5
+  yaw: 0.0
+  pitch: 0.0
 lastlocation:
-  world: World
-  x: 29.641485912786237
-  y: 56.0
-  z: 11.774122545874334
-  yaw: -181.49988
-  pitch: -44.700016
+  world: Libraryhub
+  x: 2927.549815000644
+  y: 80.0
+  z: -2807.7497988037344
+  yaw: 45.80725
+  pitch: 20.24988
+socialspy: true
+afk: false
+money: '0.0005'

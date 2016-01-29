@@ -129,3 +129,25 @@ portals:
     location: -208.0,68.0,233.0:-208.0,72.0,236.0
     world: Library_hub
     destination: Library_Aztlan
+  1st_2nd_To_Wilderness:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: PRPLD13
+    location: -312.0,4.0,-1136.0:-311.0,7.0,-1134.0
+    world: Library_1st_2nd
+    destination: 1st_2nd_Wilderness
+  1st_2nd_To_Hub:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: PRPLD13
+    location: -301.0,4.0,-1124.0:-300.0,7.0,-1122.0
+    world: Library_1st_2nd
+    destination: Library_hub

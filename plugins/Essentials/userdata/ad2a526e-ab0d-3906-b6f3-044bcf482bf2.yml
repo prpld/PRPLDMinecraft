@@ -1,19 +1,33 @@
 lastAccountName: PRPLD07
 timestamps:
-  login: 1442698066901
-  logout: 1442700597591
-ipAddress: 192.168.1.210
+  login: 1453674417717
+  logout: 1453673938879
+  lastteleport: 1453589918790
+  mute: 0
+ipAddress: 192.168.1.56
 logoutlocation:
-  world: World
-  x: -71.51728438263271
-  y: 48.0
-  z: -211.44841133419047
-  yaw: -29.095573
-  pitch: 21.000055
+  world: Libraryhub
+  x: 459.970570868633
+  y: 53.814859183285876
+  z: 700.6457590303568
+  yaw: 38.702137
+  pitch: 20.099958
 lastlocation:
-  world: Library_3th_5th
-  x: -146.6481471406187
-  y: 87.0
-  z: 302.85919783272425
-  yaw: 8.999824
-  pitch: -17.550005
+  world: Creative_All_Grades
+  x: 318.11808438161006
+  y: -7301.078119420945
+  z: 753.8285444339839
+  yaw: 195.68217
+  pitch: -65.99999
+afk: false
+homes:
+  home:
+    world: Library_1st_2nd
+    x: -288.18753921182474
+    y: 8.247436571488446
+    z: -920.1096445059906
+    yaw: 46.949997
+    pitch: 7.4982645E-6
+money: '0.0004'
+godmode: true
+muted: false

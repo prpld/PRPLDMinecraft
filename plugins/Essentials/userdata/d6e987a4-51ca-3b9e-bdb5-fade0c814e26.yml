@@ -1,12 +1,29 @@
 lastAccountName: PRPLD19
 timestamps:
-  login: 1442695001736
-  logout: 1442695187123
-ipAddress: 192.168.1.218
+  login: 1453673438717
+  logout: 1453672834848
+  lastteleport: 1453671301941
+ipAddress: 192.168.1.15
 logoutlocation:
-  world: Library_3th_5th
-  x: -23.421503068244256
-  y: 70.0
-  z: 215.3862764637448
-  yaw: 67.350204
-  pitch: 16.50001
+  world: Libraryhub
+  x: 310.8932357440394
+  y: 75.79374172597055
+  z: 464.20555054700515
+  yaw: 54.242622
+  pitch: 80.25001
+lastlocation:
+  world: Libraryhub
+  x: 106.54181103271546
+  y: 99.47022099178986
+  z: -533.7626335927234
+  yaw: 215.40015
+  pitch: 40.950005
+afk: false
+teleportenabled: true
+powertools:
+  '77':
+  - fireball
+  '369':
+  - lightning
+money: '0.0002'
+nickname: §3§kfdssa§d§l19

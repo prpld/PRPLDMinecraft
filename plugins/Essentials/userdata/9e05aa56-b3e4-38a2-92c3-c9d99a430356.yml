@@ -1,21 +1,23 @@
 lastAccountName: PRPLD04
 timestamps:
-  login: 1443658428092
-  logout: 1443658629156
-  lastteleport: 1443658564203
-ipAddress: 192.168.1.9
+  login: 1453673258343
+  logout: 1453672887289
+  lastteleport: 1453674641243
+ipAddress: 192.168.1.5
 lastlocation:
-  world: Library_1st_2nd
-  x: -291.7240116032856
-  y: 18.2185265889534
-  z: -1163.1529075959677
-  yaw: -287.54953
-  pitch: 31.650002
+  world: Libraryhub
+  x: 265.16787185196534
+  y: 70.0
+  z: 766.4879183658068
+  yaw: -9.217645
+  pitch: 23.822445
 logoutlocation:
-  world: Library_1st_2nd
-  x: -364.381411805786
-  y: 24.355350016225117
-  z: -1193.658711190536
-  yaw: 282.91742
-  pitch: 34.200005
+  world: Libraryhub
+  x: 309.1138929242047
+  y: 64.10922894011573
+  z: 414.30000001192093
+  yaw: 120.16699
+  pitch: 45.090595
 afk: false
+money: '0.0007'
+nickname: §l04§3§kfdsa

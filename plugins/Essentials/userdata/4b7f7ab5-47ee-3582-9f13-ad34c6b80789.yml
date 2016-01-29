@@ -1,19 +1,22 @@
 logoutlocation:
-  world: Library_hub
-  x: -210.5
-  y: 68.0
-  z: 257.5
-  yaw: 302.99997
-  pitch: 3.7500002
-timestamps:
-  logout: 1443722374898
-  login: 1443722356443
-lastAccountName: PRPLD16
-ipAddress: 192.168.1.114
-lastlocation:
-  world: Library_3th_5th
-  x: -16.340315655120104
+  world: Libraryhub
+  x: 70.05760991893662
   y: 69.0
-  z: 218.253921648611
-  yaw: 81.44996
-  pitch: 6.4499965
+  z: 287.6241350724711
+  yaw: 78.862465
+  pitch: 21.449932
+timestamps:
+  logout: 1453673459634
+  login: 1453673422830
+  lastteleport: 1453590065140
+lastAccountName: PRPLD16
+ipAddress: 192.168.1.57
+lastlocation:
+  world: Libraryhub
+  x: 2932.300000011921
+  y: 68.0
+  z: -2787.640231439163
+  yaw: 190.09328
+  pitch: 21.299997
+afk: false
+money: '0.0003'

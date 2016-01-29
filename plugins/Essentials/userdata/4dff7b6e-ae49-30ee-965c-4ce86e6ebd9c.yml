@@ -1,12 +1,25 @@
 lastAccountName: PRPLD06
 timestamps:
-  login: 1443480826010
-  logout: 1442697633348
-ipAddress: 192.168.1.222
+  login: 1453674129993
+  logout: 1453674113869
+  lastteleport: 1453674357820
+ipAddress: 192.168.1.7
 logoutlocation:
-  world: Library_3th_5th
-  x: -59.30000001192092
-  y: 56.0
-  z: 57.003867879144664
-  yaw: -79.04955
-  pitch: -51.449997
+  world: Libraryhub
+  x: -68.86266202228195
+  y: 64.0
+  z: 303.3760339017917
+  yaw: 279.84204
+  pitch: 8.099903
+lastlocation:
+  world: Libraryhub
+  x: 63.92484584457526
+  y: 69.0
+  z: 213.63252200028433
+  yaw: 30.991577
+  pitch: 6.3456554
+afk: false
+powertools:
+  '6':
+  - fireball
+money: '0.0003'
