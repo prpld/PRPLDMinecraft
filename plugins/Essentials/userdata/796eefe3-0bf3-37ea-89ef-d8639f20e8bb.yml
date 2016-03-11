@@ -1,23 +1,23 @@
 lastAccountName: PRPLD02
 timestamps:
-  login: 1453673370192
-  logout: 1453672698669
-  lastteleport: 1453674112617
-ipAddress: 192.168.1.4
+  login: 1456608264486
+  logout: 1456607269459
+  lastteleport: 1456613166168
+ipAddress: 192.168.1.3
 logoutlocation:
   world: Libraryhub
-  x: 319.5786948781079
-  y: 74.23981944016288
-  z: 459.6122149652572
-  yaw: 66.70549
-  pitch: 33.45205
+  x: 1414.5
+  y: 75.0
+  z: 857.5
+  yaw: -243.2825
+  pitch: 30.251766
 lastlocation:
-  world: Libraryhub_the_end
-  x: 100.29036711806816
-  y: 49.0
-  z: 0.7777419068975192
-  yaw: 53.713226
-  pitch: 28.012936
+  world: Libraryhub
+  x: 556.1798662975889
+  y: 90.11435636267473
+  z: 483.06099108739636
+  yaw: -267.56635
+  pitch: 67.3554
 afk: false
 homes:
   home:
@@ -30,3 +30,4 @@ homes:
 teleportenabled: true
 powertools: {}
 money: '0.0004'
+nickname: Tanner

@@ -1,22 +1,30 @@
 lastAccountName: PRPLD10
 timestamps:
-  login: 1453674545505
-  logout: 1453674521378
-  lastteleport: 1453590364543
-ipAddress: 192.168.1.63
+  login: 1456606293795
+  logout: 1456607249458
+  lastteleport: 1456612236168
+ipAddress: 192.168.1.194
 logoutlocation:
-  world: Libraryhub_the_end
-  x: -49.208634316641444
-  y: -265.9456680284225
-  z: -45.300000011920936
-  yaw: -320.3999
-  pitch: -89.1
+  world: Libraryhub
+  x: 1397.5
+  y: 73.0
+  z: 838.5
+  yaw: -61.756927
+  pitch: 15.3147
 lastlocation:
   world: Libraryhub
-  x: 2945.607608089603
-  y: 75.0
-  z: -2787.300000011921
-  yaw: 83.78761
-  pitch: 32.692192
+  x: 1314.872820495498
+  y: 70.0
+  z: 824.3861377562487
+  yaw: -146.69348
+  pitch: 36.899982
 afk: false
 money: '0.0003'
+homes:
+  home:
+    world: Library_Super_Flat
+    x: 26.5
+    y: 4.0
+    z: -2.5
+    yaw: -292.07733
+    pitch: 10.121138

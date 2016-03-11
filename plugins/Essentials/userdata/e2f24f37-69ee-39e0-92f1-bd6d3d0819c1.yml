@@ -1,23 +1,24 @@
 lastAccountName: PRPLD13
 timestamps:
-  login: 1453673513441
-  logout: 1453671162206
-  lastteleport: 1453590465640
-ipAddress: 192.168.1.10
+  login: 1456612626128
+  logout: 1456612594469
+  lastteleport: 1456614341670
+ipAddress: 192.168.1.9
 logoutlocation:
   world: Libraryhub
-  x: 155.5
-  y: 71.0
-  z: 258.5
-  yaw: 0.0
-  pitch: 0.0
+  x: 1343.1085231589157
+  y: 87.9895228935952
+  z: 795.6854393443613
+  yaw: 326.71887
+  pitch: 63.90002
 lastlocation:
   world: Libraryhub
-  x: 2927.549815000644
-  y: 80.0
-  z: -2807.7497988037344
-  yaw: 45.80725
-  pitch: 20.24988
+  x: 684.3343792488188
+  y: 97.37228041384276
+  z: 97.77593749686956
+  yaw: 68.66483
+  pitch: 3.8998828
 socialspy: true
 afk: false
 money: '0.0005'
+nickname: lightning

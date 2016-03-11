@@ -1,23 +1,23 @@
 lastAccountName: PRPLD14
 timestamps:
-  login: 1453673329228
-  logout: 1453672848328
-  lastteleport: 1453671884733
-ipAddress: 192.168.1.14
+  login: 1456608381425
+  logout: 1456607309457
+  lastteleport: 1456001464456
+ipAddress: 192.168.1.16
 logoutlocation:
   world: Libraryhub
-  x: 35.64484081660848
-  y: 64.24534615817778
-  z: 390.92500001192093
-  yaw: 213.75946
-  pitch: 35.70001
+  x: 1414.5
+  y: 75.0
+  z: 857.5
+  yaw: -243.2825
+  pitch: 30.251766
 lastlocation:
   world: Libraryhub
-  x: 122.73523288793395
-  y: 109.23419243472145
-  z: 137.51337584745033
-  yaw: 104.73645
-  pitch: 58.65003
+  x: 605.5
+  y: 83.0
+  z: 204.5
+  yaw: 148.64987
+  pitch: 11.250001
 socialspy: true
 powertools:
   '3':
@@ -31,3 +31,4 @@ powertools:
 afk: false
 teleportenabled: true
 money: '0.0005'
+nickname: HarryPotter

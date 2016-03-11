@@ -1,22 +1,23 @@
 lastAccountName: PRPLD18
 timestamps:
-  login: 1453673252878
-  logout: 1453672834848
-  lastteleport: 1453587905018
-ipAddress: 192.168.1.11
+  login: 1456607049874
+  logout: 1456607246962
+  lastteleport: 1456613685821
+ipAddress: 192.168.1.5
 logoutlocation:
   world: Libraryhub
-  x: 156.5383835021315
-  y: 72.4807108763317
-  z: 253.65405268785506
-  yaw: 10.5000305
-  pitch: 14.250016
+  x: 1413.5
+  y: 75.0
+  z: 857.5
+  yaw: -164.43443
+  pitch: 6.744285
 lastlocation:
   world: Libraryhub
-  x: 3021.1146032466954
-  y: 70.0
-  z: -2193.227692263803
-  yaw: 308.92798
-  pitch: -81.150024
+  x: 1345.0678748671055
+  y: 75.5
+  z: 813.3368058671444
+  yaw: 285.6355
+  pitch: 45.14999
 afk: false
 money: '0.0004'
+nickname: Chloe

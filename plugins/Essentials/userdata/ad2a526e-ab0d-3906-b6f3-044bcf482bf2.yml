@@ -1,24 +1,24 @@
 lastAccountName: PRPLD07
 timestamps:
-  login: 1453674417717
-  logout: 1453673938879
-  lastteleport: 1453589918790
+  login: 1456613788187
+  logout: 1456613776967
+  lastteleport: 1456612804065
   mute: 0
-ipAddress: 192.168.1.56
+ipAddress: 192.168.1.162
 logoutlocation:
   world: Libraryhub
-  x: 459.970570868633
-  y: 53.814859183285876
-  z: 700.6457590303568
-  yaw: 38.702137
-  pitch: 20.099958
+  x: 1416.448741574872
+  y: 72.0
+  z: 828.4477258786187
+  yaw: -29.532227
+  pitch: 51.14992
 lastlocation:
-  world: Creative_All_Grades
-  x: 318.11808438161006
-  y: -7301.078119420945
-  z: 753.8285444339839
-  yaw: 195.68217
-  pitch: -65.99999
+  world: Libraryhub
+  x: 1319.5
+  y: 127.0
+  z: 785.5
+  yaw: -59.684155
+  pitch: 29.100035
 afk: false
 homes:
   home:
@@ -31,3 +31,4 @@ homes:
 money: '0.0004'
 godmode: true
 muted: false
+nickname: §dCollin07

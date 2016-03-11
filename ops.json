@@ -1,7 +1,85 @@
 [
   {
+    "uuid": "e2f24f37-69ee-39e0-92f1-bd6d3d0819c1",
+    "name": "PRPLD13",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "178a73e3-3373-328b-a8a5-f0169409b211",
+    "name": "14",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "cbec8aa4-1e24-30aa-b19d-920ca55f17a1",
+    "name": "prpld116",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "4dff7b6e-ae49-30ee-965c-4ce86e6ebd9c",
+    "name": "PRPLD06",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "8de40196-5903-3662-bf60-fce9f6a67d40",
+    "name": "PRPLD14",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b0949f14-f8e1-317b-a0d3-ba030ef79a21",
+    "name": "prprld03",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c9519ebb-d143-3e39-8410-58823fff68a1",
+    "name": "PRPLD11",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "287c2c10-02a5-3050-8c8c-5a033ce70637",
+    "name": "killerbean",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "4b7f7ab5-47ee-3582-9f13-ad34c6b80789",
+    "name": "PRPLD16",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c5bea666-b322-356e-bc28-e041fbc9d554",
+    "name": "PRPLD03",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ee0e352d-1c3a-3b53-ba2c-48a868aea6ee",
+    "name": "PRPLD10",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "553550a1-2198-32b8-8417-5ed6aedb8de0",
     "name": "PRPLD21",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "57db873e-c77f-3a4d-91fc-5c1db7901d65",
+    "name": "AncientBean",
+    "level": 2,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "9e05aa56-b3e4-38a2-92c3-c9d99a430356",
+    "name": "PRPLD04",
     "level": 2,
     "bypassesPlayerLimit": false
   }

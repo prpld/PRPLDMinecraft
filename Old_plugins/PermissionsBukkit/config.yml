@@ -1,0 +1,135 @@
+# PermissionsBukkit configuration file
+# 
+# A permission node is a string like 'permissions.build', usually starting
+# with the name of the plugin. Refer to a plugin's documentation for what
+# permissions it cares about. Each node should be followed by true to grant
+# that permission or false to revoke it, as in 'permissions.build: true'.
+# Some plugins provide permission nodes that map to a group of permissions -
+# for example, PermissionsBukkit has 'permissions.*', which automatically
+# grants all admin permissions. You can also specify false for permissions
+# of this type.
+# 
+# Users inherit permissions from the groups they are a part of. If a user is
+# not specified here, or does not have a 'groups' node, they will be in the
+# group 'default'. Permissions for individual users may also be specified by
+# using a 'permissions' node with a list of permission nodes, which will
+# override their group permissions. World permissions may be assigned to
+# users with a 'worlds:' entry.
+# 
+# Groups can be assigned to players and all their permissions will also be
+# assigned to those players. Groups can also inherit permissions from other
+# groups. Like user permissions, groups may override the permissions of their
+# parent group(s). Unlike users, groups do NOT automatically inherit from
+# default. World permissions may be assigned to groups with a 'worlds:' entry.
+users:
+  c06ea143-afaa-4511-9acd-3ac2f20850fb:
+    permissions:
+      permissions.*: true
+      essentials.*: true
+    groups:
+    - guide
+    name: BraveNewWorld78
+  553550a1-2198-32b8-8417-5ed6aedb8de0:
+    groups:
+    - guide
+    name: PRPLD21
+  fafd8c0e-b15b-3797-88d4-b8ffea0015f9:
+    groups:
+    - default
+    name: PRPLD20
+  8878438e-2863-385f-9df7-40bce62a2152:
+    permissions:
+      '[Library_1st_2nd]multiverse.portal.access.1st_2nd_To_Wilderness': true
+    name: PRPLD18
+    groups:
+    - default
+groups:
+  default:
+    permissions:
+      permissions.build: true
+      build: true
+      help: true
+      essentials.help: true
+      essentials.spawn: true
+      essentials.tp: true
+      essentials.fly: true
+      permissions.back: true
+      essentials.warp: true
+      essentials.lightning: false
+      bukkit.warp: true
+      bukkit.command.warp: true
+      multiverse.access.Libraryhub: true
+      multiverse.access.Library_1st_2nd: true
+      multiverse.access.Library_3rd_5th: true
+      '[Library_1st_2nd]multiverse.portal.access.1st_2nd_To_Wilderness': true
+      multiverse.core.list: true
+      '[Library_1st_2nd]multiverse.core.list.world': true
+      ignoreclaims: true
+  guide:
+    permissions:
+      bukkit.command.gamemode: true
+      bukkit.command.gamerule: true
+      bukkit.command.give: true
+      bukkit.command.kick: true
+      bukkit.command.kill: true
+      bukkit.command.list: true
+      bukkit.command.ban: true
+      bukkit.command.banlist: true
+      bukkit.command.clear: true
+      bukkit.command.op.give: false
+      bukkit.command.deop: false
+      bukkit.command.save.enable: true
+      bukkit.command.save.disabled: false
+      bukkit.command.save.perform: true
+      bukkit.command.setworldspawn: true
+      bukkit.command.spawnpoint: true
+      bukkit.command.spreadplayers: true
+      bukkit.command.stop: true
+      bukkit.command.say: true
+      bukkit.command.tellraw: false
+      bukkit.command.time.add: true
+      bukkit.command.toggledownfall: true
+      bukkit.command.teleport: true
+      bukkit.command.weather: true
+      bukkit.command.whitelist.enable: false
+      bukkit.command.whitelist.disable: false
+      permissions.group.players: true
+      permissions.group.list: true
+      permissions.player.list: true
+      permissions.player.groups: true
+      permissions.player.removegroup: true
+      essentials.*: true
+      essentials.fly: true
+      essentials.fly.others: true
+      essentials.gamemode: true
+      essentials.gamemode.others: true
+      essentials.lightning: false
+      multiverse.*: true
+    inheritance:
+    - default
+  timeout:
+    permissions:
+      permissions.build: true
+      permissions.help: true
+      essentials.tp: false
+      essentials.spawn: true
+      essentials.help: true
+    inheritance:
+    - null
+  admin:
+    permissions:
+      permissions.*: true
+      essentials.*: true
+    inheritance:
+    - user
+  user:
+    permissions:
+      permissions.build: true
+    worlds:
+      creative:
+        coolplugin.item: true
+    inheritance:
+    - default
+messages:
+  build: '&cYou do not have permission to build here.'
+debug: false
