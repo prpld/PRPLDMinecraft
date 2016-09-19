@@ -1,23 +1,24 @@
 lastAccountName: PRPLD08
 timestamps:
-  login: 1456606435172
-  logout: 1456607251963
-  lastteleport: 1456614303219
-ipAddress: 192.168.1.8
+  login: 1471205734703
+  logout: 1471203315772
+  lastteleport: 1471118410898
+ipAddress: 192.168.1.23
 logoutlocation:
   world: Libraryhub
-  x: -210.5
-  y: 76.0
-  z: 264.5
-  yaw: 302.85843
-  pitch: 12.293691
+  x: 143.0103966801315
+  y: 50.0
+  z: 32.3844280181919
+  yaw: -28.199993
+  pitch: 14.249996
 lastlocation:
   world: Libraryhub
-  x: 1307.3430752135255
-  y: 73.0
-  z: 824.7893738464236
-  yaw: 17.412598
-  pitch: 75.14994
+  x: 92.79335646721422
+  y: 72.0
+  z: 82.0932982085949
+  yaw: -243.75055
+  pitch: 30.899944
 afk: false
 money: '0.0001'
-nickname: §9Zara08
+nickname: §8MIDNIGHT
+teleportenabled: true

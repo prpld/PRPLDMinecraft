@@ -5,5 +5,5 @@ level: 0
 exp: 0.0
 gameMode: SURVIVAL
 health: 20.0
-hunger: 17
-saturation: 0.0
+hunger: 20
+saturation: 5.0

@@ -1,25 +1,24 @@
 logoutlocation:
   world: Libraryhub
-  x: 1398.0440970155416
-  y: 73.0
-  z: 838.7747597915499
-  yaw: 144.79308
-  pitch: 65.414696
+  x: 264.15632670314767
+  y: 61.0
+  z: 85.65341274905576
+  yaw: -255.3
+  pitch: 32.549995
 timestamps:
-  logout: 1456607251963
-  login: 1456606415461
-  lastteleport: 1456612834519
+  logout: 1471203726083
+  login: 1471204665504
+  lastteleport: 1471204829796
 lastAccountName: PRPLD03
-ipAddress: 192.168.1.15
+ipAddress: 192.168.1.245
 lastlocation:
   world: Libraryhub
-  x: 1295.5243755516997
-  y: 83.41557424802771
-  z: 868.1142080949835
-  yaw: 236.4809
-  pitch: 45.749954
+  x: 306.5143971730456
+  y: 65.0
+  z: -8.411264604537504
+  yaw: -184.0498
+  pitch: 15.900008
 afk: false
 socialspy: true
 teleportenabled: true
-money: '0.0002'
-nickname: §2Eliot
+money: '1000.0002'

@@ -1,31 +1,33 @@
 lastAccountName: PRPLD20
 timestamps:
-  login: 1456606021541
-  logout: 1456607249458
-  lastteleport: 1455991522187
-ipAddress: 192.168.1.172
+  login: 1471206661907
+  logout: 1471119028930
+  lastteleport: 1471202522615
+ipAddress: 192.168.1.11
 logoutlocation:
   world: Libraryhub
-  x: 1398.250511660577
-  y: 73.0
-  z: 838.8986066552824
-  yaw: -61.756927
-  pitch: 15.3147
+  x: 98.04085441020187
+  y: 63.0
+  z: 55.081325223876625
+  yaw: -73.94623
+  pitch: 25.092068
 lastlocation:
   world: Libraryhub
-  x: 1413.5
-  y: 75.0
-  z: 857.5
-  yaw: -164.43443
-  pitch: 6.744285
+  x: 285.44366044499833
+  y: 66.0
+  z: 122.59192689545834
+  yaw: 178.89795
+  pitch: 28.028814
 afk: false
 socialspy: true
 money: '104.191'
 homes:
   home:
-    world: Library_1st_2nd
-    x: 164.69999998807907
-    y: 4.0
-    z: -786.0732621125618
-    yaw: -159.15222
-    pitch: 35.549995
+    world: Libraryhub
+    x: 9965.078240208697
+    y: 138.27882308673776
+    z: 4959.641144723638
+    yaw: -96.82879
+    pitch: 21.444448
+nickname: Rob
+teleportenabled: true

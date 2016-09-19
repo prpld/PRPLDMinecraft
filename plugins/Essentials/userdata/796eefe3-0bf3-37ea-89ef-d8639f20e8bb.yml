@@ -1,23 +1,23 @@
 lastAccountName: PRPLD02
 timestamps:
-  login: 1456608264486
-  logout: 1456607269459
-  lastteleport: 1456613166168
-ipAddress: 192.168.1.3
+  login: 1471206875225
+  logout: 1471201939565
+  lastteleport: 1471203464265
+ipAddress: 192.168.1.14
 logoutlocation:
   world: Libraryhub
-  x: 1414.5
-  y: 75.0
-  z: 857.5
-  yaw: -243.2825
-  pitch: 30.251766
+  x: 125.30000001192093
+  y: 176.0
+  z: 55.30000001192093
+  yaw: -94.35015
+  pitch: -7.799992
 lastlocation:
   world: Libraryhub
-  x: 556.1798662975889
-  y: 90.11435636267473
-  z: 483.06099108739636
-  yaw: -267.56635
-  pitch: 67.3554
+  x: -108.69999998807907
+  y: 82.2825570080698
+  z: 284.61815861585035
+  yaw: 114.32112
+  pitch: 88.2
 afk: false
 homes:
   home:
@@ -29,5 +29,5 @@ homes:
     pitch: 35.757854
 teleportenabled: true
 powertools: {}
-money: '0.0004'
-nickname: Tanner
+money: '1000.0004'
+nickname: Jeff§821
