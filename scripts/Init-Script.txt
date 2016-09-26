@@ -1,0 +1,8 @@
+﻿#!/bin/bash
+#This line removes an odd message from displaying on the console every
+#5 seconds. For more details, check out:
+#http://bbs.archlinux.org/viewtopic.php?id=168403
+rmmod mei-me
+#Location of the script: /etc/init.d/PRPLD-Minecraft
+cd /home/vzuniga/CraftBukkit
+java -Xmx5G -Xms5G -jar craftbukkit-1.8.7.jar
