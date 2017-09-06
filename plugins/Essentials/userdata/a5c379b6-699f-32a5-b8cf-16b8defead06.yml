@@ -1,28 +1,30 @@
 logoutlocation:
-  world: Libraryhub
-  x: 160.68840328775659
-  y: 45.79381641679596
-  z: 83.30000001192093
-  yaw: 263.75674
-  pitch: 51.06098
+  world: PRPLDLibraryhub
+  x: 4987.5
+  y: 74.0
+  z: 5046.5
+  yaw: 0.0
+  pitch: 0.0
 timestamps:
-  logout: 1471200751976
-  login: 1471200261302
-  lastteleport: 1471203581003
+  logout: 1499474241768
+  login: 1500507452890
+  lastteleport: 1499474043076
   mute: 0
+  kits:
+    color: 1491704291524
+    tools: 1500520271427
+  jail: 0
 lastAccountName: PRPLD01
-ipAddress: 192.168.1.246
+ipAddress: 192.168.1.25
 lastlocation:
-  world: Libraryhub
-  x: 347.93945428415964
-  y: 66.95778109728374
-  z: -65.4900722143837
-  yaw: 78.15805
-  pitch: 35.69121
+  world: PRPLDLibraryhub
+  x: -4903.5
+  y: 63.0
+  z: 534.5
+  yaw: -271.91794
+  pitch: 19.905125
 afk: false
-powertools:
-  '280':
-  - tnt
+powertools: {}
 homes:
   home:
     world: Libraryhub
@@ -32,6 +34,6 @@ homes:
     yaw: -328.4353
     pitch: 66.53531
 teleportenabled: true
-muted: true
-money: '0.0104'
-nickname: §5Rainbowunicor
+muted: false
+money: '20.0104'
+jailed: false

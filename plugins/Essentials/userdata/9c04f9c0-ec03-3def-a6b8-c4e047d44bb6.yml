@@ -1,0 +1,21 @@
+lastAccountName: BabyGroundHawg
+timestamps:
+  login: 1478830202716
+  lastteleport: 1478834970244
+  logout: 1478835025194
+ipAddress: 192.168.1.22
+lastlocation:
+  world: PRPLDLibraryhub
+  x: 80.79517881681815
+  y: 58.0
+  z: 370.87248846027404
+  yaw: -1.8660614
+  pitch: 1.9241325
+logoutlocation:
+  world: PRPLDLibraryhub
+  x: 80.48503525515241
+  y: 58.0
+  z: 335.41385674018755
+  yaw: -178.41986
+  pitch: 24.727203
+afk: false

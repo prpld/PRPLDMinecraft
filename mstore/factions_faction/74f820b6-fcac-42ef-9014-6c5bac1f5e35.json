@@ -1,0 +1,13 @@
+{
+  "name": "LibraryVille",
+  "description": "A place of Learning",
+  "createdAtMillis": 1477874647373,
+  "flags": {
+    "explosions": false,
+    "firespread": false,
+    "pvp": false,
+    "powerloss": false,
+    "infpower": true,
+    "permanent": true
+  }
+}

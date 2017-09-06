@@ -1,24 +1,25 @@
 lastAccountName: PRPLD08
 timestamps:
-  login: 1471205734703
-  logout: 1471203315772
-  lastteleport: 1471118410898
-ipAddress: 192.168.1.23
+  login: 1500516904458
+  logout: 1500516597500
+  lastteleport: 1500524122190
+  kits:
+    tools: 1500520385060
+ipAddress: 192.168.1.18
 logoutlocation:
-  world: Libraryhub
-  x: 143.0103966801315
-  y: 50.0
-  z: 32.3844280181919
-  yaw: -28.199993
-  pitch: 14.249996
+  world: PRPLDLibraryhub
+  x: -8058.5
+  y: 64.0
+  z: -7886.5
+  yaw: 159.24513
+  pitch: 22.592543
 lastlocation:
-  world: Libraryhub
-  x: 92.79335646721422
-  y: 72.0
-  z: 82.0932982085949
-  yaw: -243.75055
-  pitch: 30.899944
+  world: PRPLDLibraryhub
+  x: -4867.393491666982
+  y: 68.0
+  z: 492.292202266944
+  yaw: 96.93511
+  pitch: 18.107552
 afk: false
 money: '0.0001'
-nickname: §8MIDNIGHT
 teleportenabled: true

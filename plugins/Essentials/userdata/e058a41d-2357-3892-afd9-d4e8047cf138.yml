@@ -1,4 +1,12 @@
 lastAccountName: BraveNewWorld78
 timestamps:
-  login: 1454111251440
-ipAddress: 192.168.1.3
+  login: 1498002111250
+  logout: 1498008992580
+ipAddress: 192.168.1.2
+logoutlocation:
+  world: PRPLDLibraryhub
+  x: 65.54540643679223
+  y: 63.0
+  z: 255.69879634030602
+  yaw: -215.24983
+  pitch: 7.2000046

@@ -1,24 +1,26 @@
 lastAccountName: PRPLD05
 timestamps:
-  login: 1471200422277
-  lastteleport: 1471117893757
-  logout: 1471203305783
-ipAddress: 192.168.1.19
+  login: 1500511168103
+  lastteleport: 1498106054725
+  logout: 1500524505661
+  kits:
+    tools: 1500519748605
+ipAddress: 192.168.1.10
 lastlocation:
-  world: Libraryhub
-  x: 47.465617240526214
-  y: 81.0
-  z: 61.83249594535752
-  yaw: -64.203125
-  pitch: 27.300001
+  world: PRPLDLibraryhub
+  x: -4903.5
+  y: 63.0
+  z: 534.5
+  yaw: -271.40988
+  pitch: 28.312374
 powertools: {}
 logoutlocation:
-  world: Libraryhub
-  x: 122.6934520692112
-  y: 58.0
-  z: 83.69999998807907
-  yaw: 78.60203
-  pitch: -0.45000225
+  world: PRPLDLibraryhub
+  x: -4903.5
+  y: 63.0
+  z: 534.5
+  yaw: -201.10637
+  pitch: 9.337286
 afk: false
 money: '0'
 homes:
@@ -30,4 +32,3 @@ homes:
     yaw: -101.61865
     pitch: 28.950012
 teleportenabled: true
-nickname: §9Chloe

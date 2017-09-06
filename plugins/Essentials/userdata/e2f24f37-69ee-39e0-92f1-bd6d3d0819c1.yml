@@ -1,24 +1,26 @@
 lastAccountName: PRPLD13
 timestamps:
-  login: 1471205984185
-  logout: 1471203017073
-  lastteleport: 1471206061490
-ipAddress: 192.168.1.18
+  login: 1500519672206
+  logout: 1500518138505
+  lastteleport: 1500524295587
+  kits:
+    tools: 1500519739407
+ipAddress: 192.168.1.11
 logoutlocation:
-  world: Libraryhub
-  x: 162.61602633611005
-  y: 26.0
-  z: -114.30000001192093
-  yaw: 149.40009
-  pitch: 90.0
+  world: PRPLDLibraryhub
+  x: -4902.5
+  y: 63.0
+  z: 534.5
+  yaw: -272.01782
+  pitch: 24.299974
 lastlocation:
-  world: Libraryhub
-  x: 393.84176101995973
-  y: 90.85733616314593
-  z: 626.4645234960723
-  yaw: -8.439941
-  pitch: 10.992258
+  world: PRPLDLibraryhub
+  x: -4422.300000011921
+  y: 97.0
+  z: 783.0689052775458
+  yaw: -141.14102
+  pitch: -2.188636
 socialspy: true
 afk: false
 money: '1000.0005'
-nickname: Soph
+teleportenabled: true

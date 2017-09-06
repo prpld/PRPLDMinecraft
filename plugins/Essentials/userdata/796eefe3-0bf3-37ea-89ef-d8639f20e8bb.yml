@@ -1,23 +1,26 @@
 lastAccountName: PRPLD02
 timestamps:
-  login: 1471206875225
-  logout: 1471201939565
-  lastteleport: 1471203464265
-ipAddress: 192.168.1.14
+  login: 1500524496866
+  logout: 1500520318512
+  lastteleport: 1499474088629
+  kits:
+    tools: 1500511335812
+  jail: 0
+ipAddress: 192.168.1.27
 logoutlocation:
-  world: Libraryhub
-  x: 125.30000001192093
-  y: 176.0
-  z: 55.30000001192093
-  yaw: -94.35015
-  pitch: -7.799992
+  world: PRPLDLibraryhub
+  x: -4902.5
+  y: 63.0
+  z: 534.5
+  yaw: -272.01782
+  pitch: 24.299974
 lastlocation:
-  world: Libraryhub
-  x: -108.69999998807907
-  y: 82.2825570080698
-  z: 284.61815861585035
-  yaw: 114.32112
-  pitch: 88.2
+  world: PRPLDLibraryhub
+  x: -4903.5
+  y: 63.0
+  z: 534.5
+  yaw: -272.01782
+  pitch: 24.299974
 afk: false
 homes:
   home:
@@ -29,5 +32,5 @@ homes:
     pitch: 35.757854
 teleportenabled: true
 powertools: {}
-money: '1000.0004'
-nickname: Jeff§821
+money: '1020.0004'
+jailed: false

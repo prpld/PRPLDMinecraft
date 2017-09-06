@@ -1,28 +1,31 @@
 lastAccountName: PRPLD06
 timestamps:
-  login: 1471200432320
-  logout: 1471203300768
-  lastteleport: 1471118603338
+  login: 1500524409789
+  logout: 1500524380632
+  lastteleport: 1499471351974
   mute: 0
-ipAddress: 192.168.1.20
+  kits:
+    tools: 1500520729726
+ipAddress: 192.168.1.14
 logoutlocation:
-  world: Libraryhub
-  x: 362.69999998807907
-  y: 60.0
-  z: 207.61030696754364
-  yaw: -184.37209
-  pitch: -22.865171
+  world: PRPLDLibraryhub
+  x: -4320.640538169531
+  y: 71.0
+  z: 1383.512499988079
+  yaw: 193.94823
+  pitch: 9.995171
 lastlocation:
-  world: Libraryhub
-  x: 149.39813427032135
-  y: 42.0
-  z: 70.47594347707849
-  yaw: 78.87986
-  pitch: 40.070766
+  world: PRPLDLibraryhub
+  x: -4903.5
+  y: 63.0
+  z: 534.5
+  yaw: -245.3901
+  pitch: 53.359493
 afk: false
 powertools:
   '6':
   - fireball
 money: '0.0003'
-nickname: §8Willow
 muted: false
+teleportenabled: true
+nickname: PRPLD06

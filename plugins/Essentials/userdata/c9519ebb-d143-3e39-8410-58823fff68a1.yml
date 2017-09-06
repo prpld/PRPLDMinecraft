@@ -1,24 +1,26 @@
 logoutlocation:
-  world: Libraryhub
-  x: 141.03809135707613
-  y: 109.99652408267622
-  z: 27.268942262334647
-  yaw: -1.2287862
-  pitch: -4.915207
+  world: PRPLDLibraryhub
+  x: -8122.490492108972
+  y: 64.0
+  z: -7650.67561118595
+  yaw: 226.27441
+  pitch: 30.007141
 timestamps:
-  logout: 1471204879439
-  login: 1471205943592
-  lastteleport: 1471205978874
+  logout: 1500516661005
+  login: 1500516677362
+  lastteleport: 1500524447812
   mute: 0
+  kits:
+    tools: 1500519719354
 lastAccountName: PRPLD11
-ipAddress: 192.168.1.22
+ipAddress: 192.168.1.13
 lastlocation:
-  world: Libraryhub
-  x: 244.74923608870586
-  y: 85.52777277427039
-  z: -110.99846420094161
-  yaw: -239.69284
-  pitch: 29.49121
+  world: PRPLDLibraryhub
+  x: -4748.885482437214
+  y: 74.0
+  z: 457.52118656564085
+  yaw: 143.93748
+  pitch: 24.195848
 afk: false
 muted: false
 money: '0.0003'
@@ -26,5 +28,4 @@ teleportenabled: true
 powertools:
   '174':
   - BROADCAST DONT BE PATIENT!!!!!!!!!!!!!!
-nickname: §8NOFACE
 godmode: false

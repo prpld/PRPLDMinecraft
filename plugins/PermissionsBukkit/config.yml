@@ -65,6 +65,13 @@ groups:
       multiverse.core.list: true
       '[Library_1st_2nd]multiverse.core.list.world': true
       ignoreclaims: true
+      factions.*.false: true
+      factions.*=false: true
+      factions: false
+      kit: true
+      essentials.kit: true
+      essentials.kit.tools: true
+      essentials.kits.tools: true
   guide:
     permissions:
       bukkit.command.gamemode: true

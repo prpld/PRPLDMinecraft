@@ -1,24 +1,26 @@
 lastAccountName: PRPLD14
 timestamps:
-  login: 1471200555409
-  logout: 1471203348268
-  lastteleport: 1471114080906
+  login: 1500524463913
+  logout: 1500524445661
+  lastteleport: 1500523090725
   mute: 0
-ipAddress: 192.168.1.17
+  kits:
+    tools: 1500519888108
+ipAddress: 192.168.1.6
 logoutlocation:
-  world: Libraryhub
-  x: 132.5
-  y: 42.0
-  z: 56.5
-  yaw: 0.0
-  pitch: 0.0
+  world: PRPLDLibraryhub
+  x: -4866.5754396874945
+  y: 66.0
+  z: 523.6437251445499
+  yaw: 309.07687
+  pitch: 8.607737
 lastlocation:
-  world: Libraryhub
-  x: 131.84159524691688
-  y: 82.2311262916983
-  z: -14.874443540570592
-  yaw: 16.230835
-  pitch: 29.35778
+  world: PRPLDLibraryhub
+  x: -4903.5
+  y: 63.0
+  z: 534.5
+  yaw: 217.39915
+  pitch: 21.399454
 socialspy: true
 powertools:
   '3':
@@ -27,10 +29,7 @@ powertools:
   - spawnmob horse 10
   '326':
   - fireball
-  '323':
-  - lightning
 afk: false
 teleportenabled: true
 money: '0.0005'
 muted: false
-nickname: §8ANYTHINGIDC

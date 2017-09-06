@@ -1,25 +1,28 @@
 lastAccountName: PRPLD19
 timestamps:
-  login: 1471205945645
-  logout: 1471203753581
-  lastteleport: 1471205001278
-ipAddress: 192.168.1.12
+  login: 1500507215454
+  logout: 1500507182500
+  lastteleport: 1486779971710
+  kits:
+    tools: 1500519698503
+  jail: 0
+ipAddress: 192.168.1.37
 logoutlocation:
-  world: Libraryhub
-  x: 349.5357079817712
-  y: 62.0
-  z: -62.8739136854384
-  yaw: -120.102356
-  pitch: 49.049973
+  world: PRPLDLibraryhub
+  x: -8056.5
+  y: 63.0
+  z: -7957.5
+  yaw: 265.2502
+  pitch: 32.10005
 lastlocation:
-  world: Libraryhub
-  x: 191.69999998807907
-  y: 72.0
-  z: -262.0083249434391
-  yaw: 306.6999
-  pitch: 26.849997
+  world: PRPLDLibraryhub
+  x: -4907.121555916
+  y: 76.0
+  z: 337.8843512268969
+  yaw: 358.8041
+  pitch: -6.540772
 afk: false
 teleportenabled: true
 powertools: {}
 money: '0.0002'
-nickname: §5§oMadi
+jailed: false
