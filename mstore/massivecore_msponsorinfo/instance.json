@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "enabledToMillis": 1473890400000,
+  "enabledToMillis": 2473890400000,
   "indicatorFileNames": [
     "/home/smpicnic"
   ],
@@ -9,12 +9,11 @@
   "consoleMsgs": [
     "",
     "<pink>____----====[ <aqua>Sponsored by ServerMiner<pink> ]====----____",
-    "<lime>Get <gold>20% off<lime> a Premium Minecraft Server at ServerMiner:",
-    "<aqua>https://ServerMiner.com/?p=MassiveCraft",
+    "<lime>Get a <gold>FREE 2GB RAM<lime> Premium Minecraft Server at ServerMiner:",
+    "<aqua>https://ServerMiner.com/free",
     "",
     "<lime>Factions and MassiveCore is sponsored by ServerMiner.com!",
     "<lime>They help us fund the development of new plugin features.",
-    "<lime>Use the promo code <gold>MassiveCraft<lime> to get a <gold>20% discount<lime>.",
     "",
     "<i>Only server operators get this message, not regular players.",
     "<i>Type <c>/mcore sponsor<i> to disable it.",
@@ -25,12 +24,11 @@
   "ingameMsgs": [
     "",
     "<pink>____----====[ <aqua>Sponsored by ServerMiner<pink> ]====----____",
-    "<lime>Get <gold>20% off<lime> a Premium Minecraft Server at ServerMiner:",
-    "<aqua>https://ServerMiner.com/?p=MassiveCraft",
+    "<lime>Get a <gold>FREE 2GB RAM<lime> Premium Minecraft Server at ServerMiner:",
+    "<aqua>https://ServerMiner.com/free",
     "",
     "<lime>Factions and MassiveCore is sponsored by ServerMiner.com!",
     "<lime>They help us fund the development of new plugin features.",
-    "<lime>Use the promo code <gold>MassiveCraft<lime> to get a <gold>20% discount<lime>.",
     "",
     "<i>Only server operators get this message, not regular players.",
     "<i>Type <c>/mcore sponsor<i> to disable it."
@@ -47,5 +45,5 @@
       "pitch": 0.8
     }
   ],
-  "ingameLink": "https://ServerMiner.com/?p=MassiveCraft"
+  "ingameLink": "https://ServerMiner.com/free?p=MassiveCraft"
 }

@@ -1,18 +1,18 @@
 lastAccountName: PRPLD20
 timestamps:
-  login: 1500519724906
-  logout: 1500524413134
+  login: 1507003429293
+  logout: 1507003481287
   lastteleport: 1489210210355
   kits:
     tools: 1500511416352
-ipAddress: 192.168.1.4
+ipAddress: 192.168.1.162
 logoutlocation:
   world: PRPLDLibraryhub
-  x: -4903.992737256274
-  y: 64.0
-  z: 538.6964219264033
-  yaw: -173.99147
-  pitch: -56.80651
+  x: -4906.915747962635
+  y: 70.79508463678631
+  z: 466.1922547704969
+  yaw: -198.14087
+  pitch: 90.0
 lastlocation:
   world: PRPLDLibraryhub
   x: -8029.574999988079

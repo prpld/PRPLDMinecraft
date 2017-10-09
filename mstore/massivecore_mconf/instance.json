@@ -47,7 +47,7 @@
   "catchingMongoDbErrorsOnSave": true,
   "catchingMongoDbErrorsOnDelete": true,
   "debugWriters": false,
-  "sponsorUpdateMillis": 1504658024768,
+  "sponsorUpdateMillis": 1507512502130,
   "sponsorEnabled": true,
   "mcstatsEnabled": true
 }
